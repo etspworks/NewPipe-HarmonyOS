@@ -1,0 +1,225 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ਦਿਨ"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ਦਿਨ"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%1$s ਡਾਊਨਲੋਡ ਹਟਾਇਆ"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s ਡਾਊਨਲੋਡ ਹਟਾਏ"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ਡਾਉਨਲੋਡ ਮੁਕੰਮਲ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ਡਾਊਨਲੋਡਾਂ ਮੁਕੰਮਲ"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਐਕਸਪੋਰਟ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ਸਬਸਕ੍ਰਿਪਸ਼ਨਾਂ ਐਕਸਪੋਰਟ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ਚੁਣੀ"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ਚੁਣੀਆਂ"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ਘੰਟਾ"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ਘੰਟੇ"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਇੰਪੋਰਟ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ਸਬਸਕ੍ਰਿਪਸ਼ਨਾਂ ਇੰਪੋਰਟ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ਸਰੋਤਾ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ਸਰੋਤੇ"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ਸਬਸਕ੍ਰਿਪਸ਼ਨਾਂ ਲੋਡ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ਮਿੰਟ"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ਮਿੰਟ"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ਨਵੀਂ ਸਟ੍ਰੀਮ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ਨਵੀਆਂ ਸਟ੍ਰੀਮਾਂ"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ਜਵਾਬ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ਜਵਾਬ"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ਸਕਿੰਟ"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ਸਕਿੰਟ"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ਸਬਸਕ੍ਰਾਈਬਰ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ਸਬਸਕ੍ਰਾਈਬਰਸ"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ਵੀਡੀਓ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ਵੀਡੀਓਜ਼"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ਵਿਊ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ਵਿਊਜ਼"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ਜਣਾ ਵੇਖ ਰਿਹਾ ਹੈ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ਲੋਕ ਵੇਖ ਰਹੇ ਹਨ"
+        }
+      ]
+    }
+  ]
+}

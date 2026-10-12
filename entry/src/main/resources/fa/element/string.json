@@ -1,0 +1,3056 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "قبول"
+    },
+    {
+      "name": "account_terminated",
+      "value": "حساب از بین رفت"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "حساب از بین رفت\n\n‫%1$s این دلیل را گفته: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "تاریخچه"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "افزودن به سیاههٔ پخش"
+    },
+    {
+      "name": "albums",
+      "value": "آلبوم‌ها"
+    },
+    {
+      "name": "all",
+      "value": "همه"
+    },
+    {
+      "name": "always",
+      "value": "همیشه"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "همیشه بپرس"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "این روش دور زدن مشکل به جای تنظیم مستقیم سطح روی رمزینه، آن‌ها را هنگام تغییر سطح آزاد کرده و دوباره راه‌اندازی می‌کند. این تنظیم که از پیش روی برخی افزاره‌ها به دست اگزوپلیر استفاده می‌شد فقط روی اندروید ۶ و بالاتر تأثیر دارد\n\nبه کار انداختن این گزینه می‌تواند از خطاهای پخش هنگام تغییر پخش‌کنندهٔ ویدیوی کنونی یا تغییر به حالت تمام‌صفحه جلوگیری کند"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "استفادهٔ همیشگی از دور زدن تنظیمات سطح خروجی ویدیوی AVPlayer"
+    },
+    {
+      "name": "any_network",
+      "value": "هر شبکه‌ای"
+    },
+    {
+      "name": "api23_requirement_dialog_blogpost",
+      "value": "فرستهٔ وبلاگ"
+    },
+    {
+      "name": "api23_requirement_dialog_title",
+      "value": "نیوپایپ دارد پشتیبانی از اندروید ۵ را رها می‌کند"
+    },
+    {
+      "name": "app_description",
+      "value": "پخش‌کننده آزاد سبُک برای HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "زبان برنامه"
+    },
+    {
+      "name": "app_license",
+      "value": "نیوپایپ یک نرم‌افزار آزاد کپی‌لفتی است: می‌توانید به دلخواه خود استفاده، بررسی، هم‌رسانی و بهترش کنید. به طور خاص می‌توانید ذیل نگارش ۳ یا هر نگارش بالاتری از پروانهٔ جامع همگانی گنو که به دست بنیاد نرم‌افزار آزاد منتشر شده، تغییر و بازنشرش دهید."
+    },
+    {
+      "name": "app_license_title",
+      "value": "پروانه نیوپایپ"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "کاره یا رابط کاربری با خطا مواجه شد"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "ضربه برای بارگیری %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "به‌روزرسانی برای نیوپایپ موجود است!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "آگاهی‌ها برای نگارش‌های جدید نیوپایپ"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "آگاهی به‌روزرسانی کاره"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "از جدیدترین نگارش نیوپایپ استفاده می‌کنید"
+    },
+    {
+      "name": "artists",
+      "value": "هنرمندان"
+    },
+    {
+      "name": "audio",
+      "value": "صدا"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "هیچ جریان صدایی پیدا نشد"
+    },
+    {
+      "name": "audio_track",
+      "value": "قطعهٔ صوتی"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s%2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "قطعه‌ای صوتی باید از پیش در این جریان موجود باشد"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "مشروح"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "دوبله"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "اصلی"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "ثانویه"
+    },
+    {
+      "name": "auto",
+      "value": "خودکار"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "خودکار (زمینهٔ افزاره)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "صف پخش در حال پایان (بدون تکرار) را با افزودن یک جریان مرتبط ادامه دهید"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "قرار دادن خودکار جریان بعدی در صف"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "صف‌گذاری خودکار"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "نیوپایپ می‌تواند گه‌گاه به صورت خودکار نگارش‌های جدید را بررسی کرده و از وجودشان آگاهتان کند.\nمی‌خواهید به کارش بیندازید؟"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "شروع خودکار پخش — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "پخش خودکار"
+    },
+    {
+      "name": "background_player",
+      "value": "پخش‌کننده پس‌زمینه"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "در حال پخش در پس‌زمینه"
+    },
+    {
+      "name": "best_resolution",
+      "value": "بهترین وضوح"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "سیاه"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "صفحهٔ خالی"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "نشان‌گذاری سیاههٔ پخش"
+    },
+    {
+      "name": "brightness",
+      "value": "روشنایی"
+    },
+    {
+      "name": "cancel",
+      "value": "لغو"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "تولیدشدهٔ خودکار"
+    },
+    {
+      "name": "caption_none",
+      "value": "بدون توضیحات"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "تغییر سبک پس‌زمینه و اندازه متن توضیحات پخش‌کننده. برای تأثیر، نیازمند آغاز دوبارهٔ کاره است"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "توضحیات"
+    },
+    {
+      "name": "card",
+      "value": "کارت"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "ایجاد شده توسط %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "صفحهٔ کانال"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "درباره"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "آلبوم‌ها"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "کانال‌ها"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "پسندها"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "زنده"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "سیاهه‌های پخش"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "کوتاه‌ها"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "قطعه‌ها"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "ویدیوها"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "اشتراک کانال لغو شد"
+    },
+    {
+      "name": "channels",
+      "value": "کانال‌ها"
+    },
+    {
+      "name": "chapters",
+      "value": "بخش‌ها"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "حروف و اعداد"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "مهم‌ترین نویسه‌های خاص"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "بررسی به‌روز رسانی‌ها"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "اجرای بررسی برای جریان‌های جدید"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "بررسی کردن به‌روز رسانی‌ها…"
+    },
+    {
+      "name": "checksum",
+      "value": "مجموع مقابله‌ای"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "نمونه‌ای را انتخاب کنید"
+    },
+    {
+      "name": "clear",
+      "value": "پاک‌کردن"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "پاک‌سازی کوکی‌هایی که نبیوپایپ هنگام حل یک ری‌کپچا ذخیره می‌کند"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "پاک‌سازی کوکی‌های ری‌کپچا"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "پاک کردن تاریخچه بارگیری"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "حذف تمام موقعیت‌های پخش"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "حذف موقعیت‌های پخش"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "صف پخش‌کنندهٔ فعال جایگزین می‌شود"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "تغییر پخش کننده می‌تواند باعث جایگزین شدن صف شود"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "پیش از پاک کردن صف، سوال شود"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "تاریخچه کلیدواژه‌های جستجو را پاک می‌کند"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "پاک‌کردن تاریخچه جستجو"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "پاک کردن تاریخچه جریان‌های پخش شه و موقعیت‌های پخش"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "پاک‌سازی تاریخچهٔ دیدن"
+    },
+    {
+      "name": "close",
+      "value": "بستن"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "نظرها از کار افتاده‌اند"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "نظرها"
+    },
+    {
+      "name": "conferences",
+      "value": "کنفرانس‌ها"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "می‌خواهید تاریخچه بارگیری را پاک کنید یا همه پرونده‌هایی که بارگیری شده‌اند؟"
+    },
+    {
+      "name": "content",
+      "value": "محتوا"
+    },
+    {
+      "name": "content_language_title",
+      "value": "زبان محتوای ترجیحی"
+    },
+    {
+      "name": "content_not_available",
+      "value": "محتوا در دسترس نیست"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "این محتوا هنوز توسط نیوپایپ پشتیبانی می‌شود.\n\n\n\nامیدواریم در نسخه‌های آینده مورد پشتیبانی قرار گیرد."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "اگر ایده‌ای برای ترجمه، تغییر طراحی، پاک‌سازی کد و یا تغییرات واقعا سنگین کدنویسی دارید، از کمک‌تان همواره استقبال می‌کنیم. هر چه بیشتر کار کنیم، نتایج بهتری می‌گیریم!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "مشارکت"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "افزودن به"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "پس‌زمینه"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "بارگیری پروندهٔ جریان"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "تصویردرتصویر"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "از گزارش قالب‌بندی‌شده را رونوشت بگیرید"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s توسط %2$s تحت %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "هشدار: ناتوانی در وارد کردن همه پرونده‌ها."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "نمی‌توان تمام بندانگشتی‌ها را بار کرد"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "نمی‌توان فهرست بارگیری را برپا ساخت"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "فروپاشی‌کاره"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "فروپاشی پخش‌کننده"
+    },
+    {
+      "name": "create",
+      "value": "ایجاد"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "ایجاد یک آگاهی خطا"
+    },
+    {
+      "name": "create_playlist",
+      "value": "فهرست پخش جدید"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "تیره"
+    },
+    {
+      "name": "decline",
+      "value": "رد"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "قالب صدای پیش‌گزیده"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "کشور محتوای پیش‌فرض"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "کیوسک پیش‌فرض"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "وضوح پیش‌گزیدهٔ تصویردرتصویر"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "وضوح پیش‌گزیده"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "قالب ویدیویی پیش‌گزیده"
+    },
+    {
+      "name": "delete",
+      "value": "حذف"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "پاک کردن پرونده‌های بارگیری شده"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "پاک کردن تمامی پرونده‌های بارگرفته از دیسک؟"
+    },
+    {
+      "name": "delete_entry",
+      "value": "حذف ورودی"
+    },
+    {
+      "name": "delete_file",
+      "value": "حذف پرونده"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "می‌خواهید این مورد را از تاریخچه جستجو پاک کنید؟"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "همه موقعیت‌های پخش حذف شوند؟"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "این فهرست پخش پاک شود؟"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "تمام تاریخچه جستجو پاک شود؟"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "تمام تاریخچه نمایش پاک شود؟"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "از کار انداختن گزینش متن در شرح"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "به کار انداختن گزینش متن در شرح"
+    },
+    {
+      "name": "description_select_note",
+      "value": "اکنون می‌توانید متن درون شرخ را برگزینید. به یاد داشته باشید که در حالت گزینش، ممکن است صفحه چشمک زده و پیوندها قابل کلیک نباشند."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "شرح"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "نپسندیدن‌ها"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "برای تغییر ترتیب، بکشید"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "قلب‌شده به دست ایجادگر"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "پسندها"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "نظر سنجاق شده"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "آواتار بندانگشتی کانال"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "پخش ویدیو، مدت زمان:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "بندانگشتی کاربر بارگذاری کننده"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "منظورتان «%1$s» بود؟"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "تونل زدن رسانه به صورت پیش‌گزیده روی افزاره‌تان از کار افتاده چرا که از آن پشتیبانی نمی‌کند."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "اگر هنگام پخش ویدیو با صفحهٔ سیاه یا وقفه مواجه شدید، تونل‌زنی رسانه را از کار بیندازید."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "از کار انداختن تونل‌زنی رسانه"
+    },
+    {
+      "name": "disabled",
+      "value": "غیرفعال"
+    },
+    {
+      "name": "dismiss",
+      "value": "صرف نظر"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "نیوپایپ توسط داوطلبانی توسعه داده می‌شود که با صرف زمان آزاد‌شان، بهترین تجربه کاربری را برای شما به ارمغان می‌آورند. حمایت از توسعه‌دهندگان، به آنها کمک می‌کند تا حین لذت بردن از نوشیدن یک فنجان قهوه، نیوپایپ را به مراتب بهتر کنند."
+    },
+    {
+      "name": "donation_title",
+      "value": "اعانه"
+    },
+    {
+      "name": "done",
+      "value": "انجام شد"
+    },
+    {
+      "name": "dont_show",
+      "value": "نشان ندادن"
+    },
+    {
+      "name": "download",
+      "value": "بارگیری"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "یک بارگیری دیگر با همین نام در صف قرار دارد"
+    },
+    {
+      "name": "download_already_running",
+      "value": "یک بارگیری دیگر با همین نام در جریان است"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "بارگیری"
+    },
+    {
+      "name": "download_failed",
+      "value": "بارگیری ناموفق بود"
+    },
+    {
+      "name": "download_has_started",
+      "value": "بارگیری آغاز شد"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "گزینش شاخهٔ بارگیری برای پرونده‌های صوتی"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "پرونده‌های صوتی بارگرفته این‌جا ذخیره می‌شوند"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "شاخهٔ بارگیری صدا"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "گزینش شاخه برای بارگیری پرونده‌های ویدیویی"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "پرونده‌های ویدیویی بارگرفته این‌جا ذخیره می‌شوند"
+    },
+    {
+      "name": "download_path_title",
+      "value": "شاخهٔ بارگیری ویدیو"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "بارگیری روی کارت SD خارجی ممکن نیست. مایلید محل پوشه بارگیری را دوباره تعیین کنید؟"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "فضای ذخیره‌سازی خارجی در دسترس نیست"
+    },
+    {
+      "name": "downloads",
+      "value": "بارگیری‌ها"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "برای ذخیرهٔ هر بارگیری از شما پرسیده خواهد شد.\n\nاگر می‌خواهید رو ی کارت SD خارجی بارگیری کنید، شاخه‌گزین سامانه (SAF) را به کار بیندازید"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "برای ذخیرهٔ هر بارگیری از شما پرسیده خواهد شد"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "محل بارگیری را سوال کن"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "«چارچوب دسترسی ذخیره» اجازهٔ بارگیری روی کارت SD خارجی را می‌دهد"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "از اندروید ۱۰، تنها «چارچوب دسترسی ذخیره» پشتیبانی می‌شود"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "استفاده از شاخه‌بردار سامانه (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "بارگیری‌ها"
+    },
+    {
+      "name": "drawer_close",
+      "value": "بستن کشو"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "تغییر خدمت، مورد انتخاب شده:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "باز کردن کشو"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "سیاهه‌های پخشی که خاکستری شده‌اند این مورد را از پیش دارند."
+    },
+    {
+      "name": "duration",
+      "value": "مدّت"
+    },
+    {
+      "name": "duration_live",
+      "value": "زنده"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "چیزی جز کریکت اینجا نیست"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "گزارش اجباری خطاهای Rx غیرقابل تحویل خارج از چرخه حیات فعالیت یا بخش پس از اتمام"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "گزارش کردن خطاهای \"خارج از چرخه حیات\""
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "نظارت بر نشت حافظه ممکن است باعث عدم پاسخگویی نرم افزار در زمان اندوختن پشته شود"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "بازگرداندن آخرین موقعیت پخش"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "ادامه پخش"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "نمایش شاخص موقعیت پخش در فهرست‌ها"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "موقعیت در فهرست‌ها"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "محدود کردن صف بارگیری"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "یک بارگیری در هر زمان اجرا شود"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "ذخیره محلی نتایج جستجو"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "تاریخچه جستجو"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "آگاه کردن دربارهٔ جریان‌های جدید از اشتراک‌ها"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "آگاهی‌های جریان‌های جدید"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "نگه‌داشتن رد ویدیوهای دیده"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "تاریخچه تماشا"
+    },
+    {
+      "name": "enqueue",
+      "value": "صف‌گذاری"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "در صف گذاشتن بعدی"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "صف کردن"
+    },
+    {
+      "name": "enqueued",
+      "value": "در صف شد"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "بعدی در صف گذاشته شد"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "ورودی حذف شد"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": "،"
+    },
+    {
+      "name": "error_connect_host",
+      "value": "نمی‌توان به کارساز وصل شد"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "جزییات:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "ناتوانی در بازیابی این بارگیری"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "پرونده نمی‌تواند ساخته شود"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "کارساز داده‌ای نمی‌فرستد"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "یافت نشد"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "کارساز، بارگیری‌های چندرشته‌ای را قبول نمی‌کند، تلاش مجدد با ‎@string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "فضای آزاد ناکافی روی افزاره"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "فضایی روی دستگاه باقی نمانده است"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "خطایی رخ داد: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "شاخهٔ مقصد نمی‌تواند ساخته شود"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "شکست در پساپردازش"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "نیوپایپ در خلال کار روی پرونده، بسته شد"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "پیشرفت کار متوفق شد زیرا پرونده پاک شده است"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "گزارش با رایانامه"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "آگاهی برای گزارش‌خطاها"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "آگاهی گزارش خطا"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "نیوپایپ به خطایی برخورد. برای گزارش، بزنید"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "خطایی رخ داد. آگاهی را ببینید"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "لطفا بررسی کنید که آیا گفتگویی درباره مشکل‌تان از قبل وجود دارد یا خیر. ایجاد گزارش تکراری، وقتی را از ما می‌گیرد که ما می‌توانستیم صرف رفع مشکلات واقعی کنیم."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "گزارش روی گیت‌هاب"
+    },
+    {
+      "name": "error_report_title",
+      "value": "گزارش خطا"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "گزارش"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "ببخشید، چیزی به درستی پیش نرفت."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "شکست در برقرار ارتباط امن"
+    },
+    {
+      "name": "error_timeout",
+      "value": "پایان زمان اتصال"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "ناتوانی در دریافت نظرات"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "ناتوانی در پیدا کردن کارساز"
+    },
+    {
+      "name": "events",
+      "value": "رویدادها"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "صادر شد"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "برون‌ریزی پیشینه، اشتراک‌ها، سیاهه‌های پخش و تنظیمات"
+    },
+    {
+      "name": "export_data_title",
+      "value": "صادرکردن"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "در حال صدور…"
+    },
+    {
+      "name": "export_subscriptions_summary",
+      "value": "برون‌ریزی اشتراک‌هایتان به پروندهٔ ‪.json‬"
+    },
+    {
+      "name": "export_subscriptions_title",
+      "value": "برون‌ریزی اشتراک‌ها"
+    },
+    {
+      "name": "export_to",
+      "value": "صادر کردن به"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "پخش‌کننده خارجی، این نوع پیونده‌ها را پشتیبانی نمی‌کند"
+    },
+    {
+      "name": "faq",
+      "value": "نمایش در وبسایت"
+    },
+    {
+      "name": "faq_description",
+      "value": "اگر حین استفاده از اپ مشکلی دارید، حتما پاسخ‌ها به سوالات متداول را بررسی کنید!"
+    },
+    {
+      "name": "faq_title",
+      "value": "سوالات متداول"
+    },
+    {
+      "name": "fast_mode",
+      "value": "حالت سریع"
+    },
+    {
+      "name": "featured",
+      "value": "معرفی‌شده"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "جدید"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "واکشی زبانه‌های کانال"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "زبانه‌هایی که هنگام به‌روز رسانی خوراک واکشی می‌شوند. این گزینه تأثیری روی کانال‌هایی که با ساتفاده از حالت سریع به‌روز می‌شوند ندارد."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "می‌خواهید این گروه را پاک کنید؟"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "خالی کردن نام گروه"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "اشتراکی انتخاب نشده است"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "انتخاب اشتراک‌ها"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "صفحهٔ گروه کانال"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "نمایش اشتراک های دسته بندی نشده"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "گروه‌های کانال"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "نمایش جریان‌های زیر"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "خطا در بار کردن خوراک"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "نتوانست خوراک را برای «%s» بار کند."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "حالت خوراک سریع، اطَلاعات بیش‌تری در این باره نمی‌دهد."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "حساب این نگارنده نابود شده است.\n\nنیوپایپ قادر به بار کردن این خوراک در آینده نیست.\n\nمی‌خواهید اشتراک این کانال را لغو کنید؟"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "موارد خوراک جدید"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "بارگیری خوراک…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "آخرین به‌روزرسانی خوراک: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "پردازش خوراک…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "نمایش یا نهفتن جریان‌ها"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "نیمه دیده شده"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "پیش رو"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "کامل دیده شده"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "بارگیری نشده: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "همواره به‌روز شود"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "مدت زمان سپری شده پس از آخرین به‌روزرسانی پیش از آن که یک اشتراک، قدیمی به حساب بیاید — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "آستانه به‌روزرسانی خوراک"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "غیرفعال‌سازی حالت سریع"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "فعال‌سازی حالت سریع"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "فکر می‌کنید دریافت خوراک بیش از حد آهسته است؟ اگر چنین است، بارگیری سریع را فعالی کنید (می‌توانید آن را در تنظیمات یا با فشردن دکمه زیر تغییر دهید)\n\nنیوپایپ دو راهبرد برای بارگیری خوراک عرضه می‌کند:\n• دریافت تمام کانال‌های مشترک شده، که آهسته اما کامل است.\n• استفاده از خدمت اختصاصی، که سریع اما معمولا ناقص است.\n\nتفاوت بین این دو در این است که راهکار سریع، غالبا فاقد برخی اطلاعات مانند طول زمان یا نوع است و مثلا نمی‌تواد بین ویدئوهای زنده و عادی تمایز قائل شود و ممکن است تعداد کم‌تری ویدئو را دریافت کند.\n\nیوتیوب نمونه‌ای از یک خدمت است که چنین روش سریعی را از طریق خوراک RSS ارائه می‌دهد.\n\nدر نتیجه انتخاب به این بر می‌گردد که کدام یک برای‌تان ترجیح داشته باشد: سرعیت یا اطلاعات دقیق."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "در برخی خدمات دردسترس است، معمولا خیلی سریع‌تر است، ولی ممکن است مواردی محدودتر و اغلب با اطلاعات ناقص (مثلا بدون طول زمان، نوع مورد و یا وضعیت زنده بود) ارائه دهد"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "دریافت از خوراک اختصاصی هر زمان که در دسترس باشد"
+    },
+    {
+      "name": "file",
+      "value": "پرونده"
+    },
+    {
+      "name": "file_deleted",
+      "value": "پرونده پاک شد"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "نام پرونده نمی‌تواند خالی باشد"
+    },
+    {
+      "name": "forward",
+      "value": "پیشروی"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "موارد جدید"
+    },
+    {
+      "name": "general_error",
+      "value": "خطا"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "تولید نام یگانه"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "این محتوا در کشورتان قابل دسترسی نیست."
+    },
+    {
+      "name": "get_notified",
+      "value": "آگاه شوید"
+    },
+    {
+      "name": "give_back",
+      "value": "حمایت"
+    },
+    {
+      "name": "grid",
+      "value": "شبکه"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "آگاهی‌ها برایپیشرفت درهم‌ریزی ویدیو"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "آگاهی درهم ریزی ویدیو"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "کیفیت بالا (بزرگ‌تر)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "برای در صف قرار دادن، نگه دارید"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "برای نمونه اگر از گوشی‌ای با دکمه‌های خراب استفاده می‌کنید مفید است"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "چشم‌پوشی از رخدادهای دکمهٔ رسانهٔ سخت‌افزاری"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "کیفیت زیاد"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "کیفیت کم"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "کیفیت متوسّط"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "بار نکردن تصویرها"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "گزینش کیفیت تصویرها و این که اصلاً بار شوند یا نه، برای کاهش استفادهٔ حافظه و داده. تغییرات انبارهٔ تصویر حافظه و دیسک را پاک می‌کند — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "کیفیت تصویر"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "وارد شد"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "تاریخچه، اشتراک‌ها، سیاهه‌های پخش و (به صورت اختیاری) تنظیماتتان را بازنویسی خواهند کرد"
+    },
+    {
+      "name": "import_data_title",
+      "value": "وارد کردن پایگاه‌داده"
+    },
+    {
+      "name": "import_file_title",
+      "value": "وارد کردن پرونده"
+    },
+    {
+      "name": "import_from",
+      "value": "وارد کردن از"
+    },
+    {
+      "name": "import_from_previous_export",
+      "value": "درون‌ریزی از برون‌ریزی پیشین"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "در نظر داشته باشید که این عملیات می‌تواند داده زیادی مصرف کند.\n\n\n\nادامه می‌دهید؟"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "در حال وارد کردن…"
+    },
+    {
+      "name": "import_settings",
+      "value": "می‌خواهید تنظیمات را نیز وارد کنید؟"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "تنظیمات داخل برون‌ریزی‌ از قالبی آسیب‌پذیر استفاده می‌کند که از نگارش ۰٫۲۷٫۰ منسوخ شده. مطمئن شوید برون‌ریزی از منبعی مطمئن آمده و ترجیحاً فقط از برون‌ریزی‌های آمده از نگارش ۰٫۲۷٫۰ به بعد استفاده کنید. پشتیبانی از درون‌ریزی تنظیمات به این قالب آسیب‌پذیر به زودی کاملاً‌برداشته خواهد شد و دیگر نگارش‌خای قدیمی‌تر قادر به درون ریزی تنظیمات از نگارش‌های جدید نخواهند بود."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "وارد کردن نمایه ساندکلاد با وارد کردن نشانی یا ID شما:\n\n\n\n۱. حالت میزکار را در مرورگر وب فعال کنید (سایت برای دستگاه‌های همراه در دسترس نیست)\n\n۲. به این نشانی بروید: %1$s\n\n۳. در صورت لزوم، وارد شوید\n\n۴. نشانی نمایه‌ای که به آن هدایت شده‌اید را کپی کنید."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "آی‌دی شما، soundcloud.com/yourid"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "درون یا برون ریزی اشتراک‌ها از فهرست سه‌نقطه‌ای"
+    },
+    {
+      "name": "import_subscriptions_summary",
+      "value": "درون‌ریزی اشتراک‌ها از برون‌ریزی پیشین ‪.json‬"
+    },
+    {
+      "name": "import_subscriptions_title",
+      "value": "درون‌ریزی اشتراک‌ها"
+    },
+    {
+      "name": "import_title",
+      "value": "وارد کردن"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "درون‌ریزی اشتراک‌های یوتوب از بیرون‌بری گوگل:\n\n\n\n۱. به این نشانی بروید: %1$s\n\n۲. در صورت نیاز، وارد شوید\n\n۳. روی All data included و سپس Deselect all کیلک کنید. سپس تنها subscriptions را گزیده و OK را بزنید\n\n۴. روی Next step و سپس Create export کلیک کنید\n\n۵.پس از ظاهر شدن دکمهٔ Download رویش کلیک کنید\n\n۶. درون‌ریزی پرونده را در زیر زده و پروندهٔ فشردهٔ بارگیری شده را برگزینید\n\n۷. [اگر درون‌ریزی شکست خورد] پروندهٔ ‪.csv‬ را (معمولاً زیر YouTube and YouTube Music/subscriptions/subscriptions.csv) استخراج کنید، روی درون‌ریزی پرونده در زیر زده و پروندهٔ csv استخراج شده را برگزینید"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ ویدیو"
+    },
+    {
+      "name": "info_labels",
+      "value": "چی:\nدرخواست:\nزبان محتوا:\nکشور محتوا:\nزبان اپ:\nخدمت:\nزمان GMT\nپکیج:T:\nنسخه:\nنسخه‌اندروید:"
+    },
+    {
+      "name": "install",
+      "value": "نصب"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "چنین پوشه‌ای وجود ندارد"
+    },
+    {
+      "name": "invalid_file",
+      "value": "پرونده موجود نیست و یا مجوز خواندن یا نوشتن روی آن وجود ندارد"
+    },
+    {
+      "name": "invalid_source",
+      "value": "چنین منبع محتوا/پرونده‌ای وجود ندارد"
+    },
+    {
+      "name": "just_once",
+      "value": "فقط یک‌بار"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "جزییات"
+    },
+    {
+      "name": "kao_solution",
+      "value": "راهکار"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "صفحهٔ کیوسک"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "کارهٔ کُره (Kore) پیدا نشد. نصب شود؟"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "لیک‌کاناری موجود نیست"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "گزینش کنش ژست نیمهٔ چپ صفحه"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "کنش ژست چپ"
+    },
+    {
+      "name": "license",
+      "value": "به دست %1$s در %2$s"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "روشن"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "بدون محدودیت"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "کیفیت را در زمان استفاده از داده همراه محدود کن"
+    },
+    {
+      "name": "list",
+      "value": "سیاهه"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "حالت نمایش سیاهه"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "بار کردن فراداده…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "بار کردن جزییات جریان…"
+    },
+    {
+      "name": "local",
+      "value": "محلی"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "پیشنهادهای جست‌وجوی محلّی"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "کیفیت پایین (کوچک‌تر)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "برای شروع، ذره‌بین را بزنید."
+    },
+    {
+      "name": "main_page_content",
+      "value": "محتوای صفحه اصلی"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "چه برگه‌هایی در صفحه اصلی نمایش پیدا کنند"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "برای برداشتن موارد، بکشیدشان"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "جابه‌جایی گزینشگر زبانهٔ اصلی به پایین"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "موقعیت زبانه‌های اصلی"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "بررسی دستی برای نگارش‌های جدید"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "نشانه به عنوان دیده شده"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "بیشینه تعداد تلاش‌ها پیش از لغو بارگیری"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "بیشینه تلاش مجدد"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "کرانهٔ عمر"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "چهرک‌ها"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "بیرق‌ها"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "فراداده‌های کش شده پاکش شدند"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "حذف حافظه کش شده همه صفحات وب"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "پاک کردن فرادادهٔ کش شده"
+    },
+    {
+      "name": "metadata_category",
+      "value": "دسته"
+    },
+    {
+      "name": "metadata_host",
+      "value": "میزبان"
+    },
+    {
+      "name": "metadata_language",
+      "value": "زبان"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "پروانه"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "محرمانگی"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "درونی"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "خصوصی"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "عمومی"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "فهرست نشده"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "چهرک‌های زیرکانال"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "مشترکان"
+    },
+    {
+      "name": "metadata_support",
+      "value": "پشتیبانی"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "برچسب‌ها"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "بندانگشتی‌ها"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "چهرک‌های بارکننده"
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "۵۰ صفحهٔ برتر سوندکلود برداشته شد"
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "داغ‌های ترکیبی یوتوب برداشته شد"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "کوچک کردن پخش کننده به پس زمینه"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "هیچ"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "کمینه‌سازی به پخش‌کنندهٔ تصویر در تصویر"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "عملکرد هنگام تغییر به برنامه دیگر از پخش‌کننده اصلی فیلم — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "کمینه کردن به هنگام تغییر برنامه"
+    },
+    {
+      "name": "missing_file",
+      "value": "پزونده حذف یا جابجا شده است"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "تمام"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "در انتظار"
+    },
+    {
+      "name": "more_options",
+      "value": "گزینه‌های بیش‌تر"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "بیش از ۱۰۰ ویدیو"
+    },
+    {
+      "name": "most_liked",
+      "value": "مورد پسندترین‌ها"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "محاسبهٔ درهم ریزی"
+    },
+    {
+      "name": "msg_copied",
+      "value": "در حافظه رونوشت شد"
+    },
+    {
+      "name": "msg_error",
+      "value": "خطا"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "شکست در رونوشت به تخته‌گیره"
+    },
+    {
+      "name": "msg_name",
+      "value": "نام پرونده"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "این اجازه برای گشودن در حالت\n\nتصویر در تصویر لازم است"
+    },
+    {
+      "name": "msg_running",
+      "value": "نیوپایپ در حال بارگیری است"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "برای جزییات، ضربه بزنید"
+    },
+    {
+      "name": "msg_threads",
+      "value": "رشته‌ها"
+    },
+    {
+      "name": "msg_wait",
+      "value": "لطفاً صبر کنید…"
+    },
+    {
+      "name": "mute",
+      "value": "بی‌صدا"
+    },
+    {
+      "name": "name",
+      "value": "نام"
+    },
+    {
+      "name": "navigate_back",
+      "value": "بازگشت"
+    },
+    {
+      "name": "network_error",
+      "value": "خطای شبکه"
+    },
+    {
+      "name": "never",
+      "value": "هرگز"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "جدید و داغ"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "به دنبال محدودیت‌های AVPlayer، مدت جابجایی زمان پخش روی %d ثانیه تنظیم شد"
+    },
+    {
+      "name": "next_stream",
+      "value": "جریان بعدی"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "این گزینه تنها هنگامی موجود است که %s به عنوان زمینه گزیده باشد"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "زمینهٔ شب محبوبتان را برگزینید — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "زمینهٔ شب"
+    },
+    {
+      "name": "no",
+      "value": "نه"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "هیچ کاره‌ای روی افزاره‌تان نمی‌تواند بگشایدش"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "مدیر پروندهٔ مناسبی برای این کنش یافت نشد.\n\nلطفاً مدیر پرونده‌ای نصب کرده یا در تنظیمات بارگیری، «%s» را خاموش کنید"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "مدیر پروندهٔ مناسبی برای این کنش یافت نشد.\n\nلطفاً مدیر پرونده‌ای سازگار با چارچوب‌دسترسی ذخیره‌ساز نصب کنید"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "هیچ جریان صوتی‌ای برای پخش‌کننده‌های خارجی موجود نیست"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "پوشه بارگیری را بعدا در تنظیمات مشخص کنید"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "هنز کانال مشترک‌شده‌ای وجود ندارد"
+    },
+    {
+      "name": "no_comments",
+      "value": "بدون نظر"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "هنوز شاخهٔ بارگیری‌ای تنظیم نشده. اکنون شاخهٔ بارگیری پیش‌گزیده را برگزینید"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "هنوز گروه خوراکی ایجاد نشده"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "بدون جریان زنده"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "کسی در حال شنیدن نیست"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "کسی در حال مشاهده نیست"
+    },
+    {
+      "name": "no_player_found",
+      "value": "هیچ پخش‌کنندهٔ جریانی پیدا نشد. مایلید وی‌ال‌سی نصب شود؟"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "هیچ پخش کنندهٔ جریانی پیدا نشد (می‌توانید برای پخشش وی‌ال‌سی را نصب کنید)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "نشانک‌های فهرست پخش هنوز موجود نیستند"
+    },
+    {
+      "name": "no_streams",
+      "value": "بدون جریان"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "جریانی برای بارگیری در دسترس نیست"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "فاقد مشترک"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "پرونده zip معتبر نیست"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "هیچ جریان ویدیویی‌ای برای پخش‌کننده‌های خارجی موجود نیست"
+    },
+    {
+      "name": "no_videos",
+      "value": "بدون ویدیو"
+    },
+    {
+      "name": "no_views",
+      "value": "بدون بازدید"
+    },
+    {
+      "name": "none",
+      "value": "هیچ‌کدام"
+    },
+    {
+      "name": "not_available",
+      "value": "موجود نیست"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "اولین دکمه کنشی"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "دومین دکمه کنشی"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "سومین دکمه کنشی"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "چهارمین دکمه کنشی"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "پنجمین دکمه کنشی"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "میان گرفتن"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "هیچ"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "تکرار"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "بُرزنی"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "می‌توانید تا سه کنش را برای نمایش در آگاهی فشرده برگزینید!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "هر کنش آگاهی را با لمس کردنش ویرایش کنید. با استفاده از جعبه‌های تیک، تا سه کنش را برای نمایش در آگاهی فشرده بگزینید."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "ویرایش هر کنش آگاهی زیر با زدن رویش. سه کنش نخست (پخش/مکث، پیشین و بعدی) به دست سامانه تنظیم شده و قابل سفارشی سازی نیستند."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "آگاهی‌ها برای پخش‌کنندهٔ نیوپایپ"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "آگاهی نیوپایپ"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "درخواست از اندروید برای سفارشی‌سازی رنگ آگاهی براساس رنگ اصلی در بندانگشتی (توجّه داشته باشید که روی همهٔ افزاره‌ها در دسترس نیست)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "رنگی کردن آگاهی"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "تصویر بندانگشتی ویدیو که در اعلان نمایش می‌یابد، از نسبت ۱۶:۹ به ۱:۱ بریده می‌شود"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "برش تصویر بندانگشتی به نسبت ۱:۱"
+    },
+    {
+      "name": "notifications",
+      "value": "آگاهی‌ها"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "آگاهی‌ها از کار افتاده‌اند"
+    },
+    {
+      "name": "off",
+      "value": "خاموش"
+    },
+    {
+      "name": "ok",
+      "value": "قبول"
+    },
+    {
+      "name": "on",
+      "value": "روشن"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "یک مورد پاک شد."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "گشودن در مرورگر"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "گشودن در حالت تصویردرتصویر"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "گشودن صف پخش"
+    },
+    {
+      "name": "open_website_license",
+      "value": "گشودن پایگاه وب"
+    },
+    {
+      "name": "open_with",
+      "value": "گشودن با"
+    },
+    {
+      "name": "override_current_data",
+      "value": "این اقدام، همه تنظمات شما را بازنویسی می‌کند."
+    },
+    {
+      "name": "overwrite",
+      "value": "بازنویسی"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "ناتوانی در بازنویسی پرونده"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "یک پرونده بارگیری شده با همین نام وجود دارد"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "پرونده‌ای با همین نام وجود دارد"
+    },
+    {
+      "name": "paid_content",
+      "value": "این محتوا فقط برای کاربرانی که پول داده‌اند در دسترس است. پس نمی‌تواند به دست نیوپایپ جریان یافته یا بارگیری شود."
+    },
+    {
+      "name": "parsing_error",
+      "value": "نمی‌توان پایگاه وب را تجزیه کرد"
+    },
+    {
+      "name": "pause",
+      "value": "مکث"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "مکث بارگیری‌ها"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "توقف روی شبکه‌های محدودشده"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "این ویژگی زمانی که ارتباط را به داده همراه تغییر می‌دهید مفید است هرچند برخی بارگیری‌ها نمی‌توانند تعلیق شوند"
+    },
+    {
+      "name": "paused",
+      "value": "متوقف"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "این نمونه قبلا وجود دارد"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "ناتوانی در اعتبارسنجی نشانی نمونه"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "نشانی نمونه را وارد کنید"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "تنها نشانی‌های دارای http پشتیبانی می‌شوند"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "افزودن نمونه"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "نمونه‌های مورد علاقه خود را در %s پیدا کنید"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "نمونه پیرتیوب مورد علاقه خود در را انتخاب کنید"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "نمونه‌های پیرتیوب"
+    },
+    {
+      "name": "percent",
+      "value": "درصد"
+    },
+    {
+      "name": "permission_denied",
+      "value": "کنش به دست سامانه متوقف شد"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "اجازه نمایش روی دیگر برنامه‌ها را بدهید"
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "«اجازهٔ نمایش روی دیگر کاره‌ها»"
+    },
+    {
+      "name": "play",
+      "value": "پخش"
+    },
+    {
+      "name": "play_all",
+      "value": "پخش همه"
+    },
+    {
+      "name": "play_audio",
+      "value": "صدا"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "تنظیمات صدا"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "صدا: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "حذف"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "جزئیات"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "پخش با کودی"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "زیر و بمی"
+    },
+    {
+      "name": "playback_reset",
+      "value": "بازنشانی"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "کنترل‌های سرعت پخش"
+    },
+    {
+      "name": "playback_step",
+      "value": "گام"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "تندا"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "هنگام پخش کردن کارساز خطای HTTP ‏%1$s داد"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "در حال احیا از خطای پخش‌کننده"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "ناتوانی در پخش این جریان"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "خطای عدم احیای پخش‌کننده رخ داد"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "به فهرست پخش افزوده شد"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "تعداد %d بار تکرار شده"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "فهرست پخش ایجاد شد"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "خودکار ایجاد شده (بارگذاری پیدا نشد)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "صفحه فهرست پخش"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "تصویر فهرست پخش تغییر کرد."
+    },
+    {
+      "name": "playlists",
+      "value": "سیاهه‌های پخش"
+    },
+    {
+      "name": "popup_player",
+      "value": "پخش‌کنندهٔ تصویر در تصویر"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "نمایش در حالت تصویر در تصویر"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "به یاد داشتن آخرین اندازه و موقعیت تصویر در تصویر"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "به یاد داشتن ویژگی‌های تصویر در تصویر"
+    },
+    {
+      "name": "post_processing",
+      "value": "در حال پساپردازش"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "گزینش قطعهٔ صوتی با شرح برای افزار کم‌بینا در صورت وجود"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "ترجیح صدای شرح دهنده"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "گزینش قطعهٔ صوتی اصلی فارغ از زبان"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "ترجیح صدای اصلی"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "کنش پیش‌فرض در زمان باز کردن محتوا — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "ترجیح کنش «باز کردن»"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "بارگذری محتوای درخواستی"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "در حال دریافت اطلاعات…"
+    },
+    {
+      "name": "previous_export",
+      "value": "صادرکردن قبلی"
+    },
+    {
+      "name": "previous_stream",
+      "value": "جریان پیشین"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "پروژهٔ نیوپایپ محرمانگیتان را بسیار جدی می‌گیرد. برای همین کاره هیچ داده‌ای را بدون رضایتتان جمع‌آوری نمی‌کند.\nسیاست محرمانگی نیوپایپ با جزییات توضیح می‌دهد که هنگام گزارش فروپاشی چه داده‌هایی فرستاده و ذخیره می‌شوند."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "سیاست حریم خصوصی نیوپایپ"
+    },
+    {
+      "name": "private_content",
+      "value": "این محتوا خصوصی است. پس نمی‌تواند به دست نیوپایپ جریان یافته یا بارگیری شود."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "در حال پردازش… ممکن است کمی طول بکشد"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "پیش‌گزیدهٔ AVPlayer"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "تغییر اندازهٔ بازهٔ بار (هم‌اکنون %s). مقداری پایین‌تر، می‌تواند بار کردن نخستین ویدیو را سرعت بخشد"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "اندازهٔ دورهٔ بار کردن پخش"
+    },
+    {
+      "name": "question_mark",
+      "value": "؟"
+    },
+    {
+      "name": "queued",
+      "value": "در صف"
+    },
+    {
+      "name": "radio",
+      "value": "رادیو"
+    },
+    {
+      "name": "read_full_license",
+      "value": "خواندن پروانه"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "خواندن سیاست حریم خصوصی"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "کوکی‌های ری‌کپچا پاک‌سازی شدند"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "نیاز به چالش ری‌کپچا است"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "حل"
+    },
+    {
+      "name": "recent",
+      "value": "به تازگی"
+    },
+    {
+      "name": "recently_added",
+      "value": "اخیرا اضافه شده"
+    },
+    {
+      "name": "recovering",
+      "value": "در حال بازیابی"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "موارد مرتبط"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "پیشنهادهای جست‌وجوی دوردست"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "برداشتن تکراری‌ها"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "می‌خواهید همهٔ جریان‌های تکراری را در این سیاههٔ پخش بردارید؟"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "برداشتن تکراری‌ها؟"
+    },
+    {
+      "name": "remove_watched",
+      "value": "پاک کردن دیده شده‌ها"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "بله، و ویدیوهای ناقص دیده شده"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "برداشتن جریان‌های دیده شده؟"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "ویدیوهایی که پیش و‌ پس از افزوده شدن به سیاههٔ پخش دیده شده‌اند حذف خواهند شد. \nمطمئنید؟"
+    },
+    {
+      "name": "rename",
+      "value": "تغییر نام"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "تغییر نام"
+    },
+    {
+      "name": "replay",
+      "value": "بازپخش"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "بازنشانی همهٔ تنظیمات همهٔ تنظیمات ترجیحیتان را دور اندعخته و کاره را دوباره آغاز می‌کند.\n\nمطمئنید که می‌خواهید ادامه دهید؟"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "بازنشانی همهٔ تنظیمات به مقدارهای پیش‌گزیده‌شان"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "بازنشانی تنظیمات"
+    },
+    {
+      "name": "resize_fill",
+      "value": "پر کردن"
+    },
+    {
+      "name": "resize_fit",
+      "value": "اندازه‌کردن"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "بزرگ‌نمایی"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "بازنشانی پیش‌فرض‌ها"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "می‌خواهید پیش‌فرض‌ها را بازنشانی کنید؟"
+    },
+    {
+      "name": "restricted_video",
+      "value": "این ویدیو محدود به سن است.\n\n\n\nاگر می‌خواهید ببینیدش، «%1$s» را در تنظیمات روشن کنید."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "این ویدیو محدود به سن است.\n\nبنا به سیاست‌های جدید یوتوب دربارهٔ ویدیوهای محدود به سن، نیوپایپ نمی‌تواند به هیچ یک از جریان‌های ویدیوییش دست پیدا کرده و بنابراین در پخش آن، ناتوان است."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "پخش بعد از قطع ناگهانی (مثل برقراری تماس) ادامه یابد"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "پخش ادامه یابد"
+    },
+    {
+      "name": "retry",
+      "value": "تلاش دوباره"
+    },
+    {
+      "name": "rewind",
+      "value": "پسروی"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "گزینش کنش ژست نیمهٔ راست صفحه"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "کنش ژست راست"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "به دلیل ناتوانی در خواندن برگه‌های ذخیره شده، برگه‌های پیش‌فرض استفاده می‌شوند"
+    },
+    {
+      "name": "search",
+      "value": "جست‌وجو"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "پیشینهٔ جست‌جو حذف شد"
+    },
+    {
+      "name": "search_no_results",
+      "value": "بدون نتیجه"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "نمایش نتایج برای: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "جست‌وجوی %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "جست‌وجوی %1$s ‏(%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "مدت زمان حرکت سریع به جلو یا عقب"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "پیش‌نمایش بندانگشتی نوار جویش"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "کانالی را انتخاب کنید"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "گزینش گروه خوراک"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "یک کیوسک را انتخاب کنید"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "انتخاب یک فهرست پخش"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "گزینش قطعهٔ صوتی برای پخش کننده‌های خارجی"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "در زیر می‌توانید زمینهٔ شب محبوبتان را برگزینید"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "گزینش کیفیت برای پخش‌کننده‌های خارجی"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "جریان گزیده به دست پخش‌کننده‌های خارجی پشتیبانی نمی‌شود"
+    },
+    {
+      "name": "semitone",
+      "value": "نیم‌پرده"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "تنظیم برای تصویر سیاههٔ پخش"
+    },
+    {
+      "name": "settings",
+      "value": "تنظیمات"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "ظاهر"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "پشتیبان و بازگردانی"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "پاک کردن داده‌ها"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "اشکال‌زدایی"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "بارگیری"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "مدیریت برخی تنظیمات AVPlayer. اعمال این تغییرات نیازمند آغاز دوبارهٔ پخش‌کننده است"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "تنظیمات AVPlayer"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "خوراک"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "تاریخچه و انباره"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "رفتار"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "پیکربندی آگاهی جریان در حال پخش کنونی"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "آگاهی پخش‌کننده"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "پخش‌کننده"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "به‌روز رسانی‌ها"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "ویدیو و صدا"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "نویسه‌های مجاز در نام پرونده‌ها"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "نویسه‌های نامعتبر با این مقدار جایگزین شدند"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "نویسه جایگزین"
+    },
+    {
+      "name": "share",
+      "value": "هم‌رسانی"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "هم‌رسانی با"
+    },
+    {
+      "name": "share_playlist",
+      "value": "هم‌رسانی سیاههٔ پخش"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "هم‌رسانی به شکل سیاههٔ پخش موقّتی یوتوب"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "هم‌رسانی سیاههٔ نشانی"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "هم‌رسانی با عنوان‌ها"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sمیلیارد"
+    },
+    {
+      "name": "short_million",
+      "value": "%sم"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sه"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "نمایش محتوایی که احتمالاً به خاطر محدودیت سنیشان (مثل ۱۸+) برای کودکان مناسب نیستند"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "نمایش محتوای محدود شده بر اساس سن"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "نمایش جزییات کانال"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "زبانهٔ کانال‌ها"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "زبانه‌های نشان داده شده روی صفحه‌های کانال"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "خاموش کنید تا نظرات پنهان شوند"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "نمایش نظرات"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "نمایش یک گزینهٔ فروپاشی هنگام استفاده از پخش کننده"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "نمایش «فروپاشی پخش کننده»"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "برای نهفتن شرح ویدیو و اطّلاعات اضافی، خاموش کنید"
+    },
+    {
+      "name": "show_description_title",
+      "value": "نمایش شرح"
+    },
+    {
+      "name": "show_error",
+      "value": "نمایش خطا"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "نمایش یک نوار خطا"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "تنها برخی دستگاه‌ها توانایی پخش ویدیوهای 2K و 4K را دارند"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "نمایش وضوح‌های بالاتر"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "نمایش راهنما هنگام فشردن پس زمینه یا دکمهٔ تصویر در تصویر در «جزییات:» ویدیو"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "نمایش نکته «برای صف‌گذاری، نگه‌دارید»"
+    },
+    {
+      "name": "show_info",
+      "value": "نمایش اطلاعات"
+    },
+    {
+      "name": "show_less",
+      "value": "نمایش کم‌تر"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "نمایش نشت‌های حافظه"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "برای نهفتن جعبه‌های فرااطَلاعات با اطّلاعات اضافی دربارهٔ ایجادگر جریان، محتوای جریان یا درخواست جست‌وجو، خاموش کنید"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "نمایش فرااطلاعات"
+    },
+    {
+      "name": "show_more",
+      "value": "نمایش بیش‌تر"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "نماش ویدیوهای «بعدی» و «مشابه»"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "متن‌های اصلی از خدمات در جریان‌ها قابل دیدن خواهند بود"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "نمایش زمان سپری‌شده اصلی هر مورد"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "نمایش گزینه‌ای برای پخش ویدیو با مرکز رسانهٔ کودی"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "نمایش گزینهٔ «پخش با کودی»"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "گزینش پیشنهادها برای نمایش هنگام جست‌وجو"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "پیشنهادهای جستجو"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "استفاده از بندانگشتی برای پس‌زمینهٔ صفحهٔ قفل و آگاهی‌ها"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "نمایش بندانگشتی‌ها"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "پرش به جلو حین سکوت"
+    },
+    {
+      "name": "songs",
+      "value": "آوازها"
+    },
+    {
+      "name": "sorry_string",
+      "value": "ببخشید! نباید این اتّفاق زخ می‌داد."
+    },
+    {
+      "name": "sort",
+      "value": "ترتیب"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "این قطعه، لااقل در کشور شما، یک قطعهٔ گوپلاس سوندکلود است. پس نمی‌تواند به دست نیوپایپ جریان یافته یا بارگیری شود."
+    },
+    {
+      "name": "start",
+      "value": "شروع"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "به منظور هماهنگی با مقرّرات حفاظت دادهٔ عمومی اروپا (GDPR) توجهتان را به سیاست محرمانگی نیوپایپ جلب می‌کنیم. لطفاً به دقّت مطالعه‌اش کنید.\n\nبرای فرستادن گزارش مشکل باید بپذیریدش."
+    },
+    {
+      "name": "start_downloads",
+      "value": "شروع بارگیری‌ها"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "شروع پخش در پس‌زمینه"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "شروع پخش در تصویر در تصویر"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "اگر چرخش خودکار قفل باشد، ویدیوها را در پخش‌کنندهٔ کوچک آغاز نمی‌کند، بلکه مستقیماً به تمام‌صفحه می‌رود. همچنان می‌توانید با خروج از تمام‌صفحه به پخش‌کنندهٔ کوچک دسترسی داشته باشید"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "آغاز پخش‌کنندهٔ اصلی در تمام‌صفحه"
+    },
+    {
+      "name": "stop",
+      "value": "توقف"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "جریان‌هایی که هنوز به دست بارگیر پشتیبانی نمی‌شوند نشان داده نشده‌اند"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "آگاهی‌ها دربارهٔ جریان‌های جدید برای اشتراک‌ها"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "جریان‌های جدید"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "بسامد بررسی"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "نیازمند اتّصال شبکه"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "اشتراک"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "مشترک شده"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "تعداد مشترک‌شدگان دردسترس نیست"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "ناتوانی در تغییر وضعیت اشتراک"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "ناتوانی در به‌روزرسانی اشتراک"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "ناتوانی در صدور اشتراک‌ها"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "ناتوانی در ورود اشتراک‌ها"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "وقتی انجام شد، «Done» یا «انجام شد» را بفشارید"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "تغییر وضعیت به پس‌زمینه"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "تغییر وضعیت به اصلی"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "تغییر وضعیت به تصویر در تصویر"
+    },
+    {
+      "name": "systems_language",
+      "value": "پیش‌فرض دستگاه"
+    },
+    {
+      "name": "tab_about",
+      "value": "درباره و سوالات‌متداول"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "سیاههٔ پخش‌های نشان شده"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "سیاهه‌های پخش"
+    },
+    {
+      "name": "tab_choose",
+      "value": "گزینش زبانه"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "پروانه‌ها"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "اشتراک‌ها"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "حالت رایانک"
+    },
+    {
+      "name": "theme_title",
+      "value": "زمینه"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "حافظه نهان تصویر پاک شد"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "درباره نیوپایپ"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "تاریخچه"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "پخش صف"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "چالش ری‌کپچا"
+    },
+    {
+      "name": "title_last_played",
+      "value": "آخرین پخش‌شده"
+    },
+    {
+      "name": "title_licenses",
+      "value": "پروانه‌های شخص سوم"
+    },
+    {
+      "name": "title_most_played",
+      "value": "بیشترین پخش‌شده"
+    },
+    {
+      "name": "toggle_all",
+      "value": "تغییر وضعیت همه"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "تغییر حالت تمام‌صفحه"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "تغییر جهت صفحه"
+    },
+    {
+      "name": "top_50",
+      "value": "۵۰ برتر"
+    },
+    {
+      "name": "tracks",
+      "value": "قطعه‌ها"
+    },
+    {
+      "name": "trending",
+      "value": "محبوب"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "داغ‌های بازی"
+    },
+    {
+      "name": "trending_movies",
+      "value": "فیلم و سریال‌های داغ"
+    },
+    {
+      "name": "trending_music",
+      "value": "آهنگ‌های داغ"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "داغ‌های پادپخش"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "حذف نشان"
+    },
+    {
+      "name": "undo",
+      "value": "بازگردانی"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "قطع پیوند (ممکن است باعث انحراف شود)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "ناشناخته"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[ناشناخته]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "قالب ناشناخته"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "کیفیت ناشناخته"
+    },
+    {
+      "name": "unmute",
+      "value": "صدادار"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "ناتنظیم بندانگشتی ثابت"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "لغو اشتراک"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "نشانی پشتیبانی نشده"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "نشانی قابل تشخیص نبود. با برنامه دیگری باز شود؟"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "زمانی که نسخه جدید برنامه دردسرس است، اعلانی برای به‌روزرسانی نمایش بده"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "به‌روزرسانی‌ها"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "منتشر شده در %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "اگر مشکل شروع رمزگشایی دارید ، این گزینه را فعال کنید ، که اگر رمزگشایی اولیه شکست بخورد ، به رمزگشایی های با اولویت پایین تر باز می گردد. این ممکن است منجر به عملکرد پخش ضعیف نسبت به هنگام استفاده از رمزگشایان اولیه شود"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "استفاده از ویژگی پشتیبان کدگشای AVPlayer"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "استفاده از پخش‌کنندهٔ صدای خارجی"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "صدا را در برخی وضوح‌ها برمی‌دارد"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "استفاده از پخش‌کنندهٔ ویدیوی خارجی"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "جویش نادقیق می‌گذارد پخش‌کننده سریع‌تر، ولی با دقّت کم‌تری به موقعیت‌ها برود. در این حالت، جویش‌های ۵، ۱۵ یا ۲۵ثانیه‌ای کار نمی‌کنند"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "زمان فعلی پخش کننده را به صورت تقریبی و سریع جلو ببر"
+    },
+    {
+      "name": "users",
+      "value": "کاربران"
+    },
+    {
+      "name": "video",
+      "value": "ویدیو"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "توسط %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "پخش‌کنندهٔ ویدیو"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "هیچ جریان ویدیویی پیدا نشد"
+    },
+    {
+      "name": "videos_string",
+      "value": "ویدیوها"
+    },
+    {
+      "name": "view_on_github",
+      "value": "دیدن روی گیت‌هاب"
+    },
+    {
+      "name": "volume",
+      "value": "حجم صدا"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "پیشینهٔ مشاهده حذف شد"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "موقعیت‌های پخش حذف شدند"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "برای اطلاعات و اخبار بیشتر، به وب‌سایت نیوپایپ سر بزنید."
+    },
+    {
+      "name": "website_title",
+      "value": "وب‌سایت"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "اطّلاعات:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "چه روی داد:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "فقط روی وای‌فای"
+    },
+    {
+      "name": "yes",
+      "value": "بله"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "اکنون مشترک این کانال شده‌اید"
+    },
+    {
+      "name": "your_comment",
+      "value": "توضیح شما (به انگلیسی):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "این ویدیو فقط برای اعضای ویژهٔ آهنگ‌های یوتوب در دسترس است. پس نمی‌تواند به دست نیوپایپ جریان یافته یا بارگیری شود."
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "یوتوب یک «حالت محدود» دارد کهه محتوای احتمالاً بالغانه را پنهان می‌کند"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "روشن کردن «حالت محدود» یوتوب"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

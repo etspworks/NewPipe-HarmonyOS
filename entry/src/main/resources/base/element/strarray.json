@@ -1,0 +1,87 @@
+{
+  "strarray": [
+    {
+      "name": "high_resolution_limit_data_usage_description_list",
+      "value": [
+        {
+          "value": "2160p"
+        },
+        {
+          "value": "1440p"
+        }
+      ]
+    },
+    {
+      "name": "limit_data_usage_description_list",
+      "value": [
+        {
+          "value": "No limit"
+        },
+        {
+          "value": "1080p60"
+        },
+        {
+          "value": "1080p"
+        },
+        {
+          "value": "720p60"
+        },
+        {
+          "value": "720p"
+        },
+        {
+          "value": "480p"
+        },
+        {
+          "value": "360p"
+        },
+        {
+          "value": "240p"
+        },
+        {
+          "value": "144p"
+        }
+      ]
+    },
+    {
+      "name": "progressive_load_interval_descriptions",
+      "value": [
+        {
+          "value": "1 KiB"
+        },
+        {
+          "value": "16 KiB"
+        },
+        {
+          "value": "64 KiB"
+        },
+        {
+          "value": "256 KiB"
+        },
+        {
+          "value": "AVPlayer default"
+        }
+      ]
+    },
+    {
+      "name": "progressive_load_interval_values",
+      "value": [
+        {
+          "value": "1"
+        },
+        {
+          "value": "16"
+        },
+        {
+          "value": "64"
+        },
+        {
+          "value": "256"
+        },
+        {
+          "value": "exoplayer_default"
+        }
+      ]
+    }
+  ]
+}

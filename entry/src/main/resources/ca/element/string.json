@@ -1,0 +1,3080 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Accepta"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Usuari suspes"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Compte cancel·lat %1$s proporciona aquest motiu: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "Historial"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Afegeix a una llista de reproducció"
+    },
+    {
+      "name": "albums",
+      "value": "Àlbums"
+    },
+    {
+      "name": "all",
+      "value": "Tot"
+    },
+    {
+      "name": "always",
+      "value": "Sempre"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Demana-ho sempre"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Aquesta alternativa allibera i reinstancia els còdecs de vídeo si hi ha un canvi de màscara en lloc de configurar-la directament al còdec. ExoPlayer ja ho aplica en alguns dispositius amb aquest problema. Aquesta configuració només té efecte en Android 6 i posteriors\n\nHabilitar aquest opció pot prevenir errors de reproducció en canviar el reproductor actual o en passar a pantalla completa"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Usa sempre la sortida de vídeo d'AVPlayer com a solució de contingència"
+    },
+    {
+      "name": "any_network",
+      "value": "Qualsevol xarxa"
+    },
+    {
+      "name": "api23_requirement_dialog_blogpost",
+      "value": "Article"
+    },
+    {
+      "name": "api23_requirement_dialog_message",
+      "value": "Malauradament, NewPipe depèn d'algunes biblioteques que van deixar de ser compatibles amb Android 5.0 i 5.1. Per tant, la propera versió de NewPipe només funcionarà en dispositius amb Android 6 o superior. Llegeix més a la publicació del bloc."
+    },
+    {
+      "name": "api23_requirement_dialog_title",
+      "value": "NewPipe deixarà de ser compatible amb Android 5."
+    },
+    {
+      "name": "app_description",
+      "value": "Reprodueix transmissions de manera lliure i lleugera a l'HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Llengua de l'aplicació"
+    },
+    {
+      "name": "app_license",
+      "value": "El NewPipe és programari lliure sota llicència copyleft: el podeu fer servir, estudiar, compartir i millorar com vulgueu. Concretament, el podeu redistribuir i/o modificar d'acord amb els termes de la llicència GNU GPL publicada per la Free Software Foundation, versió 3 o qualsevol altra versió posterior."
+    },
+    {
+      "name": "app_license_title",
+      "value": "Llicència del NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Ha fallat l'aplicació o la interfície d'usuari"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Clica per descarregar%s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Una nova versió del NewPipe està disponible!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Notificacions de noves versions del NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Notificació d'actualització de l'aplicació"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Estàs fent servir la darrera versió de NewPipe"
+    },
+    {
+      "name": "artists",
+      "value": "Artistes"
+    },
+    {
+      "name": "audio",
+      "value": "Àudio"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "No s'ha trobat cap flux d'àudio"
+    },
+    {
+      "name": "audio_track",
+      "value": "Pista d'àudio"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s%2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Ja hi hauria d'haver una pista d'àudio en aquest flux"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "descriptiu"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "doblat"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "original"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "secundària"
+    },
+    {
+      "name": "auto",
+      "value": "Automàtic"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Automàtic (tema del dispositiu)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Acaba de reproduir la cua (sense repetició) quan s'hi afegeixi un vídeo relacionat"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Posa a la cua el següent flux"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Posa a la cua automàticament"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe pot cercar automàticament actualitzacions i fer-t'ho saber en estar disponibles.\nVols habilitar-ho?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Comença la reproducció automàticament — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Reproducció automàtica"
+    },
+    {
+      "name": "background_player",
+      "value": "Reproductor en rerefons"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "S'està reproduint en rerefons"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Millor resolució"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Negre"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Pàgina en blanc"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Afegeix la llista de reproducció a les adreces d'interès"
+    },
+    {
+      "name": "brightness",
+      "value": "Brillantor"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel·la"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Generats automàticament"
+    },
+    {
+      "name": "caption_none",
+      "value": "Sense subtítols"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Modifica la mida i el fons dels subtítols. Cal reiniciar l'aplicació per aplicar els canvis"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Subtítols"
+    },
+    {
+      "name": "card",
+      "value": "Targeta"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Creat per %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Pàgina de canal"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Quant a"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Àlbums"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Canals"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "M'agrada"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "En directe"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Llistes de reproducció"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Curts"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Pistes"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Vídeos"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Heu eliminat la subscripció a aquest canal"
+    },
+    {
+      "name": "channels",
+      "value": "Canals"
+    },
+    {
+      "name": "chapters",
+      "value": "Capítols"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Lletres i dígits"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Principals caràcters especials"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Comprovar si hi ha actualitzacions"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Ejecutar comprovació per nous streams"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "S'estan comprovant les actualitzacions…"
+    },
+    {
+      "name": "checksum",
+      "value": "Suma de verificació"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Escolliu una instància"
+    },
+    {
+      "name": "clear",
+      "value": "Neteja"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Esborra les galetes que NewPipe desa quan resoleu un reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Esborra les galetes del reCAPTCHA"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Esborra l'historial de baixades"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Esborra totes les posicions de reproducció"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Esborra les posicions de reproducció"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "La cua de reproducció activa serà sobreescrita"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Canviar de reproductor podria sobreescriure la vostra cua de reproducció"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Demana confirmació abans de buidar una cua de reproducció"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Neteja l'historial de paraules cercades"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Neteja l'historial de cerca"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Neteja l'historial dels vídeos reproduïts i les posicions de reproducció"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Neteja l'historial de reproduccions"
+    },
+    {
+      "name": "close",
+      "value": "Tanca"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Els comentaris estan desactivats"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Comentaris"
+    },
+    {
+      "name": "conferences",
+      "value": "Conferències"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Esteu segurs que voleu esborrar el vostre historial de baixades o esborrar-ne tots els fitxers?"
+    },
+    {
+      "name": "content",
+      "value": "Contingut"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Llengua per defecte dels continguts"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Contingut no disponible"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "El NewPipe encara no suporta aquest contingut.\n\n\n\nEsperem que en el futur ho faci."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Idees, traduccions, canvis en el disseny, neteja del codi, canvis importants de programació… La vostra ajuda sempre és benvinguda. Com més feina feta hi hagi, millor!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Col·labora-hi"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Afegeix a"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Rerefons"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Baixa el fitxer de vídeo"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Emergent"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Copia l'informe d'errors"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s per %2$s sota %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Avís: No s'han pogut importar tots els fitxers."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "No s'han pogut carregar totes les miniatures"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "No s'ha pogut configurar el menú de baixades"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Força l'aturada de l'aplicació"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Tancar abruptament el reproductor"
+    },
+    {
+      "name": "create",
+      "value": "Crea"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Crear una notificació d'error"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Crea una llista de reproducció"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Fosc"
+    },
+    {
+      "name": "decline",
+      "value": "Rebutja"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Format d'àudio per defecte"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "País per defecte dels continguts"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Tendències"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Resolució per defecte del mode emergent"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Resolució per defecte"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Format de vídeo per defecte"
+    },
+    {
+      "name": "delete",
+      "value": "Elimina"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Esborrar els fitxers de baixades anteriors"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Borrar tots el fitxers descargats al disc?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Esborrar entrada"
+    },
+    {
+      "name": "delete_file",
+      "value": "Esborrar fitxer"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Voleu eliminar aquest element de l'historial de cerca?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Voleu suprimir tots els punts de reproducció?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Voleu eliminar aquesta llista de reproducció?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Voleu suprimir tot l'historial de cerca?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Voleu suprimir tot l'historial de reproduccions?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Desactiva la selecció de text en la descripció"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Activa la selecció del text a la descripció"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Ara pots seleccionar el text dins de la descripció. Nota que la pagina pot fer pampallugues i els links poden no ser clicables mentre s'està seleccionant."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Descripció"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "No m'agrada"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Arrossegueu per reordenar la llista"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Destacat pel creador"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "M'agrada"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Comentari fixat"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Miniatura de l'avatar del canal"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Reprodueix el vídeo, duració:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Miniatura de l'avatar del propietari"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Volíeu dir: \"%1$s\"?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "El túnel multimèdia s'ha desactivat de manera predeterminada al dispositiu perquè se sap que el vostre model de dispositiu no ho permet."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Desactiva l'entunelament del contingut si en reproduir el vídeos la pantalla se'n va a negre o s'entretallen."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Desactiva l'entunelament del contingut"
+    },
+    {
+      "name": "disabled",
+      "value": "Desactivat"
+    },
+    {
+      "name": "dismiss",
+      "value": "Tanca"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "El NewPipe està desenvolupat per voluntaris que fan servir el seu temps lliure per oferir-vos la millor experiència possible. Feu una aportació per assegurar que els nostres desenvolupadors puguin millorar encara més el NewPipe mentre fan un cafè."
+    },
+    {
+      "name": "donation_title",
+      "value": "Feu una donació"
+    },
+    {
+      "name": "done",
+      "value": "Fet"
+    },
+    {
+      "name": "dont_show",
+      "value": "No mostris"
+    },
+    {
+      "name": "download",
+      "value": "Baixa"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Hi ha una baixada pendent amb aquest nom"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Hi ha una baixada en curs amb aquest nom"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Baixa"
+    },
+    {
+      "name": "download_failed",
+      "value": "Ha fallat la baixada"
+    },
+    {
+      "name": "download_has_started",
+      "value": "La descàrreca ha començat"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Trieu la carpeta de baixada per als fitxers d'àudio"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Els fitxers d'àudio baixats es desen aquí"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Carpeta de baixada dels fitxers d'àudio"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Trieu la carpeta de baixades per als fitxers de vídeo"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Els fitxers de vídeo baixats es desen aquí"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Carpeta de baixada dels vídeos"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "No es pot desar a la targeta externa. Voleu restablir la carpeta de baixades?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "L'emmagatzematge extern no està disponible"
+    },
+    {
+      "name": "downloads",
+      "value": "Baixades"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Se us demanarà la ubicació de cada baixada.\n\nHeu d'activar el SAF si voleu descarregar-ho a una targeta SD externa"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Ara se't pregunrarà on vols guardar cada descàrrega"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Demana on baixar"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "El SAF (Storage Access Framework; estructura d'accés a l'emmagatzematge) us permet realitzar baixades a una memòria externa com una targeta SD"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "A partir de l'Android 10 només s'admet el \"Sistema d'Accés a l'Emmagatzematge\""
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Fes servir el SAF"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Baixades"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Tanca el calaix"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "In/Habilita el servei; selecció actual:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Obre el calaix"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Les llistes de reproducció que estan en gris ja contenen aquest element."
+    },
+    {
+      "name": "duration",
+      "value": "Durada"
+    },
+    {
+      "name": "duration_live",
+      "value": "En directe"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "No hi ha res aquí"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Força l'informe d'excepcions Rx que no es puguin transmetre que tinguin lloc fora del cicle de vida d'un fragment o activitat després de disposar-los"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Informa d'errors fora del cicle de vida"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "La supervisió de fugues de memòria pot fer que l'aplicació deixi de respondre mentre es bolca la memòria"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Restaura la darrera posició de la reproducció"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Reprèn la reproducció"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Mostra els indicadors de posició de reproducció a les llistes"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Posicions a les llistes"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Limita la cua de baixades"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Només una baixada alhora"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Emmagatzema les cerques localment"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Historial de cerca"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Notifica sobre les noves retransmissions de les subscripcions"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Noves notificacions de retransmissions"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Crea un historial de vídeos visualitzats"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Historial de reproduccions"
+    },
+    {
+      "name": "enqueue",
+      "value": "Afegeix a la cua"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Posa a la cua el següent vídeo"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Afegeix a la cua"
+    },
+    {
+      "name": "enqueued",
+      "value": "Ja a la cua"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Afegit el següent vídeo a la cua"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Entrada esborrada"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "No s'ha pogut connectar amb el servidor"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Detalls:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "No s'ha pogut recuperar aquesta baixada"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "No es pot crear el fitxer"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "El servidor no està enviant dades"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "No s'ha trobat"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "El servidor no accepta baixades simultànies. Proveu amb @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "No hi ha prou espai lliure al dispositiu"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "No hi ha espai disponible al dispositiu"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "S'ha produït un error: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "No es pot crear la carpeta de destinació"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Ha fallat el post-processament"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "S'ha tancat el NewPipe mentre es treballava en el fitxer"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "S'ha perdut el progrés perquè s'ha eliminat el fitxer"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Informeu per correu electrònic"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Notificacions per informar d'errors"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Notificació d'informe d'error"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe ha trobat un error, toca per informar"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "S'ha produït un error, consulteu la notificació"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Si us plau, comproveu abans si el problema que ha causat aquesta fallada ja ha estat informat. Els tiquets per duplicat fan que perdem temps que podríem aprofitar resolent-los."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Avisa del problema a GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Informe d'error"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Informe"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "S'han produït alguns errors."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "No s'ha pogut establir una connexió segura"
+    },
+    {
+      "name": "error_timeout",
+      "value": "S'ha excedit el temps d'espera de la connexió"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "No s'han pogut carregar els comentaris"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "No s'ha pogut trobar el servidor"
+    },
+    {
+      "name": "events",
+      "value": "Esdeveniments"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "S'ha completat l'exportació"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Exporta l'historial, les subscripcions, les llistes de reproducció i els paràmetres"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Exporta una base de dades"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "S'està exportant…"
+    },
+    {
+      "name": "export_subscriptions_summary",
+      "value": "Exportar les vostres subscripcions a un fitxer .json"
+    },
+    {
+      "name": "export_subscriptions_title",
+      "value": "Exportar suscripcions"
+    },
+    {
+      "name": "export_to",
+      "value": "Exporta a"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Els reproductors externs no són compatibles amb aquesta mena d'enllaços"
+    },
+    {
+      "name": "faq",
+      "value": "Veure a la pàgina web"
+    },
+    {
+      "name": "faq_description",
+      "value": "Si tens problemes utilitzant la aplicació, comprova las preguntes freqüents!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Preguntes freqüents"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Mode ràpid"
+    },
+    {
+      "name": "featured",
+      "value": "Destacats"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Nou"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Recupera les pestanyes del canal"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Pestanyes que es recuperaran en actualitzar el contingut. Aquesta opció no s'aplica si el canal s'actualitza en mode ràpid."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Esteu segurs de voler suprimir aquest grup?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Nom de grup buit"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Cap subscripció seleccionada"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Selecciona subscripcions"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Pàgina del grup de canals"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Mostra només les subscripcions sense grup"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Grups de canals"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Mostra els vídeos següents"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Error carregant contingut"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "No s'ha pogut carregar el contingut per '%s'."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "El mode d'alimentació ràpida no proporciona més informació sobre això."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "El compte de l'autor ha estat esborrat.\n\nNewPipe no serà capaç de carregar aquest fil en el futur.\n\nUs voleu desubscriure d'aquest canal?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Elements de feed nous"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Carregant el contingut…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Contingut refrescat per últim cop: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Processant el contingut…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Mostra/Amaga els vídeos"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Vist parcialment"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Pròximament"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Vist completament"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "No carregat: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Actualitza sempre"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Temps que ha de passar perquè una subscripció es consideri obsoleta — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Llindar d'actualització del contingut"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Desactiva el mode ràpid"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Activa el mode ràpid"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Creieu que la càrrega de contingut és massa lenta? Si és el cas, proveu d'activar la càrrega ràpida (podeu canviar-ho a paràmetres o al botó de sota).\n\nEl NewPipe ofereix dues formes de càrrega de contingut per als feeds:\n• Descarregant-ne el canal sencer, que és lent però complet.\n• Fent servir un servei dedicat, que és molt ràpid però sovint incomplet.\n\nLa diferència entre els dos és que el ràpid sovint retorna la informació incompleta. Per exemple, pot faltar la durada o el tipus (sense poder distingir entre una retransmissió en directe i un vídeo normal) i podria ser que faltessin alguns elements.\n\nYouTube és un exemple d'un servei que ofereix aquest sistema de càrrega ràpida pels seus feed RSS.\n\nEn definitiva, l'elecció depèn de si preferiu rapidesa a assegurar-vos que l'informació és precisa."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Disponible en alguns serveis, normalment és més ràpid, però podria només incloure un nombre limitat de contingut i sovint informació incomplerta (per exemple, sense durada, tipus…)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Recupera des d'un feed dedicat si és possible"
+    },
+    {
+      "name": "file",
+      "value": "Fitxer"
+    },
+    {
+      "name": "file_deleted",
+      "value": "S'ha eliminat el fitxer"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "El nom del fitxer no pot estar en blanc"
+    },
+    {
+      "name": "forward",
+      "value": "Avança"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Novetats"
+    },
+    {
+      "name": "general_error",
+      "value": "Error"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Genera un nom únic"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Aquest contingut no és disponible al vostre territori."
+    },
+    {
+      "name": "get_notified",
+      "value": "Ser notificat"
+    },
+    {
+      "name": "give_back",
+      "value": "Feu la vostra aportació"
+    },
+    {
+      "name": "grid",
+      "value": "Quadrícula"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Notificacions pel progrés de comprovació de vídeo"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Notificació de comprovació del vídeo"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Alta qualitat (més gran)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Manteniu premut per afegir a la cua"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Útil, per exemple, si feu servir uns auriculars amb els botons físicament trencats"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Ignora els esdeveniments dels botons de reproducció físics"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Qualitat alta"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Qualitat baixa"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Qualitat mitjana"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "No carregues les imatges"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Tria la qualitat de les imatges i si carregar-les totalment o no per reduir l'ús de les dades i la memòria. Els canvis suprimiran la memòria cau de les imatges a la memòria i al disc — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Qualitat de la imatge"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "S'ha completat la importació"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Sobreescriu l'historial, les subscripcions i, opcionalment, els paràmetres"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Importa una base de dades"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Importa un fitxer"
+    },
+    {
+      "name": "import_from",
+      "value": "Importa des de"
+    },
+    {
+      "name": "import_from_previous_export",
+      "value": "Importar des d'exportació anterior"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Tingueu en compte que això pot comportar un ús intensiu de la xarxa. \n\n \n\nVoleu continuar?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "S'està important…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Voleu importar també els paràmetres?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "La configuració exportada que vols importar té un format vulnerable que és obsolet des de NewPipe 0.27.0. Assegura't que l'exportació que vols importar prové d'una font de confiança i prefereix només les exportacions fetes amb NewPipe 0.27.0 o posterior d'ara endavant. El suport a la importació de configuracions en aquest format vulnerable aviat serà suprimit completament i aleshores les antigues versions de NewPipe ja no podran importar les exportacions de les configuracions des de les noves versions."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Importeu un perfil del SoundCloud mitjançant l'URL o l'identificador del vostre perfil: \n\n \n\n1. Activeu el «Mode d'ordinador» en un navegador (el lloc web no està disponible per a dispositius mòbils) \n\n2. Aneu a: %1$s \n\n3. Inicieu la sessió al vostre compte quan si us demani \n\n4. Copieu l'URL on si us ha redirigit."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "identificador, soundcloud.com/identificador"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Importa o exporta les subscripcions des del menú de 3 punts"
+    },
+    {
+      "name": "import_subscriptions_summary",
+      "value": "Importar subscripcions d'una exportació .json anterior"
+    },
+    {
+      "name": "import_subscriptions_title",
+      "value": "Importar subscripcions"
+    },
+    {
+      "name": "import_title",
+      "value": "Importa"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Importeu les vostres subscripcions de YouTube mitjançant la còpia de contingut de Google Takeout: \n \n1. Aneu a : %1$s \n2. Inicieu la sessió si se us demana \n3. Premeu \"Totes les dades incloses\", després \"Dessel·lecciona-ho tot\", llavors sel·leccioneu només \"Subscripcions\" i finalment premeu \"D'acord\". \n4. Premeu \"Pas següent\" i llavors a \"Crea una exportació\" \n5. Premeu el botó \"Baixa\" un cop hagi aparegut \n6. Premeu a IMPORTA EL FITXER i sel·leccioneu el fitxer .zip descarregat \n7. [En cas que la importació del fitxer .zip hagi fallat] extreieu-ne el fitxer subscripcions.csv (es troba generalment a \"Takeout/YouTube i YouTube Music/subscripcions/subscripcions.csv\"), premeu a IMPORTA EL FITXER i sel·leccioneu el fitxer .csv extret"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "Vídeos ∞"
+    },
+    {
+      "name": "info_labels",
+      "value": "Què ha passat:\nPetició:\nIdioma del contingut:\nPaís del contingut:\nLlengua de l'aplicació:\nServei:\nHora GMT:\nPaquet:\nVersió:\nVersió del SO:"
+    },
+    {
+      "name": "install",
+      "value": "Instal·la"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "La carpeta no existeix"
+    },
+    {
+      "name": "invalid_file",
+      "value": "El fitxer no existeix o bé no teniu permisos de lectura/escriptura"
+    },
+    {
+      "name": "invalid_source",
+      "value": "El fitxer o la font de contingut no existeix"
+    },
+    {
+      "name": "just_once",
+      "value": "Només una vegada"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "Detalls"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "A l'agost del 2025, Google va anunciar que, a partir del setembre del 2026, la instal·lació d'aplicacions requerirà la verificació del desenvolupador per a totes les aplicacions d'Android en dispositius certificats, incloses les instal·lades fora de la Play Store. Com que els desenvolupadors de NewPipe no estan d'acord amb aquest requisit, NewPipe deixarà de funcionar en dispositius Android certificats després d'aquesta data."
+    },
+    {
+      "name": "kao_solution",
+      "value": "Solució"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Pàgina de quiosc"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "No s'ha trobat l'aplicació Kore. Voleu instal·lar-la?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "El LeakCanary no està disponible"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Trieu un gest per la part esquerra de la pantalla"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Acció de gest esquerra"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Clar"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Sense restriccions"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Restringeix la resolució quan es facin servir dades mòbils"
+    },
+    {
+      "name": "list",
+      "value": "Llista"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Mode de vista de llista"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Carregant Metadades…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Cargant detalls del stream…"
+    },
+    {
+      "name": "local",
+      "value": "Local"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Suggeriments de cerca local"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Baixa qualitat (més petit)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Toqueu la lupa per començar."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Contingut de la pàgina principal"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Quines pestanyes es mostren a la pàgina principal"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Llisqueu els elements per eliminar-los"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Mou el selector de pestanya principal a la part inferior"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Posició de les pestanyes principals"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Comprovar manualment si hi ha noves versions"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Marca com a vist"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Nombre màxim d'intents abans de cancel·lar la baixada"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Intents màxims"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Límit d'edat"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Avatars"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Bàners"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "S'ha esborrat la memòria cau de metadades"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Elimina totes les dades de llocs web de la memòria cau"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Elimina les metadades de la memòria cau"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Categoria"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Amfitrió"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Idioma"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Llicència"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Privacitat"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Intern"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Privat"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Públic"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Descatalogat"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Avatars del sots-canal"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Subscriptors"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Suport"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Etiquetes"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Miniatures"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Avatars de l'autor"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud ha descontinuat les llistes Top 50 originals. La pestanya corresponent s'ha eliminat de la pàgina principal."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "Pàgina Top 50 de SoundCloud eliminada"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube va descontinuar la pàgina de tendències combinades a partir del 21 de juliol de 2025. NewPipe va reemplaçar la pàgina de tendències predeterminada amb les transmissions en viu de tendències.\n\nTambé podeu seleccionar diferents pàgines de tendències a \"Configuració > Contingut > Contingut de la pàgina principal\"."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "Esborrades tendències combinades de YouTube"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Minimitza al reproductor en segon pla"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Cap"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Minimitza al reproductor emergent"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Acció en canviar a una altra aplicació des del reproductor de vídeo principal — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Minimitza en canviar d'aplicació"
+    },
+    {
+      "name": "missing_file",
+      "value": "El fitxer s'ha mogut o suprimit"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Finalitzades"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Pendent"
+    },
+    {
+      "name": "more_options",
+      "value": "Més opcions"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ vídeos"
+    },
+    {
+      "name": "most_liked",
+      "value": "Més m'agrada"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Calculant-ne la funció de verificació"
+    },
+    {
+      "name": "msg_copied",
+      "value": "S'ha copiat al porta-retalls"
+    },
+    {
+      "name": "msg_error",
+      "value": "Error"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Ha fallat en copiar al porta-retalls"
+    },
+    {
+      "name": "msg_name",
+      "value": "Nom de fitxer"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Es necessita aquest permís\n\nper a obrir el mode emergent"
+    },
+    {
+      "name": "msg_running",
+      "value": "Baixada del NewPipe activa"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Feu un toc aquí per a més detalls"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Fils"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Un moment…"
+    },
+    {
+      "name": "mute",
+      "value": "Silenciar"
+    },
+    {
+      "name": "name",
+      "value": "Nom"
+    },
+    {
+      "name": "network_error",
+      "value": "Error de xarxa"
+    },
+    {
+      "name": "never",
+      "value": "Mai"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Novetats"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "A causa de les limitacions d'AVPlayer, la durada de cerca és de %d segons"
+    },
+    {
+      "name": "next_stream",
+      "value": "Vídeo següent"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Aquesta opció només està disponible si%ss'ha seleccionat per al tema"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Selecciona el teu tema fosc favorit — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Tema fosc"
+    },
+    {
+      "name": "no",
+      "value": "No"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "El vostre dispositiu no té cap aplicació capaç d'obrir aquest tipus de contingut"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "No s'ha trobat cap gestor de fitxers adequat per a aquesta acció. \nInstal·leu un gestor de fitxers o intenteu desactivar «%s» als paràmetres de baixada"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "No s'ha trobat cap gestor de fitxers adequat per a aquesta acció. \nInstal·leu un gestor de fitxers compatible amb l'entorn d'accés d'emmagatzematge"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "No hi ha cap flux d'àudio disponible per a reproductors externs"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Defineix una carpeta de baixades més endavant als paràmetres"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Encara no us heu subscrit a cap canal"
+    },
+    {
+      "name": "no_comments",
+      "value": "Cap comentari"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "No s'ha establert una carpeta de descàrregues, selecciona la carpeta per defecte ara"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Encara no s'ha creat cap grup de continguts"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Cap retransmissió en directe"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Cap reproducció"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Cap visualització"
+    },
+    {
+      "name": "no_player_found",
+      "value": "No s'ha trobat cap reproductor en temps real. Voleu instal·lar el VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "No s'ha trobat cap reproductor de fluxos (podeu instal·lar el VLC per reproduir-ho)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Encara no hi ha llistes de reproducció favorites"
+    },
+    {
+      "name": "no_streams",
+      "value": "Cap emissió"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "No hi ha vídeos que es puguin baixar"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Cap subscripció"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "El fitxer no té un format ZIP vàlid"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "No hi ha cap flux de vídeo disponible per a reproductors externs"
+    },
+    {
+      "name": "no_videos",
+      "value": "Cap vídeo"
+    },
+    {
+      "name": "no_views",
+      "value": "Cap reproducció"
+    },
+    {
+      "name": "none",
+      "value": "Cap"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Primer botó d'acció"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Segon botó d'acció"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Tercer botó d'acció"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Quart botó d'acció"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Cinquè botó d'acció"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Carregant"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Res"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Repeteix"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Mescla"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "El màxim d'accions que poden aparèixer en una notificació compacta és de tres!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Editeu cada acció de la notificació tocant el botó corresponent. Podeu seleccionar-ne fins a tres, que es mostraran a les notificacions en format compacte."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Editeu cada acció de notificació de sota tocant-la. Les tres primeres accions (reproduir/pausa, anterior i següent) són establertes pel sistema i no es poden personalitzar."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Notificacions per al reproductor de NewPipe"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "Notificació de NewPipe"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Deixa que el sistema acoloreixi la notificació segons el color de la miniatura (això pot no estar disponible a tots els dispositius)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Acoloreix la notificació"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Retalla la miniatura del vídeo mostrat a la notificació de 16:9 a 1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Retalla la miniatura amb una relació d'aspecte 1:1"
+    },
+    {
+      "name": "notifications",
+      "value": "Notificacions"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Notificacions estan desactivades"
+    },
+    {
+      "name": "off",
+      "value": "Desactiva"
+    },
+    {
+      "name": "ok",
+      "value": "D'acord"
+    },
+    {
+      "name": "on",
+      "value": "Activa"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "S'ha esborrat 1 element."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Obre al navegador"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Obre en mode emergent"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Obre la cua de reproducció"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Obra pàgina web"
+    },
+    {
+      "name": "open_with",
+      "value": "Obre amb"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Això sobreescriurà els paràmetres actuals."
+    },
+    {
+      "name": "overwrite",
+      "value": "Sobreescriu"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "No es pot sobreescriure el fitxer"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Ja existeix un fitxer baixat amb aquest nom"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Ja existeix un fitxer amb aquest nom"
+    },
+    {
+      "name": "paid_content",
+      "value": "Aquests contingut és només accessible per usuaris de pagament, així que no pot ésser ni reproduït ni baixat pel NewPipe."
+    },
+    {
+      "name": "parsing_error",
+      "value": "No s'ha pogut processar el lloc web"
+    },
+    {
+      "name": "pause",
+      "value": "Pausa"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Pausa les baixades"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Interromp en connexions limitades"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Útil en canviar a les dades mòbils, tot i que algunes baixades no es poden aturar"
+    },
+    {
+      "name": "paused",
+      "value": "en pausa"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "La instància introduïda ja existeix"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "No ha estat possible validar la instància"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Introdueix l'enllaç d'una instància"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Només estàn soportades URLs HTTPS"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Afegeix-hi una instància"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Troba les instàncies que t'agraden en %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Selecciona les teves instàncies preferides del PeerTube"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "Instàncies del PeerTube"
+    },
+    {
+      "name": "percent",
+      "value": "Percent"
+    },
+    {
+      "name": "permission_denied",
+      "value": "El sistema ha denegat l'acció"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Concedeix permisos per a poder reproduir els continguts a sobre d'altres aplicacions"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "Per utilitzar el reproductor emergent, seleccioneu %1$s al següent menú de configuració d'Android i habiliteu %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "“Permetre visualització sobre altres aplicacions”"
+    },
+    {
+      "name": "play",
+      "value": "Reprodueix"
+    },
+    {
+      "name": "play_all",
+      "value": "Reprodueix-ho tot"
+    },
+    {
+      "name": "play_audio",
+      "value": "Àudio"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Paràmetres d'àudio"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Àudio: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Elimina"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Detalls"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Reprodueix amb el Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "To"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Reinicia"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Controls de la velocitat de reproducció"
+    },
+    {
+      "name": "playback_step",
+      "value": "Pas"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Tempo"
+    },
+    {
+      "name": "player_http_403",
+      "value": "Error HTTP 403 rebut del servidor durant la reproducció, probablement causat per l'expiració de la URL de transmissió o un bloqueig d'IP."
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "Error HTTP %1$s rebut del servidor durant la reproducció"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "S'està recuperant el reproductor després de l'error"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "No s'ha pogut reproduir aquest vídeo"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "S'ha produït un error irrecuperable al reproductor"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "S'ha afegit a la llista de reproducció"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Duplicat afegit/s %d vegada/es"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "S'ha creat la llista de reproducció"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Auto-generat (no es troba cap uploader)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Pàgina de llistes de reproducció"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "S'ha canviat la miniatura de la llista de reproducció."
+    },
+    {
+      "name": "playlists",
+      "value": "Llistes de reproducció"
+    },
+    {
+      "name": "popup_player",
+      "value": "Reproductor emergent"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "S'està reproduint en mode emergent"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Recorda la darrera mida i posició del reproductor emergent"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Reproductor emergent intel·ligent"
+    },
+    {
+      "name": "post_processing",
+      "value": "post-processament"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Seleccioneu una pista d'àudio amb descripcions per a persones amb discapacitat visual si està disponible"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Prefereix àudio descriptiu"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Seleccioneu la pista d'àudio original independentment de l'idioma"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Prefereix l'àudio original"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Acció per defecte en obrir continguts — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Acció d'obertura preferida"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "S'està carregant el contingut seleccionat"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "S'està obtenint la informació…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Darrera exportació"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Vídeo anterior"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "El projecte NewPipe es pren molt seriosament la vostra privadesa. Per aquesta raó, l'aplicació no emmagatzema cap dada sense el vostre consentiment. \n\nLa política de privadesa del NewPipe descriu detalladament quines dades s'envien i s'emmagatzemen quan envieu un informe d'error."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Política de privadesa del NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "Aquest contingut és privat, així que no pot ésser ni reproduït ni baixat amb el NewPipe."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Processant... Pot trigar un moment"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "Valor per defecte d'AVPlayer"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Canvia la mida de l'interval de càrrega en continguts progressius (actualment %s). Un valor inferior pot accelerar la càrrega inicial del vídeo"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Mida de l'interval de càrrega de reproducció"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "a la cua"
+    },
+    {
+      "name": "radio",
+      "value": "Ràdio"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Llegiu la llicència"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Llegiu la política de privadesa"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "Les galetes del reCAPTCHA han estat esborrades"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "S'ha sol·licitat l'emplenament d'un camp reCAPTCHA"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Resol"
+    },
+    {
+      "name": "recent",
+      "value": "Recents"
+    },
+    {
+      "name": "recently_added",
+      "value": "Afegits recentment"
+    },
+    {
+      "name": "recovering",
+      "value": "en recuperació"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Reproduccions en directe relacionades"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Suggerments de cerca remota"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Suprimeix els duplicats"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Vols suprimir tots els elements duplicats d'aquesta llista de reproducció?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Suprimeixo els duplicats?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Esborra els ja vistos"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Sí, i també els vídeos vistos parcialment"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Eliminar transmissions vistes?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "S'eliminaran les transmissions que s'hagin vist abans i després d'afegir-les a la llista de reproducció.\n\nN’esteu segur?"
+    },
+    {
+      "name": "rename",
+      "value": "Canvia el nom"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Canvia el nom"
+    },
+    {
+      "name": "replay",
+      "value": "Torna a reproduir"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Restablir tots els paràmetres descartarà els teus paràmetres preferits i reiniciarà l'aplicació.\n\nN'estàs segur?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Restableix tots els paràmetres als valors per defecte"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Restableix la configuració"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Omple"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Ajusta"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Escala"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Reinicia als valors per defecte"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Voleu reiniciar als valors per defecte?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Aquest vídeo té una restricció per edat.\n\n\n\nSi desitgeu visualitzar-lo, activeu \"%1$s\" a paràmetres."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Aquest vídeo té restriccions d'edat.\n\nDegut a la nova política d'edat de YouTube, el NewPipe no pot accedir a aquest contingut i per tant no pot reproduir-lo."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Reprèn la reproducció després d'una interrupció (exemple: una trucada)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Reprèn la reproducció"
+    },
+    {
+      "name": "retry",
+      "value": "Torna a provar"
+    },
+    {
+      "name": "rewind",
+      "value": "Rebobina"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Tria un gest per a la meitat dreta del reproductor"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Acció del gest dret"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "S'ha produït un error en llegir les pestanyes desades; s'estan utilitzant les pestanyes per defecte"
+    },
+    {
+      "name": "search",
+      "value": "Cerca"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "S'ha esborrat l'historial de cerca"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Cap resultat"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Mostrant resultats per a: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Cercar %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Cercar %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Avançar/-rebobinar duració cerca"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Vista prèvia de les miniatures de la barra de cerca"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Trieu un canal"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Tria un grup de continguts"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Trieu un quiosc"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Sel·leccioneu una llista de reproducció"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Escull la pista d'àudio per a reproductors externs"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Pot seleccionar el seu tema fosc favorit aqui sota"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Selecciona la qualitat per reproductors externs"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "El contingut escollit no és suportat per cap reproductor extern"
+    },
+    {
+      "name": "semitone",
+      "value": "Semiton"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Estableix com a miniatura de la llista de reproducció"
+    },
+    {
+      "name": "settings",
+      "value": "Paràmetres"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Aparença"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Còpia de seguretat i restauració"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Neteja les dades"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Depuració"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Baixades"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Gestiona alguns paràmetres d'AVPlayer. Caldrà reinciciar el reproductor per activar-los"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "Paràmetres d'AVPlayer"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Flux"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Historial i memòria cau"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Comportament"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Configura la notificació de reproducció actual"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Notificació del reproductor"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Reproductor"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Actualitzacions"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Vídeo i àudio"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Caràcters permesos als noms de fitxer"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Se substituiran els caràcters no vàlids amb aquest valor"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Caràcter de substitució"
+    },
+    {
+      "name": "share",
+      "value": "Comparteix"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Comparteix-ho amb"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Comparteix la llista de reproducció"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Comparteix com a llista de reproducció temporal de Youtube"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Comparteix la llista dels URLs"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Comparteix amb els títols"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sB"
+    },
+    {
+      "name": "short_million",
+      "value": "%sM"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sK"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Mostra contingut que podria ser inadequat pels infants"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Mostra el contingut restringit a menors"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Mostra detalls del canal"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Pestanyes del canal"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Quines pestanyes es mostren a les pàgines del canal"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Desactiveu-ho per no mostrar comentaris"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Mostra els comentaris"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Mostra una opció de fallada quan s'utilitza el reproductor"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Mostra \"Força el tancament del reproductor\""
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Desactiveu per amagar la descripció i la informació addicional del vídeo"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Mostra la descripció"
+    },
+    {
+      "name": "show_error",
+      "value": "Mostra l'error"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Mostra una barra d'errors"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Només alguns dispositius poden reproduir vídeos en 2K/4K"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Mostra resolucions superiors"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Mostra un missatge d'ajuda quan el botó de mode en segon pla o emergent estigui premut a la pàgina de detalls d'un vídeo"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Mostra l'indicador «Mantenir per posar a la cua»"
+    },
+    {
+      "name": "show_info",
+      "value": "Mostra la informació"
+    },
+    {
+      "name": "show_less",
+      "value": "Mostra menys"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Mostra les fuites de memòria"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Desactiveu-ho per deixar de mostrar les metadades, que contenen informació addicional sobre el creador del directe, el contingut o una sol·licitud de cerca"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Mostra les metadades"
+    },
+    {
+      "name": "show_more",
+      "value": "Mostra més"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Mostra el vídeo següent i similars"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Els textos originals dels serveis seran visibles en els directes"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Ensenya el temps passat original sobre els \"items\""
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Mostra una opció per reproduir un vídeo amb el centre multimèdia Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Mostra «Reprodueix amb el Kodi»"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Mostra suggeriments durant la cerca"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Suggeriments de cerca"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Estableix la miniatura com a fons de la pantalla de bloqueig i també de les notificacions"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Mostra'n la miniatura"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "''%1$s es va negar a proporcionar dades, sol·licitant un inici de sessió per confirmar que el sol·licitant no és un bot.\n\nÉs possible que %1$s hagi bloquejat temporalment la vostra IP. Pots esperar un temps o canviar a una IP diferent (per exemple, activant/desactivant una VPN o canviant de Wi-Fi a dades mòbils).\n\nConsulta <a href=\"%2$s\">aquesta entrada de preguntes freqüents</a> per obtenir més informació’"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Avança ràpid durant el silenci"
+    },
+    {
+      "name": "songs",
+      "value": "Cançons"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Bé, és lamentable."
+    },
+    {
+      "name": "sort",
+      "value": "Ordenar"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Aquesta és una pista de SoundCloud Go+ des del territori on us trobeu, així que no pot ésser reproduïda o baixada pel NewPipe."
+    },
+    {
+      "name": "start",
+      "value": "Inicia"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Per complir amb el Reglament General de Protecció de Dades Europeu (GDPR), us demanem que pareu atenció a la política de privadesa del NewPipe. Llegiu-la detingudament.\n\nSi voleu informar d'un error, l'haureu d'acceptar."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Inicia les baixades"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Comença a reproduir en rerefons"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Comença a reproduir en mode emergent"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Si la rotació automàtica està bloquejada, no inicieu vídeos al mini reproductor, sinó que aneu directament al mode de pantalla completa. Podeu accedir igualment al mini reproductor sortint de pantalla completa"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Inicia el reproductor principal en pantalla completa"
+    },
+    {
+      "name": "stop",
+      "value": "Atura"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "No es mostren els contiguts que no suporten descàrrega"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Notificacions sobre nous streams per a subscripcions"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Nous streams"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Comprovant freqüència"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Es necesita una conexió a Internet"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Subscripció"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Subscrit"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Nombre de subscriptors no disponible"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "No s'ha pogut modificar la subscripció"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "No s'ha pogut actualitzar la subscripció"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "No s'han pogut exportar les subscripcions"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "No s'han pogut importar les subscripcions"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Prem «Fet» quan estigui resolt"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Canvia al mode en rerefons"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Canvia al mode principal"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Canvia al mode emergent"
+    },
+    {
+      "name": "systems_language",
+      "value": "Valors per defecte"
+    },
+    {
+      "name": "tab_about",
+      "value": "Quant a i PMF"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Llistes de reproducció desades"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Llistes de reproducció"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Trieu una pestanya"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Llicències"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Subscripcions"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Mode tablet"
+    },
+    {
+      "name": "theme_title",
+      "value": "Tema"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "S'ha eliminat la memòria cau d'imatges"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Quant al NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Historial"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Cua de reproducció"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "Camp reCAPTCHA"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Últimes reproduccions"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Llicències de tercers"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Més reproduïts"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Commuta-ho tot"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Canvia a pantalla completa"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Canvia l'orientació de la pantalla"
+    },
+    {
+      "name": "top_50",
+      "value": "Els millors 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Pistes"
+    },
+    {
+      "name": "trending",
+      "value": "Tendències"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Tendències de videojocs"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Tendències de pel·lícules i sèries"
+    },
+    {
+      "name": "trending_music",
+      "value": "Tendències de música"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Tendències de podcasts"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Elimina l'adreça d'interès"
+    },
+    {
+      "name": "undo",
+      "value": "Desfés"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Desvincula (pot causar deformació)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Desconegut"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Desconegut]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Format desconegut"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Cualitat desconeguda"
+    },
+    {
+      "name": "unmute",
+      "value": "Desactivar Silenci"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Desestableix la miniatura permanent"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Elimina la subscripció"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "Aquest contingut no està disponible per al país de contingut seleccionat actualment.\n\nCanvia la teva selecció a \"Paràmetres > Contingut > País de contingut predeterminat\"."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Aquest URL no és compatible"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "No s'ha pogut reconèixer l'adreça URL. Obrir-la amb una altra aplicació?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Mostra una notificació per demanar l'actualització de l'aplicació si hi ha una versió nova disponible"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Actualitzacions"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Publicat el %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Habilita aquesta opció si tens problemes en iniciar el decodificador. S'usaran decodificadors alternatius de baixa prioritat si falla el decodificador primari. Això pot provocar una disminució de la qualitat de la reproducció en relació a l'ús del decodificador primari"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Usa la funció de suport de decodificació d'AVPlayer"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Reproductor d'àudio extern"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Elimina l'àudio en algunes resolucions"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Reproductor de vídeo extern"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "La cerca poc precisa permet que el reproductor cerqui una posició més ràpidament amb menys precisió. Cerques de 5, 15 o 25 segons no funcionaran"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Cerca ràpida poc precisa"
+    },
+    {
+      "name": "users",
+      "value": "Usuaris"
+    },
+    {
+      "name": "video",
+      "value": "Vídeo"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Per %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Reproductor de vídeo"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "No s'ha trobat cap flux de vídeo"
+    },
+    {
+      "name": "videos_string",
+      "value": "Vídeos"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Visualitza a GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "Volum"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "S'ha esborrat l'historial de reproduccions"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "S'ha esborrat les posicions de reproducció"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Per a més informació i notícies, visiteu el nostre web."
+    },
+    {
+      "name": "website_title",
+      "value": "Lloc web"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Informació:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Què ha passat:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Només en Wi-Fi"
+    },
+    {
+      "name": "yes",
+      "value": "Sí"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Ara estás subscrit a aquest canal"
+    },
+    {
+      "name": "your_comment",
+      "value": "Comentari (en anglès):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Aquest vídeo és només disponible pels usuaris subscriptors de YouTube Music Premium, així que no pot ésser ni reproduït ni baixat pel NewPipe."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "Error HTTP 403 rebut del servidor durant la reproducció, probablement causat per un bloqueig d'IP o problemes de desofuscació de la URL de transmissió"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube proporciona un \"mode restringit\" que amaga contingut potencialment inadequat per a infants"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Activa el \"mode restringit\" de YouTube"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

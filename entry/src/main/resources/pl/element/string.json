@@ -1,0 +1,3092 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Akceptuj"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Konto zamknięte."
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Konto zamknięte.\n\n%1$s podaje następujący powód: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "Historia"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Dodaj do playlisty"
+    },
+    {
+      "name": "albums",
+      "value": "Albumy"
+    },
+    {
+      "name": "all",
+      "value": "Wszystkie"
+    },
+    {
+      "name": "always",
+      "value": "Zawsze"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Zawsze pytaj"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "To obejście zwalnia i ponownie tworzy instancje kodeków wideo, gdy nastąpi zmiana powierzchni, zamiast bezpośrednio ustawiać powierzchnię dla kodeka. Używane już przez ExoPlayera na niektórych urządzeniach z tym problemem, ustawienie to ma wpływ tylko na Androida 6 i nowsze.\n\n\n\nWłączenie tej opcji może zapobiec błędom odtwarzania podczas przełączania obecnego odtwarzacza wideo lub przechodzenia na pełny ekran"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Zawsze używaj obejścia ustawienia powierzchni wyjścia wideo AVPlayera"
+    },
+    {
+      "name": "any_network",
+      "value": "Dowolna sieć"
+    },
+    {
+      "name": "api23_requirement_dialog_blogpost",
+      "value": "Wpis na blogu"
+    },
+    {
+      "name": "api23_requirement_dialog_message",
+      "value": "Niestety, NewPipe zależy od kilku bibliotek, które przestały obsługiwać Androida 5.0 i 5.1. W związku z tym kolejna wersja NewPipe będzie działać wyłącznie na urządzeniach z Androidem 6 lub nowszym. Czytaj więcej we wpisie na blogu."
+    },
+    {
+      "name": "api23_requirement_dialog_title",
+      "value": "NewPipe przestaje obsługiwać Androida 5"
+    },
+    {
+      "name": "app_description",
+      "value": "Lekkie przesyłanie strumieniowe w systemie HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Język aplikacji"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe jest wolnym i bezpłatnym oprogramowaniem: Możesz używać, udostępniać i ulepszać je do woli. W szczególności możesz je redystrybuować i/lub modyfikować zgodnie z warunkami GNU General Public License, opublikowanej przez Free Software Fundation, w wersji 3 albo (według Twojego wyboru) jakiejkolwiek późniejszej wersji."
+    },
+    {
+      "name": "app_license_title",
+      "value": "Licencja NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Awaria aplikacji/interfejsu"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Naciśnij, aby pobrać %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Dostępna jest aktualizacja NewPipe!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Powiadomienia o nowych wersjach NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Powiadomienie o aktualizacji aplikacji"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Używasz najnowszej wersji NewPipe"
+    },
+    {
+      "name": "artists",
+      "value": "Artyści"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Nie znaleziono strumieni audio"
+    },
+    {
+      "name": "audio_track",
+      "value": "Ścieżka dźwiękowa"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Ścieżka dźwiękowa powinna już się znajdować w tym strumieniu"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "audiodeskrypcja"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "dubbing"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "oryginalna"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "dodatkowa"
+    },
+    {
+      "name": "auto",
+      "value": "Automatyczny"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Automatyczny (motyw urządzenia)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Gdy kończy się kolejka odtwarzania, dodaj do niej kolejną powiązaną pozycję"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Automatyczne kolejkowanie następnego strumienia"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Automatyczna kolejka"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe może od czasu do czasu automatycznie sprawdzać dostępność nowych wersji i powiadamiać Cię, gdy tylko będą dostępne.\n\nCzy chcesz to włączyć?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Rozpoczynaj odtwarzanie automatycznie — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Automatyczne odtwarzanie"
+    },
+    {
+      "name": "background_player",
+      "value": "Odtwarzacz w tle"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Odtwarzanie w tle"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Najlepsza rozdzielczość"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Czarny"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Pusta strona"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Dodaj do ulubionych"
+    },
+    {
+      "name": "brightness",
+      "value": "Jasność"
+    },
+    {
+      "name": "cancel",
+      "value": "Anuluj"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Wygenerowane automatycznie"
+    },
+    {
+      "name": "caption_none",
+      "value": "Bez napisów"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Zmodyfikuj rozmiar tekstu napisów odtwarzacza i style tła. Wymaga ponownego uruchomienia aplikacji, aby zmiany zostały uwzględnione"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Napisy"
+    },
+    {
+      "name": "card",
+      "value": "Karta"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Utworzony przez %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Strona kanału"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Informacje"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Albumy"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Kanały"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Polubienia"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Na żywo"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Playlisty"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Shorts"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Utwory"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Wideo"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Anulowano subskrypcję kanału"
+    },
+    {
+      "name": "channels",
+      "value": "Kanały"
+    },
+    {
+      "name": "chapters",
+      "value": "Rozdziały"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Litery i cyfry"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Większość znaków specjalnych"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Sprawdź dostępność aktualizacji"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Uruchom sprawdzenie nowych strumieni"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Sprawdzanie aktualizacji…"
+    },
+    {
+      "name": "checksum",
+      "value": "Suma kontrolna"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Wybierz serwer"
+    },
+    {
+      "name": "clear",
+      "value": "Wyczyść"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Usuwa ciasteczka, które NewPipe przechowuje po rozwiązaniu reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Wyczyść ciasteczka reCAPTCHA"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Wyczyść historię pobierania"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Usuwa wszystkie pozycje odtwarzania"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Wyczyść pozycje odtwarzania"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Kolejka aktywnego odtwarzacza zostanie zastąpiona"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Przejście z jednego odtwarzacza na inny może zastąpić kolejkę"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Poproś o potwierdzenie przed wyczyszczeniem kolejki"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Usuwa historię wyszukiwania słów kluczowych"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Wyczyść historię wyszukiwania"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Usuwa historię odtworzonych strumieni i pozycje odtwarzania"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Wyczyść historię oglądania"
+    },
+    {
+      "name": "close",
+      "value": "Zamknij"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Komentarze są wyłączone"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Komentarze"
+    },
+    {
+      "name": "conferences",
+      "value": "Konferencje"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Czy chcesz wyczyścić historię pobierania, czy usunąć wszystkie pobrane pliki?"
+    },
+    {
+      "name": "content",
+      "value": "Zawartość"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Domyślny język treści"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Treść niedostępna"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Ta treść nie jest jeszcze obsługiwana przez NewPipe.\n\n\n\nMiejmy nadzieję, że będzie obsługiwana w przyszłej wersji."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Niezależnie od tego, czy masz pomysł na tłumaczenie, zmiany w projekcie, oczyszczenie kodu źródłowego, czy na naprawdę ciężkie zmiany w kodzie — pomoc jest zawsze mile widziana. Im więcej jest zrobione, tym lepiej!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Wkład"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Dodaj do"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "W tle"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Pobierz plik strumienia"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Tryb okienkowy"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Skopiuj sformatowany raport"
+    },
+    {
+      "name": "copyright",
+      "value": "©%1$s %2$s na licencji %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Ostrzeżenie: Nie udało się zaimportować wszystkich plików"
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Nie udało się załadować wszystkich miniatur"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Nie udało się utworzyć menu pobierania"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Zepsuj aplikację"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Zepsuj odtwarzacz"
+    },
+    {
+      "name": "create",
+      "value": "Utwórz"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Utwórz powiadomienie o błędzie"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Nowa playlista"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Ciemny"
+    },
+    {
+      "name": "decline",
+      "value": "Odrzuć"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Domyślny format audio"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Domyślny kraj treści"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Domyślna karta „Odkrywaj”"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Domyślna rozdzielczość trybu okienkowego"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Domyślna rozdzielczość"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Domyślny format wideo"
+    },
+    {
+      "name": "delete",
+      "value": "Usuń"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Usuń pobrane pliki"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Czy usunąć wszystkie pobrane pliki z dysku?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Usuń wpis"
+    },
+    {
+      "name": "delete_file",
+      "value": "Usuń plik"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Czy chcesz usunąć tę pozycję z historii wyszukiwania?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Usunąć wszystkie pozycje odtwarzania?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Czy usunąć tę playlistę?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Usunąć całą historię wyszukiwania?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Usunąć całą historię oglądania?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Wyłącz zaznaczanie tekstu w opisie"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Włącz zaznaczanie tekstu w opisie"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Teraz możesz zaznaczyć tekst wewnątrz opisu. Pamiętaj, że w trybie zaznaczania strona może migotać i linki nie będą klikalne."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Opis"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Łapki w dół"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Przeciągnij, aby zmienić kolejność"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Serduszko od twórcy"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Polubienia"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Przypięty komentarz"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Miniatura awatara kanału"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Odtwarzane wideo, czas trwania:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Miniatura awatara przesyłającego"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Czy chodziło Ci o „%1$s”?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Tunelowanie multimediów zostało domyślnie wyłączone na Twoim urządzeniu, ponieważ wiadomo, że model Twojego urządzenia go nie obsługuje"
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Wyłącz tunelowanie multimediów, jeśli zaobserwowałeś(-aś) czarny ekran bądź brak płynności odtwarzania wideo."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Wyłącz tunelowanie multimediów"
+    },
+    {
+      "name": "disabled",
+      "value": "Wyłączone"
+    },
+    {
+      "name": "dismiss",
+      "value": "Odrzuć"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe jest rozwijany przez wolontariuszy, którzy poświęcają swój wolny czas, zapewniając Ci najlepsze wrażenia z użytkowania. To dobry moment na wsparcie programistów i sprawienie, aby NewPipe był jeszcze lepszy, podczas gdy oni będą mogli delektować się filiżanką kawy."
+    },
+    {
+      "name": "donation_title",
+      "value": "Dotacja"
+    },
+    {
+      "name": "done",
+      "value": "Gotowe"
+    },
+    {
+      "name": "dont_show",
+      "value": "Nie pokazuj"
+    },
+    {
+      "name": "download",
+      "value": "Pobierz"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Plik o tej samej nazwie oczekuje na pobranie"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Trwa już pobieranie pliku o tej samej nazwie"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Pobierz"
+    },
+    {
+      "name": "download_failed",
+      "value": "Pobieranie nie powiodło się"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Rozpoczęto pobieranie"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Wybierz folder zapisywania plików audio"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Pobrane pliki audio są przechowywane tutaj"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Folder zapisywania audio"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Wybierz folder zapisywania plików wideo"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Pobrane pliki wideo są przechowywane tutaj"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Folder zapisywania wideo"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Pobieranie na kartę pamięci nie jest możliwe. Zresetować lokalizację folderu zapisywania?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Pamięć zewnętrzna niedostępna"
+    },
+    {
+      "name": "downloads",
+      "value": "Pobrane"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Zostaniesz zapytany(-a), gdzie zapisać każdy pobierany plik.\n\nWłącz systemowy selektor folderów (SAF), jeśli chcesz pobierać pliki na kartę pamięci"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Zostaniesz zapytany(-a), gdzie zapisać każdy pobierany plik"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Pytaj, gdzie pobrać"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "Storage Access Framework umożliwia pobieranie na kartę pamięci"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Począwszy od Androida 10 obsługiwany jest tylko Storage Access Framework"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Używaj systemowego selektora folderów (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Pobrane"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Zamknij menu"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Przełącz usługę, aktualnie wybrana:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Otwórz menu"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Wyszarzone playlisty zawierają już tę pozycję"
+    },
+    {
+      "name": "duration",
+      "value": "Czas trwania"
+    },
+    {
+      "name": "duration_live",
+      "value": "Na żywo"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Nic tu nie ma. Słychać tylko świerszcze."
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Wymuś raportowanie niedostarczonych wyjątków Rx poza cyklem życia fragmentu lub aktywności po usunięciu"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Zgłaszaj błędy spoza cyklu życia"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Monitorowanie wycieków pamięci może powodować niestabilność aplikacji podczas zrzutu pamięci"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Przywracaj odtwarzanie od ostatniej pozycji"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Wznawiaj odtwarzanie"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Pokazuj wskaźniki pozycji odtwarzania na listach"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Pozycje odtwarzania na listach"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Ogranicz kolejkę pobierania"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Tylko jedno pobieranie zostanie uruchomione w tym samym czasie"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Przechowuj lokalnie historię wyszukiwania"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Historia wyszukiwania"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Powiadamiaj o nowych strumieniach z subskrypcji"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Powiadomienia o nowych strumieniach"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Śledź obejrzane wideo"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Historia oglądania"
+    },
+    {
+      "name": "enqueue",
+      "value": "Kolejka"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Dodaj do kolejki (następny)"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Dodaj do kolejki"
+    },
+    {
+      "name": "enqueued",
+      "value": "Dodano do kolejki"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Dodano do kolejki (następny)"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Usunięto wpis"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Nie udało się połączyć z serwerem"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Szczegóły:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Nie udało się odzyskać tego pobrania"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Nie udało się utworzyć pliku"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Serwer nie wysyła danych"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Nie znaleziono"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Serwer nie akceptuje pobierania wielowątkowego, spróbuj ponownie za pomocą @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Za mało wolnego miejsca na urządzeniu"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Brak miejsca na urządzeniu"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Wystąpił błąd: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Nie udało się utworzyć folderu docelowego"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Przetwarzanie końcowe nie powiodło się"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe został zamknięty podczas pracy nad plikiem"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Utracono postęp, ponieważ plik został usunięty"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Zgłoś przez e-mail"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Powiadomienia do zgłaszania błędów"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Powiadomienie raportu o błędach"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe napotkał błąd. Naciśnij, aby zgłosić"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Wystąpił błąd, zobacz powiadomienie"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Sprawdź, czy problem dotyczący Twojej awarii już istnieje. Tworząc zduplikowane zgłoszenia, zajmujesz nam czas, który możemy poświęcić na naprawienie istniejącego błędu."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Zgłoś na GitHubie"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Raport o błędach"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Zgłoś"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Niestety, coś poszło nie tak"
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Nie udało się nawiązać bezpiecznego połączenia"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Minął czas połączenia"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Nie udało się załadować komentarzy"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Nie udało się znaleźć serwera"
+    },
+    {
+      "name": "events",
+      "value": "Wydarzenia"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Wyeksportowano"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Eksportuje bieżącą historię, subskrypcje, playlisty i ustawienia"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Eksportuj dane"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Eksportowanie…"
+    },
+    {
+      "name": "export_subscriptions_summary",
+      "value": "Wyeksportuj swoje subskrypcje do pliku .json"
+    },
+    {
+      "name": "export_subscriptions_title",
+      "value": "Eksportuj subskrypcje"
+    },
+    {
+      "name": "export_to",
+      "value": "Eksportuj do"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Zewnętrzne odtwarzacze nie obsługują linków tego typu"
+    },
+    {
+      "name": "faq",
+      "value": "Zobacz na stronie internetowej"
+    },
+    {
+      "name": "faq_description",
+      "value": "Jeśli masz problemy podczas korzystania z aplikacji, koniecznie sprawdź odpowiedzi na najczęściej pojawiające się pytania!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Często zadawane pytania"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Tryb szybki"
+    },
+    {
+      "name": "featured",
+      "value": "Polecane"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Nowa"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Pobieranie kart kanału"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Karty do pobrania podczas aktualizacji kanału. Ta opcja nie działa, jeśli kanał jest aktualizowany w trybie szybkim"
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Czy chcesz usunąć tę grupę?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Pusta nazwa grupy"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Nie wybrano żadnej subskrypcji"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Wybierz subskrypcje"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Strona grupy kanałów"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Pokaż tylko niezgrupowane"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Grupy kanałów"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Pokaż następujące strumienie"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Błąd podczas ładowania kanału"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Nie udało się załadować kanału dla „%s”."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Tryb szybki dla ładowania kanału nie dostarcza więcej informacji na ten temat."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Konto autora zostało zawieszone.\n\nNewPipe nie będzie w stanie załadować tego kanału w przyszłości.\n\nCzy chcesz anulować subskrypcję tego kanału?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Nowe pozycje kanału"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Ładowanie kanału…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Ostatnia aktualizacja kanału: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Przetwarzanie danych kanału…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Pokaż/Ukryj strumienie"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Częściowo obejrzane"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Nadchodzące"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "W pełni obejrzane"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Nie załadowano: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Zawsze aktualizuj"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Czas od ostatniej aktualizacji, zanim subskrypcja zostanie uznana za nieaktualną — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Próg aktualizacji kanału"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Wyłącz tryb szybki"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Włącz tryb szybki"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Czy uważasz, że ładowanie kanałów jest zbyt powolne? Jeśli tak, spróbuj włączyć szybkie ładowanie (możesz je zmienić w ustawieniach lub naciskając przycisk poniżej).\n\nNewPipe oferuje dwie strategie ładowania kanału:\n• Pobieranie całego kanału subskrypcji, co jest powolne, ale kompletne.\n• Korzystanie z dedykowanego punktu końcowego usługi, co jest szybkie, ale zwykle nie jest kompletne.\n\nRóżnica między nimi polega na tym, że w szybkim zwykle brakuje pewnych informacji, takich jak czas trwania lub typ pozycji (nie można odróżnić wideo na żywo od zwykłych), i może zwrócić mniej pozycji.\n\nYouTube jest przykładem usługi, która oferuje tę szybką metodę z kanałem RSS.\n\nTak więc wybór sprowadza się do tego, co wolisz: szybkość czy precyzyjne informacje."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Dostępne w niektórych usługach. Jest zwykle znacznie szybsze, ale może zwrócić ograniczoną liczbę pozycji i często niekompletne informacje (np. brak czasu trwania, typu pozycji, statusu na żywo)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Pobieraj z dedykowanego kanału, jeśli jest dostępny"
+    },
+    {
+      "name": "file",
+      "value": "Plik"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Usunięto plik"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Nazwa pliku nie może być pusta"
+    },
+    {
+      "name": "forward",
+      "value": "Przewiń do przodu"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Co nowego"
+    },
+    {
+      "name": "general_error",
+      "value": "Błąd"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Wygeneruj unikalną nazwę"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Ta treść nie jest dostępna w Twoim kraju."
+    },
+    {
+      "name": "get_notified",
+      "value": "Otrzymuj powiadomienia"
+    },
+    {
+      "name": "give_back",
+      "value": "Wspomóż"
+    },
+    {
+      "name": "grid",
+      "value": "Siatka"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Powiadomienia o postępie tworzenia skrótów wideo"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Powiadomienie o obliczaniu skrótu wideo"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Wysoka jakość (większy)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Przytrzymaj, aby zakolejkować"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Przydatne, na przykład, jeśli używasz zestawu słuchawkowego z zepsutymi fizycznymi przyciskami"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Ignoruj zdarzenia sprzętowego przycisku multimedialnego"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Wysoka jakość"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Niska jakość"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Średnia jakość"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Nie ładuj"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Wybierz jakość obrazów albo czy w ogóle je ładować, aby zmniejszyć zużycie danych i pamięci. Zmiana czyści pamięć podręczną obrazów zarówno w pamięci, jak i na dysku — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Jakość obrazów"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Zaimportowano"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Zastępuje bieżącą historię, subskrypcje, playlisty i (opcjonalnie) ustawienia"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Importuj dane"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Importuj plik"
+    },
+    {
+      "name": "import_from",
+      "value": "Importuj z"
+    },
+    {
+      "name": "import_from_previous_export",
+      "value": "Importuj z poprzedniego eksportu"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Ta operacja może wygenerować duże użycie danych.\n\n\n\nCzy chcesz kontynuować?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Importowanie…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Czy chcesz zaimportować również ustawienia?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Ustawienia w importowanym eksporcie korzystają z podatnego na ataki formatu, który został wycofany od wersji NewPipe 0.27.0. Upewnij się, że importowany eksport pochodzi z zaufanego źródła, i w przyszłości używaj wyłącznie eksportów uzyskanych z NewPipe 0.27.0 lub nowszego. Obsługa importowania ustawień w tym podatnym formacie zostanie wkrótce całkowicie usunięta, a wtedy starsze wersje NewPipe nie będą już mogły importować ustawień z eksportu z nowych wersji."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Zaimportuj profil SoundCloud, wpisując adres URL lub swój identyfikator:\n\n\n\n1. Włącz opcję „Wersja na komputery” w przeglądarce internetowej (strona nie jest dostępna dla urządzeń mobilnych).\n\n2. Przejdź do tego adresu URL: %1$s.\n\n3. Zaloguj się, gdy zostaniesz o to poproszony(-a).\n\n4. Skopiuj adres URL profilu, na który zostałeś(-aś) przekierowany(-a)."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "twojeID, soundcloud.com/yourid"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Importuj lub eksportuj subskrypcje z menu z trzema kropkami."
+    },
+    {
+      "name": "import_subscriptions_summary",
+      "value": "Zaimportuj subskrypcje z poprzedniego eksportu do .json"
+    },
+    {
+      "name": "import_subscriptions_title",
+      "value": "Importuj subskrypcje"
+    },
+    {
+      "name": "import_title",
+      "value": "Importuj"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Zaimportuj subskrypcje YouTube z Google Takeout:\n\n\n\n1. Przejdź do tego adresu URL: %1$s.\n\n2. Zaloguj się, gdy zostaniesz o to poproszony(-a).\n\n3. Naciśnij „Wybrano wszystkie dane z YouTube”, następnie „Odznacz wszystkie”, potem zaznacz tylko „subskrypcje” i naciśnij „OK”.\n\n4. Naciśnij „Następny krok”, a następnie „Utwórz eksport”.\n\n5. Naciśnij przycisk „Pobierz”, gdy się pojawi.\n\n6. Naciśnij IMPORTUJ PLIK poniżej i wybierz pobrany plik ZIP.\n\n7. [Jeśli importowanie pliku ZIP nie powiedzie się] Wypakuj plik subskrypcje.csv (powinien znajdować się w katalogu „YouTube i YouTube Music/subskrypcje.csv”), naciśnij IMPORTUJ PLIK poniżej i wybierz wypakowany plik CSV."
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ wideo"
+    },
+    {
+      "name": "info_labels",
+      "value": "Co:\nŻądanie:\nJęzyk treści:\nKraj treści:\nJęzyk aplikacji:\nUsługa:\nZnacznik czasu:\nPakiet:\nWersja:\nWersja systemu:"
+    },
+    {
+      "name": "install",
+      "value": "Zainstaluj"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Brak takiego folderu"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Plik nie istnieje albo brakuje uprawnień do jego odczytu lub zapisu"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Brak takiego źródła pliku/zawartości"
+    },
+    {
+      "name": "just_once",
+      "value": "Tylko raz"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "Szczegóły"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "W sierpniu 2025 r. Google ogłosił, że od września 2026 r. instalowanie aplikacji będzie wymagać weryfikacji ich twórców w przypadku wszystkich aplikacji na Androida na certyfikowanych urządzeniach, w tym tych zainstalowanych poza sklepem Google Play. Ponieważ programiści NewPipe nie zgadzają się z tym wymogiem, NewPipie nie będzie już działać na certyfikowanych urządzeniach z Androidem po tym czasie."
+    },
+    {
+      "name": "kao_solution",
+      "value": "Rozwiązanie"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Strona „Odkrywaj”"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Czy zainstalować brakującą aplikację Kore?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary jest niedostępne"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Wybierz gest dla lewej strony ekranu odtwarzacza"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Akcja gestu z lewej"
+    },
+    {
+      "name": "license",
+      "value": "%1$s na licencji %2$s"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Jasny"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Bez limitu"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Ograniczaj rozdzielczość podczas korzystania z danych mobilnych"
+    },
+    {
+      "name": "list",
+      "value": "Lista"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Tryb widoku listy"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Ładowanie metadanych…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Ładowanie szczegółów strumienia…"
+    },
+    {
+      "name": "local",
+      "value": "Lokalne"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Lokalne podpowiedzi wyszukiwania"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Niska jakość (mniejszy)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Naciśnij lupkę, aby rozpocząć."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Zawartość strony głównej"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Karty wyświetlane na stronie głównej"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Przesuń w bok elementy, aby je usunąć"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Przenieś selektor kart głównych na dół"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Pozycja kart głównych"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Ręcznie sprawdź dostępność nowych wersji"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Oznacz jako obejrzane"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Maksymalna liczba prób przed anulowaniem pobierania"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Maksymalna liczba ponownych prób"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Ograniczenie wiekowe"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Awatary"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Banery"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Wyczyszczono pamięć podręczną metadanych"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Usuwa całą pamięć podręczną stron"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Wyczyść pamięć podręczną metadanych"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Kategoria"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Host"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Język"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Licencja"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Widoczność"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Wewnętrzny"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Prywatny"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Publiczny"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Niepubliczny"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Awatary podkanału"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Subskrybujący"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Wsparcie"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Tagi"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Miniatury"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Awatary przesyłającego"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud wycofał oryginalną listę 50 najlepszych. Odpowiadająca karta została usunięta ze strony głównej."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "Usunięto stronę SoundCloud 50 najlepszych"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "Od 21 lipca 2025 r. YouTube zaprzestał korzystania z połączonego Na czasie. NewPipe zastąpił domyślną stronę Na czasie popularnymi transmisjami na żywo.\n\nMożesz także wybrać różne strony Na czasie w „Ustawienia > Zawartość > Zawartość strony głównej”."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "Usunięto połączone Na czasie YouTube"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Zminimalizuj do odtwarzacza w tle"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Brak"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Zminimalizuj do odtwarzacza w trybie okienkowym"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Akcja po przejściu do innej aplikacji z głównego odtwarzacza wideo — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Minimalizuj przy przełączaniu aplikacji"
+    },
+    {
+      "name": "missing_file",
+      "value": "Plik usunięty albo przeniesiony"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Zakończone"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Oczekujące"
+    },
+    {
+      "name": "more_options",
+      "value": "Więcej opcji"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ wideo"
+    },
+    {
+      "name": "most_liked",
+      "value": "Najbardziej lubiane"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Obliczanie skrótu"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Skopiowano do schowka"
+    },
+    {
+      "name": "msg_error",
+      "value": "Błąd"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Nie udało się skopiować do schowka"
+    },
+    {
+      "name": "msg_name",
+      "value": "Nazwa pliku"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "To pozwolenie jest wymagane, aby\n\notworzyć w trybie okienkowym"
+    },
+    {
+      "name": "msg_running",
+      "value": "Pobieranie NewPipe"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Naciśnij, aby zobaczyć szczegóły"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Wątki"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Proszę czekać…"
+    },
+    {
+      "name": "mute",
+      "value": "Wycisz"
+    },
+    {
+      "name": "name",
+      "value": "Nazwa"
+    },
+    {
+      "name": "navigate_back",
+      "value": "Wstecz"
+    },
+    {
+      "name": "network_error",
+      "value": "Błąd sieci"
+    },
+    {
+      "name": "never",
+      "value": "Nigdy"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Nowe i popularne"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Wielkość skoku przewijania została ustawiona na %d sekund ze względu na ograniczenia odtwarzacza AVPlayer"
+    },
+    {
+      "name": "next_stream",
+      "value": "Następny strumień"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Ta opcja jest dostępna tylko wtedy, gdy %s jest wybrany jako motyw"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Wybierz swój ulubiony motyw nocny — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Motyw nocny"
+    },
+    {
+      "name": "no",
+      "value": "Nie"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Żadna aplikacja na Twoim urządzeniu nie może tego otworzyć"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Nie znaleziono odpowiedniego menedżera plików dla tej akcji.\n\nZainstaluj menedżer plików lub spróbuj wyłączyć „%s” w ustawieniach pobierania."
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Nie znaleziono odpowiedniego menedżera plików dla tej akcji.\n\nZainstaluj menedżer plików zgodny z Storage Access Framework."
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Brak dostępnych strumieni audio dla zewnętrznych odtwarzaczy"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Zdefiniuj folder zapisywania później w ustawieniach"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Nie masz jeszcze subskrypcji kanałów"
+    },
+    {
+      "name": "no_comments",
+      "value": "Brak komentarzy"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Nie ustawiono jeszcze folderu zapisywania, wybierz domyślny teraz"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Nie utworzono jeszcze grupy kanałów"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Brak transmisji na żywo"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Nikt nie słucha"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Nikt nie ogląda"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Nie znaleziono odtwarzacza strumieni. Zainstalować VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Nie znaleziono odtwarzacza strumieni (żeby odtworzyć, możesz zainstalować VLC)"
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Nie masz jeszcze ulubionych playlist"
+    },
+    {
+      "name": "no_streams",
+      "value": "Brak strumieni"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Brak strumieni do pobrania"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Brak subskrybentów"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Nieprawidłowy plik ZIP"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Brak dostępnych strumieni wideo dla zewnętrznych odtwarzaczy"
+    },
+    {
+      "name": "no_videos",
+      "value": "Brak wideo"
+    },
+    {
+      "name": "no_views",
+      "value": "Brak wyświetleń"
+    },
+    {
+      "name": "none",
+      "value": "Brak"
+    },
+    {
+      "name": "not_available",
+      "value": "Niedostępna"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Przycisk pierwszej akcji"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Przycisk drugiej akcji"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Przycisk trzeciej akcji"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Przycisk czwartej akcji"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Przycisk piątej akcji"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Buforowanie"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Nic"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Powtórz"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Losuj"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Możesz wybrać co najwyżej trzy akcje do wyświetlania w kompaktowym powiadomieniu!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Edytuj każdą poniższą akcję powiadomienia, naciskając ją. Wybierz do trzech z nich, które mają być wyświetlane w kompaktowym powiadomieniu, korzystając z pól wyboru po prawej stronie"
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Edytuj każdą poniższą akcję powiadomienia, naciskając ją. Pierwsze trzy akcje (odtwórz/wstrzymaj, poprzedni i następny) są ustawione przez system i nie można ich dostosować"
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Powiadomienia dla odtwarzacza NewPipe"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "Powiadomienie NewPipe"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Niech Android dostosuje kolor powiadomienia zgodnie z głównym kolorem na miniaturze (nie jest to dostępne na wszystkich urządzeniach)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Zabarwiaj powiadomienia"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Przycinaj miniaturę wideo wyświetlaną w powiadomieniu z proporcji 16:9 do 1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Przycinaj miniaturę do proporcji 1:1"
+    },
+    {
+      "name": "notifications",
+      "value": "Powiadomienia"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Powiadomienia są wyłączone"
+    },
+    {
+      "name": "off",
+      "value": "Wyłączony"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "on",
+      "value": "Włączony"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "Usunięto jedną pozycję"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Otwórz w przeglądarce"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Otwórz w trybie okienkowym"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Otwórz kolejkę odtwarzania"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Otwórz stronę"
+    },
+    {
+      "name": "open_with",
+      "value": "Otwórz za pomocą"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Zastąpi to obecne ustawienia."
+    },
+    {
+      "name": "overwrite",
+      "value": "Nadpisz"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "Nie udało się nadpisać pliku"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Pobrany plik o tej nazwie już istnieje"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Plik o tej nazwie już istnieje"
+    },
+    {
+      "name": "paid_content",
+      "value": "Ta treść dostępna jest tylko dla użytkowników, którzy za nią zapłacili. Nie może być strumieniowana ani pobierana przez NewPipe."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Nie udało się przetworzyć strony internetowej"
+    },
+    {
+      "name": "pause",
+      "value": "Wstrzymaj"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Wstrzymaj pobieranie"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Przerwij przy sieciach z ograniczonym transferem"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Pomocne przy przełączaniu na dane mobilne, chociaż niektóre pobierania nie mogą być wstrzymywane"
+    },
+    {
+      "name": "paused",
+      "value": "wstrzymane"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Serwer już istnieje"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Nie udało się sprawdzić poprawności serwera"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Wprowadź adres URL serwera"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Obsługiwane są tylko adresy HTTPS"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Dodaj serwer"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Znajdź serwery, które lubisz, na %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Wybierz swoje ulubione serwery PeerTube"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "Serwery PeerTube"
+    },
+    {
+      "name": "percent",
+      "value": "Procent"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Akcja odrzucona przez system"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Udziel uprawnienia do wyświetlania nad innymi aplikacjami"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "Aby korzystać z odtwarzacza w trybie okienkowym, wybierz %1$s w następującym menu ustawień Androida i włącz %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "„Zezwól na wyświetlanie nad innymi aplikacjami”"
+    },
+    {
+      "name": "play",
+      "value": "Odtwórz"
+    },
+    {
+      "name": "play_all",
+      "value": "Odtwórz wszystkie"
+    },
+    {
+      "name": "play_audio",
+      "value": "Dźwięk"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Ustawienia dźwięku"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Dźwięk: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Usuń"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Szczegóły"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Odtwórz w Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Wysokość dźwięku"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Zresetuj"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Sterowanie prędkością odtwarzania"
+    },
+    {
+      "name": "playback_step",
+      "value": "Krok"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Tempo"
+    },
+    {
+      "name": "player_http_403",
+      "value": "Podczas odtwarzania otrzymano od serwera błąd HTTP 403, prawdopodobnie spowodowany wygaśnięciem adresu URL strumienia lub blokadą adresu IP."
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "Podczas odtwarzania otrzymano od serwera błąd HTTP %1$s."
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Odzyskiwanie po błędzie odtwarzacza"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Nie udało się odtworzyć tego strumienia"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Wystąpił nieodwracalny błąd odtwarzacza"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Dodano do playlisty"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Dodano duplikat %d raz(y)"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Playlista utworzona"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Wygenerowana automatycznie (nie znaleziono przesyłającego)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Strona playlisty"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Miniatura playlisty zmieniona"
+    },
+    {
+      "name": "playlists",
+      "value": "Playlisty"
+    },
+    {
+      "name": "popup_player",
+      "value": "Odtwarzacz w trybie okienkowym"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Odtwarzanie w trybie okienkowym"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Zapamiętaj ostatni rozmiar i pozycję trybu okienkowego"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Pamiętaj właściwości trybu okienkowego"
+    },
+    {
+      "name": "post_processing",
+      "value": "przetwarzanie końcowe"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Wybieraj ścieżkę dźwiękową z opisami dla osób niedowidzących, jeśli jest dostępna"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Preferuj audiodeskrypcję"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Wybieraj oryginalną ścieżkę dźwiękową niezależnie od języka"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Preferuj oryginalny dźwięk"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Domyślna akcja podczas otwierania treści — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Preferowana akcja „otwórz”"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Ładowanie żądanej treści"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Uzyskiwanie informacji…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Poprzedni eksport"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Poprzedni strumień"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "Projekt NewPipe bardzo poważnie traktuje Twoją prywatność, dlatego aplikacja nie gromadzi żadnych danych bez Twojej zgody.\n\nPolityka prywatności NewPipe szczegółowo wyjaśnia, jakie dane są zbierane i przesyłane, kiedy wysyłasz raport o awarii aplikacji."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Polityka prywatności NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "Ta treść jest prywatna, więc nie może być strumieniowana ani pobierana przez NewPipe."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Przetwarzanie… Może to chwilę potrwać"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "domyślny AVPlayera"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Zmień rozmiar interwału ładowania zawartości progresywnych (aktualnie %s). Niższa wartość może przyspieszyć ich początkowe ładowanie"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Rozmiar interwału ładowania odtwarzania"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "w kolejce"
+    },
+    {
+      "name": "radio",
+      "value": "Radio"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Przeczytaj licencję"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Przeczytaj politykę prywatności"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "Ciasteczka reCAPTCHA zostały wyczyszczone"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "Zażądano rozwiązania reCAPTCHA"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Rozwiąż"
+    },
+    {
+      "name": "recent",
+      "value": "Ostatnie"
+    },
+    {
+      "name": "recently_added",
+      "value": "Ostatnio dodane"
+    },
+    {
+      "name": "recovering",
+      "value": "odzyskiwanie"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Powiązane pozycje"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Zdalne podpowiedzi wyszukiwania"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Usuń duplikaty"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Czy chcesz usunąć wszystkie zduplikowane strumienie z tej playlisty?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Czy usunąć duplikaty?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Usuń obejrzane"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Usuń częściowo obejrzane strumienie"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Czy usunąć obejrzane strumienie?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Strumienie, które zostały obejrzane przed i po dodaniu do playlisty, zostaną usunięte. \nCzy na pewno?"
+    },
+    {
+      "name": "rename",
+      "value": "Zmień nazwę"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Zmień nazwę"
+    },
+    {
+      "name": "replay",
+      "value": "Odtwórz ponownie"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Zresetowanie wszystkich ustawień odrzuci wszystkie Twoje preferowane ustawienia i ponownie uruchomi aplikację.\n\n\n\nCzy na pewno chcesz kontynuować?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Resetuje wszystkie ustawienia do ich domyślnych wartości"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Resetuj ustawienia"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Wypełnij"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Dopasuj"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Powiększ"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Przywróć domyślne"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Czy chcesz przywrócić ustawienia domyślne?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "To wideo jest objęte ograniczeniem wiekowym.\n\n\n\nWłącz „%1$s” w ustawieniach, jeśli chcesz je zobaczyć."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "To wideo jest objęte ograniczeniem wiekowym.\n\nZe względu na nowe zasady YouTube dotyczące wideo z ograniczeniami wiekowymi NewPipe nie może uzyskać dostępu do żadnego z jego strumieni wideo i dlatego nie jest w stanie go odtworzyć."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Kontynuuj odtwarzanie po przerwaniu (np. po rozmowie telefonicznej)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Wznawiaj odtwarzanie"
+    },
+    {
+      "name": "retry",
+      "value": "Ponów"
+    },
+    {
+      "name": "rewind",
+      "value": "Przewiń do tyłu"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Wybierz gest dla prawej strony ekranu odtwarzacza"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Akcja gestu z prawej"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Nie udało się odczytać zapisanych kart, więc będą używane domyślne"
+    },
+    {
+      "name": "search",
+      "value": "Szukaj"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Usunięto historię wyszukiwania"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Brak wyników"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Wyświetlanie wyników dla: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Szukaj %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Szukaj %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Wielkość skoku przy przewijaniu"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Podgląd miniatury na pasku przewijania"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Wybierz kanał"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Wybierz grupę kanałów"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Wybierz kartę „Odkrywaj”"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Wybierz playlistę"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Wybierz ścieżkę dźwiękową dla zewnętrznych odtwarzaczy"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Możesz wybrać swój ulubiony motyw nocny poniżej"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Wybierz jakość dla zewnętrznych odtwarzaczy"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Wybrany strumień nie jest obsługiwany przez zewnętrzne odtwarzacze"
+    },
+    {
+      "name": "semitone",
+      "value": "Półton"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Ustaw jako miniaturę playlisty"
+    },
+    {
+      "name": "settings",
+      "value": "Ustawienia"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Wygląd"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Kopia zapasowa i przywracanie"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Wyczyść dane"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Debugowanie"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Pobieranie"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Zarządzaj niektórymi ustawieniami AVPlayera. Zmiany te wymagają ponownego uruchomienia odtwarzacza, aby zostały uwzględnione"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "Ustawienia AVPlayera"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Kanał"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Historia i pamięć podręczna"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Zachowanie"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Skonfiguruj powiadomienie aktualnie odtwarzanego strumienia"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Powiadomienie odtwarzacza"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Odtwarzacz"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Aktualizacje"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Wideo i audio"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Dozwolone znaki w nazwach plików"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Nieprawidłowe znaki są zastępowane tą wartością"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Znak zastępczy"
+    },
+    {
+      "name": "share",
+      "value": "Udostępnij"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Udostępnij"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Udostępnij playlistę"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Udostępnij jako tymczasową playlistę YouTube"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Udostępnij listę URL-i"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Udostępnij z tytułami"
+    },
+    {
+      "name": "short_billion",
+      "value": "%smld"
+    },
+    {
+      "name": "short_million",
+      "value": "%smln"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%stys."
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Pokazuj treści nieodpowiednie dla dzieci ze względu na ograniczenia wiekowe (np. 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Pokazuj treści z ograniczeniami wiekowymi"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Pokaż szczegóły kanału"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Karty kanałów"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Karty wyświetlane na stronach kanałów"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Wyłącz, aby ukryć komentarze"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Pokazuj komentarze"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Pokazuje opcję psucia podczas korzystania z odtwarzacza"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Pokazuj „Zepsuj odtwarzacz”"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Wyłącz, aby ukryć opis wideo i dodatkowe informacje"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Pokazuj opis"
+    },
+    {
+      "name": "show_error",
+      "value": "Pokaż błąd"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Pokaż snackbar z błędem"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Tylko niektóre urządzenia mogą odtwarzać wideo w 2K/4K"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Pokazuj wyższe rozdzielczości"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Pokaż wskazówkę po naciśnięciu tła lub wyskakującego przycisku „Szczegóły” w odtwarzaczu"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Pokazuj poradę „Przytrzymaj, aby dodać”"
+    },
+    {
+      "name": "show_info",
+      "value": "Pokaż informacje"
+    },
+    {
+      "name": "show_less",
+      "value": "Pokaż mniej"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Pokaż wycieki pamięci"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Wyłącz, aby ukryć pola z dodatkowymi informacjami o twórcy strumienia, zawartości strumienia lub żądaniu wyszukiwania"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Pokazuj metadane"
+    },
+    {
+      "name": "show_more",
+      "value": "Pokaż więcej"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Pokazuj następne i powiązane wideo"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Oryginalne teksty z usług będą widoczne w strumieniowanych pozycjach"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Pokazuj oryginalny czas na pozycjach"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Wyświetlaj opcję odtwarzania wideo przez centrum multimedialne Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Pokazuj opcję „Odtwórz z Kodi”"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Wybierz podpowiedzi, które będą wyświetlane podczas wyszukiwania"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Podpowiedzi wyszukiwania"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Używaj miniatury zarówno jako tła ekranu blokady, jak i powiadomień"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Pokazuj miniaturę"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s odmówił dostarczenia danych, prosząc o zalogowanie się w celu potwierdzenia, że nie jest się botem.\n\nTwoje IP mogło zostać tymczasowo zablokowane przez %1$s. Możesz chwilę poczekać lub zmienić adres IP (na przykład włączając/wyłączając VPN lub przełączając się z sieci Wi-Fi na dane komórkowe).\n\nZobacz <a href=\"%2$s\">ten wpis w FAQ</a>, aby uzyskać więcej informacji."
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Przewijaj do przodu podczas ciszy"
+    },
+    {
+      "name": "songs",
+      "value": "Utwory"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Przepraszamy, to nie powinno mieć miejsca."
+    },
+    {
+      "name": "sort",
+      "value": "Sortuj"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "To jest utwór SoundCloud Go+ (przynajmniej w Twoim kraju). Nie może być strumieniowany ani pobierany przez NewPipe."
+    },
+    {
+      "name": "start",
+      "value": "Rozpocznij"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Ze względu na wprowadzenie Ogólnego rozporządzenia o ochronie danych (RODO) chcielibyśmy zwrócić Twoją uwagę na politykę prywatności NewPipe. Prosimy przeczytać ją uważnie.\n\nMusisz ją zaakceptować, aby przesyłać nam raporty o błędach."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Rozpocznij pobieranie"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Zacznij odtwarzać w tle"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Zacznij odtwarzać w trybie okienkowym"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Nie uruchamiaj wideo w miniodtwarzaczu, ale przełączaj się bezpośrednio na tryb pełnoekranowy, jeśli automatyczne obracanie jest zablokowane. Nadal możesz uzyskać dostęp do miniodtwarzacza, wychodząc z trybu pełnoekranowego"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Uruchamiaj główny odtwarzacz w trybie pełnoekranowym"
+    },
+    {
+      "name": "stop",
+      "value": "Zatrzymaj"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Strumienie, których jeszcze nie da się pobrać, nie są wyświetlane"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Powiadomienia o nowych strumieniach dla subskrypcji"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Nowe strumienie"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Częstotliwość sprawdzania"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Wymagane połączenie sieciowe"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Subskrybuj"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Subskrybujesz"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Liczba subskrybentów niedostępna"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Nie udało się zmienić subskrypcji"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Nie udało się zaktualizować subskrypcji"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Nie udało się wyeksportować subskrypcji"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Nie udało się zaimportować subskrypcji"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Po rozwiązaniu naciśnij „Gotowe”"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Odtwarzaj w tle"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Odtwarzaj na pierwszym planie"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Odtwarzaj w trybie okienkowym"
+    },
+    {
+      "name": "systems_language",
+      "value": "Domyślny systemowy"
+    },
+    {
+      "name": "tab_about",
+      "value": "O aplikacji i FAQ"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Ulubione playlisty"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Playlisty"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Wybierz kartę"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Licencje"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Subskrypcje"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Tryb tabletu"
+    },
+    {
+      "name": "theme_title",
+      "value": "Motyw"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Wyczyszczono pamięć podręczną obrazów"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "O NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Historia"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Kolejka odtwarzania"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "Zadanie reCAPTCHA"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Ostatnio odtwarzane"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Licencje innych firm"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Najczęściej odtwarzane"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Przełącz wszystkie"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Włącz/Wyłącz pełny ekran"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Przełącz orientację ekranu"
+    },
+    {
+      "name": "top_50",
+      "value": "50 najlepszych"
+    },
+    {
+      "name": "tracks",
+      "value": "Utwory"
+    },
+    {
+      "name": "trending",
+      "value": "Na czasie"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Gry na czasie"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Filmy i programy na czasie"
+    },
+    {
+      "name": "trending_music",
+      "value": "Muzyka na czasie"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Podcasty na czasie"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Usuń z ulubionych"
+    },
+    {
+      "name": "undo",
+      "value": "Cofnij"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Rozłącz (może powodować zniekształcenia)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Nieznana"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Nieznane]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Nieznany format"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Nieznana jakość"
+    },
+    {
+      "name": "unmute",
+      "value": "Wyłącz wyciszenie"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Usuń stałą miniaturę"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Odsubskrybuj"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "Ta treść nie jest dostępna dla aktualnie wybranego kraju treści.\n\nZmień swój wybór w „Ustawienia > Zawartość > Domyślny kraj treści”."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Nieobsługiwany adres URL"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Nie udało się rozpoznać adresu URL. Otworzyć za pomocą innej aplikacji?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Pokazuj powiadomienie zachęcające do pobrania aktualizacji aplikacji, gdy jest dostępna nowa wersja"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Aktualizacje"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Opublikowano %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Włącz tę opcję, jeśli masz problemy z inicjalizacją dekodera. Przywraca dekodery o niższym priorytecie, jeśli inicjalizacja podstawowych dekoderów się nie powiedzie. Może to spowodować słabszą wydajność odtwarzania niż podczas korzystania z podstawowych dekoderów"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Używaj funkcji zapasowego dekodera AVPlayera"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Używaj zewnętrznego odtwarzacza audio"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Usuwa dźwięk w niektórych rozdzielczościach"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Używaj zewnętrznego odtwarzacza wideo"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Niedokładne przewijanie umożliwia szybsze przewijanie ze zmniejszoną dokładnością. Przewijanie o 5, 15 lub 25 sekund nie działa w tym przypadku"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Używaj szybkiego, niedokładnego przewijania"
+    },
+    {
+      "name": "users",
+      "value": "Użytkownicy"
+    },
+    {
+      "name": "video",
+      "value": "Wideo"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Przez %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "– %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Odtwarzacz wideo"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Nie znaleziono strumieni wideo"
+    },
+    {
+      "name": "videos_string",
+      "value": "Wideo"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Zobacz na GitHubie"
+    },
+    {
+      "name": "volume",
+      "value": "Głośność"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Usunięto historię oglądania"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Usunięto pozycje odtwarzania"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Odwiedź stronę NewPipe, aby uzyskać więcej informacji i najnowsze wiadomości."
+    },
+    {
+      "name": "website_title",
+      "value": "Strona internetowa"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Informacje:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Co się stało:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Tylko przez Wi-Fi"
+    },
+    {
+      "name": "yes",
+      "value": "Tak"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Subskrybujesz teraz ten kanał"
+    },
+    {
+      "name": "your_comment",
+      "value": "Twój komentarz (po angielsku):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "To wideo dostępne jest tylko dla subskrybentów usługi YouTube Music Premium. Nie może być strumieniowane ani pobierane przez NewPipe."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "Podczas odtwarzania otrzymano od serwera błąd HTTP 403, prawdopodobnie spowodowany blokadą adresu IP lub problemami z odszyfrowaniem adresu URL strumienia."
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube udostępnia „Tryb ograniczonego dostępu”, który ukrywa potencjalne treści dla dorosłych"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Włącz tryb ograniczonego dostępu YouTube'a"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

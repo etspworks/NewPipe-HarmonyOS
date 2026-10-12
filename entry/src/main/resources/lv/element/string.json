@@ -1,0 +1,3092 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Piekrist"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Konts ir pārtraukts"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Konts slēgts\n\n%1$s norāda, ka iemesls kādēļ: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "Vēsture"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Pievienot atskaņošanas sarakstam"
+    },
+    {
+      "name": "albums",
+      "value": "Albumi"
+    },
+    {
+      "name": "all",
+      "value": "Visi"
+    },
+    {
+      "name": "always",
+      "value": "Vienmēr"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Jautāt"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Šis risinājums problēmas novēršanai atbrīvo un atkārtoti instantiē video kodekus, kad notiek virsmas maiņa, nevis tieši iestatīt virsmu kodekam. ExoPlayer jau izmanto šo risinājumu dažās ierīcēs, kurām ir šī problēma. Šis iestatījums darbosies tikai ierīcēs, kurās uzstādīta operētājsistēma Android 6 un jaunāka.\n\nIespējojot šo iestatījumu, var novērst atskaņošanas kļūdas, pārslēdzot pašreizējo video atskaņotāju vai pārejot uz pilnekrāna režīmu"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Vienmēr izmantot AVPlayer video izvades virsmas iestatījumu risinājumu"
+    },
+    {
+      "name": "any_network",
+      "value": "Jebkurš tīkls"
+    },
+    {
+      "name": "api23_requirement_dialog_blogpost",
+      "value": "Emuāra raksts"
+    },
+    {
+      "name": "api23_requirement_dialog_message",
+      "value": "Diemžēl NewPipe paļaujas uz dažām bibliotēkām, kuras ir pārtraukušas Android 5.0 un 5.1 atbalstu. Tāpēc nākamā NewPipe versija diemžēl darbosies tikai ierīcēs ar Android 6 vai jaunāku versiju. Sīkāka informācija ir pieejama emuāra rakstā."
+    },
+    {
+      "name": "api23_requirement_dialog_title",
+      "value": "NewPipe pārtrauc Android 5 atbalstu"
+    },
+    {
+      "name": "app_description",
+      "value": "Viegls un brīvs, pieejams bezmaksas, straumēšanas atskaņotājs HarmonyOS ierīcēm."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Lietotnes valoda"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe — bez autortiesību ierobežojumiem (copyleft) licencēta brīva, pieejama bezmaksas, programmatūra: jūs variet izmantot, pētīt, dalīties un uzlabot to jebkurā brīdī pēc saviem ieskatiem. Tieši jūs variet to izplatīt un/vai modificēt saskaņā ar GNU General Public License noteikumiem, ko publicējusi Free Software Foundation, vai nu zem licences 3. versijas, vai (pēc jūsu izvēles) jebkuras jaunākas versijas noteikumiem."
+    },
+    {
+      "name": "app_license_title",
+      "value": "NewPipe licence"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Nobruka lietotne/lietotāja saskarne"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Nospiediet, lai lejupielādētu %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Pieejama jauna NewPipe versija!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Paziņojumi par jaunām NewPipe versijām"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Lietotnes atjauninājuma paziņojums"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Jūs jau izmantojiet jaunāko NewPipe versiju"
+    },
+    {
+      "name": "artists",
+      "value": "Mākslinieki"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Netika atrasts audio"
+    },
+    {
+      "name": "audio_track",
+      "value": "Skaņu celiņš"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Audio celiņam jau ir jābūt šajā straumē"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "aprakstošs"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "dublēts"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "oriģinālais"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "sekundārais"
+    },
+    {
+      "name": "auto",
+      "value": "Automātiski"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Automātiski (ierīces motīvs)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Pievieno līdzīgus video atskaņošanas rindai, kad atskaņo pēdējo video, ja vien nav iespējota atkārtotā, malt uz riņķi, atskaņošana"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Automātiski pievienot nākamo video"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Automātiski pievienot"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe pati var veikt jaunas versijas pārbaudi laiku pa laikam un informēt jūs, kad tā ir pieejama.\nVai tiešām vēlaties ieslēgt šo funkciju?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Sākt atskaņošanu automātiski — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Automātiski atskaņot"
+    },
+    {
+      "name": "background_player",
+      "value": "Atvērt fona atskaņotājā"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Atskaņo fonā"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Labākā izšķirtspēja"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Melns"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Tukša lapa"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Saglabāt atskaņošanas sarakstu"
+    },
+    {
+      "name": "brightness",
+      "value": "Regulēt spilgtumu"
+    },
+    {
+      "name": "cancel",
+      "value": "Atcelt"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Automātiski izveidots"
+    },
+    {
+      "name": "caption_none",
+      "value": "Nav Subtitri"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Mainīt atskaņotāja subtitru teksta mērogu un fona stilus. Nepieciešama lietotnes restartēšana, lai tā stātos spēkā"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Subtitri"
+    },
+    {
+      "name": "card",
+      "value": "Karte"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Izveidoja %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Kanāls"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Par"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Albumi"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Kanāli"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Patīk"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Tiešraides"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Atskaņošanas saraksti"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Īsie video"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Skaņdarbi"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Video"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Atcelts kanāla abonements"
+    },
+    {
+      "name": "channels",
+      "value": "Kanāli"
+    },
+    {
+      "name": "chapters",
+      "value": "Nodaļas"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Burti un cipari"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Lielākā daļa īpašo rakstzīmju"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Pārbaudīt atjauninājumus"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Pārbaudīt, vai nav jaunu video/audio"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Pārbauda atjauninājumus…"
+    },
+    {
+      "name": "checksum",
+      "value": "Kontrolsumma"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Izvēlieties instanci"
+    },
+    {
+      "name": "clear",
+      "value": "Notīrīt"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Izdzēš sīkdatnes, kuras NewPipe uzglabā, kad jūs atrisiniet reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Notīrīt reCAPTCHA sīkdatnes"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Notīrīt lejupielāžu vēsturi"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Izdzēš visas atskaņošanas pozīcijas"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Notīrīt atskaņošanas pozīcijas"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Pašreizējā atskaņošanas rinda tiks aizstāta/pārrakstīta"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Mainot vienu atskaņotāju uz citu, jūsu atskaņošanas rinda var tikt aizstāta/pārrakstīta"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Prasīt apstiprinājumu, pirms notīrīt atskaņošanas rindu"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Izdzēš visus meklēšanas vaicājumus"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Notīrīt meklēšanas vēsturi"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Izdzēš atskaņoto video / audio un atskaņošanas pozīciju vēsturi"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Notīrīt skatīšanās vēsturi"
+    },
+    {
+      "name": "close",
+      "value": "Aizvērt"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Komentāri ir atspējoti"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Komentāri"
+    },
+    {
+      "name": "conferences",
+      "value": "Konferences"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Vai tiešām vēlaties dzēst lejupielāžu vēsturi un visas lejupielādētās datnes?"
+    },
+    {
+      "name": "content",
+      "value": "Saturs"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Noklusējuma satura valoda"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Saturs nav pieejams"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "NewPipe vēl neatbalsta šo saturu.\n\nCerams, ka tā atbalsts parādīsies turpmākajās versijās."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Neatkarīgi no tā, vai tās ir tulkojuma, dizaina izmaiņas, koda tīrīšanas un sakārtošanas vai patiešām apjomīgas koda izmaiņas idejas — jebkura palīdzība vienmēr ir gaidīta. Kopā mēs varam padarīt NewPipe projektu vēl labāku!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Dot savu artavu"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Pievienot"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Klausīt fonā"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Lejupielādēt video/audio datni"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Skatīt uznirstošā logā"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Kopēt formatētu ziņojumu"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s no %2$s zem %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Uzmanību: Ne visas datnes varēja ievietot."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Nevarēja ielādēt visus video attēlus"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Nevarēja iestatīt lejupielādes izvēlni"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Izraisīt lietotnes nobrukšanu"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Izraisīt atskaņotāja nobrukšanu"
+    },
+    {
+      "name": "create",
+      "value": "Izveidot"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Izveidot kļūdas paziņojumu"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Jauns atskaņošanas saraksts"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Tumšs"
+    },
+    {
+      "name": "decline",
+      "value": "Nepiekrist"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Noklusējuma audio formāts"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Vēlamā satura valsts"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Noklusējuma Kiosks"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Noklusējuma uznirstošā loga izšķirtspēja"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Noklusējuma izšķirtspēja"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Noklusējuma video formāts"
+    },
+    {
+      "name": "delete",
+      "value": "Dzēst"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Dzēst lejupielādētās datnes"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Vai tiešām vēlaties dzēst visas lejupielādētās datnes?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Dzēst ierakstu"
+    },
+    {
+      "name": "delete_file",
+      "value": "Dzēst datni"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Vai tiešām vēlaties izdzēst šo vaicājumu no meklēšanas vēstures?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Vai tiešām vēlaties dzēst visas atskaņošanas pozīcijas?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Vai tiešām vēlaties dzēst šo atskaņošanas sarakstu?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Vai tiešām vēlaties izdzēst visu meklēšanas vēsturi?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Vai tiešām vēlaties dzēst visu skatīšanās vēsturi?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Izslēgt teksta atlasīšanu video aprakstā"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Ieslēgt teksta atlasīšanu video aprakstā"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Tagad variet atlasīt tekstu video aprakstā."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Apraksts"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Nepatīk"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Velciet, lai mainītu secību"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Autors piekrīt"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Patīk"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Piespraustais komentārs"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Kanāla profila attēls"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Atskaņot video, ilgums:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Autora avatāra attēls"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Varbūt jūs gribējāt meklēt \"%1$s\"?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Multimediju tunelēšana tika atspējota pēc noklusējuma tādēļ, ka ir zināms, ka jūsu ierīces modelis to neatbalsta."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Izslēdziet multivides tuneļošanu, ja jums video atskaņošanas laikā parādās melns ekrāns vai aizķeršanās."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Izslēgt multivides tuneļošanu"
+    },
+    {
+      "name": "disabled",
+      "value": "Atspējots"
+    },
+    {
+      "name": "dismiss",
+      "value": "Noraidīt"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe izstrādā brīvprātīgie savā brīvajā laikā, lai nodrošinātu jums pašu labāko lietošanas pieredzi. Atbalstiet izstrādātājus, lai palīdzētu padarīt NewPipe vēl labāku, kamēr viņi bauda tasi kafijas."
+    },
+    {
+      "name": "donation_title",
+      "value": "Ziedot"
+    },
+    {
+      "name": "done",
+      "value": "Skaidrs"
+    },
+    {
+      "name": "dont_show",
+      "value": "Nerādīt"
+    },
+    {
+      "name": "download",
+      "value": "Lejupielādēt"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Ir gaidāma lejupielāde ar šo nosaukumu"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Lejupielāde ar šādu nosaukumu jau pastāv"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Lejupielādēt"
+    },
+    {
+      "name": "download_failed",
+      "value": "Lejupielāde neizdevās"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Lejupielāde ir sākusies"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Atlasīt lejupielādes mapi, kur glabāt audio datnes"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Lejupielādētās audio datnes tiek glabātas šeit"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Audio lejupielādes mape"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Atlasīt lejupielādes mapi, kur glabāt video datnes"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Lejupielādētās video datnes tiek glabātas šeit"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Video lejupielādes mape"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Lejupielāde ārējā SD kartē nav iespējama. Vai tiešām vēlaties atiestatīt lejupielāžu mapi?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Ārējā krātuve nepieejama"
+    },
+    {
+      "name": "downloads",
+      "value": "Lejupielādes"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Jums tiks jautāts, kur saglabāt katru lejupielādi.\n\nIeslēdziet sistēmas mapes izvēlni, ja vēlaties lejupielādēt uz ārējo SD karti"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Jums tiks jautāts, kur saglabāt katru lejupielādi"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Jautājiet, kur lejupielādēt"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "“Krātuves Piekļuves Sistēma” ļauj lejupielādēt ārējā SD kartē"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Sākot no Android 10, tiek atbalstīta tikai \"Krātuves Piekļuves Izstrādes platforma\""
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Izmantot sistēmas mapes izvēlni"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Lejupielādes"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Aizvērt Atvilkni"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Izvēlaties pakalpojumu, šobrīd izvēlēts:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Atvērt Atvilkni"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Pelēki iekrāsotie atskaņošanas saraksti jau satur šo video/audio."
+    },
+    {
+      "name": "duration",
+      "value": "Ilgums"
+    },
+    {
+      "name": "duration_live",
+      "value": "Tiešraide"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Šeit nekā nav, tikai sienāži"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Pēc izdzēšanas, piespiedu kārtā ziņot par nepiegādātiem Rx izņēmumiem, ārpus fragmenta vai darbības dzīves cikla"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Ziņot par ārpus-dzīves-cikla kļūdu"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Atmiņas noplūdes uzraudzība var izraisīt lietotnes nereaģēšanu, kad tiek nottīrītas vairs nevajadzīgas lietas no atmiņas"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Saglabāt pēdējo atskaņošanas pozīciju"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Atsākt atskaņošanu"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Rāda atskaņošanas pozīcijas indikatoru sarakstos"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Atskaņošanas pozīcija sarakstos"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Ierobežot lejupielāžu rindu"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Viena lejupielāde notiks vienlaikus"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Glabāt meklēšanas vēsturi lokāli (ierīces krātuvē)"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Meklēšanas vēsture"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Informē, ja pieejami jauni video / audio abonementos"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Paziņot par jauniem video / audio"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Uzglabā skatīto video vēsturi"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Atskaņošanas vēsture"
+    },
+    {
+      "name": "enqueue",
+      "value": "Pievienot rindai"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Ielikt rindā nākošo"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Ielikt rindā"
+    },
+    {
+      "name": "enqueued",
+      "value": "Ielikts rindā"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Ielikts rindā nākošais"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Ieraksts dzēsts"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Nevar izveidot savienojumu ar serveri"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Detalizēta informācija:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Nevar atgūt šo lejupielādi"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Datni nevar izveidot"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Serveris nesūta datus"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Nav atrasts"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Serveris nepieņem daudzpavedienu lejupielādes, mēģiniet vēlreiz ar @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Ierīcē nav pietiekami daudz brīvas vietas"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Ierīcē nav vietas"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Notika kļūda: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Nevar izveidot mērķa mapi"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Pēcapstrāde neizdevās"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "Strādājot ar failu, NewPipe tika aizvērts"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Progress zaudēts, jo datne tika dzēsta"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Ziņojiet pa e-pastu"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Paziņojumi, lai ziņotu par kļūdām"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Kļūdas ziņojuma paziņojums"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe radās kļūdu, pieskarieties, lai ziņotu"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Radās kļūda, detalizētāku informāciju skatiet paziņojumā"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Lūdzu, pārliecinieties, ka neviens cits jau nav iesniedzis šo nobrukšanas kļūdu. Dublēti kļūdas ziņojumi atņem izstrādātāju dārgo laiku, ko viņi varētu veltīt reālas kļūdas labošanai."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Ziņot izmantojot GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Kļūdas ziņojums"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Ziņot"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Piedodiet, kaut kas nogāja greizi."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Nevarēja izveidot drošu savienojumu"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Savienojums pārtraukts"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Nevarēja ielādēt komentārus"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Nevarēja atrast serveri"
+    },
+    {
+      "name": "events",
+      "value": "Pasākumi"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Eksportēts"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Eksportēt vēsturi, abonementus, atskaņošanas sarakstus un iestatījumus"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Eksportēt datubāzi"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Eksportē…"
+    },
+    {
+      "name": "export_subscriptions_summary",
+      "value": "Izgūst jūsu abonementus .json datnē"
+    },
+    {
+      "name": "export_subscriptions_title",
+      "value": "Izgūt abonementus"
+    },
+    {
+      "name": "export_to",
+      "value": "Eksportēt uz"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Ārējie atskaņotāji neatbalsta šāda tipa saites"
+    },
+    {
+      "name": "faq",
+      "value": "Skatīt vietnē"
+    },
+    {
+      "name": "faq_description",
+      "value": "Ja jums rodas grūtības ar lietotnes izmantošanu, noteikti apskatiet bieži uzdoto jautājumu atbildes!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Bieži uzdotie jautājumi"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Ātrais režīms"
+    },
+    {
+      "name": "featured",
+      "value": "Populāri"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Izveidot jaunu grupu"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Piegādāt kanālu cilnes"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Cilnes, kuras piegādāt, atjaunojot jauninājumus. Šai opcijai nav nekādas iedarbības, ja kanāls tiek atjaunots ātrajā režīmā."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Vai tiešām vēlaties izdzēst šo grupu?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Tukšs grupas nosaukums"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Nav atlasīts neviens abonements"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Atlasīt abonementus"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Abonementu grupu"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Rādīt tikai nepievienotus grupai abonementus"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Abonementu grupas"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Rādīt šādus video/audio"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Kļūda lādējot plūsmu"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Nevarēja ielādēt straumi priekš '%s'."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Ātrās straumes režīms nesniedz vairāk informācijas par šo."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Autora konts tika slēgts.\nNewPipe turpmāk vairs nevarēs ielādēt šī kanāla saturu.\nVai tiešām vēlaties atteikties no šī kanāla abonēšanas?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Jaunumi kanālā"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Ielādē kanāla jaunumus…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Atjaunināta: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Apstrādā kanāla jaunumus…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Rādīt/slēpt tiešraides"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Daļēji skatītos/klausītos"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Gaidāmie"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Noskatītos/noklausītos"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Nav ielādēts: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Vienmēr atjauniniet"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Laiks pēc pēdējās atjaunināšanas, pirms abonements tiek uzskatīts par novecojušu — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Plūsmas atjaunināšanas biežuma slieksnis"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Izslēgt ātro režīmu"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Ieslēgt ātro režīmu"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Vai jūs domājat, ka plūsmas atjaunināšana ir pārāk lēna? Ja tā, mēģiniet iespējot ātro atjaunināšanu (to var mainīt iestatījumos vai nospiežot pogu zemāk).\n\nNewPipe piedāvā divas plūsmas atjaunināšanas stratēģijas:\n• Notiek visa abonēšanas kanāla iegūšana, kas ir lēna, bet pabeigta.\n• izmantojot īpašu servisu, kas ir ātrs, bet parasti nav pilnīgs.\n\nAtšķirība starp abiem ir tā, ka ātrajā parasti trūkst informācijas, piemēram, video ilgums vai veids (nevar atšķirt tiešraides video no parastajiem), un tas var atgriezt mazāk vienumu.\n\nYouTube ir pakalpojuma piemērs, kas piedāvā šo ātro metodi ar savu RSS plūsmu.\n\nTātad izvēle sakrīt ar vēlamo: ātrums vai precīza informācija."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Pieejams dažos pakalpojumos, tas parasti ir daudz ātrāk, taču var atgriezt ierobežotu daudzumu informācijas un bieži arī nepilnīgu informāciju (piemēram, nav video ilguma, vienuma veida, nav tiešraides statusa)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Iegūt no īpašās plūsmas, kad tas ir pieejams"
+    },
+    {
+      "name": "file",
+      "value": "Datne"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Datne dzēsta"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Datnes nosaukums nevar būt tukšs"
+    },
+    {
+      "name": "forward",
+      "value": "Tīt uz priekšu"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Kas jauns"
+    },
+    {
+      "name": "general_error",
+      "value": "Kļūda"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Ģenerēt unikālu nosaukumu"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Šis saturs nepieejams jūsu valstī."
+    },
+    {
+      "name": "get_notified",
+      "value": "Paziņot kanāla jaunumus"
+    },
+    {
+      "name": "give_back",
+      "value": "Atbalstīt projektu"
+    },
+    {
+      "name": "grid",
+      "value": "Tīkls"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Paziņojumi video apstrādes progresam"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Video haša paziņojums"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Augstas kvalitātes (lielāks)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Turiet, lai ieliktu atskaņošanas rindā"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Noder, piemēram, kad lietojiet austiņas ar bojātām pogām"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Ignorēt pieslēgtās ierīces multimēdiju pogas"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Augsta kvalitāte"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Zema kvalitāte"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Vidēja kvalitāte"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Neielādēt attēlus"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Izvēlēties attēlu kvalitāti un vai vispār ielādēt attēlus, lai samazinātu datu un atmiņas lietojumu. Izmaiņas iztīra iekšējās atmiņas un diska attēlu kešatmiņu — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Attēlu kvalitāte"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Ievietošana pabeigta"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Aizstās jūsu pašreizējo vēsturi, abonementus, atskaņošanas sarakstus un (pēc izvēles) iestatījumus"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Ievietot datubāzi"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Importēt failu"
+    },
+    {
+      "name": "import_from",
+      "value": "Ievietot no"
+    },
+    {
+      "name": "import_from_previous_export",
+      "value": "Ievietot no iepriekšējās izgūšanas"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Paturiet prātā, ka šī darbība var pieprasīt lielu datu daudzumu\n\nVai tiešām vēlaties turpināt?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Ievieto…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Vai vēlaties ievietot arī iestatījumus?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Iepriekš izgūtās datnes iestatījumi, ko ievieto, izmanto ievainojamo formātu, kas tika pārtraukts kopš NewPipe 0.27.0 versijas. Pārliecinieties, ka izgūtie dati ir no uzticama avota, un turpmāk ir vēlams izmantot datus, kas izgūti tikai no NewPipe 0.27.0 vai jaunākām versijām. Iestatījumu ievietošanas atbalsts šajā neaizsargātajā formātā drīzumā tiks pilnībā aizvākts, un tad vairs vecās NewPipe versijas nevarēs ievietot iestatījumus, kas izgūti no jaunajām versijām."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Lai ievietotu SoundCloud profilu, ievadiet tā URL vai ID:\n\n1. Pārlūkā iestatiet \"Darbvirsmas režīms\" (vietne nav pieejama mobilajām ierīcēm) \n2. Dodieties uz šo URL adresi: %1$s\n3. Ja nepieciešams, autorizējieties\n4. Nokopējiet profila URL adreses joslā."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "jūsuID , soundcloud.com/jūsuID"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Abonementus var ievietot vai izgūt, izmantojot 3-punktoto izvēlni augšējā labajā ekrāna stūrī"
+    },
+    {
+      "name": "import_subscriptions_summary",
+      "value": "Ievieto abonementus no iepriekšējās .json izgūšanas"
+    },
+    {
+      "name": "import_subscriptions_title",
+      "value": "Ievietot abonementus"
+    },
+    {
+      "name": "import_title",
+      "value": "Ievietot"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Ievietot YouTube abonementus no Google Takeout:\n\n1. Dodieties uz šo vietni: %1$s\n2. Autorizējieties, ja nepieciešams\n3. Noklikšķiniet uz \"Visi dati iekļauti\", pēc tam uz \"Atcelt visu atlasi\", pēc tam atlasiet tikai \"Abonementi\" un noklikšķiniet uz \"Labi\"\n4. Noklikšķiniet uz \"Nākamais solis\" un pēc tam uz \"Izveidot eksportu\"\n5. Pēc tam, kad tā parādās, noklikšķiniet uz pogas \"Lejupielādēt\"\n6. Noklikšķiniet IEVIETOT DATNI zemāk un izvēlaties lejupielādēto .zip failu\n7. [Ja .zip failu neizdodas ievietot] Izvelciet .csv failu (parasti zem \"YouTube un YouTube Music/subscriptions/subscriptions.csv\") no arhīva, tad noklikšķiniet uz IEVIETOT DATNI zemāk un atlasiet tikko izvilkto csv failu"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ videoklipi"
+    },
+    {
+      "name": "info_labels",
+      "value": "Kas:\nPieprasījums:\nSatura valoda:\nSatura valsts:\nLietotnes valoda:\nPakalpojums:\nGMT laiks:\nPakotne:\nVersija:\nOS versija:"
+    },
+    {
+      "name": "install",
+      "value": "Uzstādīt"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Tāda mape neeksistē"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Datne neeksistē vai nav dota atļauja to lasīt vai rakstīt"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Tāda datne/saturs neeksistē"
+    },
+    {
+      "name": "just_once",
+      "value": "Tikai Vienreiz"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "Detalizētāka informācija"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "2025. gada augustā Google paziņoja, ka, sākot ar 2026. gada septembri, lai uzstādītu lietotnes, būs nepieciešama izstrādātāja verifikācija visām Android lietotnēm sertificētajās ierīcēs, tostarp arī tām, kuras uzstādītas ārpus Play veikala. Tā kā NewPipe izstrādātāji nepiekrīt un negrib pieņemt šo prasību, pēc šī datuma NewPipe vairs nedarbosies sertificētajās Android ierīcēs."
+    },
+    {
+      "name": "kao_solution",
+      "value": "Risinājums"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Kioska lapa"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Uzstādīt trūkstošo Kore, tālvadības pults, lietotni?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary nav pieejams"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Iestata žesta darbību atskaņotāja ekrāna kreisajai pusei"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Kreisās puses žesta darbība"
+    },
+    {
+      "name": "license",
+      "value": "Izstrādājis %1$s saskaņā ar %2$s licenci"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Gaišs"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Nav ierobežojuma"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Ierobežots izšķirtspēju, izmantojot mobilos datus"
+    },
+    {
+      "name": "list",
+      "value": "Saraksts"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Saraksta skata režīms"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Metadatu ielādēšana…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Ielādē straumes informāciju…"
+    },
+    {
+      "name": "local",
+      "value": "Lokāls"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Lokālos meklēšanas ieteikumus"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Zemas kvalitātes (mazāks)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Nospiediet uz meklēšanas ikonas, lai atrastu vēlamo saturu."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Galvenā lapa"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Kādas cilnes rādīt galvenajā lapā"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Pavelciet atlasīto elementu pa kreisi vai labi, lai to aizvāktu"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Galvenās cilnes atlasītāja pārvietošana uz apakšu"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Galvenās cilnes pozīcija"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Pašrocīgi veikt jaunas versijas pārbaudi"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Atzīmēt kā noskatītu"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Maksimālais mēģinājumu skaits pirms lejupielādes atcelšanas"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Maksimālais atkārtoto mēģinājumu skaits"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Vecuma ierobežojums"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Avatāri"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Banneri"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Metadatu kešatmiņa notīrīta"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Izdzēš visus kešatmiņā glabātos vietnes datus"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Notīrīt kešatmiņā saglabātos metadatus"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Kategorija"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Uzņēmums"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Valoda"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Licence"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Privātums"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Iekšeji"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Privāts"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Publisks"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Sarakstā neiekļauts"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Apakškanālu avatāri"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Abonenti"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Atbalsts"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Birkas"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Sīkattēli"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Augšuplādētāju avatāri"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud likvidēja oriģinālos Top 50 topus. Atbilstošā cilne noņemta no jūsu galvenās lapas."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "SoundCloud Top 50 lapa likvidēta"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube pārtrauca piedāvāt apvienoto pašlaik populārs lapu kopš 2025. gada 21. jūlija. NewPipe aizstāja noklusējuma pašlaik populārs lapu ar pašlaik populāras tiešraides.\n\nJūs variet atlasīt arī citas pašlaik populārs lapas zem \"Iestatījumi > Saturs > Galvenā lapa\"."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "YouTube likvidēja apvienoto pašlaik populārs"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Minimizēt uz fona atskaņotāju"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Nav"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Minimizēt uz popup atskaņotāju"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Darbība, pārslēdzoties uz citu lietotni no galvenā video atskaņotāja — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Minimizēt, pārslēdzot aplikāciju"
+    },
+    {
+      "name": "missing_file",
+      "value": "Datne pārvietota vai dzēsta"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Pabeigts"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Gaida"
+    },
+    {
+      "name": "more_options",
+      "value": "Vairāk opciju"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ videoklipi"
+    },
+    {
+      "name": "most_liked",
+      "value": "Vispopulārākais"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Aprēķina"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Nokopēts uz starpliktuvi"
+    },
+    {
+      "name": "msg_error",
+      "value": "Kļūda"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Neizdevās kopēt starpliktuvē"
+    },
+    {
+      "name": "msg_name",
+      "value": "Datnes nosaukums"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Šī atļauja ir nepieciešama, lai\nvarētu atskaņot multimediju uznirstošajā logā"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe lejupielādē"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Pieskarties, lai iegūtu detalizētu informāciju"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Procesi"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Lūdzu uzgaidiet…"
+    },
+    {
+      "name": "mute",
+      "value": "Ieslēgt audio"
+    },
+    {
+      "name": "name",
+      "value": "Nosaukums"
+    },
+    {
+      "name": "navigate_back",
+      "value": "Atpakaļ"
+    },
+    {
+      "name": "network_error",
+      "value": "Tīkla kļūda"
+    },
+    {
+      "name": "never",
+      "value": "Nekad"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Jauns un populārs"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "AVPlayer ierobežojumu dēļ tīšanas solis tika iestatīts uz %d sekundēm"
+    },
+    {
+      "name": "next_stream",
+      "value": "Nākamā tiešraide"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Pieejams, kad motīvs iestatīts uz %s"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Izvēlieties savu iecienītāko nakts motīvu - %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Nakts režīma motīvs"
+    },
+    {
+      "name": "no",
+      "value": "Nē"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Neviena lietotne jūsu ierīcē nevar šo atvērt"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Netika atrasts atbilstošs failu pārvaldnieks šai darbībai.\n\nLūdzu instalējiet failu pārvaldnieku vai pamēģiniet atspējot '%s' lejuplādēšanas iestatījumos"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Netika atrasts atbilstošs failu pārvaldnieks šai darbībai.\n\nLūdzu lejuplādējiet ar krātuves pieejas struktūras saderīgu failu pārvaldnieku"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Ārējiem atskaņotājiem nav pieejama neviena audio straume"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Lūdzu nosakiet lejupielādes mapi iestatījumos vēlāk"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Pagaidām nav abonēts neviens kanāls"
+    },
+    {
+      "name": "no_comments",
+      "value": "Nav komentāru"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Lejupielādes mape vēl nav iestatīta, atlasiet noklusējuma lejupielādes mapi tagad"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Vēl nav izveidota neviena abonementu grupa"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Nav tiešraides"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Neviens neklausās"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Neviens neskatās"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Netika atrasts video atskaņotājs. Vai uzstādīt VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Netika atrasts video atskaņotājs (jūs variet uzstādīt VLC, lai to atskaņotu)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Pagaidām nav izveidots vai saglabāts neviens atskaņošanas saraksts"
+    },
+    {
+      "name": "no_streams",
+      "value": "Nav video/audio"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Neviens video nav pieejams lejupielādei"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Nav abonentu"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Nederīga ZIP datne"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Ārējiem atskaņotājiem nav pieejama neviena video straume"
+    },
+    {
+      "name": "no_videos",
+      "value": "Nav videoklipi"
+    },
+    {
+      "name": "no_views",
+      "value": "Nav skatījumu"
+    },
+    {
+      "name": "none",
+      "value": "Darīt neko"
+    },
+    {
+      "name": "not_available",
+      "value": "Nav pieejams"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Pirmā darbības poga"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Otrā darbības poga"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Trešā darbības poga"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Ceturtā darbības poga"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Piektā darbības poga"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Buferē datus"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Neko"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Atkārtot"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Samaisīt"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Jūs variet atlasīt ne vairāk kā 3 darbības, ko rādīt kompaktajā paziņojumā!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Rediģējiet katru zemāk redzamo paziņojuma darbību, pieskaroties tai. Atķeksējiet izvēles rūtiņas labajā pusē, lai atlasītu līdz pat trīm darbībām, kuras rādīt kompaktajā paziņojumā."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Rediģējiet katru zemāk redzamo paziņojuma darbību, pieskaroties tai. Pirmās trīs darbības (atskaņot/pauze, iepriekšējais un nākamais) ir sistēmas iestatītas, un tās nevar pielāgot."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Paziņojumi priekš NewPipe atskaņotāja"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe paziņojums"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Ļauj Android pielāgot paziņojuma krāsu atbilstoši galvenajai krāsai video attēlā (ņemiet vērā, ka tas nav pieejams visās ierīcēs)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Pielāgot paziņojumu krāsu"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Apgriež paziņojumā redzamo video sīkattēlu no 16:9 uz 1:1 malu attiecību (iespējams, attēls būs izstiepts)"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Apgriezt video sīkattēlu uz 1:1 malu attiecību"
+    },
+    {
+      "name": "notifications",
+      "value": "Paziņojumi"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Paziņojumi ir atspējoti"
+    },
+    {
+      "name": "off",
+      "value": "Izslēgts"
+    },
+    {
+      "name": "ok",
+      "value": "Labi"
+    },
+    {
+      "name": "on",
+      "value": "Ieslēgts"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 vienums dzēsts."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Atvērt pārlūkā"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Atvērt uznirstošā logā"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Atvērt atskaņošanas rindu"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Atvērt vietni"
+    },
+    {
+      "name": "open_with",
+      "value": "Atvērt ar"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Pašreizējie dati tiks aizstāti."
+    },
+    {
+      "name": "overwrite",
+      "value": "Pārrakstīt"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "nevar pārrakstīt datni"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Lejupielādētā datne ar šādu nosaukumu jau pastāv"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Datne ar šādu nosaukumu jau pastāv"
+    },
+    {
+      "name": "paid_content",
+      "value": "Šis saturs ir pieejams tikai lietotājiem, kuri ir samaksājuši, tāpēc to nevar straumēt vai lejupielādēt ar Newpipe."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Nevarēja apstrādāt mājaslapu"
+    },
+    {
+      "name": "pause",
+      "value": "Pauzēt"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Pauzēt lejupielādes"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Pārtraukt ierobežotajos tīklos"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Noderīgi, pārejot uz mobilajiem datiem, lai gan dažas lejupielādes nevar apturēt"
+    },
+    {
+      "name": "paused",
+      "value": "Pausēts"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Šāds serveris (instance) jau eksistē"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Nevarēja apstiprināt serveri (instanci)"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Ievadiet servera (instances) URL"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Atbalsta tikai HTTPS URL adreses"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Pievienot serveri (instanci)"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Atrodiet sev tīkamus serverus (instances) %s vietnē"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Atlasiet savas iecienītākās PeerTube instances"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube serveri (instances)"
+    },
+    {
+      "name": "percent",
+      "value": "Procenti"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Darbību noraidīja sistēma"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Dot atļauju rādīt pāri citām aplikācijām"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "Lai varētu izmantot uznirstošo atskaņotāju, lūdzu, atlasiet %1$s šajā Android iestatījumu izvēlnē un iespējojiet %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "“Ļaut rādīt virs citām lietotnēm”"
+    },
+    {
+      "name": "play",
+      "value": "Atskaņot"
+    },
+    {
+      "name": "play_all",
+      "value": "Atskaņot visus"
+    },
+    {
+      "name": "play_audio",
+      "value": "Audio"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Audio iestatījumi"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Skaņa: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Noņemt"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Detalizēta informācija"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Atskaņot Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Tonis"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Atiestatīt"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Atskaņošanas Ātruma Kontrole"
+    },
+    {
+      "name": "playback_step",
+      "value": "Solis"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Temps"
+    },
+    {
+      "name": "player_http_403",
+      "value": "Atskaņošanas laikā no servera saņemta HTTP 403 kļūda, ko, iespējams, izraisīja straumēšanas URL derīguma beigu termiņš vai IP aizliegums"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "Atskaņošanas laikā no servera saņemta HTTP %1$s kļūda"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Atgūstas no atskaņotāja kļūdas"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Nevarēja atskaņot šo video"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Notika neatgūstama atskaņotāja kļūda"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Pievienots atskaņošanas sarakstam"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Dublikāts pievienots %d reizi(-es)"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Atskaņošanas saraksts izveidots"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Automātiski ģenerēts (neviens augšupielādētājs nav atrasts)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Atskaņošanas sarakstu lapa"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Atskaņošanas saraksta attēls nomainīts."
+    },
+    {
+      "name": "playlists",
+      "value": "Atskaņošanas saraksti"
+    },
+    {
+      "name": "popup_player",
+      "value": "Atvērt uznirstošā loga atskaņotājā"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Atskaņo uznirstošā logā"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Atceras pēdējo uznirstošā loga izmēru un pozīciju"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Saglabāt uznirstošā loga izmēru, novietojumu"
+    },
+    {
+      "name": "post_processing",
+      "value": "pēcapstrāde"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Atskaņos skaņas celiņu ar audio aprakstiem vājredzīgajiem, ja tāds ir pieejams"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Dot priekšroku skaņu celiņam ar audio aprakstu"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Atskaņos oriģinālo skaņas celiņu neatkarīgi no iestatītās valodas"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Dot priekšroku oriģinālajai skaņai"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Noklusējuma darbība, kad atver kopīgoto saiti — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Vēlamā kopīgotās saites atvēršanas darbība"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Ielādē prasīto saturu"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Vāc informāciju…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Pagājušais eksports"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Iepriekšējā tiešraide"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "Datu aizsardzība ir ļoti svarīga NewPipe projektam. Tāpēc lietotne neapkopo datus bez jūsu piekrišanas.\nNewPipe konfidencialitātes politika sīki izskaidro, kādi dati tiek nosūtīti un uzglabāti, kad nosūtiet nobrukšanas ziņojumu."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "NewPipe konfidencialitātes politika"
+    },
+    {
+      "name": "private_content",
+      "value": "Šis saturs ir privāts, tāpēc Newpipe to nevar straumēt vai lejupielādēt."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Apstrādā... Var aizņemt kādu laiku"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer noklusējuma vērtība"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Mainīt progresīvā satura ielādes intervāla lielumu (pašlaik %s). Mazāka vērtība var paātrināt to sākotnējo ielādi"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Atskaņošanas ielādes intervāla lielums"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "ielikts rindā"
+    },
+    {
+      "name": "radio",
+      "value": "Radio"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Lasīt licenci"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Lasīt konfidencialitātes politiku"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA sīkdatnes dzēstas"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "reCAPTCHA izaicinājums dots"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Atrisināt"
+    },
+    {
+      "name": "recent",
+      "value": "Jaunākie"
+    },
+    {
+      "name": "recently_added",
+      "value": "Nesen pievienots"
+    },
+    {
+      "name": "recovering",
+      "value": "atkopjas"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Līdzīgi video"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Servera meklēšanas ieteikumus"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Dzēst dublikātus"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Vai tiešām vēlaties noņemt visus dublētos vienumus šajā atskaņošanas sarakstā?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Vai tiešām vēlaties dzēst dublikātus?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Noņemt skatīto"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Jā, un daļēji skatītos un klausītos"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Vai tiešām vēlaties noņemt skatītās tiešraides?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Tiešraides, kas iepriekš noskatītas un pēc tam pievienotas atskaņošanas sarakstam, tiks noņemtas. \nVai tiešām vēlaties turpināt?"
+    },
+    {
+      "name": "rename",
+      "value": "Pārsaukt"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Pārsaukt"
+    },
+    {
+      "name": "replay",
+      "value": "Atkārtoti atskaņot"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Atiestatot iestatījumus, visi jūsu iestatītie iestatījumi tiks atmesti uz to noklusētajām vērtībām un lietotne palaista pa jaunu.\n\nVai tiešām vēlaties turpināt?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Atiestata visus iestatījumus uz to sākotnējām vērtībām"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Atiestatīt iestatījumus"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Piepildīt"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Pielāgot"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Pietuvināt"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Atjaunot noklusējuma vērtības"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Vai tiešām vēlaties atjaunot noklusējuma vērtības?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Šis video ir vecuma ierobežots.\n\n\n\nIeslēdziet \"%1$s\" iestatījumos, ja vēlaties to redzēt."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Šis video ir ierobežots ar vecumu.\n\nŅemot vērā jauno YouTube politiku ar vecuma ierobežotiem videoklipiem, Newpipe nevar piekļūt šim videoklipam."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Turpina atskaņot video pēc pārtraukumiem (piemēram, telefona zvana)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Turpināt atskaņošanu"
+    },
+    {
+      "name": "retry",
+      "value": "Atkārtot"
+    },
+    {
+      "name": "rewind",
+      "value": "Attīt - tīt atpakaļ"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Iestata žesta darbību atskaņotāja ekrāna labajai pusei"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Labās puses žesta darbība"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Nevarēja nolasīt saglabātās cilnes, tādēļ izmanto noklusējuma"
+    },
+    {
+      "name": "search",
+      "value": "Meklēt"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Meklēšanas vēsture dzēsta"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Nav rezultātu"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Tiek rādīti %s vaicājuma rezultāti"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Meklēt %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Meklēt %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Ātrās uz priekšu/atpakaļ tīšanas solis"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Video atskaņošanas joslas sīktēla priekšskatījums"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Atlasiet kanālu"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Atlasiet abonementu grupu"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Atlasiet kiosku"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Atlasiet atskaņošanas sarakstu"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Atlasiet audio celiņu ārējiem atskaņotājiem"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Jūs varat izvēlēties savu iecienītāko nakts motīvu zemāk"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Izvēlēties kvalitāti ārējiem atskaņotājiem"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Atlasīto video/audio neatbalsta ārējie atskaņotāji"
+    },
+    {
+      "name": "semitone",
+      "value": "Pustonis"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Iestatīt, kā atskaņošanas saraksta attēlu"
+    },
+    {
+      "name": "settings",
+      "value": "Iestatījumi"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Izskats"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Rezerves kopēšana un atjaunošana"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Notīrīt datus"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Atkļūdošana"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Lejupielādēt"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Pārvalda dažus AVPlayer iestatījumus. Lai izmaiņas stātos spēkā, ir jāaizver un jāatver pa jaunu atskaņotājs"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "AVPlayer iestatījumi"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Straume"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Vēsture un kešatmiņa"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Uzvedība"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Pielāgojiet pašlaik atskaņotās plūsmas paziņojumu"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Atskaņotāja paziņojums"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Atskaņotājs"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Atjauninājumi"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Video un audio"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Atļautās rakstzīmes failu nosaukumos"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Nederīgas rakstzīmes tiks aizvietotas ar šo"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Aizvietošanas rakstzīme"
+    },
+    {
+      "name": "share",
+      "value": "Kopīgot"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Kopīgot ar"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Kopīgot atskaņošanas sarakstu"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Kopīgot kā pagaidu YouTube atskaņošanas sarakstu"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Kopīgot video URL sarakstu"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Kopīgot nosaukumus"
+    },
+    {
+      "name": "short_billion",
+      "value": "%s mljrd."
+    },
+    {
+      "name": "short_million",
+      "value": "%s milj."
+    },
+    {
+      "name": "short_thousand",
+      "value": "%s tūkst."
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Rādīt saturu, iespējams nepiemērotu bērniem, jo tam ir vecuma ierobežojums"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Rādīt vecuma ierobežotu saturu"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Rādīt kanāla informāciju"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Kanālu cilnes"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Kādas cilnes tiek rādītas kanāla lapās"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Izslēdziet, ja vēlaties paslēpt komentārus"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Rādīt komentārus"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Rāda nobrukšanas izsaukšanas funkciju, kad izmantojiet atskaņotāju"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Rādīt \"Izraisīt atskaņotāja nobrukšanu\""
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Izslēdziet, ja nevēlaties redzēt video aprakstu un papildus informāciju"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Rādīt aprakstu"
+    },
+    {
+      "name": "show_error",
+      "value": "Rādīt kļūdu"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Rādīt kļūdas paziņojumu"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Ne visas ierīcas var atskaņot 2K/4K izšķirtspējas video"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Ļaut atlasīt augstākas izšķirtspējas atskaņotājā"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Rādīt padomu, kad tur nospiestu \"Klausīt fonā\" vai \"Skatīt uznirstošā logā\" pogu \"Detalizēta informācija:\" sadaļā"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Rādīt \"Nospiediet, lai pievienotu\" padomu"
+    },
+    {
+      "name": "show_info",
+      "value": "Rādīt informāciju"
+    },
+    {
+      "name": "show_less",
+      "value": "Rādīt mazāk"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Rādīt atmiņas noplūdes"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Izslēdziet, ja nevēlaties redzēt papildus informācijas laukus - video autoru, video saturu vai meklēšanas vaicājuma rezultātu"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Rādīt papildus informāciju"
+    },
+    {
+      "name": "show_more",
+      "value": "Rādīt vairāk"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Rādīt 'Nākamos' un 'Līdzīgos' video"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Pakalpojumu oriģinālteksti būs redzami video vienumos"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Rādīt oriģinālo laiku uz lietām"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Rādīt opciju atskaņot video Kodi mediju centrā"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Rādīt \"Atskaņot Kodi\" opciju"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Atlasīt, kādus ieteikumus rādīt, ievadot vaicājumu meklēšanas joslā"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Meklēšanas ieteikumi"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Izmantot video attēlu gan bloķēšanas ekrāna fonam, gan paziņojumiem"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Rādīt video attēlus"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s atteicās sniegt datus un pieprasa pieteikšanos, lai apstiprinātu, ka pieprasītājs nav robots.\n\nIespējams, ka %1$s ir īslaicīgi bloķējis jūsu IP adresi. Variet kādu laiku pagaidīt vai pārslēgties uz citu IP adresi (piemēram, ieslēdzot/izslēdzot VPN vai pārslēdzoties no Wi-Fi uz mobilajiem datiem).\n\nLūdzu, skatiet <a href=\"%2$s\">šo BUJ sadaļu</a>, lai iegūtu vairāk informācijas."
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Klusuma brīžos patīt uz priekšu"
+    },
+    {
+      "name": "songs",
+      "value": "Dziesmas"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Piedotiet, tam nevajadzēja notikt."
+    },
+    {
+      "name": "sort",
+      "value": "Kārtot"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Šis ir SoundCloud Go+ audio, vismaz jūsu valstī, tāpēc to nevar straumēt vai lejupielādēt ar NewPipe."
+    },
+    {
+      "name": "start",
+      "value": "Sākt"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Lai ievērotu Eiropas Vispārīgo datu aizsardzības regulu (GDPR), mēs vēršam jūsu uzmanību NewPipe konfidencialitātes politikai. Lūdzu, rūpīgi izlasiet to.\nJums tā ir jāpieņem, lai nosūtītu mums kļūdas ziņojumu."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Sākt lejupielādes"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Klausīties fonā šo"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Sākt atskaņot ar popup"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Nesākt video atskaņošanu samazinātā režīmā, bet pilnekrāna režīmā, ja automātiskā rotācija ir izslēgta"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Sākt video atskaņotāju pilnekrāna režīmā"
+    },
+    {
+      "name": "stop",
+      "value": "Pārtraukt"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Video/audio, ko lejupielādētājs vēl neatbalsta, netiek rādīti"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Informē, ja pieejami jauni video / audio abonementos"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Jauni video"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Pārbaužu biežums"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Nepieciešams tīkla savienojums"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Abonēt"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Abonēts"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Abonentu skaits nav pieejams"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Abonementu nevarēja mainīt"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Abonementu nevarēja atjaunināt"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Nevarēja eksportēt abonementus"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Nevarēja importēt abonementus"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Nospiediet \"Pabeigts\", kad to atrisinat"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Pārslēgt uz Fonu"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Pārslēgt uz Galveno"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Pārslēgt uz Popup"
+    },
+    {
+      "name": "systems_language",
+      "value": "System default"
+    },
+    {
+      "name": "tab_about",
+      "value": "Par un BUJ"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Saglabātie saraksti"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Atskaņošanas saraksti"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Atlasiet cilni"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Licences"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Abonementi"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Planšetes režīms"
+    },
+    {
+      "name": "theme_title",
+      "value": "Motīvs"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Attēlu kešatmiņa notīrīta"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Par NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Vēsture"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Atskaņošanas saraksts"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA izaicinājums"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Pēdējais atskaņotais"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Trešo pušu licences"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Visvairāk Atskaņotais"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Pārslēgt visus"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Pārslēgt pilnekrāna režīmu"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Pārslēgt ekrāna orientāciju"
+    },
+    {
+      "name": "top_50",
+      "value": "Top 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Dziesmas"
+    },
+    {
+      "name": "trending",
+      "value": "Tendences"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Pašlaik populārs spēļu nozarē"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Pašlaik populāras filmas un TV raidījumi"
+    },
+    {
+      "name": "trending_music",
+      "value": "Pašlaik populāra mūzika"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Pašlaik populāri raidieraksti"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Noņemt Grāmatzīmi"
+    },
+    {
+      "name": "undo",
+      "value": "Atsaukt"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Atvienot (var izraisīt traucējumus)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Nezināms"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Nezināms]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Nepazīstams formāts"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Nepazīstama kvalitāte"
+    },
+    {
+      "name": "unmute",
+      "value": "Izslēgt audio"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Noņemt pastāvīgo sīktēlu"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Pārtraukt abonementu"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "Šis saturs nepieejams pašlaik iestatītajai satura valstij.\n\nNomainīt iestatīto satura valsti variet zem \"Iestatījumi > Saturs > Vēlamā satura valsts\"."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Neatbalstīta URL adrese"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Nevarēja atpazīt saites URL. Vai atvērt citā lietotnē?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Rādīt paziņojumu, ja pieejama jauna lietotnes versija"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Atjauninājumi"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Publicēts %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Iespējojiet, ja ir problēmas ar dekodētāja inicializāciju, kas pāriet uz zemākas prioritātes dekodētājiem, ja primārā dekodētāja inicializācija neizdodas. Tas var izraisīt sliktāku atskaņošanas veiktspēju nekā izmantojot primāros dekodētajus"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Izmantot AVPlayer dekodētāja atkāpšanās funkciju"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Lietot ārējo audio atskaņotāju"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Dažās izšķirtspējās nav pieejami skaņas celiņi"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Lietot ārējo video atskaņotāju"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Ar neprecīzo tīšanu video atskaņotājs var ātrāk sasniegt aptuveno atskaņošanas pozīciju, bet ar zemāku precizitāti. Tīšana pa 5, 15 vai 25 sekundēm uz priekšu vai atpakaļ nedarbojas ar šo opciju"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Izmantot ātro, neprecīzo tīšanu"
+    },
+    {
+      "name": "users",
+      "value": "Lietotāji"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "No %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Atvērt video atskaņotājā"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Netika atrasti video"
+    },
+    {
+      "name": "videos_string",
+      "value": "Video"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Skatīt GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "Regulēt skaļumu"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Skatīšanās vēsture dzēsta"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Atskaņošanas pozīcijas dzēstas"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Apmeklējiet NewPipe vietni, lai iegūtu vairāk informācijas un jaunumus."
+    },
+    {
+      "name": "website_title",
+      "value": "Vietne"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Informācija:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Kas notika:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Tikai ar Wi-Fi"
+    },
+    {
+      "name": "yes",
+      "value": "Jā"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Jūs tagad esiet šī kanāla abonents"
+    },
+    {
+      "name": "your_comment",
+      "value": "Jūsu komentārs (Angliski):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Šis videoklips ir pieejams tikai YouTube Mūzikas Prēmijas dalībniekiem, tāpēc to nevar straumēt vai lejupielādēt ar Newpipe."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "Atskaņošanas laikā no servera saņemta HTTP 403 kļūda, ko, iespējams, izraisīja IP aizliegums vai straumēšanas URL atšifrēšanas (deobfuskācijas) problēmas"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube piedāvā \"ierobežotu režīmu\", kas slēpj potenciāli pieaugušo saturu"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Ieslēgt YouTube \"Ierobežoto režīmu\""
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

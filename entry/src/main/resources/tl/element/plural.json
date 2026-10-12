@@ -1,0 +1,17 @@
+{
+  "plural": [
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s panonood"
+        },
+        {
+          "quantity": "other",
+          "value": "Mga %s panonood"
+        }
+      ]
+    }
+  ]
+}

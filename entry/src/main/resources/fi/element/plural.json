@@ -1,0 +1,186 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d päivä"
+        },
+        {
+          "quantity": "other",
+          "value": "%d päivää"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Poistettu %1$s lataus"
+        },
+        {
+          "quantity": "other",
+          "value": "Poistettu %1$s latausta"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Lataus valmis"
+        },
+        {
+          "quantity": "other",
+          "value": "%s latausta valmiina"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d valittu"
+        },
+        {
+          "quantity": "other",
+          "value": "%d valittua"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d tunti"
+        },
+        {
+          "quantity": "other",
+          "value": "%d tuntia"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s kuuntelija"
+        },
+        {
+          "quantity": "other",
+          "value": "%s kuuntelijaa"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minuutti"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minuuttia"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s uusi streami"
+        },
+        {
+          "quantity": "other",
+          "value": "%s uudet streamit"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s vastaus"
+        },
+        {
+          "quantity": "other",
+          "value": "%s vastausta"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d sekunti"
+        },
+        {
+          "quantity": "other",
+          "value": "%d sekuntia"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s tilaaja"
+        },
+        {
+          "quantity": "other",
+          "value": "%s tilaajaa"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s video"
+        },
+        {
+          "quantity": "other",
+          "value": "%s videoita"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s katselukerta"
+        },
+        {
+          "quantity": "other",
+          "value": "%s katselukertaa"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s katselija"
+        },
+        {
+          "quantity": "other",
+          "value": "%s katselijaa"
+        }
+      ]
+    }
+  ]
+}

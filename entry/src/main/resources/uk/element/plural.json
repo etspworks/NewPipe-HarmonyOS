@@ -1,0 +1,298 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d день"
+        },
+        {
+          "quantity": "few",
+          "value": "%d дні"
+        },
+        {
+          "quantity": "many",
+          "value": "%d днів"
+        },
+        {
+          "quantity": "other",
+          "value": "%d днів"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Видалено %1$s завантаження"
+        },
+        {
+          "quantity": "few",
+          "value": "Видалено %1$s завантаження"
+        },
+        {
+          "quantity": "many",
+          "value": "Видалено %1$s завантажень"
+        },
+        {
+          "quantity": "other",
+          "value": "Видалено %1$s завантажень"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s завантаження завершено"
+        },
+        {
+          "quantity": "few",
+          "value": "%s завантаження завершено"
+        },
+        {
+          "quantity": "many",
+          "value": "%s завантажень завершено"
+        },
+        {
+          "quantity": "other",
+          "value": "%s завантажень завершено"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d вибрано"
+        },
+        {
+          "quantity": "few",
+          "value": "%d вибрано"
+        },
+        {
+          "quantity": "many",
+          "value": "%d вибрано"
+        },
+        {
+          "quantity": "other",
+          "value": "%d вибрано"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d година"
+        },
+        {
+          "quantity": "few",
+          "value": "%d години"
+        },
+        {
+          "quantity": "many",
+          "value": "%d годин"
+        },
+        {
+          "quantity": "other",
+          "value": "%d годин"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s слухач"
+        },
+        {
+          "quantity": "few",
+          "value": "%s слухача"
+        },
+        {
+          "quantity": "many",
+          "value": "%s слухачів"
+        },
+        {
+          "quantity": "other",
+          "value": "%s слухачів"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d хвилина"
+        },
+        {
+          "quantity": "few",
+          "value": "%d хвилини"
+        },
+        {
+          "quantity": "many",
+          "value": "%d хвилин"
+        },
+        {
+          "quantity": "other",
+          "value": "%d хвилин"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s нова трансляція"
+        },
+        {
+          "quantity": "few",
+          "value": "%s нові трансляції"
+        },
+        {
+          "quantity": "many",
+          "value": "%s нових трансляцій"
+        },
+        {
+          "quantity": "other",
+          "value": "%s нових трансляцій"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s відповідь"
+        },
+        {
+          "quantity": "few",
+          "value": "%s відповіді"
+        },
+        {
+          "quantity": "many",
+          "value": "%s відповідей"
+        },
+        {
+          "quantity": "other",
+          "value": "%s відповідей"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d секунда"
+        },
+        {
+          "quantity": "few",
+          "value": "%d секунди"
+        },
+        {
+          "quantity": "many",
+          "value": "%d секунд"
+        },
+        {
+          "quantity": "other",
+          "value": "%d секунд"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s підписник"
+        },
+        {
+          "quantity": "few",
+          "value": "%s підписники"
+        },
+        {
+          "quantity": "many",
+          "value": "%s підписників"
+        },
+        {
+          "quantity": "other",
+          "value": "%s підписників"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s відео"
+        },
+        {
+          "quantity": "few",
+          "value": "%s відео"
+        },
+        {
+          "quantity": "many",
+          "value": "%s відео"
+        },
+        {
+          "quantity": "other",
+          "value": "%s відео"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s перегляд"
+        },
+        {
+          "quantity": "few",
+          "value": "%s перегляди"
+        },
+        {
+          "quantity": "many",
+          "value": "%s переглядів"
+        },
+        {
+          "quantity": "other",
+          "value": "%s переглядів"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s глядач"
+        },
+        {
+          "quantity": "few",
+          "value": "%s глядача"
+        },
+        {
+          "quantity": "many",
+          "value": "%s глядачів"
+        },
+        {
+          "quantity": "other",
+          "value": "%s глядачів"
+        }
+      ]
+    }
+  ]
+}

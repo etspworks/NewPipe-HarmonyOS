@@ -1,0 +1,168 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "අවලංගු කරන්න"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "ඇතුලත් කරන්න මෙයට"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "ප්‍රවාහ ගොනුව බාගන්න"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "ඔබ අදහස් කළේ \"%1$s\" ද?"
+    },
+    {
+      "name": "download",
+      "value": "බාගත කරන්න"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "චලන රූප ගබඩා කිරීමට ස්තානයක් තෝරන්න"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "භාගත කල චලන රූප මෙහි තැන්පත් ය"
+    },
+    {
+      "name": "download_path_title",
+      "value": "චලන රූප භාගත කරන ස්තානය"
+    },
+    {
+      "name": "install",
+      "value": "ස්ථාපනය කරන්න"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "ආරම්භ කිරීමට අණ්වීක්ෂය ඔබන්න."
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "බැලූ ලෙස සලකුණු කරන්න"
+    },
+    {
+      "name": "no_player_found",
+      "value": "ප්‍රවාහ වාදකයක් හමු නොවීය. VLC ස්ථාපනය කරන්නද?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "ප්‍රවාහ වාදකයක් හමු නොවීය (ඔබට එය වාදනය කිරීමට VLC ස්ථාපනය කළ හැක)."
+    },
+    {
+      "name": "ok",
+      "value": "හරි"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Browser එක මගින් විවෘත කරන්න"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "උත්පතන මාදිලියේ විවෘත කරන්න"
+    },
+    {
+      "name": "open_with",
+      "value": "හරහා විවෘත කරන්න"
+    },
+    {
+      "name": "search",
+      "value": "සොයන්න"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "%s සඳහා ප්‍රතිපල පෙන්වයි"
+    },
+    {
+      "name": "settings",
+      "value": "සැකසුම්"
+    },
+    {
+      "name": "share",
+      "value": "බෙදාගන්න"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "සමඟ බෙදාගන්න"
+    },
+    {
+      "name": "show_info",
+      "value": "තොරතුරු පෙන්වන්න"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Subscribe කිරීම"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Subscribe කර ඇත"
+    },
+    {
+      "name": "tab_choose",
+      "value": "ටැබය තෝරන්න"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "පලකරන ලද්දේ %1$s"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "බාහිර ශ්‍රව්‍ය වාදකය භාවිතා කරන්න"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "සමහර විභේදනවලදී හඬ ඉවත් කරයි"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "බාහිර මෘදුකාංගයක් භාවිත කරන්න"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

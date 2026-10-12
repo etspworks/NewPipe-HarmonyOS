@@ -1,0 +1,56 @@
+{
+  "plural": [
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s subscriptor"
+        },
+        {
+          "quantity": "other",
+          "value": "%s subscriptores"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s video"
+        },
+        {
+          "quantity": "other",
+          "value": "%s videos"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s reproduction"
+        },
+        {
+          "quantity": "other",
+          "value": "%s reproductiones"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s visualisation"
+        },
+        {
+          "quantity": "other",
+          "value": "%s visualisationes"
+        }
+      ]
+    }
+  ]
+}

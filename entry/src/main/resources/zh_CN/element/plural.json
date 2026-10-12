@@ -1,0 +1,157 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "%d 天"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "删除了 %1$s 个下载"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "完成了 %s 个下载"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "正在导出 %d 个订阅…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "已选中 %d"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "%d 小时"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "正在导入 %d 个订阅…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "%s 位听众"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "正在加载 %d 个订阅…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "%d 分钟"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "%s 个新音视频流"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "%s 条回复"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "%d 秒"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "%s 位订阅者"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "%s 个视频"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "%s 次观看"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "%s 人在观看"
+        }
+      ]
+    }
+  ]
+}

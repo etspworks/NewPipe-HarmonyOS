@@ -1,0 +1,244 @@
+{
+  "string": [
+    {
+      "name": "always",
+      "value": "Һәрвакыт"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Автоматик уйнату"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Кара"
+    },
+    {
+      "name": "brightness",
+      "value": "Яктылык"
+    },
+    {
+      "name": "cancel",
+      "value": "Баш тарту"
+    },
+    {
+      "name": "channels",
+      "value": "Каналлар"
+    },
+    {
+      "name": "clear",
+      "value": "Чистарту"
+    },
+    {
+      "name": "content",
+      "value": "Эчтәлек"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Арткы план"
+    },
+    {
+      "name": "disabled",
+      "value": "Cүндерелде"
+    },
+    {
+      "name": "download",
+      "value": "Йөкләп алу"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Йөкләп алу"
+    },
+    {
+      "name": "duration_live",
+      "value": "Турыдан-туры"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Эзләү тарихы"
+    },
+    {
+      "name": "events",
+      "value": "Вакыйгалар"
+    },
+    {
+      "name": "file",
+      "value": "Файл"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Файл бетерелде"
+    },
+    {
+      "name": "install",
+      "value": "Урнаштыру"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Ачык"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Локаль эзләү тәкъдимнәре"
+    },
+    {
+      "name": "no",
+      "value": "Юк"
+    },
+    {
+      "name": "none",
+      "value": "Бернинди дә"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe искәртүе"
+    },
+    {
+      "name": "notifications",
+      "value": "Искәртүләр"
+    },
+    {
+      "name": "ok",
+      "value": "Ярар"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Браузерда ачу"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Сервер өстәү"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "\"PeerTube\" серверлары"
+    },
+    {
+      "name": "play_all",
+      "value": "Барысын да уйнату"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Kodi белән уйнату"
+    },
+    {
+      "name": "search",
+      "value": "Эзләү"
+    },
+    {
+      "name": "settings",
+      "value": "Көйләүләр"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Тышкы күренеш"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Мәгълүматны чистарту"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Хата төзәтү"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Тарих һәм кэш"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Тәртип"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Яңартулар"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Видео һәм аудио"
+    },
+    {
+      "name": "show_info",
+      "value": "Мәгълүматны күрсәтү"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Эзләү тәкъдимнәре"
+    },
+    {
+      "name": "songs",
+      "value": "Җырлар"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Язылу"
+    },
+    {
+      "name": "theme_title",
+      "value": "Тема"
+    },
+    {
+      "name": "undo",
+      "value": "Кире алу"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Билгесез]"
+    },
+    {
+      "name": "users",
+      "value": "Кулланучылар"
+    },
+    {
+      "name": "volume",
+      "value": "Тавыш көче"
+    },
+    {
+      "name": "yes",
+      "value": "Әйе"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

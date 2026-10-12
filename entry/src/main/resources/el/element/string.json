@@ -1,0 +1,3080 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Αποδοχή"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Ο λογαριασμός διαγράφηκε"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Ο λογαριασμός έκλεισε\n\n%1$s παρέχει αυτήν την αιτία: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "Ιστορικό"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Προσθήκη σε λίστα αναπαραγωγής"
+    },
+    {
+      "name": "albums",
+      "value": "Άλμπουμ"
+    },
+    {
+      "name": "all",
+      "value": "Όλα"
+    },
+    {
+      "name": "always",
+      "value": "Πάντα"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Πάντα ερώτηση"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Αυτή η λύση απελευθερώνει και επαναφέρει τους κωδικοποιητές βίντεο όταν συμβαίνει μια αλλαγή επιφάνειας, αντί να ρυθμίζει την επιφάνεια απευθείας στον κωδικοποιητή. Χρησιμοποιείται ήδη από το ExoPlayer σε ορισμένες συσκευές με αυτό το πρόβλημα, αυτή η ρύθμιση έχει επίδραση μόνο σε Android 6 και νεότερη έκδοση.\n\n\n\nΗ ενεργοποίηση αυτής της επιλογής μπορεί να αποτρέψει σφάλματα αναπαραγωγής κατά την εναλλαγή του τρέχοντος προγράμματος αναπαραγωγής βίντεο ή τη μετάβαση σε πλήρη οθόνη"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Χρησιμοποιείτε πάντα τον εναλλακτικό τρόπο ρύθμισης της επιφάνειας εξόδου βίντεο του AVPlayer"
+    },
+    {
+      "name": "any_network",
+      "value": "Οποιοδήποτε δίκτυο"
+    },
+    {
+      "name": "api23_requirement_dialog_blogpost",
+      "value": "Δημοσίευση στο ιστολόγιο"
+    },
+    {
+      "name": "api23_requirement_dialog_message",
+      "value": "Δυστυχώς, το NewPipe βασίζεται σε ορισμένες βιβλιοθήκες που έχουν σταματήσει να υποστηρίζουν τα Android 5.0 και 5.1. Ως εκ τούτου, η επόμενη έκδοση του NewPipe θα λειτουργεί μόνο σε συσκευές με Android 6 ή νεότερη έκδοση, δυστυχώς. Διαβάστε περισσότερα στην ανάρτηση του ιστολογίου."
+    },
+    {
+      "name": "api23_requirement_dialog_title",
+      "value": "Το NewPipe καταργεί την υποστήριξη για το Android 5"
+    },
+    {
+      "name": "app_description",
+      "value": "Ανοιχτού κώδικα, ελαφριά εφαρμογή HarmonyOS, για την αναπαραγωγή πολυμέσων από το διαδίκτυο."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Γλώσσα εφαρμογής"
+    },
+    {
+      "name": "app_license",
+      "value": "Το NewPipe είναι copylelft ελεύθερο λογισμικό: Μπορείτε να το χρησιμοποιήσετε, να το μελετήσετε, να το μοιραστείτε και να το βελτιώσετε κατά βούληση. Ειδικότερα, μπορείτε να το αναδιανείμετε ή/και να το τροποποιήσετε υπό την άδεια GNU General Public Licence όπως αυτή εκδόθηκε από το Free Software Foundation, είτε υπό την έκδοση 3 της άδειας, είτε (προαιρετικά) υπό οποιαδήποτε μεταγενέστερη άδεια."
+    },
+    {
+      "name": "app_license_title",
+      "value": "Η άδεια του NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Η εφαρμογή κατέρρευσε"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Πατήστε για λήψη %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Μια νέα έκδοση του NewPipe είναι διαθέσιμη!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Ειδοποίηση για νεότερη έκδοση του NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Ειδοποίηση ενημέρωσης εφαρμογής"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Έχετε την πιο πρόσφατη έκδοση του NewPipe"
+    },
+    {
+      "name": "artists",
+      "value": "Καλλιτέχνες"
+    },
+    {
+      "name": "audio",
+      "value": "Ήχος"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Δε βρέθηκαν ροές ήχου"
+    },
+    {
+      "name": "audio_track",
+      "value": "Κομμάτι ήχου"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Ένα κομμάτι ήχου θα πρέπει να υπάρχει ήδη σε αυτήν τη ροή"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "περιγραφικό"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "μεταγλωττισμένο"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "αρχικό"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "δευτερεύων"
+    },
+    {
+      "name": "auto",
+      "value": "Αυτόματα"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Αυτόματο (θέμα συσκευής)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Συνέχεια της τρέχουσας (μη επαναλαμβανόμενης) ουράς μετά τη λήξη της, με την προσθήκη μιας σχετικής ροής"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Αυτόματη προσθήκη της επόμενης ροής στην ουρά"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Αυτόματη προσθήκη στην ουρά"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "Το NewPipe μπορεί να ελέγχει αυτόματα για νέες εκδόσεις και να σας ειδοποιεί μόλις είναι διαθέσιμες.\n\nΘέλετε να το ενεργοποιήσετε;"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Αυτόματη έναρξη αναπαραγωγής — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Αυτόματη αναπαραγωγή"
+    },
+    {
+      "name": "background_player",
+      "value": "Αναπαραγωγή παρασκηνίου"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Αναπαραγωγή στο παρασκήνιο"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Βέλτιστη ανάλυση"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Μαύρο"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Κενή σελίδα"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Προσθήκη σελιδοδείκτη στη λίστα"
+    },
+    {
+      "name": "brightness",
+      "value": "Φωτεινότητα"
+    },
+    {
+      "name": "cancel",
+      "value": "Άκυρο"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Αυτόματοι"
+    },
+    {
+      "name": "caption_none",
+      "value": "Χωρίς υπότιτλους"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Τροποποίηση του μεγέθους και του φόντου των υπότιτλων. Απαιτεί επανεκκίνηση της εφαρμογής"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Υπότιτλοι"
+    },
+    {
+      "name": "card",
+      "value": "Κάρτα"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Δημιουργήθηκε από %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Σελίδα καναλιών"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Σχετικά"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Άλμπουμ"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Κανάλια"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Μου αρέσει"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Ζωντανά"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Λίστες"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Σύντομα"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Κομμάτια"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Βίντεο"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Το κανάλι διαγράφηκε"
+    },
+    {
+      "name": "channels",
+      "value": "Κανάλια"
+    },
+    {
+      "name": "chapters",
+      "value": "Κεφάλαια"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Γράμματα και ψηφία"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Οι περισσότεροι ειδικοί χαρακτήρες"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Έλεγχος αναβάθμισης"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Εκτελέστε έλεγχο για νέες ροές"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Έλεγχος αναβάθμισης…"
+    },
+    {
+      "name": "checksum",
+      "value": "Άθροισμα ελέγχου"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Επιλογή μιας instance"
+    },
+    {
+      "name": "clear",
+      "value": "Εκκαθάριση"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Εκκαθάριση των cookies που αποθηκεύει η εφαρμογή όταν επιλύετε ένα reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Εκκαθάριση reCAPTCHA cookies"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Εκκαθάριση ιστορικού λήψεων"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Διαγράφει όλες τις θέσεις αναπαραγωγής"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Διαγραφή θέσεων αναπαραγωγής"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Η ουρά του ενεργού αναπαραγωγού θα αντικατασταθεί"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Η εναλλαγή από έναν αναπαραγωγό σε άλλον, μπορεί να αντικαταστήσει την ουρά σας"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Ζητήστε επιβεβαίωση πριν από την εκκαθάριση μιας ουράς"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Διαγράφει το ιστορικό αναζητήσεών σας"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Διαγραφή ιστορικού αναζητήσεων"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Διαγράφει το ιστορικό των αναπαραχθέντων ροών και των θέσεων αναπαραγωγής"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Εκκαθάριση ιστορικού προβολής"
+    },
+    {
+      "name": "close",
+      "value": "Κλείσιμο"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Τα σχόλια είναι απενεργοποιημένα"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Σχόλια"
+    },
+    {
+      "name": "conferences",
+      "value": "Συνέδρια"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Θέλετε να διαγράψετε το ιστορικό λήψεων σας ή να διαγράψετε όλα τα αρχεία που έχετε λάβει;"
+    },
+    {
+      "name": "content",
+      "value": "Περιεχόμενο"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Προεπιλεγμένη γλώσσα περιεχομένου"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Το περιεχόμενο δεν είναι διαθέσιμο"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Αυτό το περιεχόμενο δεν υποστηρίζεται ακόμη από το NewPipe.\n\n\n\nΕλπίζουμε ότι θα υποστηριχθεί σε μια μελλοντική έκδοση."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Αν έχετε ιδέες για μετάφραση, αλλαγή σχεδιασμού, εκκαθάριση ή ριζικές αλλαγές κώδικα της εφαρμογής, η βοήθεια σας είναι πάντα ευπρόσδεκτη. Όσο περισσότερη έχουμε, τόσο καλύτεροι γινόμαστε!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Συνεισφέρετε"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Προσθήκη σε"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Στο παρασκήνιο"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Λήψη του αρχείου ροής"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Αναδυόμενο παράθυρο"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Αντιγραφή μορφοποιημένης αναφοράς"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s από %2$s υπό %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Προσοχή: Δεν ήταν δυνατή η εισαγωγή όλων των αρχείων."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Δεν ήταν δυνατή η φόρτωση όλων των εικονιδίων"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Δεν ήταν δυνατή η ρύθμιση του μενού λήψεων"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Κατάρρευση εφαρμογής"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Κατάρρευση αναπαραγωγέα"
+    },
+    {
+      "name": "create",
+      "value": "Δημιουργία"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Δημιουργία ειδοποίησης σφάλματος"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Νέα λίστα αναπαραγωγής"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Σκοτεινό"
+    },
+    {
+      "name": "decline",
+      "value": "Απόρριψη"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Προεπιλεγμένη μορφή ήχου"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Προεπιλεγμένη χώρα περιεχομένου"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Προεπιλεγμένο περίπτερο"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Προεπιλεγμένη ανάλυση αναδυόμενου παραθύρου"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Προεπιλεγμένη ανάλυση"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Προεπιλεγμένη μορφή βίντεο"
+    },
+    {
+      "name": "delete",
+      "value": "Διαγραφή"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Διαγραφή ληφθέντων αρχείων"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Διαγραφή όλων των ληφθέντων αρχείων από το δίσκο;"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Διαγραφή καταχώρησης"
+    },
+    {
+      "name": "delete_file",
+      "value": "Διαγραφή αρχείου"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Θέλετε να σβήσετε αυτό το αντικείμενο από το ιστορικό αναζήτησης;"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Να διαγραφούν όλες οι θέσεις αναπαραγωγής;"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Διαγραφή αυτής της λίστας αναπαραγωγής;"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Διαγραφή ολόκληρου του ιστορικού αναζητήσεων;"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Διαγραφή ολόκληρου του ιστορικού προβολής;"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Απενεργοποίηση επιλογής κειμένου στην περιγραφή"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Ενεργοποίηση επιλογής κειμένου στην περιγραφή"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Τώρα μπορείτε να επιλέξετε κείμενο εντός της περιγραφής. Σημειώστε ότι, η σελίδα μπορεί να παρουσιάζει αστάθεια κατά τη διάρκεια της κατάστασης επιλογής κειμένου."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Περιγραφή"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Dislike"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Σύρετε για ταξινόμηση"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Επισημάνθηκε από τον δημιουργό"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Like"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Καρφιτσωμένο σχόλιο"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Μικρογραφία avatar του καναλιού"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Αναπαραγωγή βίντεο, διάρκεια:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Μικρογραφία εικόνας προφίλ του χρήστη"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Μήπως εννοείτε \"%1$s\";"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Το media tunneling απενεργοποιήθηκε από προεπιλογή στη συσκευή σας, επειδή το μοντέλο της συσκευής σας είναι γνωστό ότι δεν το υποστηρίζει."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Απενεργοποιήστε το media tunneling, αν παρατηρείτε μαύρη οθόνη ή διακοπές κατά την αναπαραγωγή βίντεο."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Απενεργοποίηση media tunneling"
+    },
+    {
+      "name": "disabled",
+      "value": "Απενεργοποιημένο"
+    },
+    {
+      "name": "dismiss",
+      "value": "Αγνόηση"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "Το NewPipe αναπτύσσεται από εθελοντές που δαπανούν τον ελεύθερο χρόνο τους για να σας προσφέρουν τη βέλτιστη δυνατή εμπειρία χρήστη. Ανταποδώστε το, για να βοηθήσετε τους προγραμματιστές του NewPipe να το κάνουν ακόμα καλύτερο, όσο απολαμβάνουν ένα φλιτζάνι καφέ."
+    },
+    {
+      "name": "donation_title",
+      "value": "Δωρεά"
+    },
+    {
+      "name": "done",
+      "value": "Τέλος"
+    },
+    {
+      "name": "dont_show",
+      "value": "Απόκρυψη"
+    },
+    {
+      "name": "download",
+      "value": "Λήψη"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Υπάρχει μια εκκρεμής λήψη με αυτό το όνομα"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Υπάρχει μια λήψη σε εξέλιξη με αυτό το όνομα"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Λήψη"
+    },
+    {
+      "name": "download_failed",
+      "value": "Η λήψη απέτυχε"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Η λήψη ξεκίνησε"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Επιλέξτε φάκελο λήψης για αρχεία ήχου"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Τα ληφθέντα αρχεία ήχου αποθηκεύονται εδώ"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Φάκελος λήψης ήχου"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Επιλέξτε φάκελο λήψης για αρχεία βίντεο"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Τα ληφθέντα αρχεία βίντεο αποθηκεύονται εδώ"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Φάκελος λήψης βίντεο"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Η αποθήκευση στην SD κάρτα δεν είναι δυνατή. Επαναφορά στην αρχική τοποθεσία λήψης;"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Εξωτερική μνήμη αποθήκευσης μη διαθέσιμη"
+    },
+    {
+      "name": "downloads",
+      "value": "Λήψεις"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Θα ερωτηθείτε πού να αποθηκεύσετε κάθε λήψη.\n\nΕνεργοποιήστε τον επιλογέα φακέλων συστήματος (SAF), αν θέλετε να κάνετε λήψεις σε εξωτερική κάρτα μνήμης"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Θα ερωτηθείτε πού να αποθηκεύσετε κάθε λήψη"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Ερώτηση πού να γίνει η λήψη"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "Το «Πλαίσιο Πρόσβασης Αποθήκευσης» (SAF) επιτρέπει λήψεις σε μια εξωτερική κάρτα SD"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Από το Android 10 και μετά, μόνο το Πλαίσιο Πρόσβασης Αποθήκευσης υποστηρίζεται"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Χρήση επιλογέα φακέλων συστήματος (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Λήψεις"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Κλείσιμο συρταριού"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Εναλλαγή υπηρεσιών, επιλεγμένη αυτή τη στιγμή:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Άνοιγμα συρταριού"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Οι λίστες αναπαραγωγής που είναι γκριζαρισμένες περιέχουν ήδη αυτό το στοιχείο."
+    },
+    {
+      "name": "duration",
+      "value": "Διάρκεια"
+    },
+    {
+      "name": "duration_live",
+      "value": "Ζωντανά"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Δεν υπάρχει τίποτα εδώ"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Υποχρεωτική αναφορά μη παραδοτέων Rx εξαιρέσεων έξω από το κομμάτι ή τον κύκλο δραστηριότητας μετά από απόρριψη"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Αναφορά σφαλμάτων εκτός κύκλου ζωής"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Η παρακολούθηση των διαρροών μνήμης μπορεί να προκαλέσει την διακοπή της εφαρμογής"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Επαναφορά της τελευταίας θέσης αναπαραγωγής"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Ανάκτηση αναπαραγωγής"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Εμφάνιση ενδείξεων θέσης αναπαραγωγής στις λίστες"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Θέσεις στις λίστες"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Περιορισμός ουράς λήψης"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Μόνο μια λήψη θα εκτελείται κάθε φορά"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Αποθήκευση αναζητήσεων στη συσκευή"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Ιστορικό αναζήτησης"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Ειδοποίηση για νέες ροές από συνδρομές"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Ειδοποιήσεις για νέες ροές"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Κρατήστε ιστορικό των αναπαραχθέντων βίντεο"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Προβολή Ιστορικού"
+    },
+    {
+      "name": "enqueue",
+      "value": "Προσθήκη σε ουρά"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Προσθήκη επόμενου στην ουρά"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Προσθήκη στην ουρά"
+    },
+    {
+      "name": "enqueued",
+      "value": "Προστέθηκε στην ουρά"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Προστέθηκε το επόμενο στην ουρά"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Η καταχώρηση διαγράφηκε"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Αδυναμία σύνδεσης με τον εξυπηρετητή"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Λεπτομέρειες:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Δεν είναι δυνατή η ανάκτηση αυτής της λήψης"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Δεν είναι δυνατή η δημιουργία του αρχείου"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Ο εξυπηρετητής δεν στέλνει δεδομένα"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Δε βρέθηκε"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Ο εξυπηρετητής δεν υποστηρίζει πολυνηματικές λήψεις, ξαναπροσπαθήστε με @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Δεν υπάρχει αρκετός ελεύθερος χώρος στη συσκευή"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Δεν υπάρχει αρκετός χώρος στη συσκευή"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Προέκυψε ένα σφάλμα: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Δεν είναι δυνατή η δημιουργία του φακέλου προορισμού"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Η μετεπεξεργασία απέτυχε"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "Το NewPipe τερματίστηκε ενώ επεξεργάζονταν το αρχείο"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Η πρόοδος χάθηκε, επειδή το αρχείο διαγράφηκε"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Αναφορά μέσω ηλεκτρονικού ταχυδρομείου"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Ειδοποιήσεις για την αναφορά σφαλμάτων"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Ειδοποίηση αναφοράς σφάλματος"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "Το NewPipe παρουσίασε ένα σφάλμα. Πατήστε για αναφορά"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Συνέβη ένα σφάλμα. Δείτε την ειδοποίηση"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Παρακαλούμε ελέγξτε αν το πρόβλημα σας έχει ήδη αναφερθεί. Οι διπλές αναφορές μας στερούν το χρόνο που θα μπορούσαμε να διαθέσουμε για την επίλυση του προβλήματος."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Αναφορά στο GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Αναφορά σφαλμάτων"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Αναφορά"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Συγγνώμη, κάτι πήγε στραβά."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Δεν ήταν δυνατή η δημιουργία ασφαλούς σύνδεσης"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Λήξη χρονικού ορίου σύνδεσης"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Δεν ήταν δυνατή η φόρτωση σχολίων"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Αδυναμία εύρεσης του εξυπηρετητή"
+    },
+    {
+      "name": "events",
+      "value": "Συμβάντα"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Η εξαγωγή ολοκληρώθηκε"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Εξαγωγή ιστορικού, εγγραφών, λιστών αναπαραγωγής και ρυθμίσεων"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Εξαγωγή βάσης δεδομένων"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Γίνεται εξαγωγή…"
+    },
+    {
+      "name": "export_subscriptions_summary",
+      "value": "Εξαγωγή των συνδρομών σας σε αρχείο .json"
+    },
+    {
+      "name": "export_subscriptions_title",
+      "value": "Εξαγωγή συνδρομών"
+    },
+    {
+      "name": "export_to",
+      "value": "Εξαγωγή σε"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Οι εξωτερικές συσκευές αναπαραγωγής δεν υποστηρίζουν αυτού του είδους συνδέσμους"
+    },
+    {
+      "name": "faq",
+      "value": "Προβολή στην ιστοσελίδα"
+    },
+    {
+      "name": "faq_description",
+      "value": "Εάν αντιμετωπίζετε προβλήματα με τη χρήση της εφαρμογής, φροντίστε να ελέγξετε αυτές τις απαντήσεις σε συνήθεις ερωτήσεις!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Συχνές ερωτήσεις"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Γρήγορη λειτουργία"
+    },
+    {
+      "name": "featured",
+      "value": "Επιλεγμένα"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Νέα"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Λήψη καρτελών καναλιών"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Καρτέλες για ανάκτηση κατά την ενημέρωση της ροής. Αυτή η επιλογή δεν έχει καμία επίδραση εάν ένα κανάλι ενημερώνεται χρησιμοποιώντας τη γρήγορη λειτουργία."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Θέλετε να διαγράψετε αυτή την ομάδα;"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Κενό όνομα ομάδας"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Δεν έχει επιλεγεί συνδρομή"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Επιλέξτε συνδρομές"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Σελίδα καναλιού ομάδας"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Εμφάνιση μόνο μη ομαδοποιημένων συνδρομών"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Ομάδες καναλιών"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Εμφάνιση των ακόλουθων ροών"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Σφάλμα φόρτωσης τροφοδοσίας"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Αδυναμία φόρτωσης τροφοδοσίας για '%s'."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Η κατάσταση γρήγορης τροφοδοσίας δεν παρέχει περισσότερες πληροφορίες."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Ο λογαριασμός του δημιουργού έχει διαγραφεί.\n\nΤο NewPipe δε θα μπορεί να φορτώσει αυτή την τροφοδοσία στο μέλλον.\n\nΘέλετε να απεγγραφείτε από αυτό το κανάλι;"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Νέα αντικείμενα τροφοδοσίας"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Φόρτωση ροής…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Η ροή ανανεώθηκε: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Επεξεργασία ροής…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Εμφάνιση/Απόκρυψη ροών"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Θεαθέντα μερικώς"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Προσεχή"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Θεαθέντα πλήρως"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Δεν φορτώθηκε: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Να γίνεται πάντα ενημέρωση"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Χρόνος μετά την τελευταία ενημέρωση πριν μια συνδρομή θεωρηθεί ξεπερασμένη — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Όριο ενημέρωσης ροής"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Απενεργοποίηση γρήγορης λειτουργίας"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Ενεργοποίηση γρήγορης λειτουργίας"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Πιστεύετε ότι η ροή φορτώνει πολύ αργά; Δοκιμάστε να ενεργοποιήσετε τη γρήγορη φόρτωση (από τις ρυθμίσεις ή πατώντας το παρακάτω κουμπί).\n\nΤο NewPipe προσφέρει δύο στρατηγικές φόρτωσης ροής:\n- Λήψη ολόκληρου του καναλιού συνδρομής, το οποίο είναι αργό αλλά πλήρες.\n- Χρήση ενός αποκλειστικού τελικού σημείου υπηρεσίας, το οποίο είναι γρήγορο αλλά συνήθως δεν είναι πλήρες.\n\nΗ διαφορά μεταξύ των δύο είναι ότι η γρήγορη συνήθως στερείται κάποιες πληροφορίες, όπως η διάρκεια ή ο τύπος του στοιχείου (δεν μπορεί να διακρίνει μεταξύ ζωντανών βίντεο και κανονικών) και μπορεί να επιστρέψει λιγότερα στοιχεία.\n\nΤο YouTube είναι ένα παράδειγμα υπηρεσίας της γρήγορης μεθόδου με τη ροή RSS.\n\nΣυνεπώς επιλέγετε ανάλογα: ταχύτητα ή ακριβείς πληροφορίες."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Διαθέσιμο σε ορισμένες υπηρεσίες, είναι συνήθως πολύ πιο γρήγορο, αλλά μπορεί να επιστρέψει έναν περιορισμένο αριθμό αντικειμένων και συχνά ελλειπείς πληροφορίες (π.χ. χωρίς διάρκεια, τύπο αντικειμένου)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Λήψη από ειδική ροή όταν είναι διαθέσιμη"
+    },
+    {
+      "name": "file",
+      "value": "Αρχείο"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Το αρχείο διαγράφηκε"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Το όνομα αρχείου δεν μπορεί να είναι κενό"
+    },
+    {
+      "name": "forward",
+      "value": "Εμπρός"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Τι νέο υπάρχει"
+    },
+    {
+      "name": "general_error",
+      "value": "Σφάλμα"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Δημιουργία μοναδικού ονόματος"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Αυτό το περιεχόμενο δεν είναι διαθέσιμο στη χώρα σας."
+    },
+    {
+      "name": "get_notified",
+      "value": "Λάβετε ειδοποίηση"
+    },
+    {
+      "name": "give_back",
+      "value": "Προσφέρετε"
+    },
+    {
+      "name": "grid",
+      "value": "Πλέγμα"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Ειδοποιήσεις για πρόοδο βίντεο hashing"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Ειδοποίηση βίντεο hash"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Υψηλή ποιότητα (μεγαλύτερο)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Πιέστε παρατεταμένα για προσθήκη στην ουρά"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Χρήσιμο, για παράδειγμα, εάν χρησιμοποιείτε ακουστικά με χαλασμένα φυσικά κουμπιά"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Αγνοήστε τα συμβάντα κουμπιών πολυμέσων υλικού"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Υψηλή ποιότητα"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Χαμηλή ποιότητα"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Μέτρια ποιότητα"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Μη φόρτωση εικόνων"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Επιλέξτε την ποιότητα των εικόνων και εάν δε θέλετε να φορτώσετε εικόνες, για να μειώσετε τη χρήση δεδομένων και μνήμης. Οι αλλαγές εκκαθαρίζουν την κρυφή μνήμη εικόνων, τόσο στη μνήμη όσο και στον δίσκο — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Ποιότητα εικόνας"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Η εισαγωγή ολοκληρώθηκε"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Παρακάμπτει το τρέχον ιστορικό, εγγραφές, λίστες αναπαραγωγής και (προαιρετικά) τις ρυθμίσεις σας"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Εισαγωγή βάσης δεδομένων"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Εισαγωγή αρχείου"
+    },
+    {
+      "name": "import_from",
+      "value": "Εισαγωγή από"
+    },
+    {
+      "name": "import_from_previous_export",
+      "value": "Εισαγωγή από προηγούμενη εξαγωγή"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Αυτή η διαδικασία μπορεί να χρησιμοποιήσει μεγάλο όγκο δεδομένων.\n\n\n\nΕπιθυμείτε να συνεχίσετε;"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Γίνεται εισαγωγή…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Θέλετε επίσης να εισάγετε ρυθμίσεις;"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Οι ρυθμίσεις στην εξαγωγή που εισάγεται χρησιμοποιούν μια ευάλωτη μορφή που είχε καταργηθεί από το NewPipe 0.27.0. Βεβαιωθείτε ότι η εξαγωγή που εισάγεται προέρχεται από αξιόπιστη πηγή και προτιμήστε να χρησιμοποιείτε μόνο εξαγωγές που λαμβάνονται από το NewPipe 0.27.0 ή νεότερο στο μέλλον. Η υποστήριξη για εισαγωγή ρυθμίσεων σε αυτήν την ευάλωτη μορφή θα καταργηθεί σύντομα εντελώς και, στη συνέχεια, οι παλιές εκδόσεις του NewPipe δεν θα μπορούν πλέον να εισάγουν ρυθμίσεις εξαγωγών από νέες εκδόσεις."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Για να εισάγετε τον λογαριασμό SoundCloud σας, πληκτρολογήστε τον σύνδεσμο ή το ID σας:\n\n\n\n1. Ενεργοποιήστε τη λειτουργία «Desktop mode» στον φυλλομετρητή σας (καθώς η ιστοσελίδα δεν είναι διαθέσιμη για κινητά)\n\n2. Πλοηθηθείτε στο %1$s\n\n3. Εισέλθετε στο λογαριασμό σας, όταν σας ζητηθεί\n\n4. Αντιγράψτε τον σύνδεσμο του λογαριασμού στον οποίο ανακατευθυνθήκατε."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "Το όνομα χρήστη σας, soundcloud.com/όνομαχρήστη"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Εισάγετε ή εξάγετε συνδρομές από το μενού 3 κουκκίδων"
+    },
+    {
+      "name": "import_subscriptions_summary",
+      "value": "Εισαγωγή συνδρομών από προηγούμενη εξαγωγή"
+    },
+    {
+      "name": "import_subscriptions_title",
+      "value": "Εισαγωγή συνδρομών"
+    },
+    {
+      "name": "import_title",
+      "value": "Εισαγωγή"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Κάντε εισαγωγή των εγγραφών σας στο YouTube από το Google takeout:\n\n\n\n1. Πλοηγηθείτε στο: %1$s\n\n2. Εισέλθετε στο λογαριασμό σας, όταν σας ζητηθεί.\n\n3. Πατήστε το «Περιλαμβάνονται όλα τα δεδομένα του YouTube», στη συνέχεια «Κατάργηση επιλογής όλων» και επιλέξτε μόνο το «συνδρομές» και «ΟΚ».\n\n4. Πατήστε «Επόμενο βήμα» και μετά «Δημιουργία εξαγωγής».\n\n5. Πατήστε «Λήψη» όταν εμφανιστεί.\n\n6. Πατήστε το ΕΙΣΑΓΩΓΗ ΑΡΧΕΙΟΥ και επιλέξτε το ληφθέν αρχείο zip.\n\n7. Αν η εισαγωγή από το zip αποτύχει, εξάγετε το αρχείο .csv (συνήθως βρίσκεται στο \"YouTube και YouTube Music/subscriptions/subscriptions.csv\"), πατήστε το ΕΙΣΑΓΩΓΗ ΑΡΧΕΙΟΥ και επιλέξτε το ληφθέν αρχείο csv"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ βίντεο"
+    },
+    {
+      "name": "info_labels",
+      "value": "Τι:\nΑίτημα:\nΓλώσσα περιεχομένου:\nΧώρα περιεχομένου:\nΓλώσσα εφαρμογής:\nΥπηρεσία:\nΏρα GMT:\nΠακέτο:\nΈκδοση:\nΈκδοση λειτουργικού συστήματος:"
+    },
+    {
+      "name": "install",
+      "value": "Εγκατάσταση"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Δεν υπάρχει αυτός ο φάκελος"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Το αρχείο δεν υπάρχει ή δεν υπάρχει επαρκής εξουσιοδότηση ανάγνωσης ή εγγραφής σε αυτό"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Δεν υπάρχει το αρχείο/πηγή περιεχομένου"
+    },
+    {
+      "name": "just_once",
+      "value": "Μόνο μία φορά"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "Λεπτομέρειες"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "Τον Αύγουστο του 2025, η Google ανακοίνωσε ότι από τον Σεπτέμβριο του 2026, η εγκατάσταση εφαρμογών θα απαιτεί επαλήθευση προγραμματιστή για όλες τις εφαρμογές Android σε πιστοποιημένες συσκευές, συμπεριλαμβανομένων εκείνων που είναι εγκατεστημένες εκτός του Play Store. Δεδομένου ότι οι προγραμματιστές του NewPipe δεν συμφωνούν με αυτήν την απαίτηση, το NewPipe δεν θα λειτουργεί πλέον σε πιστοποιημένες συσκευές Android μετά από αυτό το χρονικό διάστημα."
+    },
+    {
+      "name": "kao_solution",
+      "value": "Λύση"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Σελίδα περιπτέρου"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Εγκατάσταση της εφαρμογής Kore;"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "Το LeakCanary δεν είναι διαθέσιμο"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Επιλέξτε χειρονομία για το αριστερό μισό της οθόνης του προγράμματος αναπαραγωγής"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Ενέργεια αριστερής χειρονομίας"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Φωτεινό"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Χωρίς όριο"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Περιορισμός της ανάλυσης όταν γίνεται χρήση δεδομένων"
+    },
+    {
+      "name": "list",
+      "value": "Λίστα"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Προβολή λίστας"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Φόρτωση μεταδεδομένων…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Φόρτωση λεπτομερειών ροής…"
+    },
+    {
+      "name": "local",
+      "value": "Τοπικά"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Προτάσεις τοπικής αναζήτησης"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Χαμηλή ποιότητα (μικρότερο)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Πατήστε το μεγεθυντικό φακό για να ξεκινήσετε."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Περιεχόμενο της κεντρικής σελίδας"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Ποιές καρτέλες θα εμφανίζονται στην αρχική σελίδα"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Απομάκρυνση αντικειμένων με σύρσιμο"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Μετακινήστε τον επιλογέα κύριας καρτέλας στο κάτω μέρος"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Θέση κύριων καρτελών"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Χειροκίνητος έλεγχος για νέα έκδοση"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Σήμανση ως αναπαραχθέν"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Μέγιστος αριθμός προσπαθειών προτού γίνει ακύρωση της λήψης"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Μέγιστος αριθμός προσπαθειών"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Όριο ηλικίας"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Άβαταρ"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Ταμπέλες"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Η προσωρινή μνήμη μεταδεδομένων εκκαθαρίστηκε"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Αφαίρεση όλων των προσωρινά αποθηκευμένων δεδομένων ιστοσελίδων"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Εκκαθάριση προσωρινά αποθηκευμένων μεταδεδομένων"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Κατηγορία"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Host"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Γλώσσα"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Άδεια"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Ιδιωτικότητα"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Εσωτερικό"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Ιδιωτικό"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Δημόσιο"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Εκτός λίστας"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Άβαταρ υπο-καναλιών"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Συνδρομητές"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Υποστήριξη"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Ετικέτες"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Μικρογραφίες"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Άβαταρ δημιουργών"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "Το SoundCloud έχει καταργήσει τα αρχικά charts με τα Top 50. Η αντίστοιχη καρτέλα έχει αφαιρεθεί από την κύρια σελίδα σας."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "Η σελίδα των SoundCloud Top 50 αφαιρέθηκε"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "Το YouTube έχει καταργήσει τη συνδυασμένη σελίδα με τάσεις από την 21 Ιουλίου 2025. Το NewPipe αντικατέστησε την προεπιλεγμένη σελίδα τάσεων με τις ζωντανές ροές τάσεων.\n\nΜπορείτε επίσης να επιλέξετε διαφορετικές σελίδες με τάσεις στις \"Ρυθμίσεις > Περιεχόμενο > Περιεχόμενο κύριας σελίδας\"."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "Οι συνδυασμένες τάσεις στο YouTube καταργήθηκαν"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Ελαχιστοποίηση στο παρασκήνιο"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Καμία"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Ελαχιστοποίηση σε αναδυόμενο παράθυρο"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Ενέργεια κατά τη μετάβαση σε άλλη εφαρμογή — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Ελαχιστοποίηση κατά την εναλλαγή εφαρμογών"
+    },
+    {
+      "name": "missing_file",
+      "value": "Το αρχείο μετακινήθηκε ή διαγράφηκε"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Ολοκληρώθηκε"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Εκκρεμεί"
+    },
+    {
+      "name": "more_options",
+      "value": "Περισσότερες επιλογές"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ βίντεο"
+    },
+    {
+      "name": "most_liked",
+      "value": "Πιο αγαπημένα"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Υπολογισμός hash"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Αντιγράφηκε στο πρόχειρο"
+    },
+    {
+      "name": "msg_error",
+      "value": "Σφάλμα"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Αποτυχία αντιγραφής στο πρόχειρο"
+    },
+    {
+      "name": "msg_name",
+      "value": "Όνομα αρχείου"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Αυτή η άδεια είναι απαραίτητη για\n\nτο άνοιγμα αναδυόμενων παραθύρων"
+    },
+    {
+      "name": "msg_running",
+      "value": "Λήψη NewPipe"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Πατήστε για λεπτομέρειες"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Νήματα"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Παρακαλώ περιμένετε…"
+    },
+    {
+      "name": "mute",
+      "value": "Σίγαση"
+    },
+    {
+      "name": "name",
+      "value": "Όνομα"
+    },
+    {
+      "name": "network_error",
+      "value": "Σφάλμα δικτύου"
+    },
+    {
+      "name": "never",
+      "value": "Ποτέ"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Καινούρια και δημοφιλή"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Λόγω περιορισμών του AVPlayer, η διάρκεια αναζήτησης ορίστηκε στα %d δευτερόλεπτα"
+    },
+    {
+      "name": "next_stream",
+      "value": "Επόμενη ροή"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Αυτή η επιλογή είναι διαθέσιμη μόνο εάν έχει επιλεγεί %s για Θέμα"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Επιλέξτε το αγαπημένο σας νυχτερινό θέμα — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Νυχτερινό θέμα"
+    },
+    {
+      "name": "no",
+      "value": "Όχι"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Καμία εφαρμογή στη συσκευή σας δεν μπορεί το ανοίξει"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Δε βρέθηκε κατάλληλος διαχειριστής αρχείων για αυτή την ενέργεια.\n\nΕγκαταστήστε έναν ή δοκιμάστε να απενεργοποιήσετε το '%s' στις ρυθμίσεις λήψεων"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Δε βρέθηκε κατάλληλος διαχειριστής αρχείων για αυτή την ενέργεια.\n\nΕγκαταστήστε έναν συμβατό με το Πλαίσιο Πρόσβασης Αποθήκευσης"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Δεν διατίθενται ροές ήχου για εξωτερικούς αναπαραγωγούς"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Παρακαλώ ορίστε έναν φάκελο λήψεων αργότερα στις ρυθμίσεις"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Δεν έχει γίνει εγγραφή σε κάποιο κανάλι ακόμα"
+    },
+    {
+      "name": "no_comments",
+      "value": "Χωρίς σχόλια"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Δεν έχει ορισθεί φάκελος λήψεων ακόμα, eπιλέξτε τον προεπιλεγμένο φάκελο τώρα"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Δεν δημιουργήθηκε ομάδα τροφοδοσίας ακόμα"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Καμία ζωντανή ροή"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Κανείς δεν ακούει"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Κανείς δεν παρακολουθεί"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Δε βρέθηκε αναπαραγωγός ροής δεδομένων. Εγκατάσταση του VLC;"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Δε βρέθηκε αναπαραγωγός ροής δεδομένων (μπορείτε να εγκαταστήσετε το VLC για να κάνετε αναπαραγωγή)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Δεν υπάρχουν σελιδοδείκτες λίστας αναπαραγωγής ακόμα"
+    },
+    {
+      "name": "no_streams",
+      "value": "Καμία ροή"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Δεν υπάρχουν διαθέσιμες ροές για λήψη"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Κανένας συνδρομητής"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Μη έγκυρο αρχείο ZIP"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Δεν διατίθενται ροές βίντεο για εξωτερικούς αναπαραγωγούς"
+    },
+    {
+      "name": "no_videos",
+      "value": "Κανένα βίντεο"
+    },
+    {
+      "name": "no_views",
+      "value": "Καμία προβολή"
+    },
+    {
+      "name": "none",
+      "value": "Καμία"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Κουμπί πρώτης ενέργειας"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Κουμπί δεύτερης ενέργειας"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Κουμπί τρίτης ενέργειας"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Κουμπί τέταρτης ενέργειας"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Κουμπί πέμπτης ενέργειας"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Φόρτωση"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Τίποτα"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Επανάληψη"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Ανάμιξη"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Μπορείτε να επιλέξετε το πολύ τρεις ενέργειες για εμφάνιση στη σύντομη ειδοποίηση!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Επεξεργαστείτε κάθε ενέργεια ειδοποίησης παρακάτω πατώντας πάνω της. Επιλέξτε έως και τρεις από αυτές για να εμφανίζονται στη σύντομη ειδοποίηση, χρησιμοποιώντας τα πλαίσια ελέγχου στα δεξιά."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Επεξεργαστείτε κάθε ενέργεια ειδοποίησης παρακάτω πατώντας σε αυτήν. Οι τρεις πρώτες ενέργειες (αναπαραγωγή/παύση, προηγούμενηο και επόμενο) ορίζονται από το σύστημα και δεν μπορούν να τροποποιηθούν."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Ειδοποιήσεις του αναπαραγωγέα του NewPipe"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "Ειδοποίηση NewPipe"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Επιτρέπει στο Android να τροποποιήσει το χρώμα της ειδοποίησης, σύμφωνα με το κύριο χρώμα του εικονιδίου (δεν διατίθεται σε όλες τις συσκευές)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Χρωματισμός ειδοποιήσεων"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Περικοπή της μικρογραφίας βίντεο που εμφανίζεται στην ειδοποίηση από 16:9 σε αναλογία διαστάσεων 1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Περικοπή μικρογραφίας σε αναλογία διαστάσεων 1:1"
+    },
+    {
+      "name": "notifications",
+      "value": "Ειδοποιήσεις"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Οι ειδοποιήσεις είναι απενεργοποιημένες"
+    },
+    {
+      "name": "off",
+      "value": "Ανενεργό"
+    },
+    {
+      "name": "ok",
+      "value": "Εντάξει"
+    },
+    {
+      "name": "on",
+      "value": "Ενεργό"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 αντικείμενο διαγράφηκε."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Άνοιγμα σε πρόγραμμα περιήγησης"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Άνοιγμα σε αναδυόμενο παράθυρο"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Άνοιγμα ουράς αναπαραγωγής"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Ανοικτή ιστοσελίδα"
+    },
+    {
+      "name": "open_with",
+      "value": "Άνοιγμα με"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Αυτό θα παρακάμψει τις τρέχουσες ρυθμίσεις σας."
+    },
+    {
+      "name": "overwrite",
+      "value": "Αντικατάσταση"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "δεν είναι δυνατή η αντικατάσταση του αρχείου"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Ένα ληφθέν αρχείο με αυτό το όνομα υπάρχει ήδη"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Ένα αρχείο με αυτό το όνομα υπάρχει ήδη"
+    },
+    {
+      "name": "paid_content",
+      "value": "Αυτό το περιεχόμενο είναι διαθέσιμο μόνο σε χρήστες που έχουν πληρώσει και δεν μπορεί να αναπαραχθεί ή να το κατεβάσετε με το NewPipe."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Δεν ήταν δυνατή η ανάλυση του ιστοτόπου"
+    },
+    {
+      "name": "pause",
+      "value": "Παύση"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Παύση λήψεων"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Διακοπή σε δίκτυα με ογκοχρέωση"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Χρήσιμο κατά τη μετάβαση σε δεδομένα κινητής τηλεφωνίας, αν και ορισμένες λήψεις δεν μπορούν να ανασταλούν"
+    },
+    {
+      "name": "paused",
+      "value": "σε παύση"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Το instance υπάρχει ήδη"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Αδυναμία πιστοποίησης του instance"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Προσθέστε την URL του instance"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Μόνο HTTPS σύνδεσμοι υποστηρίζονται"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Προσθήκη instance"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Βρείτε τα instances που σας αρέσουν στο %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Επιλογή των αγαπημένων σας PeerTube instances"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "Στιγμιότυπα PeerTube"
+    },
+    {
+      "name": "percent",
+      "value": "Τοις εκατό"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Η ενέργεια απορρίφθηκε από το σύστημα"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Δώστε άδεια για προβολή πάνω από άλλες εφαρμογές"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "Για να χρησιμοποιήσετε το Αναδυόμενο Πρόγραμμα Αναπαραγωγής, επιλέξτε %1$s στο ακόλουθο μενού ρυθμίσεων Android και ενεργοποιήστε το %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "«Να επιτρέπεται η εμφάνιση πάνω από άλλες εφαρμογές»"
+    },
+    {
+      "name": "play",
+      "value": "Αναπαραγωγή"
+    },
+    {
+      "name": "play_all",
+      "value": "Αναπαραγωγή όλων"
+    },
+    {
+      "name": "play_audio",
+      "value": "Ήχος"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Ρυθμίσεις ήχου"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Ήχος: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Αφαίρεση"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Λεπτομέρειες"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Αναπαραγωγή με το Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Τόνος"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Επαναφορά"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Έλεγχος ταχύτητας αναπαραγωγής"
+    },
+    {
+      "name": "playback_step",
+      "value": "Βήμα"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Τέμπο"
+    },
+    {
+      "name": "player_http_403",
+      "value": "Σφάλμα HTTP 403 που ελήφθη από τον διακομιστή κατά την αναπαραγωγή, πιθανώς λόγω λήξης διεύθυνσης URL ροής ή αποκλεισμού IP"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "Σφάλμα HTTP %1$s ελήφθη από τον διακομιστή κατά την αναπαραγωγή"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Ανάκτηση από σφάλμα της συσκευής αναπαραγωγής"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Δεν ήταν δυνατή η αναπαραγωγή αυτής της ροής"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Συνέβη ένα μη ανακτήσιμο σφάλμα στη συσκευή αναπαραγωγής"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Προστέθηκε στη λίστα αναπαραγωγής"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Προστέθηκε διπλότυπο %d φορά(ες)"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Η λίστα αναπαραγωγής δημιουργήθηκε"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Δημιουργήθηκε αυτόματα (δεν βρέθηκε χρήστης μεταφόρτωσης)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Σελίδα λίστας αναπαραγωγής"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Η μικρογραφία της λίστας αναπαραγωγής άλλαξε."
+    },
+    {
+      "name": "playlists",
+      "value": "Λίστες αναπαραγωγής"
+    },
+    {
+      "name": "popup_player",
+      "value": "Αναπαραγωγή σε αναδυόμενο παράθυρο"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Αναπαραγωγή σε αναδυόμενο παράθυρο"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Ενθύμηση του τελευταίου μεγέθους και θέσης του παραθύρου"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Ενθύμηση ιδιοτήτων αναδυόμενου παραθύρου"
+    },
+    {
+      "name": "post_processing",
+      "value": "σε μετεπεξεργασία"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Επιλογή ήχου με περιγραφές για άτομα με προβλήματα όρασης, εάν είναι διαθέσιμος"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Προτίμηση του περιγραφικού ήχου"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Επιλογή του πρωτότυπου κομματιού ήχου ανεξάρτητα από τη γλώσσα"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Προτίμηση πρωτότυπου ήχου"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Προεπιλεγμένη ενέργεια κοινοποίησης περιεχομένου — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Προτιμώμενη ενέργεια κοινοποίησης"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Γίνεται φόρτωση του ζητούμενου περιεχομένου"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Γίνεται λήψη πληροφοριών…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Προηγούμενη εξαγωγή"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Προηγούμενη ροή"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "Το NewPipe παίρνει πολύ σοβαρά την ιδιωτικότητα σας. Έτσι, η εφαρμογή αυτή δεν συλλέγει δεδομένα από εσάς χωρίς τη συγκατάθεσή σας.\n\nΗ πολιτική ιδιωτικού απόρρητου του NewPipe εξηγεί λεπτομερώς ποια δεδομένα αποστέλλονται και αποθηκεύονται όταν επιλέγετε να στείλετε μια αναφορά σφαλμάτων."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Πολιτική ιδιωτικού απόρρητου του NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "Αυτό το περιεχόμενο είναι ιδιωτικό και δεν μπορεί να αναπαραχθεί ή να το κατεβάσετε με το NewPipe."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Επεξεργασία... Μπορεί να πάρει λίγο χρόνο"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "Εξ' ορισμού AVPlayer"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Αλλάξτε το μέγεθος του διαστήματος φόρτωσης σε προοδευτικά περιεχόμενα (προς το παρόν %s). Μια χαμηλότερη τιμή μπορεί να επιταχύνει την αρχική τους φόρτωση"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Μέγεθος διαστήματος φόρτωσης αναπαραγωγής"
+    },
+    {
+      "name": "question_mark",
+      "value": ";"
+    },
+    {
+      "name": "queued",
+      "value": "σε ουρά"
+    },
+    {
+      "name": "radio",
+      "value": "Ράδιο"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Ανάγνωση της άδειας"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Ανάγνωση της πολιτικής ιδιωτικού απόρρητου"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "Τα reCAPTCHA cookies εκκαθαρίστηκαν"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "Ζητήθηκε δοκιμασία reCAPTCHA"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Λύση"
+    },
+    {
+      "name": "recent",
+      "value": "Πρόσφατα"
+    },
+    {
+      "name": "recently_added",
+      "value": "Προστέθηκαν πρόσφατα"
+    },
+    {
+      "name": "recovering",
+      "value": "σε ανάκτηση"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Σχετιζόμενες ροές"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Προτάσεις απομακρυσμένης αναζήτησης"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Αφαίρεση διπλοτύπων"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Θέλετε να καταργήσετε όλες τις διπλότυπες ροές σε αυτήν τη λίστα αναπαραγωγής;"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Αφαίρεση διπλοτύπων;"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Απομάκρυνση όσων θεάθησαν"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Ναι. Και τα μερικώς θεαθέντα βίντεο"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Απομάκρυνση θεαθέντων ροών;"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Οι ροές που εθεάθησαν πριν και αφού προστέθηκαν στη λίστα αναπαραγωγής θα απομακρυνθούν \nΕίστε σίγουρος;"
+    },
+    {
+      "name": "rename",
+      "value": "Μετονομασία"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Μετονομασία"
+    },
+    {
+      "name": "replay",
+      "value": "Επανάληψη"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Η επαναφορά όλων των ρυθμίσεων θα απορρίψει όλες τις τροποποιημένες ρυθμίσεις σας και θα επανεκκινήσει την εφαρμογή.\n\n\n\nΕίστε βέβαιοι ότι θέλετε να συνεχίσετε;"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Επαναφορά όλων των ρυθμίσεων στις αρχικές τιμές τους"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Επαναφορά ρυθμίσεων"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Γέμισμα"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Προσαρμογή"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Μεγέθυνση"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Επαναφορά προεπιλεγμένων ρυθμίσεων"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Θέλετε να επαναφέρετε τις προεπιλεγμένες ρυθμίσεις;"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Αυτό το βίντεο έχει περιορισμό ηλικίας.\n\n\n\nΕνεργοποιήστε το «%1$s» στις ρυθμίσεις εάν θέλετε να το δείτε."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Αυτό το βίντεο έχει περιορισμό ηλικίας.\n\nΛόγω της νέας πολιτικής του YouTube για αυτά τα βίντεο, το NewPipe δεν μπορεί να το αναπαράγει."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Συνέχιση της αναπαραγωγής έπειτα από διακοπές (π.χ. κλήσεις)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Ανάκτηση αναπαραγωγής"
+    },
+    {
+      "name": "retry",
+      "value": "Προσπάθεια εκ νέου"
+    },
+    {
+      "name": "rewind",
+      "value": "Πίσω"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Επιλέξτε χειρονομία για το δεξί μισό της οθόνης του προγράμματος αναπαραγωγής"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Ενέργεια δεξιάς χειρονομίας"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Δεν ήταν δυνατή η ανάγνωση των αποθηκευμένων καρτελών. Θα γίνει χρήση των προεπιλεγμένων"
+    },
+    {
+      "name": "search",
+      "value": "Αναζήτηση"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Το ιστορικό αναζητήσεων διαγράφηκε"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Κανένα αποτέλεσμα"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Εμφάνιση αποτελεσμάτων για: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Αναζήτηση %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Αναζήτηση %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Διάρκεια αναζήτησης fast-forward και rewind"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Προεπισκόπηση στην μπάρα αναζήτησης"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Επιλέξτε ένα κανάλι"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Επιλογή ομάδας τροφοδοσίας"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Επιλέξτε ένα περίπτερο"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Επιλέξτε μια λίστα αναπαραγωγής"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Επιλογή ήχου για εξωτερικές συσκευές αναπαραγωγής"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Μπορείτε να επιλέξετε το αγαπημένο σας νυχτερινό θέμα παρακάτω"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Επιλογή ποιότητας εξωτερικών αναπαραγωγών"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Η επιλεγμένη ροή δεν υποστηρίζεται από εξωτερικούς αναπαραγωγούς"
+    },
+    {
+      "name": "semitone",
+      "value": "Ημιτόνιο"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Ορισμός ως μικρογραφία λίστας αναπαραγωγής"
+    },
+    {
+      "name": "settings",
+      "value": "Ρυθμίσεις"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Εμφάνιση"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Αντίγραφο ασφαλείας και επαναφορά"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Εκκαθάριση δεδομένων"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Αποσφαλμάτωση"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Λήψη"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Διαχειριστείτε ορισμένες ρυθμίσεις του AVPlayer. Αυτές οι αλλαγές απαιτούν επανεκκίνηση του προγράμματος αναπαραγωγής για να τεθεί σε ισχύ"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "Ρυθμίσεις AVPlayer"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Ροή"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Ιστορικό και προσωρινή μνήμη"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Συμπεριφορά"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Διαμόρφωση ειδοποίησης τρέχουσας αναπαραγωγής ροής"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Ειδοποίηση αναπαραγωγής"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Αναπαραγωγός"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Ενημερώσεις"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Βίντεο και ήχος"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Επιτρεπόμενοι χαρακτήρες σε ονόματα αρχείων"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Οι μη έγκυροι χαρακτήρες αντικαθίστανται με αυτήν την τιμή"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Αντικαταστάτης χαρακτήρας"
+    },
+    {
+      "name": "share",
+      "value": "Κοινοποίηση"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Κοινοποίηση με"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Κοινοποίηση λίστας"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Μοιραστείτε ως προσωρινή λίστα αναπαραγωγής στο YouTube"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Κοινοποίηση λίστας URL"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Κοινοποίηση με τίτλους"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sB"
+    },
+    {
+      "name": "short_million",
+      "value": "%sM"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sK"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Εμφάνιση πιθανώς ακατάλληλου περιεχομένου (18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Εμφάνιση περιεχομένου περιορισμένης ηλικίας"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Εμφάνιση λεπτομερειών καναλιού"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Καρτέλες καναλιών"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Ποιες καρτέλες εμφανίζονται στις σελίδες των καναλιών"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Απενεργοποίηση για διακοπή της εμφάνιση σχολίων"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Προβολή σχολίων"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Εμφανίζει μια επιλογή κατάρρευσης κατά τη χρήση του αναπαραγωγέα"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Εμφάνιση \"Κατάρρευση αναπαραγωγέα\""
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Απενεργοποιήστε για απόκρυψη περιγραφής και πρόσθετων πληροφοριών"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Εμφάνιση περιγραφής"
+    },
+    {
+      "name": "show_error",
+      "value": "Εμφάνιση σφάλματος"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Εμφάνιση μιας snackbar σφάλματος"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Μόνο μερικές συσκευές μπορούν να παίξουν 2K/4K βίντεο"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Εμφάνιση υψηλότερων αναλύσεων"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Εμφάνιση συμβουλής κατά το πάτημα του φόντου ή του αναδυόμενου κουμπιού στο βίντεο «Λεπτομέρειες:»"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Εμφάνιση επεξήγησης του «Πιέστε παρατεταμένα για προσθήκη στην ουρά»"
+    },
+    {
+      "name": "show_info",
+      "value": "Εμφάνιση πληροφοριών"
+    },
+    {
+      "name": "show_less",
+      "value": "Εμφάνιση λιγότερων"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Εμφάνιση διαρροών μνήμης"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Απενεργοποιήστε το για να μην εμφανίζονται μεταδεδομένα με επιπλέον πληροφορίες για το δημιουργό και το περιεχόμενο της ροής ή αίτημα αναζήτησης"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Εμφάνιση μεταδεδομένων"
+    },
+    {
+      "name": "show_more",
+      "value": "Εμφάνιση περισσοτέρων"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Εμφάνιση «Επόμενου» και «Σχετικών» βίντεο"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Τα αυθεντικά κείμενα των υπηρεσιών θα εμφανίζονται στα αντικείμενα ροής"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Εμφάνιση αυθεντικού παρελθόντος χρόνου στα αντικείμενα"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Προβολή μιας επιλογής για αναπαραγωγή με το Kodi media center"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Εμφάνιση της επιλογής «Αναπαραγωγή με το Kodi»"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Επιλογή των προτάσεων που εμφανίζονται κατά την αναζήτηση"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Προτάσεις αναζήτησης"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Χρήση των εικονιδίων ως φόντο στην οθόνη κλειδώματος και στις ειδοποιήσεις"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Εμφάνιση"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "To %1$s αρνήθηκε να παράσχει δεδομένα, ζητώντας σύνδεση για να επιβεβαιώσει ότι ο αιτών δεν είναι bot.\n\nΗ IP σας ενδέχεται να έχει αποκλειστεί προσωρινά από το %1$s. Μπορείτε να περιμένετε λίγο ή να αλλάξετε IP (για παράδειγμα, ενεργοποιώντας/απενεργοποιώντας ένα VPN ή αλλάζοντας από WiFi σε δεδομένα κινητής τηλεφωνίας).\n\nΓια περισσότερες πληροφορίες, ανατρέξτε σε <a href=\"%2$s\"> αυτή την καταχώριση στις Συχνές Ερωτήσεις </a>."
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Γρήγορη αναπαραγωγή κατά τη διάρκεια της σίγασης"
+    },
+    {
+      "name": "songs",
+      "value": "Τραγούδια"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Λυπούμαστε, αυτό δεν έπρεπε να έχει συμβεί."
+    },
+    {
+      "name": "sort",
+      "value": "Ταξινόμηση"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Αυτό είναι ένα κομμάτι SoundCloud Go+, τουλάχιστον στη χώρα σας. Έτσι δεν μπορεί να αναπαραχθεί ή να το κατεβάσετε με το NewPipe."
+    },
+    {
+      "name": "start",
+      "value": "Εκκίνηση"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Προς συμμόρφωση με τον Ευρωπαϊκό Γενικό Κανονισμό για την Προστασία Δεδομένων (GDPR), σας εφιστούμε την προσοχή στην πολιτική προστασίας προσωπικών δεδομένων του NewPipe. Παραλούμε, διαβάστε την προσεκτικά.\n\nΘα πρέπει να την αποδεχτείτε προκειμένου να μας αποστείλετε την αναφορά σφάλματος."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Έναρξη λήψεων"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Εκκίνηση αναπαραγωγής στο παρασκήνιο"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Εκκίνηση αναπαραγωγής σε ένα αναδυόμενο παράθυρο"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Εκκίνηση των βίντεο σε πλήρη οθόνη και όχι σε αναδυόμενο παράθυρο, αν η αυτόματη περιστροφή της οθόνης είναι ανενεργή. Μπορείτε να ενεργοποιήσετε το αναδυόμενο παράθυρο βγαίνοντας από την πλήρη οθόνη"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Εκκίνηση κύριου αναπαραγωγού σε πλήρη οθόνη"
+    },
+    {
+      "name": "stop",
+      "value": "Διακοπή"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Οι ροές που δεν υποστηρίζονται ακόμα από τον λήπτη δεν εμφανίζονται"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Ειδοποιήσεις σχετικά με νέες ροές για συνδρομές"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Νέες ροές"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Συχνότητα ελέγχου"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Απαιτούμενη σύνδεση δικτύου"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Εγγραφή"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Εγγεγραμμένος"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Το πλήθος των συνδρομητών δεν είναι διαθέσιμο"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Αδύνατη η αλλαγή της εγγραφής"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Αδύνατη η ενημέρωση της εγγραφής"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Δεν ήταν δυνατή η εξαγωγή των εγγραφών"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Δεν ήταν δυνατή η εισαγωγή των εγγραφών"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Πατήστε «Τέλος» όταν επιλυθεί"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Αλλαγή σε Παρασκήνιο"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Αλλαγή σε Κύριο"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Αλλαγή σε Αναδυόμενο Παράθυρο"
+    },
+    {
+      "name": "systems_language",
+      "value": "Προεπιλογή συστήματος"
+    },
+    {
+      "name": "tab_about",
+      "value": "Πληροφορίες & Συχνές Ερωτήσεις"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Λίστες αναπαραγωγής με σελιδοδείκτες"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Λίστες αναπαραγωγής"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Επιλογή Καρτέλας"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Άδειες"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Συνδρομές"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Κατάσταση tablet"
+    },
+    {
+      "name": "theme_title",
+      "value": "Θέμα"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Εκκαθαρίστηκε η προσωρινή μνήμη εικόνων"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Σχετικά με το NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Ιστορικό"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Αναπαραγωγή ουράς"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "Δοκιμασία reCAPTCHA"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Τελευταία αναπαραγωγή"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Άδειες Τρίτων"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Αναπαράχθηκε περισσότερο"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Εναλλαγή όλων"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Λειτουργία πλήρους οθόνης"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Εναλλαγή προσανατολισμού οθόνης"
+    },
+    {
+      "name": "top_50",
+      "value": "Τοπ 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Κομμάτια"
+    },
+    {
+      "name": "trending",
+      "value": "Δημοφιλή"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Τάσεις παιχνιδιών"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Τάσεις ταινιών και εκπομπών"
+    },
+    {
+      "name": "trending_music",
+      "value": "Μουσικές τάσεις"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Τάσεις podcasts"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Διαγραφή σελιδοδείκτη"
+    },
+    {
+      "name": "undo",
+      "value": "Αναίρεση"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Απαγκίστρωση (μπορεί να προκαλέσει παραμόρφωση)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Άγνωστο"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Άγνωστο]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Άγνωστος τύπος αρχείου"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Άγνωστη ποιότητα"
+    },
+    {
+      "name": "unmute",
+      "value": "Κατάργηση σίγασης"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Κατάργηση μόνιμης μικρογραφίας"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Απεγγραφή"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "Αυτό το περιεχόμενο δεν είναι διαθέσιμο για την τρέχουσα επιλεγμένη χώρα περιεχομένου.\n\nΑλλάξτε την επιλογή σας από \"Ρυθμίσεις > Περιεχόμενο > Προεπιλεγμένη χώρα περιεχομένου\"."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Δεν υποστηρίζεται η διεύθυνση URL"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Δεν ήταν δυνατή η αναγνώριση της διεύθυνσης URL. Άνοιγμα με άλλη εφαρμογή;"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Εμφάνιση ειδοποίησης όταν μια υπάρχει μια νεότερη έκδοση"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Ενημερώσεις"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Δημοσιεύθηκε στις %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Ενεργοποιήστε αυτήν την επιλογή εάν αντιμετωπίζετε προβλήματα με την προετοιμασία του αποκωδικοποιητή, η οποία επιστρέφει σε αποκωδικοποιητές χαμηλότερης προτεραιότητας εάν αποτύχει η προετοιμασία του πρωτεύοντος αποκωδικοποιητή. Αυτό μπορεί να έχει ως αποτέλεσμα κακή απόδοση αναπαραγωγής από ότι όταν χρησιμοποιείτε κύριους αποκωδικοποιητές"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Χρησιμοποιήστε την δυνατότητα εναλλακτικού αποκωδικοποιητή του AVPlayer"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Χρήση εξωτερικής συσκευής αναπαραγωγής ήχου"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Αφαιρείται ο ήχος από κάποιες αναλύσεις"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Χρήση εξωτερικής εφαρμογής αναπαραγωγής βίντεο"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Η μην ακριβής αναζήτηση επιτρέπει στην εφαρμογή να αναζητεί θέσεις στο βίντεο γρηγορότερα με μειωμένη ακρίβεια. Δε λειτουργεί για διαστήματα των 5, 15 ή 25 δευτερολέπτων"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Χρήση γρήγορης ανακριβούς αναζήτησης"
+    },
+    {
+      "name": "users",
+      "value": "Χρήστες"
+    },
+    {
+      "name": "video",
+      "value": "Βίντεο"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Από %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Συσκευή αναπαραγωγής βίντεο"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Δε βρέθηκαν ροές βίντεο"
+    },
+    {
+      "name": "videos_string",
+      "value": "Βίντεο"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Δείτε το στο GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "Ένταση"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Το στορικό προβολής διαγράφηκε"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Οι θέσεις αναπαραγωγής διαγράφηκαν"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Επισκευτείτε τον ιστότοπο του NewPipe για περισσότερες πληροφορίες και νέα."
+    },
+    {
+      "name": "website_title",
+      "value": "Ιστότοπος"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Πληροφορίες:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Τι συνέβη:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Μόνο με Wi-Fi"
+    },
+    {
+      "name": "yes",
+      "value": "Ναι"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Έχετε εγγραφεί τώρα σε αυτό το κανάλι"
+    },
+    {
+      "name": "your_comment",
+      "value": "Το σχόλιό σας (στα Αγγλικά):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Αυτό το βίντεο είναι διαθέσιμο μόνο για τα μέλη του YouTube Music Premium και δεν μπορεί να αναπαραχθεί ή να το κατεβάσετε με το NewPipe."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "Σφάλμα HTTP 403 ελήφθη από τον διακομιστή κατά την αναπαραγωγή, πιθανώς λόγω αποκλεισμού IP ή προβλημάτων απεμπλοκής URL ροής"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "Το YouTube διαθέτει «Περιορισμένη Λειτουργία» η οποία κρύβει πιθανώς ακατάλληλο περιεχόμενο"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Ενεργοποίηση \"Περιορισμένη Λειτουργία\" του YouTube"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

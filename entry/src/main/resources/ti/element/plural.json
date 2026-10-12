@@ -1,0 +1,82 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d መዓልቲ"
+        },
+        {
+          "quantity": "other",
+          "value": "%d መዓልታት"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ሰዓት"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ሰዓታት"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ደቒቕ"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ደቓይቕ"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ካልኢት"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ካልኢት"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ተኸታሊ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ተኸታተልቲ"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ተራእዩ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ተራእዩ"
+        }
+      ]
+    }
+  ]
+}

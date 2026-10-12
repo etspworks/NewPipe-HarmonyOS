@@ -1,0 +1,1684 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "ยอมรับ"
+    },
+    {
+      "name": "action_history",
+      "value": "ประวัติ"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "เพิ่มในเพลย์ลิสต์"
+    },
+    {
+      "name": "albums",
+      "value": "อัลบั้ม"
+    },
+    {
+      "name": "all",
+      "value": "ทั้งหมด"
+    },
+    {
+      "name": "always",
+      "value": "ตลอดเวลา"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "ถามเสมอ"
+    },
+    {
+      "name": "app_description",
+      "value": "แอปสตรีมมิ่งที่เล็กและเสรีบน HarmonyOS"
+    },
+    {
+      "name": "app_license_title",
+      "value": "สัญญาอนุญาตของ NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "แอป / UI ขัดข้อง"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "NewPipe พร้อมให้อัพเดทแล้ว!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "การแจ้งเตือนสำหรับ NewPipe เวอร์ชั่นใหม่"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "การแจ้งเตือนการอัปเดตแอป"
+    },
+    {
+      "name": "audio",
+      "value": "เสียง"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "ไม่พบสตรีมเสียง"
+    },
+    {
+      "name": "auto",
+      "value": "อัตโนมัติ"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "ต่อท้ายวีดีโอที่เกี่ยวข้องโดยอัตโนมัติเมื่อเล่นถึงรายการสุดท้ายในกรณีที่ไม่ได้ตั้งให้เล่นซ้ำ"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "คิววีดีโอถัดไปโดยอัตโนมัติ"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "เข้าคิวอัตโนมัติ"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "เล่นอัตโนมัติ"
+    },
+    {
+      "name": "background_player",
+      "value": "เครื่องเล่นพื้นหลัง"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "กำลังเล่นในโหมดพื้นหลัง"
+    },
+    {
+      "name": "best_resolution",
+      "value": "ความละเอียดที่ดีที่สุด"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "สีดำ"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "หน้าว่าง"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "เก็บเพลย์ลิสต์"
+    },
+    {
+      "name": "brightness",
+      "value": "ความสว่าง"
+    },
+    {
+      "name": "cancel",
+      "value": "ยกเลิก"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "สร้างขึ้นโดยอัตโนมัติ"
+    },
+    {
+      "name": "caption_none",
+      "value": "ไม่มีคำอธิบายภาพ"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "ปรับเปลี่ยนขนาดตัวอักษร สีของข้อความหรือพื้นหลังของคำอธิบายภาพ (จำเป็นตองปิดและเปิดแอปใหม่เพื่อให้การเปลี่ยนแปลงมีผล)"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "คำบรรยายภาพ"
+    },
+    {
+      "name": "card",
+      "value": "การ์ด"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "หน้าของช่อง"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "ยกเลิกการติดตามช่องแล้ว"
+    },
+    {
+      "name": "channels",
+      "value": "ช่อง"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "ตัวอักษรและตัวเลข"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "อักขระพิเศษส่วนใหญ่"
+    },
+    {
+      "name": "clear",
+      "value": "ล้าง"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "คิวในเครื่องเล่นที่ใช้งานอยู่จะถูกแทนที่"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "เปลี่ยนจากเครื่องเล่นหนึ่งไปอีกเครื่องเล่นหนึ่งอาจแทนที่คิวของคุณ"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "ถามก่อนการเคลียร์คิว"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "ลบประวัติของคำที่เคยค้นหา"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "ล้างประวัติการค้นหา"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "ลบประวัติของวีดีโอที่เคยเล่น"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "ล้างประวัติการดู"
+    },
+    {
+      "name": "close",
+      "value": "ปิด"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "ความคิดเห็น"
+    },
+    {
+      "name": "conferences",
+      "value": "การประชุม"
+    },
+    {
+      "name": "content",
+      "value": "เนื้อหา"
+    },
+    {
+      "name": "content_language_title",
+      "value": "ภาษาของเนื้อหาเริ่มต้น"
+    },
+    {
+      "name": "content_not_available",
+      "value": "เนื้อหาไม่พร้อมใช้งาน"
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "ไม่ว่าคุณจะมีความคิดที่จะช่วยแปลภาษา เปลี่ยนดีไซน์ แก้ไขโค้ดของโปรแกรมให้ดีขึ้นทั้งในระดับเล็กน้อยหรือจะเปลี่ยนแปลงกันแบบขนานใหญ่ เรายินดีให้คุณได้ร่วมช่วยเหลือเสมอ… ยิ่งทำมาก ยิ่งช่วยให้ดีขึ้นมาก!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "สนับสนุน"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "เพิ่มไปยัง"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "เล่นในพื้นหลัง"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "ดาวน์โหลดไฟล์สตรีม"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "พ็อปอัพ"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s โดย %2$s ภายใต้ %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "คำเตือน: ไม่สามารถนำเข้าไฟล์ทั้งหมดได้"
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "ไม่สามารถโหลดรูปขนาดย่อทั้งหมด"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "ไม่สามารถตั้งค่าเมนูดาวน์โหลด"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "เครื่องเล่นวิดีโอแครช"
+    },
+    {
+      "name": "create",
+      "value": "สร้าง"
+    },
+    {
+      "name": "create_playlist",
+      "value": "เพลย์ลิสต์ใหม่"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "มืด"
+    },
+    {
+      "name": "decline",
+      "value": "ปฏิเสธ"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "รูปแบบเสียงเริ่มต้น"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "ประเทศเริ่มต้นของเนื้อหา"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "ความละเอียดเริ่มต้นในโหมดพ็อปอัพ"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "ความละเอียดเริ่มต้น"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "รูปแบบวีดีโอเริ่มต้น"
+    },
+    {
+      "name": "delete",
+      "value": "ลบ"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "คุณต้องการลบรายการนี้ออกจากประวัติการค้นหาหรือไม่?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "ลบเพลย์ลิสต์นี้หรือไม่?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "ลบประวัติการค้นหาทั้งหมดหรือไม่?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "ลบประวัติการดูทั้งหมดหรือไม่?"
+    },
+    {
+      "name": "description_tab_description",
+      "value": "คำอธิบาย"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "ไม่ชอบ"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "ลากเพื่อจัดลำดับใหม่"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "ชอบ"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "ภาพของตัวอย่างวิดีโอขนาดย่อ"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "รูปขนาดย่อของผู้อัปโหลด"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "หรือคุณหมายถึง \"%1$s\"?"
+    },
+    {
+      "name": "disabled",
+      "value": "ปิดการใช้งาน"
+    },
+    {
+      "name": "dismiss",
+      "value": "ไม่สนใจ"
+    },
+    {
+      "name": "donation_title",
+      "value": "บริจาค"
+    },
+    {
+      "name": "download",
+      "value": "ดาวน์โหลด"
+    },
+    {
+      "name": "download_already_running",
+      "value": "มีการดาวน์โหลดที่กำลังดำเนินการอยู่ด้วยไฟล์ชื่อนี้อยู่แล้ว"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "ดาวน์โหลด"
+    },
+    {
+      "name": "download_failed",
+      "value": "การดาวน์โหลดล้มเหลว"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "เลือกโฟลเดอร์ดาวน์โหลดสำหรับไฟล์เสียง"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "ไฟล์เสียงที่ดาวน์โหลดไว้จะถูกเก็บไว้ที่นี่"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "โฟลเดอร์ดาวน์โหลดของเสียง"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "เลือกโฟลเดอร์ดาวน์โหลดสำหรับไฟล์วิดีโอ"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "ไฟล์วิดีโอที่ดาวน์โหลดไว้จะถูกเก็บที่นี่"
+    },
+    {
+      "name": "download_path_title",
+      "value": "โฟลเดอร์ดาวน์โหลดของวิดีโอ"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "การดาวน์โหลดไปยังการ์ดความจำภายนอกยังไม่สามารถทำได้ รีเซ็ตตำแหน่งโฟลเดอร์ดาวน์โหลดหรือไม่?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "พื้นที่เก็บข้อมูลภายนอกไม่พร้อมใช้งาน"
+    },
+    {
+      "name": "downloads",
+      "value": "ดาวน์โหลด"
+    },
+    {
+      "name": "downloads_title",
+      "value": "ดาวน์โหลด"
+    },
+    {
+      "name": "duration_live",
+      "value": "สด"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "ไม่มีอะไรที่นี่นอกจากจิ้งหรีด"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "การตรวจสอบการรั่วไหลของหน่วยความจำอาจทำให้แอปจะไม่ตอบสนองเมื่อมีการดึงข้อมูลจากหน่วยความจำ"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "เล่นต่อจากที่เคยเล่นครั้งล่าสุด"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "เล่นต่อ"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "แสดงตำแหน่งวีดิโอที่เล่นในรายการ"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "ตำแหน่งวีดิโอในรายการ"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "จัดเก็บคำที่เคยค้นหาไว้ในเครื่อง"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "ประวัติการค้นหา"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "เก็บประวัติการเข้าดูวีดิโอไว้"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "ประวัติการดู"
+    },
+    {
+      "name": "enqueue",
+      "value": "คิว"
+    },
+    {
+      "name": "error_connect_host",
+      "value": "ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "รายละเอียด:"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "ไม่สามารถสร้างโฟลเดอร์ปลายทางได้"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "เซิร์ฟเวอร์ไม่ส่งข้อมูล"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "ไม่พบ"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "เซิร์ฟเวอร์ไม่รองรับการดาวน์โหลดแบบพร้อมกันหลายส่วน โปรดลองอีกครั้งด้วย @string/msg_threads = 1"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "เกิดข้อผิดพลาด: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "ไม่สามารถสร้างไฟล์ได้"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "รายงานข้อผิดพลาดผ่านทาง e-mail"
+    },
+    {
+      "name": "error_report_title",
+      "value": "รายงานข้อผิดพลาด"
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "ล้มเหลวในการสร้างการเชื่อมต่อที่ปลอดภัย"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "ไม่สามารถโหลดความคิดเห็นได้"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "ไม่พบเซิร์ฟเวอร์"
+    },
+    {
+      "name": "events",
+      "value": "เหตุการณ์"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "ส่งออกแล้ว"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "ส่งออกประวัติการดู ช่องที่ได้บอกรับและเพลย์ลิสต์"
+    },
+    {
+      "name": "export_data_title",
+      "value": "ส่งออกฐานข้อมูล"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "กำลังส่งออก…"
+    },
+    {
+      "name": "export_to",
+      "value": "ส่งออกไปยัง"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "ตัวเล่นภายนอกไม่สนับสนุนลิงก์ประเภทนี้"
+    },
+    {
+      "name": "featured",
+      "value": "แนะนำ"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "ใหม่"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "กำลังจะมา"
+    },
+    {
+      "name": "file",
+      "value": "ไฟล์"
+    },
+    {
+      "name": "file_deleted",
+      "value": "ลบไฟล์แล้ว"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "ชื่อไฟล์ต้องไม่ว่างเปล่า"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "มีอะไรใหม่"
+    },
+    {
+      "name": "general_error",
+      "value": "เกิดข้อผิดพลาด"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "สร้างชื่อเฉพาะ"
+    },
+    {
+      "name": "give_back",
+      "value": "คืนให้"
+    },
+    {
+      "name": "grid",
+      "value": "ตาราง"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "กดค้างไว้เพื่อเพิ่มลงในคิว"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "มีประโยชน์อย่างมากเมื่อใส่หูฟังที่ปุ่มกดพัง"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "นำเข้าแล้ว"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "แทนที่ประวัติการดูและการสมัครรับข้อมูลของคุณ"
+    },
+    {
+      "name": "import_data_title",
+      "value": "นำเข้าฐานข้อมูล"
+    },
+    {
+      "name": "import_file_title",
+      "value": "นำเข้าไฟล์"
+    },
+    {
+      "name": "import_from",
+      "value": "นำเข้าจาก"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "โปรดทราบว่าการดำเนินการนี้อาจใช้งานข้อมูลมือถือที่มีค่าใช้จ่าย\n\n\n\nคุณต้องการที่จะทำต่อไปหรือไม่?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "กำลังนำเข้า…"
+    },
+    {
+      "name": "import_settings",
+      "value": "คุณยังต้องการนำเข้าการตั้งค่าด้วยหรือไม่?"
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "นำเข้าโปรไฟล์ SoundCloud โดยการพิมพ์ URL หรือรหัสไอดีผู้ใช้ของคุณ: \n\n \n\n1. เปิดใช้งาน \"โหมดเดสก์ท็อป\" ในเว็บเบราว์เซอร์ (เว็บไซต์ไม่สามารถใช้ได้สำหรับอุปกรณ์มือถือ) \n\n2. ไปที่ URL นี้: %1$s \n\n3. เข้าสู่ระบบเมื่อระบบถาม \n\n4. คัดลอก URL ของโปรไฟล์ที่คุณถูกเปลี่ยนเส้นทางไป"
+    },
+    {
+      "name": "import_title",
+      "value": "นำเข้า"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "นำเข้ารายการช่องที่บอกรับใน YouTube โดยการดาวน์โหลดไฟล์การส่งออก: \n\n \n\n1. ไปที่ URL นี้: %1$s \n\n2. เข้าสู่ระบบเมื่อระบบถาม \n\n3. การดาวน์โหลดควรเริ่มต้น (นั่นคือไฟล์ที่ส่งออก)"
+    },
+    {
+      "name": "install",
+      "value": "ติดตั้ง"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "ไม่มีโฟลเดอร์ตามที่ระบุ"
+    },
+    {
+      "name": "invalid_file",
+      "value": "ไฟล์นี้ไม่มีอยู่หรือไม่ได้รับอนุญาตให้อ่านหรือเขียนไฟล์"
+    },
+    {
+      "name": "invalid_source",
+      "value": "ไม่มีแหล่งแฟ้ม/เนื้อหาดังกล่าว"
+    },
+    {
+      "name": "just_once",
+      "value": "เพียงครั้งเดียว"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "หน้า Kiosk"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "ไม่พบแอป Kore จะติดตั้งหรือไม่?"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "เลือกคำสั่งสัมผัสสำหรับฝั่งซ้ายของหน้าจอเครื่องเล่น"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "คำสั่งสัมผัสฝั่งซ้าย"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "สว่าง"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "ไม่จำกัด"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "จำกัดความละเอียดเมื่อใช้ข้อมูลมือถือ"
+    },
+    {
+      "name": "list",
+      "value": "รายการ"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "โหมดมุมมองรายการ"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "แนะนำการค้นหาที่อยู่ในท้องที่"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "แตะที่สัญลักษณ์แว่นขยายเพื่อเริ่มต้น"
+    },
+    {
+      "name": "main_page_content",
+      "value": "เนื้อหาของหน้าหลัก"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "แท็บใดบ้างที่ต้องการให้แสดงบนหน้าหลัก"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "ทำเครื่องหมายว่าดูแล้ว"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "จำนวนครั้งสูงสุดที่จะลองใหม่ก่อนจะยกเลิกการดาวน์โหลด"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "จำนวนครั้งสูงสุดที่จะลองใหม่"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "แคช metadate ถูกลบแล้ว"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "ลบข้อมูลเว็บเพจที่แคชไว้ทั้งหมด"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "ล้าง cached metadata"
+    },
+    {
+      "name": "metadata_category",
+      "value": "หมวดหมู่"
+    },
+    {
+      "name": "metadata_language",
+      "value": "ภาษา"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "ลิขสิทธิ์"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "แท็ก"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "ย่อเล็กสุดไปยังการเล่นพื้นหลัง"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "ไม่มี"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "ย่อเล็กสุดไปยังการเล่นป๊อปอัพ"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "การดำเนินการเมื่อสลับไปยังแอปอื่นๆ จากโปรแกรมเล่นวิดีโอหลัก — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "ย่อเล็กสุดเมื่อสลับแอป"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "เสร็จแล้ว"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "อยู่ในคิว"
+    },
+    {
+      "name": "msg_copied",
+      "value": "คัดลอกไปที่คลิปบอร์ดแล้ว"
+    },
+    {
+      "name": "msg_name",
+      "value": "ชื่อไฟล์"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "การอนุญาตนี้เป็นสิ่งจำเป็นเพื่อ\n\nเปิดในโหมดป๊อปอัป"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe กำลังดาวน์โหลด"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "แตะเพื่อดูรายละเอียด"
+    },
+    {
+      "name": "msg_wait",
+      "value": "โปรดรอ…"
+    },
+    {
+      "name": "mute",
+      "value": "ปิดเสียง"
+    },
+    {
+      "name": "name",
+      "value": "ชื่อ"
+    },
+    {
+      "name": "network_error",
+      "value": "ข้อผิดพลาดของเครือข่าย"
+    },
+    {
+      "name": "never",
+      "value": "ไม่ต้อง"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "ใหม่และมาแรง"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "โหมดกลางคืน"
+    },
+    {
+      "name": "no",
+      "value": "ไม่"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "โปรดเลือกโฟลเดอร์ดาวน์โหลดที่พร้อมใช้งาน"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "ยังไม่มีการสมัครรับข้อมูลช่องในตอนนี้"
+    },
+    {
+      "name": "no_comments",
+      "value": "ไม่มีความคิดเห็น"
+    },
+    {
+      "name": "no_player_found",
+      "value": "ไม่พบแอปที่สามารถสตรีมสื่อวีดีโอได้ คุณต้องการติดตั้ง VLC หรือไม่?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "ไม่พบแอปที่สามารถสตรีมสื่อวีดีโอได้ (คุณสามารถติดตั้ง VLC เพื่อดูวีดีโอ)"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "ไม่มีสตรีมให้ดาวน์โหลด"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "ไม่มีสมาชิกที่สมัครรับ"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "ไม่มีไฟล์ ZIP ที่ถูกต้อง"
+    },
+    {
+      "name": "no_videos",
+      "value": "ไม่มีวิดีโอ"
+    },
+    {
+      "name": "no_views",
+      "value": "ไม่มียอดวิว"
+    },
+    {
+      "name": "none",
+      "value": "ไม่มี"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "ปุ่มคำสั่งแรก"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "ปุ่มคำสั่งที่สอง"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "ปุ่มคำสั่งที่สาม"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "ปุ่มคำสั่งที่สี่"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "ปุ่มคำสั่งที่ห้า"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "ไม่มี"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "วนซ้ำ"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "สลับ"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "แก้ไขคำสั่งของการแต่การแจ้งเตือนด้วยการแตะไปที่มัน เลือกสามรายการที่จะแสดงในการแจ้งเตือนในการแจ้งเตือนแบบกระทัดรัดโดยใช้ปุ่มกาเครื่องหมายทางขวา"
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "การแจ้งเตือนของแอป NewPipe เมื่อเล่นสื่อในโหมดพื้นหลังและป๊อปอัพ"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "การแจ้งเตือน NewPipe"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "เปลี่ยนสีการแจ้งเตือน"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "ตัดหน้าปกวิดีโอที่แสดงในการแจ้งเตือนจากอัตราส่วน 16:9 เป็น 1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "ตัดหน้าปกวิดีโอเป็นอัตราส่วน 1:1"
+    },
+    {
+      "name": "ok",
+      "value": "ตกลง"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "ลบ 1 รายการแล้ว"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "เปิดด้วยเว็บบราวเซอร์"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "เปิดในโหมดป๊อปอัพ"
+    },
+    {
+      "name": "open_with",
+      "value": "เปิดด้วย"
+    },
+    {
+      "name": "override_current_data",
+      "value": "สิ่งนี้จะแทนที่การตั้งค่าปัจจุบันของคุณ"
+    },
+    {
+      "name": "overwrite",
+      "value": "เขียนทับ"
+    },
+    {
+      "name": "parsing_error",
+      "value": "ไม่สามารถแยกวิเคราะห์เว็บไซต์"
+    },
+    {
+      "name": "pause",
+      "value": "หยุดพัก"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "หยุดชั่วคราวเมื่อเปลี่ยนเป็นข้อมูลมือถือ"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "การดาวน์โหลดที่ไม่สามารถหยุดพักได้จะเริ่มต้นใหม่"
+    },
+    {
+      "name": "paused",
+      "value": "หยุดชั่วคราว"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "มีอินสแตนซ์นี้อยู่แล้ว"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "ไม่สามารถตรวจสอบอินสแตนซ์ได้"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "ใส่ที่อยู่ URL ของอินสแตนซ์"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "รับรองเฉพาะที่อยู่ URL แบบ HTTPS"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "เพิ่มอินสแตนซ์"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "หาอินสแตนซ์ที่คุณชอบอยู่ใน %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "เลือก PeerTube อินสแตนซ์โปรดของคุณ"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube อินสแตนซ์"
+    },
+    {
+      "name": "permission_denied",
+      "value": "การดำเนินการถูกปฏิเสธโดยระบบ"
+    },
+    {
+      "name": "play_all",
+      "value": "เล่นทั้งหมด"
+    },
+    {
+      "name": "play_audio",
+      "value": "เสียง"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "การตั้งค่าเสียง"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "เอาออก"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "รายละเอียด"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "เปิดด้วย Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "เสียงสูงต่ำ"
+    },
+    {
+      "name": "playback_reset",
+      "value": "รีเซ็ต"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "การควบคุมความเร็วในการเล่น"
+    },
+    {
+      "name": "playback_step",
+      "value": "ทีละ"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "จังหวะ"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "กำลังกู้คืนจากข้อผิดพลาดของตัวเล่น"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "ไม่สามารถเล่นสตรีมนี้"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "เกิดข้อผิดพลาดของตัวเล่นที่ไม่สามารถกู้คืนได้"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "เพิ่มลงในเพลย์ลิสต์แล้ว"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "สร้างเพลย์ลิสต์แล้ว"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "เปลี่ยนภาพย่อของเพลย์ลิสต์แล้ว"
+    },
+    {
+      "name": "playlists",
+      "value": "เพลย์ลิสต์"
+    },
+    {
+      "name": "popup_player",
+      "value": "เครื่องเล่นป๊อปอัพ"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "กำลังเล่นในโหมดป๊อปอัพ"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "จำขนาดและตำแหน่งสุดท้ายของป๊อปอัพ"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "จำขนาดและตำแหน่งของป๊อปอัพ"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "เลือกเสียงแบบบรรยายสำหรับผู้มีความบกพร่องทางการมองเห็น ถ้าเกิดมีตัวเลือกนี้"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "ชอบเสียงแบบบรรยายมากกว่า"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "เลือกเสียงต้นฉบับโดยไม่คำนึงถึงภาษาที่ใช้"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "ชอบเสียงต้นฉบับมากกว่า"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "การดำเนินการเริ่มต้นเมื่อเปิดเนื้อหา — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "การดำเนินการ 'เปิด' ที่ต้องการ"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "กำลังโหลดเนื้อหาที่ร้องขอ"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "กำลังรับข้อมูล…"
+    },
+    {
+      "name": "previous_export",
+      "value": "การส่งออกก่อนหน้านี้"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "โครงการ NewPipe คำนึงถึงความเป็นส่วนตัวของคุณอย่างจริงจัง ดังนั้นแอปจะไม่เก็บรวบรวมข้อมูลใดๆ โดยไม่ได้รับความยินยอมจากคุณ\n\nนโยบายความเป็นส่วนตัวของ NewPipe มีการอธิบายในรายละเอียดเกี่ยวกับข้อมูลที่จะถูกส่งออกไปและเก็บไว้เมื่อคุณรายงานความผิดพลาดของแอป"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "นโยบายความเป็นส่วนตัวของ NewPipe"
+    },
+    {
+      "name": "queued",
+      "value": "อยู่ในคิวแล้ว"
+    },
+    {
+      "name": "read_full_license",
+      "value": "อ่านสัญญาอนุญาต"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "อ่านนโยบายความเป็นส่วนตัว"
+    },
+    {
+      "name": "recent",
+      "value": "ล่าสุด"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "แนะนำการค้นหาที่อยู่ไกลขึ้น"
+    },
+    {
+      "name": "rename",
+      "value": "เปลี่ยนชื่อ"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "เปลี่ยนชื่อ"
+    },
+    {
+      "name": "resize_fill",
+      "value": "เติม"
+    },
+    {
+      "name": "resize_fit",
+      "value": "พอดี"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "ขยาย"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "คืนค่าเริ่มต้น"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "คุณต้องการคืนค่าเริ่มต้นหรือไม่?"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "เล่นต่อหลังการขัดจังหวะ (เช่น การรับโทรศัพท์)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "เล่นต่อหลังจากการขัดจังหวะ"
+    },
+    {
+      "name": "retry",
+      "value": "ลองอีกครั้ง"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "เลือกคำสั่งสัมผัสฝั่งขวาของหน้าจอเครื่องเล่น"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "คำสั่งสัมผัสฝั่งขวา"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "เรียกคืนการวางตำแหน่งแท็บเป็นค่าเดิม เนื่องจากพบข้อผิดพลาดในการอ่านการวางตำแหน่งแท็บที่บันทึกไว้"
+    },
+    {
+      "name": "search",
+      "value": "ค้นหา"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "ลบประวัติการค้นหาแล้ว"
+    },
+    {
+      "name": "search_no_results",
+      "value": "ไม่มีผลลัพธ์"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "กำลังแสดงผลลัพธ์สำหรับ: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "ค้นหา %1$s"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "เร่งความเร็วไปข้างหน้า/ย้อนกลับหาช่วงเวลา"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "เลือกช่อง"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "เลือกหน้า Kiosk"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "ตั้งเป็นรูปขนาดย่อของเพลย์ลิสต์"
+    },
+    {
+      "name": "settings",
+      "value": "การตั้งค่า"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "ลักษณะ"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "ล้างข้อมูล"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "แก้ข้อบกพร่อง"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "ดาวน์โหลด"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "ฟีด"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "ประวัติและแคช"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "พฤติกรรม"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "การแจ้งเตือนจากเครื่องเล่น"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "เครื่องเล่น"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "อัพเดต"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "วิดีโอและเสียง"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "อักขระที่อนุญาตในชื่อไฟล์"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "อักขระที่ไม่ถูกต้องจะถูกแทนที่ด้วยค่านี้"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "อักขระทดแทน"
+    },
+    {
+      "name": "share",
+      "value": "แชร์"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "แชร์ด้วย"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "เนื้อหาที่จำกัดอายุ"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "ปิดใช้งานเพื่อซ่อนความคิดเห็น"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "แสดงความคิดเห็น"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "ปิดเพื่อซ่อนคำอธิบายของวิดีโอและข้อมูลเพิ่มเติมอื่นๆ"
+    },
+    {
+      "name": "show_description_title",
+      "value": "แสดงคำอธิบาย"
+    },
+    {
+      "name": "show_error",
+      "value": "แสดงข้อผิดพลาด"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "เฉพาะบางอุปกรณ์ที่รองรับการเล่นวิดีโอ 2K/4K"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "แสดงความละเอียดที่สูงขึ้น"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "แสดงเคล็ดลับเมื่อกดปุ่มพื้นหลังหรือป๊อปอัพในหน้ารายละเอียดวิดีโอ"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "แสดงเคล็ดลับ \"แตะค้างเพื่อเพิ่ม\""
+    },
+    {
+      "name": "show_info",
+      "value": "แสดงข้อมูล"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "แสดง meta info"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "แสดงวิดีโอ 'ถัดไป' และ 'ที่คล้ายกัน'"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "แสดงตัวเลือกในการเล่นวิดีโอผ่าน Kodi media center"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "แสดงตัวเลือก \"เปิดด้วย Kodi\""
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "แสดงคำแนะนำเมื่อทำการค้นหา"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "คำแนะนำการค้นหา"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "กรอไปข้างหน้าระหว่างความเงียบ"
+    },
+    {
+      "name": "songs",
+      "value": "เพลง"
+    },
+    {
+      "name": "sort",
+      "value": "จัดเรียง"
+    },
+    {
+      "name": "start",
+      "value": "เริ่ม"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "เพื่อให้สอดคล้องกับระเบียบข้อบังคับว่าด้วยการป้องกันข้อมูลทั่วไปของยุโรป (GDPR) เราขอแนะนำให้คุณอ่านนโยบายความเป็นส่วนตัวของ NewPipe อย่างระมัดระวังและถี่ถ้วน\n\nคุณต้องยอมรับข้อตกลงเพื่ออนุญาตให้ส่งรายงานข้อผิดพลาดถึงเรา"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "เล่นจากจุดนี้ในโหมดพื้นหลัง"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "เล่นจากจุดนี้ในโหมดป๊อปอัพ"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "อย่าเริ่มวิดีโอในเครื่องเล่นเล็ก แต่เปลี่ยนเป็นเต็มหน้าจอโดยตรง ถ้าการหมุนหน้าจออัตโนมัติล็อคไว้ คุณยังสามารถเข้าถึงเครื่องเล่นเล็กโดยการออกจากโหมดเต็มหน้าจอ"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "เริ่มเครื่องเล่นหลักแบบเต็มหน้าจอ"
+    },
+    {
+      "name": "stop",
+      "value": "หยุด"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "ติดตาม"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "ติดตามแล้ว"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "ไม่สามารถนับจำนวนสมาชิกได้"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "ไม่สามารถเปลี่ยนสถานะการติดตามได้"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "ไม่สามารถอัพเดทการติดตาม"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "ไม่สามารถส่งออกการสมัครรับข้อมูล"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "ไม่สามารถนำเข้าการสมัครรับข้อมูล"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "สลับไปยังโหมดพื้นหลัง"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "สลับไปยังโหมดหลัก"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "สลับไปยังโหมดป๊อปอัพ"
+    },
+    {
+      "name": "tab_about",
+      "value": "เกี่ยวกับ"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "เพลย์ลิสต์ที่เก็บไว้"
+    },
+    {
+      "name": "tab_choose",
+      "value": "เลือกแท็บ"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "สัญญาอนุญาต"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "การติดตาม"
+    },
+    {
+      "name": "theme_title",
+      "value": "ธีม"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "ล้างแคชของรูปภาพแล้ว"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "เกี่ยวกับ NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "ประวัติ"
+    },
+    {
+      "name": "title_last_played",
+      "value": "เล่นครั้งล่าสุด"
+    },
+    {
+      "name": "title_licenses",
+      "value": "สัญญาอนุญาตของบุคคลที่สาม"
+    },
+    {
+      "name": "title_most_played",
+      "value": "เล่นมากที่สุด"
+    },
+    {
+      "name": "top_50",
+      "value": "50 อันดับแรก"
+    },
+    {
+      "name": "tracks",
+      "value": "แทร็ค"
+    },
+    {
+      "name": "trending",
+      "value": "มาแรง"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "เอาที่คั่นหน้าออก"
+    },
+    {
+      "name": "undo",
+      "value": "เลิกทำ"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "ยกเลิกการเชื่อมโยง (อาจทำให้เสียงมีการบิดเบือน)"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[ไม่ทราบ]"
+    },
+    {
+      "name": "unmute",
+      "value": "เลิกปิดเสียง"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "ยกเลิกการติดตาม"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "URL ที่ไม่สนับสนุน"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "ไม่สามารถระบุที่อยู่ URL ได้ ลองเปิดด้วยแอปอื่น"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "แสดงการแจ้งเตือนการปรับปรุงให้ทราบก่อนอัพเดทแอพ เมื่อมีเวอร์ชั่นใหม่ให้พร้อมใช้งาน"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "อัพเดท"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "เผยแพร่เมื่อ %1$s"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "ใช้เครื่องเล่นเสียงภายนอก"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "ลบเสียงสำหรับบางความละเอียดหน้าจอ"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "ใช้เครื่องเล่นวีดิโอภายนอก"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "การข้ามช่วงที่ไม่แม่นยำจะทำให้เลื่อนไปยังตำแหน่งเวลาที่ต้องการได้เร็วขึ้น แต่จะลดความแม่นยำในการลากตำแหน่งลง"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "ใช้การข้ามที่ไม่แม่นยำ"
+    },
+    {
+      "name": "users",
+      "value": "ผู้ใช้"
+    },
+    {
+      "name": "video",
+      "value": "วิดีโอ"
+    },
+    {
+      "name": "video_player",
+      "value": "เครื่องเล่นวิดีโอ"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "ไม่พบสตรีมวิดีโอ"
+    },
+    {
+      "name": "videos_string",
+      "value": "วิดีโอ"
+    },
+    {
+      "name": "view_on_github",
+      "value": "ดูบน GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "ระดับเสียง"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "เยี่ยมชมเว็บไซต์ NewPipe สำหรับข้อมูลเพิ่มเติมและข่าวสาร"
+    },
+    {
+      "name": "website_title",
+      "value": "เว็บไซต์"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "ข้อมูล:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "เกิดอะไรขึ้น:"
+    },
+    {
+      "name": "yes",
+      "value": "ใช่/ตกลง"
+    },
+    {
+      "name": "your_comment",
+      "value": "ความคิดเห็นของคุณ (เป็นภาษาอังกฤษ):"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

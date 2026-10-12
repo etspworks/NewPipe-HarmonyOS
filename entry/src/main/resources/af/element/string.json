@@ -1,0 +1,152 @@
+{
+  "string": [
+    {
+      "name": "content",
+      "value": "Inhoud"
+    },
+    {
+      "name": "donation_title",
+      "value": "Skenk"
+    },
+    {
+      "name": "done",
+      "value": "Gedoen"
+    },
+    {
+      "name": "faq",
+      "value": "Bekyk op webtuiste"
+    },
+    {
+      "name": "faq_description",
+      "value": "As jy probleme ondergaan met die gebruik van hierdie toepassing, maak seker dat jy deur die algemene vrae gaan!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Gereelde vrae"
+    },
+    {
+      "name": "give_back",
+      "value": "Gee terug"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Tik op \"Soek\" om aan die gang te kom"
+    },
+    {
+      "name": "navigate_back",
+      "value": "Terug"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Geen stream-speler gevind nie. Installeer VLC?"
+    },
+    {
+      "name": "not_available",
+      "value": "Nie beskikbaar nie"
+    },
+    {
+      "name": "notifications",
+      "value": "Kennisgewings"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Maak oop in Internetblaaier toepassing"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "NewPipe Se Privaatheidsbeleid"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Lees lisensie"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Lees privaatheidsbeleid"
+    },
+    {
+      "name": "search",
+      "value": "Soek"
+    },
+    {
+      "name": "settings",
+      "value": "Instellings"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Voorkoms"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Rugsteun en herstel"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Laai af"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Geskiedenis en kas"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Opdateerings"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Beeld en klank"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Besoek die NewPipe Webtuiste vir meer inligting en nuus."
+    },
+    {
+      "name": "website_title",
+      "value": "Webtuiste"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

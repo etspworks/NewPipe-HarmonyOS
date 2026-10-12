@@ -1,0 +1,186 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d dagur"
+        },
+        {
+          "quantity": "other",
+          "value": "%d dagar"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%1$s sótt skrá eytt"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s sóttum skrám eytt"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Skrá sótt"
+        },
+        {
+          "quantity": "other",
+          "value": "%s skrár sóttar"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d valin"
+        },
+        {
+          "quantity": "other",
+          "value": "%d valdar"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d klst"
+        },
+        {
+          "quantity": "other",
+          "value": "%d klst"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s að hlusta"
+        },
+        {
+          "quantity": "other",
+          "value": "%s að hlusta"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d mínúta"
+        },
+        {
+          "quantity": "other",
+          "value": "%d mínútur"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s nýtt streymi"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ný streymi"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s svar"
+        },
+        {
+          "quantity": "other",
+          "value": "%s svör"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d sekúnda"
+        },
+        {
+          "quantity": "other",
+          "value": "%d sekúndur"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s áskrifandi"
+        },
+        {
+          "quantity": "other",
+          "value": "%s áskrifendur"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s myndskeið"
+        },
+        {
+          "quantity": "other",
+          "value": "%s myndskeið"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s áhorf"
+        },
+        {
+          "quantity": "other",
+          "value": "%s áhorf"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s að horfa"
+        },
+        {
+          "quantity": "other",
+          "value": "%s að horfa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3036 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Prihvati"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Račun ukinut"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Račun ukinut\n\n%1$s navodi ovaj razlog: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "Historija"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Dodaj na listu pjesama"
+    },
+    {
+      "name": "albums",
+      "value": "Albuma"
+    },
+    {
+      "name": "all",
+      "value": "Sve"
+    },
+    {
+      "name": "always",
+      "value": "Uvijek"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Uvijek pitajte"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Ovo zaobilazno rješenje oslobađa i ponovo instancira video kodeke kada dođe do promjene površine, umjesto direktnog postavljanja površine na kodek. Već korištena od strane ExoPlayera na nekim uređajima s ovim problemom, ova postavka ima učinak samo na Androidu 6 i novijim verzijama.\n\nOmogućavanje ove opcije može spriječiti greške u reprodukciji prilikom prebacivanja trenutnog video playera ili prelaska na cijeli ekran"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Uvijek koristite AVPlayer-ovo rješenje za podešavanje površine video izlaza"
+    },
+    {
+      "name": "any_network",
+      "value": "Bilo koja mreža"
+    },
+    {
+      "name": "app_description",
+      "value": "Besplatno lagano tokanje na HarmonyOS-u."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Jezik aplikacije"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe je copyleft libre softver: Možete ga koristiti, proučavati, dijeliti i poboljšavati po volji. Konkretno, možete ga redistribuirati i/ili mijenjati pod uvjetima GNU Opće javne licence koju je objavila Fondacija za slobodni softver, bilo verzije 3 Licence ili (po vašem izboru) bilo koje kasnije verzije."
+    },
+    {
+      "name": "app_license_title",
+      "value": "NewPipe-ova licenca"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Aplikacija/korisnički interfejs se srušio/la"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Dodirnite za preuzimanje %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Ažuriranje NewPipe-a je dostupno!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Obavještenja za nove verzije NewPipe-a"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Obavještenje o ažuriranju aplikacije"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Koristite najnoviju verziju NewPipe-a"
+    },
+    {
+      "name": "artists",
+      "value": "Umjetnici"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Nisu pronađeni audio tokovi"
+    },
+    {
+      "name": "audio_track",
+      "value": "Zvučni zapis"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Zvučni zapis bi već trebao biti prisutan u ovom toku"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "opisni"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "sinhronizovano"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "original"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "sekundarni"
+    },
+    {
+      "name": "auto",
+      "value": "Automatski"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Automatski (tema uređaja)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Nastavite završni (ne-ponavljajući) reprodukcijski red privlakom srodnog prijenosa"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Automatski sljedeći prijenos u red stavite"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Automatsko redanje"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe može automatski provjeravati nove verzije s vremena na vrijeme i obavijestiti vas kada budu dostupne.\nŽelite li ovo omogućiti?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Automatski pokreni reprodukciju — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Automatsko reproduciranje"
+    },
+    {
+      "name": "background_player",
+      "value": "Pozadinski plejer"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Reprodukcija u pozadini"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Najbolja rezolucija"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Crna"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Prazna stranica"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Označi plejlistu"
+    },
+    {
+      "name": "brightness",
+      "value": "Svjetlina"
+    },
+    {
+      "name": "cancel",
+      "value": "Otkaži"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Automatski generirano"
+    },
+    {
+      "name": "caption_none",
+      "value": "Nema titlova"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Izmijenite veličinu teksta titlova i stilove pozadine za player. Za primjenu je potrebno ponovno pokretanje aplikacije"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Titlovi"
+    },
+    {
+      "name": "card",
+      "value": "Kartica"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Kreirao/la %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Stranica kanala"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "O tome"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Albuma"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Kanali"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Sviđanja"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Uživo"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Plejliste"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Kratke hlače"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Snimke"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Videozapisi"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Otkazana pratnja kanala"
+    },
+    {
+      "name": "channels",
+      "value": "Kanali"
+    },
+    {
+      "name": "chapters",
+      "value": "Poglavlja"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Slova i brojevi"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Većina specijalnih znakova"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Provjeri ažuriranja"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Pokreni provjeru za nove tokove"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Provjera ažuriranja…"
+    },
+    {
+      "name": "checksum",
+      "value": "Kontrolni zbir"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Odaberite instancu"
+    },
+    {
+      "name": "clear",
+      "value": "Rasčisti"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Obrišite kolačiće koje NewPipe pohranjuje kada riješite reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Obriši reCAPTCHA kolačiće"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Obriši historiju preuzimanja"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Briše sve pozicije reprodukcije"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Brisanje pozicija reprodukcije"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Aktivni pokretni red će biti zamijenjen"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Prebacivanje sa jednog pokretača na drugi bi van moglo zamijeniti pokretni red"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Pitajte za potvrdu prije isčišćavanja reda"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Briše historiju ključnih riječi pretrage"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Obriši historiju pretraživanja"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Briše historiju reprodukovanih tokova i pozicije reprodukcije"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Obriši historiju gledanja"
+    },
+    {
+      "name": "close",
+      "value": "Zatvori"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Komentari su onemogućeni"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Komentari"
+    },
+    {
+      "name": "conferences",
+      "value": "Konferencije"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Želite li obrisati historiju preuzimanja ili izbrisati sve preuzete datoteke?"
+    },
+    {
+      "name": "content",
+      "value": "Sadržaj"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Zadani jezik sadržaja"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Sadržaj nije dostupan"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Ovaj sadržaj još uvijek nije podržan od strane NewPipe-a.\n\nNadamo se da će biti podržan u budućoj verziji."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Bez obzira da li imate ideje za: prevod, promjene dizajna, čišćenje koda ili zaista velike promjene koda - pomoć je uvijek dobrodošla. Što se više uradi, to bolje postaje!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Doprinesite"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Dodajte u"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Pozadina"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Preuzmite datoteku za prijenos"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Iskačni prozor"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Kopiraj formatirani izvještaj"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s od %2$s pod %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Upozorenje: Nije moguće uvesti sve datoteke."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Nije moguće učitati sve sličice"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Nije moguće postaviti meni za preuzimanje"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Sruši aplikaciju"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Prekinite pokretač"
+    },
+    {
+      "name": "create",
+      "value": "Napravi"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Kreiraj obavještenje o grešci"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Nova plejlista"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Tamna"
+    },
+    {
+      "name": "decline",
+      "value": "Odbij"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Zadani zvučni format"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Zadana zemlja sadržaja"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Zadani kiosk"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Zadani režim za iskačući prozor"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Zadani režim"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Zadani video format"
+    },
+    {
+      "name": "delete",
+      "value": "Izbriši"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Izbriši preuzete datoteke"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Izbrisati sve preuzete datoteke s diska?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Izbriši unos"
+    },
+    {
+      "name": "delete_file",
+      "value": "Izbriši datoteku"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Želite li izbrisati ovu stavku iz historije pretrage?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Izbrisati sve pozicije reprodukcije?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Izbrisati ovaj popis?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Izbrisati cijelu historiju pretraživanja?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Izbrisati cijelu historiju gledanja?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Onemogući odabir teksta u opisu"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Omogući odabir teksta u opisu"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Sada možete odabrati tekst unutar opisa. Imajte na umu da stranica može treperiti i da linkovi možda neće biti dostupni za klikanje dok ste u načinu odabira."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Opis"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Nesviđa mi se"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Prevucite da promijenite redoslijed"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Srce od strane kreatora"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Sviđanja"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Zakačen komentar"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Sličica avatara kanala"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Reproduciraj video, trajanje:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Sličica avatara osobe koja je postavila sliku"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Jeste li mislili \"%1$s\"?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Tuneliranje medija je onemogućeno prema zadanim postavkama na vašem uređaju jer je poznato da vaš model uređaja to ne podržava."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Onemogućite tuneliranje medija ako se pojavi crni ekran ili se prilikom reprodukcije videa pojavi prekid."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Onemogući tuneliranje medija"
+    },
+    {
+      "name": "disabled",
+      "value": "Onemogućeno"
+    },
+    {
+      "name": "dismiss",
+      "value": "Raspusti"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe je razvijen od strane volontera koji svoje slobodno vrijeme provode pružajući vam najbolje korisničko iskustvo. Doprinesite programerima kako biste ih učinili još boljim dok uživaju u šoljici kafe."
+    },
+    {
+      "name": "donation_title",
+      "value": "Donirajte"
+    },
+    {
+      "name": "done",
+      "value": "Gotovo"
+    },
+    {
+      "name": "dont_show",
+      "value": "Ne prikazuj"
+    },
+    {
+      "name": "download",
+      "value": "Preuzimanje"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Postoji preuzimanje s ovim nazivom na čekanju"
+    },
+    {
+      "name": "download_already_running",
+      "value": "U toku je preuzimanje s ovim imenom"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Preuzimanje"
+    },
+    {
+      "name": "download_failed",
+      "value": "Preuzimanje nije uspjelo"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Preuzimanje je počelo"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Odaberite fasciklu gdje se audio datoteke skidaju"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Skinuti audio zapisi su ovdje spremljeni"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Fascikla za preuzimanje audia"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Odaberite fasciklu gdje se video datoteke skidaju"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Skinuti video zapisi su ovdje spremljeni"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Fascikla za preuzimanje videa"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Preuzimanje na eksternu SD karticu nije moguće. Poništiti lokaciju mape za preuzimanje?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Vanjska pohrana nije dostupna"
+    },
+    {
+      "name": "downloads",
+      "value": "Preuzimanja"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Bit ćete upitani gdje želite sačuvati svako preuzimanje.\nOmogućite birač sistemskih foldera (SAF) ako želite preuzeti na eksternu SD karticu"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Bit ćete upitani gdje sačuvati svako preuzimanje"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Pitaj gdje preuzeti"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "'Okvir za pristup pohrani' omogućava preuzimanje na eksternu SD karticu"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Počevši od Androida 10, podržan je samo 'Storage Access Framework'"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Koristi birač sistemskih foldera (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Preuzimanja"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Zatvori ladicu"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Uključi/isključi uslugu, trenutno odabrana:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Otvori ladicu"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Liste za reprodukciju koje su sive već sadrže ovu stavku."
+    },
+    {
+      "name": "duration",
+      "value": "Trajanje"
+    },
+    {
+      "name": "duration_live",
+      "value": "Uživo"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Ovdje nema ničega osim cvrčaka"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Prisilno prijavljivanje izuzetaka neisporučenih Rx zahtjeva izvan životnog ciklusa fragmenta ili aktivnosti nakon odlaganja"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Prijavi greške izvan životnog ciklusa"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Praćenje curenja memorije može uzrokovati da aplikacija prestane reagirati prilikom ispisa heap memorije"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Vratite posljednju poziciju reprodukcije"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Nastavi reproduciranje"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Prikažite indikatore pozicije reprodukcije u listama"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Pozicije u listama"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Ograniči red čekanja za preuzimanje"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Jedno preuzimanje će se pokrenuti istovremeno"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Lokalno pohranite upite pretraživanja"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Povijest pretraga"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Obavijesti me o novim tokovima s pretplata"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Obavještenja o novim tokovima"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Vodite računa o pregledanim video zapisima"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Historija pregleda"
+    },
+    {
+      "name": "enqueue",
+      "value": "Stavi u red"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Stavi sljedeće u red"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Stavi u red"
+    },
+    {
+      "name": "enqueued",
+      "value": "Stavljeno u red čekanja"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Sljedeće u redu čekanja"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Unos izbrisan"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Ne mogu se povezati sa serverom"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Detalji:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Nije moguće oporaviti ovo preuzimanje"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Datoteka ne može biti kreirana"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Server ne šalje podatke"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Nije pronađeno"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Server ne prihvata višenitna preuzimanja, pokušajte ponovo sa @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Nema dovoljno slobodnog prostora na uređaju"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Nema više prostora na uređaju"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Došlo je do greške: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Nije moguće kreirati odredišnu mapu"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Naknadna obrada nije uspjela"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe je zatvoren tokom rada na datoteci"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Napredak je izgubljen jer je datoteka izbrisana"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Prijavi putem e-pošte"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Obavještenja za prijavu grešaka"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Obavještenje o grešci"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe je naišao na grešku, dodirnite za prijavu"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Došlo je do greške, pogledajte obavještenje"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Molimo Vas da provjerite da li već postoji problem koji se odnosi na Vaš pad sistema. Prilikom kreiranja duplikata tiketa, oduzimate nam vrijeme koje bismo mogli posvetiti ispravljanju samog problema."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Izvještaj na GitHubu"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Izvještaj o grešci"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Prijavi"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Izvinite, ali nešto je pošlo po zlu."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Nije moguće uspostaviti sigurnu vezu"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Vremensko ograničenje veze"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Nije moguće učitati komentare"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Nije moguće pronaći server"
+    },
+    {
+      "name": "events",
+      "value": "Događanja"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Izvezeno"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Izvoz historije, pretplata, plejlista i postavki"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Izvoz baze podataka"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Izvoz…"
+    },
+    {
+      "name": "export_to",
+      "value": "Izvoz u"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Vanjski playeri ne podržavaju ove vrste linkova"
+    },
+    {
+      "name": "faq",
+      "value": "Pogledajte na web stranici"
+    },
+    {
+      "name": "faq_description",
+      "value": "Ako imate problema s korištenjem aplikacije, obavezno pogledajte ove odgovore na česta pitanja!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Često postavljana pitanja"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Brzi način rada"
+    },
+    {
+      "name": "featured",
+      "value": "Istaknuto"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Novo"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Dohvati kartice kanala"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Kartice koje treba preuzeti prilikom ažuriranja feeda. Ova opcija nema efekta ako se kanal ažurira pomoću brzog načina rada."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Želite li izbrisati ovu grupu?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Prazan naziv grupe"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Nije odabrana pretplata"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Odaberite pretplate"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Stranica grupe kanala"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Prikaži samo negrupirane pretplate"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Grupe kanala"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Prikaži sljedeće tokove"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Greška pri učitavanju feeda"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Nije moguće učitati feed za '%s'."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Režim brzog hranjenja ne pruža više informacija o ovome."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Autorov račun je ukinut. \nNewPipe ubuduće neće moći učitavati ovaj sažetak. \nŽeliš li ukinuti pretplatu za ovaj kanal?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Nove stavke feeda"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Učitavanje feeda…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Sažetak zadnji put ažuriran: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Obrada feeda…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Prikaži/Sakrij tokove"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Djelomično gledano"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Nadolazeći"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Potpuno odgledano"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Nije učitano: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Uvijek ažuriraj"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Vrijeme nakon posljednjeg ažuriranja prije nego što se pretplata smatra zastarjelom — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Prag ažuriranja feeda"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Onemogući brzi način rada"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Omogući brzi način rada"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Mislite li da je učitavanje feeda previše sporo? Ako je tako, pokušajte omogućiti brzo učitavanje (možete ga promijeniti u postavkama ili pritiskom na dugme ispod).\n\nNewPipe nudi dvije strategije učitavanja feeda:\n• Preuzimanje cijelog pretplatničkog kanala, što je sporo, ali potpuno.\n• Korištenje namjenske krajnje tačke usluge, što je brzo, ali obično nije potpuno.\n\nRazlika između ove dvije je u tome što brza obično nema neke informacije, poput trajanja ili vrste stavke (ne može razlikovati videozapise uživo od normalnih) i može vratiti manje stavki.\n\nYouTube je primjer usluge koja nudi ovu brzu metodu sa svojim RSS feedom.\n\nDakle, izbor se svodi na to šta preferirate: brzinu ili precizne informacije."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Dostupno u nekim servisima, obično je mnogo brže, ali može vratiti ograničen broj artikala i često nepotpune informacije (npr. bez trajanja, vrste artikla, bez aktivnog statusa)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Preuzmi iz namjenskog feeda kada je dostupan"
+    },
+    {
+      "name": "file",
+      "value": "Datoteka"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Datoteka je izbrisana"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Naziv datoteke ne može biti prazan"
+    },
+    {
+      "name": "forward",
+      "value": "Naprijed"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Šta je novo"
+    },
+    {
+      "name": "general_error",
+      "value": "Greška"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Generiraj jedinstveno ime"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Ovaj sadržaj nije dostupan u vašoj zemlji."
+    },
+    {
+      "name": "get_notified",
+      "value": "Primajte obavještenja"
+    },
+    {
+      "name": "give_back",
+      "value": "Vratite"
+    },
+    {
+      "name": "grid",
+      "value": "Rešetka"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Obavještenja o napretku heširanja videa"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Obavještenje o hešu videa"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Visok kvalitet (veći)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Držite za dodavanje u red"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Korisno, na primjer, ako koristite slušalice s pokvarenim fizičkim tipkama"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Zanemari događaje hardverskih medijskih tipki"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Visoka kvaliteta"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Niska kvaliteta"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Srednji kvalitet"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Ne učitavaj slike"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Odaberite kvalitet slika i da li će se slike uopće učitavati kako biste smanjili potrošnju podataka i memorije. Promjene brišu keš memoriju slika i u memoriji i na disku — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Kvalitet slike"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Uvezeno"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Zaobilazi vašu trenutnu historiju, pretplate, liste pjesama i (opcionalno) postavke"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Uvoz baze podataka"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Uvoz datoteke"
+    },
+    {
+      "name": "import_from",
+      "value": "Uvoz iz"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Imajte na umu da ova operacija može biti skupa za mrežu.\n\nŽelite li nastaviti?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Uvoz…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Želite li uvesti i postavke?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Postavke u izvozu koji se uvozi koriste ranjivi format koji je zastario od verzije NewPipe 0.27.0. Provjerite da izvoz koji se uvozi dolazi iz pouzdanog izvora i u budućnosti preferirajte korištenje samo izvoza dobivenih iz NewPipe 0.27.0 ili novije verzije. Podrška za uvoz postavki u ovom ranjivom formatu uskoro će biti potpuno uklonjena, a zatim stare verzije NewPipe-a više neće moći uvoziti postavke izvoza iz novih verzija."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Uvezite SoundCloud profil unosom URL-a ili vašeg ID-a:\n\n1. Omogućite \"desktop mode\" u web pregledniku (stranica nije dostupna za mobilne uređaje)\n2. Idite na ovaj URL: %1$s\n3. Prijavite se kada se to od vas zatraži\n4. Kopirajte URL profila na koji ste preusmjereni."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "tvoj ID, soundcloud.com/tvojID"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Uvoz ili izvoz pretplata iz menija s tri tačke"
+    },
+    {
+      "name": "import_title",
+      "value": "Uvoz"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Uvoz YouTube pretplata iz Google arhive:\n\n1. Idite na ovaj URL: %1$s\n2. Prijavite se kada se to od vas zatraži\n3. Kliknite na \"Svi podaci uključeni\", zatim na \"Poništi odabir svih\", a zatim odaberite samo \"pretplate\" i kliknite na \"U redu\"\n4. Kliknite na \"Sljedeći korak\", a zatim na \"Kreiraj izvoz\"\n5. Kliknite na dugme \"Preuzmi\" nakon što se pojavi\n6. Kliknite na UVOZ DATOTEKE ispod i odaberite preuzetu .zip datoteku\n7. [Ako uvoz .zip datoteke ne uspije] Izvucite .csv datoteku (obično pod \"YouTube i YouTube Music/pretplate/pretplate.csv\"), kliknite na UVOZ DATOTEKE ispod i odaberite izvučenu csv datoteku"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ videozapisi"
+    },
+    {
+      "name": "info_labels",
+      "value": "Šta:\nZahtjev:\nJezik sadržaja:\nZemlja sadržaja:\nJezik aplikacije:\nUsluga:\nVremenska oznaka:\nPaket:\nVerzija:\nVerzija OS-a:"
+    },
+    {
+      "name": "install",
+      "value": "Instališi"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Fascikla sa popisima"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Datoteka ne postoji ili nedostaje dozvola za čitanje ili pisanje u nju"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Nema takve datoteke/izvora sadržaja"
+    },
+    {
+      "name": "just_once",
+      "value": "Samo jednom"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Stranica kioska"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Instalirati nedostajuću Kore aplikaciju?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary nije dostupan"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Odaberite gestu za lijevu polovinu ekrana igrača"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Radnja lijevog pokreta"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Svijetla"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Bez ograničenja"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Ograničenje rezolucije prilikom korištenja mobilnih podataka"
+    },
+    {
+      "name": "list",
+      "value": "Spisak"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Način prikaza liste"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Učitavanje metapodataka…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Učitavanje detalja toka…"
+    },
+    {
+      "name": "local",
+      "value": "Lokalno"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Lokalni prijedlozi za pretraživanje"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Nizak kvalitet (manji)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Dodirnite lupu da bi ste započeli."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Sadržaj glavne stranice"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Koje kartice se prikazuju na glavnoj stranici"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Prevucite stavke da biste ih uklonili"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Pomakni glavni birač kartica na dno"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Položaj glavnih kartica"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Ručno provjerite nove verzije"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Označite kao pregledano"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Maksimalan broj pokušaja prije otkazivanja preuzimanja"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Maksimalan broj ponovnih pokušaja"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Starosna granica"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Avatari"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Baneri"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Keširani metapodaci su obrisani"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Uklonite sve keširane podatke web stranica"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Obrišite keširane metapodatke"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Kategorija"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Domaćin"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Jezik"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Dozvola"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Privatnost"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Unutrašnje"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Privatno"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Javno"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Nije navedeno"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Avatari podkanala"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Pretplatnici"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Podrška"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Oznake"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Sličice"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Avatari koji su postavili profil"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud je ukinuo originalne Top 50 liste. Odgovarajuća kartica je uklonjena sa vaše glavne stranice."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "Stranica SoundCloud Top 50 uklonjena"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube je ukinuo kombinovanu stranicu s trendovima od 21. jula 2025. NewPipe je zamijenio zadanu stranicu s trendovima s trendovima uživo prijenosa.\n\nTakođer možete odabrati različite stranice s trendovima u \"Postavke > Sadržaj > Sadržaj glavne stranice\"."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "Uklonjen je kombinovani prikaz trendova na YouTubeu"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Minimiziraj na pozadinski plejer"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Nema"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Minimiziraj da bi se player pojavio u skočnom prozoru"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Radnja prilikom prelaska na drugu aplikaciju iz glavnog video plejera — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Minimiziraj pri prebacivanju aplikacija"
+    },
+    {
+      "name": "missing_file",
+      "value": "Datoteka je premještena ili izbrisana"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Završeno"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Na čekanju"
+    },
+    {
+      "name": "more_options",
+      "value": "Više opcija"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ videa"
+    },
+    {
+      "name": "most_liked",
+      "value": "Najpopularnije"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Izračunavanje heša"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Kopirano u međuspremnik"
+    },
+    {
+      "name": "msg_error",
+      "value": "Greška"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Kopiranje u međuspremnik nije uspjelo"
+    },
+    {
+      "name": "msg_name",
+      "value": "Naziv datoteke"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Ova dozvola je potrebna za \notvaranje u skočnom prozoru"
+    },
+    {
+      "name": "msg_running",
+      "value": "Preuzimanje NewPipe-a"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Dodirnite za detalje"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Teme"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Molimo pričekajte…"
+    },
+    {
+      "name": "mute",
+      "value": "Isključi zvuk"
+    },
+    {
+      "name": "name",
+      "value": "Ime"
+    },
+    {
+      "name": "network_error",
+      "value": "Greška mreže"
+    },
+    {
+      "name": "never",
+      "value": "Nikad"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Novo i popularno"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Zbog ograničenja AVPlayera, trajanje pretraživanja je postavljeno na %d sekundi"
+    },
+    {
+      "name": "next_stream",
+      "value": "Sljedeći tok"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Ova opcija je dostupna samo ako je za temu odabrana %s"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Odaberite svoju omiljenu noćnu temu — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Noćna tema"
+    },
+    {
+      "name": "no",
+      "value": "Ne"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Nijedna aplikacija na vašem uređaju ne može ovo otvoriti"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Nije pronađen odgovarajući upravitelj datoteka za ovu radnju.\nMolimo instalirajte upravitelj datoteka ili pokušajte onemogućiti '%s' u postavkama preuzimanja"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Nije pronađen odgovarajući upravitelj datoteka za ovu radnju.\nMolimo instalirajte upravitelj datoteka kompatibilan sa Storage Access Frameworkom"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Nema dostupnih audio tokova za vanjske uređaje za reprodukciju"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Molimo vas da kasnije u postavkama definišete folder za preuzimanje"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Još nema pretplata na kanale"
+    },
+    {
+      "name": "no_comments",
+      "value": "Nema komentara"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Još nije postavljen folder za preuzimanje, odaberite zadani folder za preuzimanje sada"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Još nije kreirana nijedna grupa feedova"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Nema prijenosa uživo"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Niko ne sluša"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Niko ne gleda"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Nije pronađen nijedan medijski prijenosnik. Hoćete VLC instalisati?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Nijedan medijski prijenosnik nije nađen na vašem uređaju (možete VLC instalisati da bi ste ga pokrenili)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Još nema oznaka za plejlistu"
+    },
+    {
+      "name": "no_streams",
+      "value": "Nema tokova"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Nema dostupnih tokova za preuzimanje"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Nema pretplatnika"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Nema važeće ZIP datoteke"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Nema video tokova dostupnih za vanjske uređaje za reprodukciju"
+    },
+    {
+      "name": "no_videos",
+      "value": "Nema videozapisa"
+    },
+    {
+      "name": "no_views",
+      "value": "Nema pregleda"
+    },
+    {
+      "name": "none",
+      "value": "Nema"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Prvo radno dugme"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Drugo radno dugme"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Treće radno dugme"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Četvrto radno dugme"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Peto radno dugme"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Učitavanje"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Ništa"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Ponovi"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Pomiješajte"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Možete najviše tri radnje odabrati za prikaz u kompaktnom obavještaju!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Uredite svaku radnju obavještenja ispod dodirom na nju. Odaberite do tri od njih koje će biti prikazane u kompaktnom obavještenju pomoću potvrdnih okvira s desne strane."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Uredite svaku radnju obavještenja ispod dodirom na nju. Prve tri radnje (reprodukcija/pauza, prethodno i sljedeće) postavlja sistem i ne mogu se prilagođavati."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Obavještenja za NewPipeovog igrača"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "Obavještenje o novoj cijevi"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Dajte Android-u da prilagodi boju obavijesti prema glavnoj boji na sličici (čuvajte u umu da ovo nije dostupno na svim uređajima)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Obojite obavještenje"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Izrežite sličicu videa prikazanu u obavještenju sa omjera stranica 16:9 na 1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Izrežite sličicu na omjer slike 1:1"
+    },
+    {
+      "name": "notifications",
+      "value": "Obavijesti"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Obavještenja su onemogućena"
+    },
+    {
+      "name": "off",
+      "value": "Ugašeno"
+    },
+    {
+      "name": "ok",
+      "value": "U redu"
+    },
+    {
+      "name": "on",
+      "value": "Upaljeno"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 stavka je izbrisana."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Otvorite u pretraživaču"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Otvorite u skočnom prozoru"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Otvori red za reprodukciju"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Otvori web stranicu"
+    },
+    {
+      "name": "open_with",
+      "value": "Otvorite sa"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Ovo će poništiti vašu trenutnu postavku."
+    },
+    {
+      "name": "overwrite",
+      "value": "Prebriši"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "ne može prepisati datoteku"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Preuzeta datoteka s ovim nazivom već postoji"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Datoteka s ovim imenom već postoji"
+    },
+    {
+      "name": "paid_content",
+      "value": "Ovaj sadržaj je dostupan samo korisnicima koji su platili, tako da ga NewPipe ne može strimovati ili preuzimati."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Nije moguće analizirati web stranicu"
+    },
+    {
+      "name": "pause",
+      "value": "Pauziraj"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Pauziraj preuzimanja"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Prekid na mrežama s ograničenim pristupom"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Korisno prilikom prelaska na mobilne podatke, iako se neka preuzimanja ne mogu obustaviti"
+    },
+    {
+      "name": "paused",
+      "value": "pauzirano"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Instanca već postoji"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Nije moguće validirati instancu"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Unesite URL instance"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Podržani su samo HTTPS URL-ovi"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Dodaj instancu"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Pronađite instance koje vam se sviđaju na %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Odaberite svoje omiljene PeerTube instance"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube instance"
+    },
+    {
+      "name": "percent",
+      "value": "Postotak"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Sistem je odbio akciju"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Dozvoli prikaz preko drugih aplikacija"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "Da biste koristili Popup Player, odaberite %1$s u sljedećem meniju postavki Androida i omogućite %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "Dozvoli prikaz preko drugih aplikacija"
+    },
+    {
+      "name": "play",
+      "value": "Pokrenuti"
+    },
+    {
+      "name": "play_all",
+      "value": "Reproduciraj sve"
+    },
+    {
+      "name": "play_audio",
+      "value": "Zvuk"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Postavke zvuka"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Audio: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Ukloni"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Detalji"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Pokrenite s KODI-jem"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Točka glasa"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Resetuj"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Kontrole brzine reprodukcije"
+    },
+    {
+      "name": "playback_step",
+      "value": "Korak"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Brzina"
+    },
+    {
+      "name": "player_http_403",
+      "value": "HTTP greška 403 primljena od servera tokom reprodukcije, vjerovatno uzrokovana istekom URL-a za tokove ili zabranom IP adrese"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "HTTP greška %1$s primljena od servera tokom reprodukcije"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Oporavak od greške igrača"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Nije moguće reproducirati ovaj tok"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Došlo je do nepopravljive greške igrača"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Plejlista"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Duplikat dodan %d puta"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Plejlista je kreirana"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Automatski generirano (nije pronađen korisnik koji je otpremio)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Stranica s popisom za reprodukciju"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Sličica plejliste je promijenjena."
+    },
+    {
+      "name": "playlists",
+      "value": "Plejliste"
+    },
+    {
+      "name": "popup_player",
+      "value": "Iskačući plejer"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Reprodukcija u skočnom modu"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Zapamtite posljednju veličinu i položaj iskočnog prozora"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Zapamtite podešavanja za iskočne prozore"
+    },
+    {
+      "name": "post_processing",
+      "value": "naknadna obrada"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Odaberite audio zapis s opisima za osobe s oštećenim vidom ako su dostupni"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Preferiraj opisni audio"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Odaberite originalni audio zapis bez obzira na jezik"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Preferiraj originalni audio"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Zadana radnja pri otvaranju sadržaja — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Preferirana akcija 'otvaranja'"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Učitavanje traženog sadržaja"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Dobijanje informacija…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Prethodni izvoz"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Prethodni tok"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "Projekat NewPipe veoma ozbiljno shvata vašu privatnost. Stoga aplikacija ne prikuplja nikakve podatke bez vašeg pristanka.\nPolitika privatnosti NewPipe-a detaljno objašnjava koji se podaci šalju i pohranjuju kada pošaljete izvještaj o padu sistema."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Politika privatnosti kompanije NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "Ovaj sadržaj je privatan, tako da ga NewPipe ne može strimovati ili preuzimati."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Obrada… Može potrajati trenutak"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "Zadano za AVPlayer"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Promijenite veličinu intervala učitavanja progresivnog sadržaja (trenutno %s). Niža vrijednost može ubrzati njihovo početno učitavanje"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Veličina intervala učitavanja reprodukcije"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "u redu čekanja"
+    },
+    {
+      "name": "radio",
+      "value": "Radio"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Pročitaj licencu"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Pročitajte politiku privatnosti"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA kolačići su obrisani"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "Zatražen je reCAPTCHA izazov"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Riješi"
+    },
+    {
+      "name": "recent",
+      "value": "Nedavno"
+    },
+    {
+      "name": "recently_added",
+      "value": "Nedavno dodano"
+    },
+    {
+      "name": "recovering",
+      "value": "oporavlja se"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Povezane stavke"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Razdaljeni prijedlozi za pretraživanje"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Ukloni duplikate"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Želite li ukloniti sve duplikatne tokove na ovoj listi za reprodukciju?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Ukloniti duplikate?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Ukloni gledano"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Da, i djelimično odgledani videozapisi"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Ukloniti gledane videozapise?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Videozapisi koji su pregledani prije i poslije dodavanja na listu za reprodukciju bit će uklonjeni.\nJeste li sigurni? Ovo se ne može poništiti!"
+    },
+    {
+      "name": "rename",
+      "value": "Preimenuj"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Preimenuj"
+    },
+    {
+      "name": "replay",
+      "value": "Ponovna reprodukcija"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Resetovanjem svih postavki poništit ćete sve svoje željene postavke i ponovo pokrenuti aplikaciju.\n\nJeste li sigurni da želite nastaviti?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Resetujte sve postavke na njihove zadane vrijednosti"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Resetiraj postavke"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Popuni"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Prilagođeno"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Uvećanje"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Vrati zadane postavke"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Želite li vratiti zadane postavke?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Ovaj video ima dobno ograničenje.\n\nUključite \"%1$s\" u postavkama ako ga želite pogledati."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Ovaj video ima dobno ograničenje. \nZbog novih YouTube pravila o videozapisima s dobnim ograničenjem, NewPipe ne može pristupiti nijednom od svojih video tokova i stoga ga ne može reproducirati."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Nastavite reprodukciju nakon prekida (npr. telefonskih poziva)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Nastavite sa reprodukcijom"
+    },
+    {
+      "name": "retry",
+      "value": "Pokušaj ponovo"
+    },
+    {
+      "name": "rewind",
+      "value": "Premotavanje unazad"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Odaberite gestu za desnu polovinu ekrana igrača"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Radnja desnog gesta"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Nije moguće pročitati sačuvane kartice, pa se koriste zadane"
+    },
+    {
+      "name": "search",
+      "value": "Pretraži"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Historija pretrage je izbrisana"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Bez rezultata"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Pokazuju se rezultati za: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Pretraži %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Pretraži %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Vrijeme premotavanja naprijed/nazad"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Pregled sličice trake za pretraživanje"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Odaberite kanal"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Odaberite grupu feedova"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Odaberite kiosk"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Odaberite listu za reprodukciju"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Odaberite audio zapis za vanjske uređaje za reprodukciju"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Možete odabrati svoju omiljenu noćnu temu ispod"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Odaberite kvalitet za vanjske uređaje za reprodukciju"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Odabrani tok nije podržan od strane eksternih plejera"
+    },
+    {
+      "name": "semitone",
+      "value": "Poluton"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Postavi kao sličicu za reprodukciju"
+    },
+    {
+      "name": "settings",
+      "value": "Podešavanja"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Izgled"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Sigurnosna kopija i vraćanje"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Raščistite podatke"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Debug"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Preuzimanje"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Upravljajte nekim postavkama AVPlayera. Ove promjene zahtijevaju ponovno pokretanje plejera da bi stupile na snagu"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "Postavke AVPlayera"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Sažetak"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Historija i keš memorija"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Ponašanje"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Konfigurišite obavještenja o trenutno reprodukovanom toku"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Obavještenje za igrača"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Pokretač"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Nadogradnje"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Video i audio"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Dozvoljeni znakovi u nazivima datoteka"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Nevažeći znakovi se zamjenjuju ovom vrijednošću"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Zamjenski lik"
+    },
+    {
+      "name": "share",
+      "value": "Podijeli"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Podijelite pomoću"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Dijeli plejlistu"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Podijeli kao privremenu YouTube plejlistu"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Podijeli listu URL-ova"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Podijeli s naslovima"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sB"
+    },
+    {
+      "name": "short_million",
+      "value": "%sM"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sK"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Prikaži sadržaj koji je možda neprikladan za djecu jer ima starosno ograničenje (npr. 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Prikaži sadržaj s ograničenjem za uzrast"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Prikaži detalje kanala"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Kartice kanala"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Koje kartice se prikazuju na stranicama kanala"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Isključite da sakrijete komentare"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Prikažite komentare"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Prikazuje opciju pada sistema prilikom korištenja plejera"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Prikaži \"Sruši plejer\""
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Isključite da biste sakrili opis videa i dodatne informacije"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Prikažite opis"
+    },
+    {
+      "name": "show_error",
+      "value": "Prikaži grešku"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Prikaži traku s upozorenjem o grešci"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Samo neki uređaji mogu 2K/4K video zapise reproducirati"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Prikaži veće režime"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Prikaži savjet prilikom pritiska na pozadinu ili iskačuće dugme u videu \"Detalji:\""
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Prikaži savjet \"Drži za dodavanje u red\""
+    },
+    {
+      "name": "show_info",
+      "value": "Prikažite informaciju"
+    },
+    {
+      "name": "show_less",
+      "value": "Prikaži manje"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Prikaži curenje memorije"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Isključite da bi ste sakrili meta-informacijske kutije sa dodatnim informacijama o praviocu prijenosa, sadržaju prijenosa ili zahtjevu za pretraživanje"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Prikažite meta-informaciju"
+    },
+    {
+      "name": "show_more",
+      "value": "Prikaži više"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Pokažite 'Sljedeće' i 'Slične' video zapise"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Originalni tekstovi iz usluga bit će vidljivi u stavkama toka"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Prikaži originalno vrijeme prije stavki"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Prikažite postavku da biste video preko KODI medijskog centra video pokrenuli"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Prikažite postavku \"Pokreni sa KODI-jem\""
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Odaberite prijedloge koje želite prikazati prilikom pretrage"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Prijedlozi za pretragu"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Koristite sličicu i za pozadinu zaključanog ekrana i za obavještenja"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Prikaži sličicu"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s je odbio dati podatke, tražeći prijavu kako bi potvrdio da podnosilac zahtjeva nije bot.\n\nVašu IP adresu je možda privremeno zabranio %1$s, možete pričekati neko vrijeme ili preći na drugu IP adresu (na primjer uključivanjem/isključivanjem VPN-a ili prelaskom s WiFi-ja na mobilne podatke)."
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Premotavanje unaprijed tokom tišine"
+    },
+    {
+      "name": "songs",
+      "value": "Pjesme"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Žao mi je, to se nije trebalo desiti."
+    },
+    {
+      "name": "sort",
+      "value": "Sortiraj"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Ovo je pjesma na SoundCloud Go+ platformi, barem u vašoj zemlji, tako da je NewPipe ne može strimovati ili preuzeti."
+    },
+    {
+      "name": "start",
+      "value": "Početak"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Kako bismo se pridržavali Opće uredbe o zaštiti podataka (GDPR), ovim putem skrećemo vašu pažnju na politiku privatnosti kompanije NewPipe. Molimo vas da je pažljivo pročitate.\nMorate je prihvatiti da biste nam poslali izvještaj o grešci."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Započni preuzimanja"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Počni reprodukciju u pozadini"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Počnite igrati u iskačućem prozoru"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Nemojte pokretati video zapise u mini-pokretaču, već direktno pređite na režim cijelog ekrana, ako je automatska rotacija zaključana. I dalje možete pristupiti mini-pokretaču pri izlasku iz cijelog ekrana"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Pokrenite glavni pokretač preko cijelog ekrana"
+    },
+    {
+      "name": "stop",
+      "value": "Zaustavi"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Strimovi koje program za preuzimanje još ne podržava nisu prikazani"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Obavještenja o novim tokovima za pretplatnike"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Novi tokovi"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Učestalost provjere"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Potrebna mrežna veza"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Pratite"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "U pratnji"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Broj pretplatnika nije dostupan"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Nije moguće promijeniti pratnju"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Nije moguće ažurirati pratnju"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Nije moguće izvesti pretplate"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Nije moguće uvesti pretplate"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Pritisnite \"Gotovo\" kada riješite problem"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Prebaci na pozadinu"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Prebaci na glavni"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Prebaci na skočni prozor"
+    },
+    {
+      "name": "systems_language",
+      "value": "Zadano sistemsko"
+    },
+    {
+      "name": "tab_about",
+      "value": "O aplikaciji i pitanja"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Obilježeni Popisi"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Plejliste"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Izaberite Podprozor"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Dozvole"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Pratnje"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Tabletni način rada"
+    },
+    {
+      "name": "theme_title",
+      "value": "Tema"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Keširane slike su izbrisane"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "O NewPipe-u"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Historija"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Red za reprodukciju"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA izazov"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Posljednje igrano"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Licence trećih strana"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Najigranije"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Prikaži/Uključi sve"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Prikaz preko cijelog ekrana"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Uključi/isključi orijentaciju ekrana"
+    },
+    {
+      "name": "top_50",
+      "value": "Top 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Snimke"
+    },
+    {
+      "name": "trending",
+      "value": "U trendu"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Trendovi u igrama"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Popularni filmovi i serije"
+    },
+    {
+      "name": "trending_music",
+      "value": "Popularna muzika"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Trendovi podcasti"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Ukloni oznaku"
+    },
+    {
+      "name": "undo",
+      "value": "Poništi"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Otkačite (može uzrokovati distorziju)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Nepoznato"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Nepoznato]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Nepoznati format"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Nepoznat kvalitet"
+    },
+    {
+      "name": "unmute",
+      "value": "Uključi zvuk"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Poništi trajnu sličicu"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Otkažite pratnju"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "Ovaj sadržaj nije dostupan za trenutno odabranu zemlju sadržaja.\n\nPromijenite svoj odabir u \"Postavke > Sadržaj > Zadana zemlja sadržaja\"."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Nepodržani URL"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "URL nije prepoznat. Otvoriti s drugom aplikacijom?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Prikaži obavještenje za podsticanje ažuriranja aplikacije kada je dostupna nova verzija"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Nadogradnje"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Objavljeno na %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Omogućite ovu opciju ako imate problema s inicijalizacijom dekodera, koja se vraća na dekodere nižeg prioriteta ako inicijalizacija primarnih dekodera ne uspije. Ovo može rezultirati lošijim performansama reprodukcije nego kada se koriste primarni dekoderi"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Koristite AVPlayer-ovu rezervnu funkciju dekodera"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Koristite eksterni audio pokretač"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Uklanja zvuk u nekim režimima"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Koristite vanjski video pokretač"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Neprecizno premotavanje dozvoljava pokretaču brže premotavanje s gorom preciznošću. Premotavanje za 5, 15 ili 25 sekundi ne radi s ovim"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Koristite brzo neprecizno premotavanje"
+    },
+    {
+      "name": "users",
+      "value": "Korisnici"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Napisao %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Video plejer"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Nisu pronađeni video tokovi"
+    },
+    {
+      "name": "videos_string",
+      "value": "Videozapisi"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Pogledajte na GitHubu"
+    },
+    {
+      "name": "volume",
+      "value": "Volumen"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Historija gledanja je izbrisana"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Pozicije reprodukcije su izbrisane"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Posjetite web stranicu NewPipe za više informacija i novosti."
+    },
+    {
+      "name": "website_title",
+      "value": "Web stranica"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Info:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Šta se dogodilo:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Samo na Wi-Fi mreži"
+    },
+    {
+      "name": "yes",
+      "value": "Da"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Sada ste pretplaćeni na ovaj kanal"
+    },
+    {
+      "name": "your_comment",
+      "value": "Vaš komentar (na engleskom):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Ovaj video je dostupan samo članovima YouTube Music Premium-a, tako da ga NewPipe ne može strimovati ili preuzeti."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "HTTP greška 403 primljena od servera tokom reprodukcije, vjerovatno uzrokovana zabranom IP adrese ili problemima s deobfuskacijom URL-a za tokove"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube nudi \"Ograničeni način rada\" koji skriva potencijalno sadržaj za odrasle"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Uključite \"Ograničeni način rada\" na YouTubeu"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

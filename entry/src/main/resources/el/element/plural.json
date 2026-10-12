@@ -1,0 +1,225 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ημέρα"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ημέρες"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%1$s λήψη διαγράφηκε"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s λήψεις διαγράφηκαν"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Η λήψη ολοκληρώθηκε"
+        },
+        {
+          "quantity": "other",
+          "value": "%s λήψεις ολοκληρώθηκαν"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Εξαγωγή %d συνδρομής…"
+        },
+        {
+          "quantity": "other",
+          "value": "Εξαγωγή %d συνδρομών…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d επιλέχθηκε"
+        },
+        {
+          "quantity": "other",
+          "value": "%d επιλέχθηκαν"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ώρα"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ώρες"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Εισαγωγή %d συνδρομής…"
+        },
+        {
+          "quantity": "other",
+          "value": "Εισαγωγή %d συνδρομών…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ακροατής"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ακροατές"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Φόρτωση %d συνδρομής…"
+        },
+        {
+          "quantity": "other",
+          "value": "Φόρτωση %d συνδρομών…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d λεπτό"
+        },
+        {
+          "quantity": "other",
+          "value": "%d λεπτά"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s νέα ροή"
+        },
+        {
+          "quantity": "other",
+          "value": "%s νέες ροές"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s απάντηση"
+        },
+        {
+          "quantity": "other",
+          "value": "%s απαντήσεις"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d δευτερόλεπτο"
+        },
+        {
+          "quantity": "other",
+          "value": "%d δευτερόλεπτα"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s συνδρομητής"
+        },
+        {
+          "quantity": "other",
+          "value": "%s συνδρομητές"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s βίντεο"
+        },
+        {
+          "quantity": "other",
+          "value": "%s βίντεο(πολλά)"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s προβολή"
+        },
+        {
+          "quantity": "other",
+          "value": "%s προβολές"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s παρακολουθεί"
+        },
+        {
+          "quantity": "other",
+          "value": "%s παρακολουθούν"
+        }
+      ]
+    }
+  ]
+}

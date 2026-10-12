@@ -1,0 +1,380 @@
+{
+  "string": [
+    {
+      "name": "action_history",
+      "value": "ઇતિહાસ"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "આપોઆપ કતારબદ્ધતા"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "આપમેળે ચલાવો"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "કાળું"
+    },
+    {
+      "name": "cancel",
+      "value": "રદ કરો"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "ચેનલ અનસબ્સ્ક્રાઇબ કર્યું"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "માં ઉમેરો"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "પૃષ્ઠભૂમિ"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "સ્ટ્રીમ ફાઇલ ડાઉનલોડ કરો"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "પોપઅપ"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "પ્લેયરને ક્રેશ કરો"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "અંધારિયું"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "ડિફોલ્ટ ઓડિયો ફોર્મેટ"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "ડિફોલ્ટ પોપઅપ રીઝોલ્યુશન"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "ડિફોલ્ટ રીઝોલ્યુશન"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "ડિફોલ્ટ વિડિઓ ફોર્મેટ"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "શું તમારો મતલબ %1$s છે?"
+    },
+    {
+      "name": "download",
+      "value": "ડાઉનલોડ કરો"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "ડાઉનલોડ કરો"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "ઓડિયો ફાઇલો માટે ડાઉનલોડ ફોલ્ડર પસંદ કરો"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "ડાઉનલોડ કરેલી ઓડિયો ફાઇલો અહીં સંગ્રહિત છે"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "ઓડિયો ડાઉનલોડ ફોલ્ડર"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "વિડિઓ ફાઇલો માટે ડાઉનલોડ ફોલ્ડર પસંદ કરો"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "ડાઉનલોડ કરેલી વિડિઓ ફાઇલો અહીં સંગ્રહિત છે"
+    },
+    {
+      "name": "download_path_title",
+      "value": "વિડિઓ ડાઉનલોડ ફોલ્ડર"
+    },
+    {
+      "name": "downloads",
+      "value": "ડાઉનલોડ્સ"
+    },
+    {
+      "name": "downloads_title",
+      "value": "ડાઉનલોડ્સ"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "નવું શું છે"
+    },
+    {
+      "name": "install",
+      "value": "સ્થાપિત કરો"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "અનુપસ્થિત Kore અનુપ્રયોગ સ્થાપિત કરીએ?"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "પ્રકાશ"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "પ્રારંભ કરવા માટે વિપુલ - દર્શક કાચને ટેપ કરો."
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "જોયેલું તરીકે ચિહ્નિત કરો"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "રાત્રિ થીમ"
+    },
+    {
+      "name": "no",
+      "value": "ના"
+    },
+    {
+      "name": "no_player_found",
+      "value": "કોઈ સ્ટ્રીમ પ્લેયર મળ્યો નથી. વીએલસી સ્થાપિત કરીએ?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "કોઈ સ્ટ્રીમ પ્લેયર મળ્યો નથી (તમે તેને ચલાવવા માટે VLC ઇન્સ્ટોલ કરી શકો છો)."
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "પ્રથમ ક્રિયા બટન"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "બીજું ક્રિયા બટન"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "ત્રીજી ક્રિયા બટન"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "ચોથું ક્રિયા બટન"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "પાંચમો ક્રિયા બટન"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "બફરિંગ"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "કાંઈ નહીં"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "પુનરાવર્તન કરો"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "શફલ"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "તમે કોમ્પેક્ટ સૂચનામાં બતાવવા માટે ઓછામાં ઓછી ત્રણ ક્રિયાઓ પસંદ કરી શકો છો!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "નીચેની દરેક સૂચના ક્રિયાને તેના પર ટેપ કરીને સંપાદિત કરો. જમણી બાજુના ચેકબોક્સેસનો ઉપયોગ કરીને કોમ્પેક્ટ સૂચનામાં બતાવવા માટે તેમાંથી ત્રણ સુધી પસંદ કરો."
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "થંબનેલના મુખ્ય રંગ અનુસાર, Android ને સૂચનાના રંગને કસ્ટમાઇઝ કરો (નોંધો કે આ બધા ઉપકરણો પર ઉપલબ્ધ નથી)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "સૂચનાને રંગીન બનાવો"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "સૂચનામાં બતાવેલ વિડિઓ થંબનેલને ૧૬:૯ થી ૧:૧ સાપેક્ષ ગુણોત્તરમાં કાપો"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "થંબનેલને ૧:૧ સાપેક્ષ ગુણોત્તરમાં કાપો"
+    },
+    {
+      "name": "ok",
+      "value": "ઠીક છે"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "બ્રાઉઝરમાં ખોલો"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "પોપઅપ મોડમાં ખોલો"
+    },
+    {
+      "name": "open_with",
+      "value": "સાથે ખોલો"
+    },
+    {
+      "name": "play_audio",
+      "value": "ઓડિયો"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "કોટિથી ચલાવો"
+    },
+    {
+      "name": "search",
+      "value": "શોધો"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "%s માટે પરિણામો બતાવી રહ્યું છે"
+    },
+    {
+      "name": "settings",
+      "value": "સેટિંગ્સ"
+    },
+    {
+      "name": "share",
+      "value": "શેર કરો"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "સાથે શેર કરો"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "ફક્ત થોડા ઉપકરણો 2K / 4K વિડિઓઝ ચલાવી શકે છે"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "ઉચ્ચ રીઝોલ્યુશન બતાવો"
+    },
+    {
+      "name": "show_info",
+      "value": "માહિતી બતાવો"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "કોડિ મીડિયા સેન્ટર દ્વારા વિડિઓ ચલાવવાનો વિકલ્પ દર્શાવો"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "કોડિથી ચલાવવાનો વિકલ્પ દેખાડો"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "સબ્સ્ક્રાઇબ કરો"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "સબ્સ્ક્રાઇબ કર્યું"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "સબ્સ્ક્રિપ્શન બદલી શકાયું નહીં"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "સબ્સ્ક્રિપ્શન અપડેટ કરી શકાયું નથી"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "બુકમાર્ક કરેલ પ્લેલિસ્ટ્સ"
+    },
+    {
+      "name": "tab_choose",
+      "value": "ટેબ પસંદ કરો"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "લવાજમઓ"
+    },
+    {
+      "name": "theme_title",
+      "value": "થીમ"
+    },
+    {
+      "name": "trending",
+      "value": "વલણમાંનાં"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "અનસબ્સ્ક્રાઇબ કરો"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "%1$s પર પ્રકાશિત"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "બાહ્ય ઓડિયો પ્લેયરનો ઉપયોગ કરો"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "કેટલાક ઠરાવો પર ઓડિયો દૂર કરે છે"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "બાહ્ય વિડિઓ પ્લેયરનો ઉપયોગ કરો"
+    },
+    {
+      "name": "yes",
+      "value": "હા"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

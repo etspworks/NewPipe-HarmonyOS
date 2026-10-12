@@ -1,0 +1,2312 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Aqbal"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Akoonka waa lajoojiyay"
+    },
+    {
+      "name": "action_history",
+      "value": "Wixii Hore"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Ku dar xul"
+    },
+    {
+      "name": "albums",
+      "value": "Albumo"
+    },
+    {
+      "name": "all",
+      "value": "Dhammaan"
+    },
+    {
+      "name": "always",
+      "value": "Marwalba"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Waydii marwalba"
+    },
+    {
+      "name": "app_description",
+      "value": "Daawashada fudud ee Libre ee HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Luuqada Appka"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe waa copyleft software libre: Waad isticmaali kartaa, baran kartaa, wadaagi kartaa, oo waad hagaajin kartaa markaad doonto. Gaar ahaan waad dib u qaybin kartaa oo/ama wax ka beddeli kartaa iyada oo la raacayo shuruudaha GNU General Public License sida ay daabacday Mu'asasada Software-ka Xorta ah, nooca 3 ee shatiga, ama (doorashadaada) nooc kasta oo dambe."
+    },
+    {
+      "name": "app_license_title",
+      "value": "Shatiga NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Appka/UI ga ayaa khalkhalay"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Nooc cusub oo NewPipe ah ayaa diyaar ah!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Ogaysiisyada nooca cusub ee NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Ogaysiiska Cusbonaysiinta appka"
+    },
+    {
+      "name": "artists",
+      "value": "Fanaan"
+    },
+    {
+      "name": "audio",
+      "value": "Dhagaysi"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Wax la dhagaysto lama helin"
+    },
+    {
+      "name": "auto",
+      "value": "ismaamulaya"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "ismaamulaya (raacaya aallada)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Sii wad dhamaystirka (mida aan isku celcelinin) hormada shidan ayadoo lagu sii darayo waxyaabo la xidhiidha shayga daaran"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Ku xiji hormada shayga xiga"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Hormada isutalisa"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Daaridda si iskeed ah u bilow — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "isdaarida"
+    },
+    {
+      "name": "background_player",
+      "value": "Gadaal ku daare"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Ka daaraya xaga dambe"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Tayada ugu fiican"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Madow"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Bog Madhan"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Calaamadso Xulka"
+    },
+    {
+      "name": "cancel",
+      "value": "Ka noqo"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "isa-sameeyay"
+    },
+    {
+      "name": "caption_none",
+      "value": "Qoraal-hooseed la'aan"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Wax ka baddal cabirka xarfaha qoraal-hooseedka iyo midabkooda xaga dambe. Appka waa in dib loo soo bilaabaa si ay u hirgasho"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Qoraal-hooseed"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Waxaa sameeyay %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Boga Kanaalka"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Kanaalka waad iskajoojisay"
+    },
+    {
+      "name": "channels",
+      "value": "Kanaalo"
+    },
+    {
+      "name": "chapters",
+      "value": "Cutubyada"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Xarfaha iyo godadka"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Xarfaha gaarka ah kuwa ugu badan"
+    },
+    {
+      "name": "checksum",
+      "value": "Xaqiijiyaha"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Dooro qayb"
+    },
+    {
+      "name": "clear",
+      "value": "Nadiifi"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Nadiifi kaydka uu NewPipe kaydiyo markaad xaliso reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Nadiifi kaydka reCAPTCHA"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Nadiifi dajinta"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Wuxuu tirtiraa meelihii ay kuu marayeen waxyaabaha aad furtay oo dhan"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Tirtir meelaha ay marayaan"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Hormada daareha hadda wax shidaya waa la baddali doonaa"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Kala baddalka daareha waxay badali kartaa hormada sidaas darteed waydii in la xaqiijiyo intaan hormada la tirtirin"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Weydii xaqiijin ka hor intaadan tirtirin saf-ka"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Wuxuu tirtiraa kaydka wixii lagu qoray xaga raadinta"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Tirtir wixii la raadiyay"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Wuxuu tirtiraa kaydka wixii la daaray iyo meelihii ay kuu marayeen"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Nadiifi kaydka wixii ladaawaday"
+    },
+    {
+      "name": "close",
+      "value": "Ka bax"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Fallooyinka waa laxidhay"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Faallooyin"
+    },
+    {
+      "name": "conferences",
+      "value": "Shirar"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Ma waxaad rabtaa inaad nadiifiso kaydka wixii lasoo dajiyay (tani ma tirtirto wixii lasoo dajiyay) mise inaad saarto dhammaan wixii lasoo dajiyay?"
+    },
+    {
+      "name": "content",
+      "value": "Luuqada & Fadhiga Kale"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Luuqada muuqaalka/dhagaysiga"
+    },
+    {
+      "name": "content_not_available",
+      "value": "shaygan lama heli karo"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Shaygan wali NewPipe ma taageerin.\n\n\n\nMustaqbalka in la taageero ayaa la rajaynayaa."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Hadday jiraan fikrado ku saabsan; turjumaadda, isbeddellada naqshadeynta, nadiifinta koodhka, ama isbeddellada koodhka culus ee dhabta ah - caawimaad ayaa had iyo jeer la soo dhaweynayaa. Inta badan ee la sameeyo ayaa ka sii fiican!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Ka qayb qaado"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Ku Dar"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Xaga Dambe"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Daji midka socda"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Daaqad"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Koobiyee warka oo diyaarsan"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s sameeyay %2$s ayagoo raacaya %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Digniin: Lama soowada galin karo faylashoo dhan."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Lama soo wada kicin karo galalkoo dhan"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Lama soo kicin karo tusmada dajinta"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Khalkhali appka"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Jabi Daaraha"
+    },
+    {
+      "name": "create",
+      "value": "Samee"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Xul Cusub"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Mugdi"
+    },
+    {
+      "name": "decline",
+      "value": "Diid"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Nooca Maqaalka"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Wadanka muuqaalada/dhagaysiga"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Bandhigga siduu ahaa"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Tayada muuqaalka daaqada"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Tayada muuqaalka"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Nooca muuqaalka"
+    },
+    {
+      "name": "delete",
+      "value": "Tirtir"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Saar dajinta"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Ma rabtaa inaad ka saarto shaygan kaydka wixii la raadiyay?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Tirtir dhamaan meelaha ay kuu marayeen?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Saar xulkan?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Tirtir dhamaan wixii la raadiyay?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Tirtir gabi ahaan kaydka wixii ladaawaday?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Xidh caalamadinta qoraalka"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Fur caalamadinta qoraalka"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Hadda waad dooran kartaa qoraalka ku dhexjira faahfaahinta. Ogow markaad caalamdinayso qoraalka boggu wuu boodboodi karaa tixraacyadana waxay noqon karaan kuwo aan lagu dhufan karin."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Faahfaahin"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "intaan ka helin"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Farta ku jiid si aad ukala hormariso"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Kahelay soosaaraha"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "inta ka heshay"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Waxa u saaran kanaalka"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Daar muuqaalka, intuu socdo:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Sawirka u saaran soosaareha"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Ma waxaad ka waday \"%1$s\"?"
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Iska xidh kala-leexinta muuqaalada/dhagaysiga hadaad lakulanto shaashad madow ama muuqaalka oo isistaaga"
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Xidh kala-leexinta"
+    },
+    {
+      "name": "disabled",
+      "value": "Xidhan"
+    },
+    {
+      "name": "dismiss",
+      "value": "Iska dhaaf"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe waxaa sameeyay mutadawiciin waqtigooda firaaqada ah ku bixinaya iyagoo kuu keenaya khibradda isticmaalaha ugu fiican. U celi si aad uga caawiso horumariyayaasha inay NewPipe ka dhigaan mid ka sii fiican inta ay ku raaxaysanayaan koob qaxwo ah."
+    },
+    {
+      "name": "donation_title",
+      "value": "Deeq"
+    },
+    {
+      "name": "done",
+      "value": "La dhammeeyay"
+    },
+    {
+      "name": "dont_show",
+      "value": "Hatusin"
+    },
+    {
+      "name": "download",
+      "value": "Daji"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Waxaa jirta dajin hormada ku jirta oo magacan leh"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Waxaa jirta dajin socota oo magacan leh"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Daji"
+    },
+    {
+      "name": "download_failed",
+      "value": "Dajintii ma guulaysan"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Dajintii way bilaabatay"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Dooro Khaanada soo dejinta ee faylasha maqalka ah"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Dhagaysiyada lasoo dajiyay halkan ayaa lagu kaydiyey"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Khaanada dajinta dhagaysiga"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Dooro khaanada Muuqaallada lagu soo dejinayo"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Muuqaalada lasoo dajiyo halkan ayaa lagu kaydiyey"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Khaanada dajinta muuqaalada"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Ku dajinta kaydka dibadda (mimoriga) suurtogal ma aha. Dib u fadhiisi khaanada wax lagu dajiyo?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Kaydka dibadda lama heli karo"
+    },
+    {
+      "name": "downloads",
+      "value": "Dajinta"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Shay walba meesha lagu kaydin doono ayaa lagu waydiin.\n\nSoo fur maamulaha faylasha aallada (SAF) hadaad rabto inaad ku dajiso mimoriga"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Dajin walba meeshii lagu kaydin lahaa ayaa lagu waydiin"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Waydii meesha lagu dajinayo"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "'Storage Access Framework' loosoo gaabiyo SAF wuxuu suurto galiyaa in mimoriga wax lagu dajiyo"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Laga bilaabo Android 10 kaliya waxaa la isticmaali 'SAF'"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Maamulaha faylasha ee aallada (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Dajinta"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Xidh Khaanada"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Furo adeega, hada waxaa dooran:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Fur Khaanada"
+    },
+    {
+      "name": "duration_live",
+      "value": "Toos"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "meel madhan"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Ku khasab warinta ka reebitaanada aan la fulin karin ee 'Rx' ka ee dibada qayb ama wakhtiga hawsha kadib marka la iska dhaafo"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Warinta khaladyada hore"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Dabagalka cillada kaydka waxay sababi kartaa inuu app-ku istaago marka 'heap dump' la samaynayo"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Kasii wad meeshii hore"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Sii wad daarrida"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Tus meelaha waxa daaran meeshuu marayo tilmaamaya ee xaga liistada"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Meelaha ay marayeen (xaga liistada)"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Xadid hormada dajinta"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Hal soodajin ayaa markiiba socon"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Ku kaydi wixii la raadiyay aallada"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Wixii laraadiyay"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "La soco [oo kaydi] muuqaalada ladaawaday"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Wixii la daawaday"
+    },
+    {
+      "name": "enqueue",
+      "value": "Hormada gali"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Hormo gali"
+    },
+    {
+      "name": "enqueued",
+      "value": "La horay"
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Kuma xidhmi karo server-ka"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Faahfaahin:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Dajintan lama hagaajin karo"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Faylka lama samayn karo"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Martigaliyahu wax masoo dirin"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Lama helin"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Martigaliyuhu ma aqbalo dajinta qaybaha badan leh, iskula day @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Meel banaan oo wax lagu kaydiyo aalaada kuma hadhin"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Khalad ayaa ka dhacay: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "khaanadii la rabay lama samayn karo"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Habayntii way guuldareystay"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe waxaa la xidhay asagoo fayl ka shaqaynaya"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Hawshii socotay way kala kacday, sababtoo ah shayga waa lala saaray"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Khaladkan email ahaan uga war bixi"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Fadlan hubi in arin cilladdan ka hadlaya horay loo wariyay. Marka wax horay u jiray la wariyo markale, wakhti ayaad naga qaadaysaa wakhtigaas oo aan cilada ku sixi la hayn."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Ku wari xaga GitHub-ka"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Warcelin khalad"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Wari"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Waan ka xunahay, waxbaa khaldamay."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Lama samayn karo iskuxidh amni ah"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Ku xidhidii ayaa wakhtigii ka dhacay"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Faallooyinka lama soo kicin karo"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Lama heli karo martigaliyaha"
+    },
+    {
+      "name": "events",
+      "value": "Bandhigyo"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "La Gudbiyay"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Dibadda u gudbi kaydka wixii la daawaday, rukunka, xulalka iyo fadhiga"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Gudbi xog diyaarsan"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Gudbinaya…"
+    },
+    {
+      "name": "export_to",
+      "value": "U gudbi"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Daareyaasha dibada ah linkiyda noocan ah ma furaan"
+    },
+    {
+      "name": "faq",
+      "value": "Ka eeg bogga internetka"
+    },
+    {
+      "name": "faq_description",
+      "value": "Haddii aad dhibaato kala kulanto isticmaalka abka, hubi inaad hubiso jawaabahan su'aalaha la yaqaan!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Su'aalaha Badiya La Weydiiyo"
+    },
+    {
+      "name": "featured",
+      "value": "Laguu sooxulay"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Mid Cusub"
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Ma rabtaa inaad kooxdan saarto?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Magac kooxeed madhan"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Wax rukun ah lama dooran"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Dooro rukummada"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Rukummada aan kooxaysnayn kaliya"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Kooxaha kanaalka"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Khalad ayaa ka dhacay sookicintii"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Lama soo kicin karo bandhigga: '%s'."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Nidaamka dagdaga ah faahfaahin dheeraad ah uma hayo shaygan."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Akoonka soosaaraha waa la joojiyay.\n\nNewPipe ma awoodi doono inuu soo kiciyo bandhiggan mustaqbalka.\n\nMa iska joojin rabtaa rukunka kanaalkan?"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Soo kicinaya bandhigga…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "La cusboonaysiiyay: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Habaynaya bandhigga…"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Lama soo kicinin: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Marwalba cusboonaysii"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Wakhtiga cusboonaysiinta udambaysa ee bandhigga, ka hor intaan rukunka laga sooqaadin mid duug ah — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Xadka cusboonaysiinta"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Xidh qaabka dagdaga"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Fur qaabka dagdaga ah"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Soo kicinta bandhiggu aad miyuu u daahayaa? Haday saas tahay, iskuday furashada qaabka dagdaga ah (waxaad ka baddali kartaa xaga fadhiga ama adoo riixaya batoonka hoose).\n\nNewPipe wuxuu leeyahay laba qaab oo uu bandhiga usoo furo:\n• Soo kicinta dhamaan rukunka kanaalka, taasoo ah mid culus laakiin dhamaystiran.\n• Inuu isticmaalo adeeg hawshan loogu talagalay, taasoo ah mid dagdaga ah laakiin badanaa aan dhamaystirnayn.\n\nFarqiga labadan u dhexeeya ayaa ah in midka dagdaga ah uu la'yahay xogta shayga qaar, sida intuu shaygu socdo ama nooca (mana kala garan karo muuqaalada tooska ah iyo kuwa caadiga ah) wuxuuna sidoo kale soodhigi karaa waxyaabo yar.\n\nYouTube waa tusaale adeegyada ku bixiya qaabka dagdaga ah xagooda bandhiga RSS -ka.\n\nSidaa darteed dookhu wuxuu ku xidhanyahay kolba kaad rabto: adeeg dagdag ah ama wax saxan oo dhamaystiran."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Laga heli karo adeegyada qaar, inta badana wuu ka dagdag badanyahay laakiin wuu ka natiijooyin yar yahay inta badana xogtu ma dhamaystirna (tusaale intuu shaygu soconayo ma tusayo, nooca shayga sidoo kale, mana sheegayo inuu muuqaalku toos yahay)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Qaabka dagdaga ah"
+    },
+    {
+      "name": "file",
+      "value": "Kaydka"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Waa la saaray"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Magaca shayga ma madhnaan karo"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Maxaa Cusub (Rukunka)"
+    },
+    {
+      "name": "general_error",
+      "value": "Khalad"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Usamee magac gaar ah"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Shaygan wadanka aad joogto looma heli karo."
+    },
+    {
+      "name": "give_back",
+      "value": "Soo celi"
+    },
+    {
+      "name": "grid",
+      "value": "Shax"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Ogaysiisyada heerka uu marayo baddalida muuqaalka"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Ogaysiiska baddalida Muuqaalka"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Tayo sare (ka wayn)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Xaji si loo horo"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Lasoogaliyay"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Wuxuu baddalaa kaydka waxaad daawatay, rukunka, xulalka iyo (hadaad doorato) fadhiga"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Soo gali xog kaydsan"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Soo gali fayl"
+    },
+    {
+      "name": "import_from",
+      "value": "Kasoo gali"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Hawlgalkan wuxuu noqon karaa mid khad badan isticmaala.\n\n\n\nMa rabtaa inaad sii wado?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Soo galinaya…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Inaad sidoo kale fadhiga soo galiso ma rabtaa?"
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Soogali meesha SoundCloud adoo ku qoraya tixraaca ama ID-gaaga:\n\n\n\n1. Fur nidaamka \"Desktop mode\" browser-kaaga dhexdiisa (sababtoo ah websitekan moobilada kuma shaqaynayo)\n\n2. Booqo tixraacan %1$s\n\n3. Gali akoonkaaga marka lagu waydiiyo \n\n4. Koobiyee tixraaca boga ee lagugu xawilay."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "ID-gaaga, soundcloud.com/yourid"
+    },
+    {
+      "name": "import_title",
+      "value": "Soo gali"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Soo gali rukumada YouTube-ka:\n\n\n\n1. Booqo tixraacan: %1$s\n\n2. Gali akoonkaaga marka lagu waydiiyo\n\n3. Kusii dhufo \"Xogtoo dhan ku dar\", kadibna \"Ha calaamdin dhamaan\" kadibna dooro kaliya \"Rukunka\" oo \"OK\" dheh\n\n4. Ku dhufo \"Talaabada xigta\" kadibna \"Samee gudbin\"\n\n5. Ku dhufo batoonka \"Daji\" kadib markuu soo muuqdo\n\n6. Zip-ka lasoo dajiyay kala furfur faylka .jason (badanaa wuxuu hoos tagaa \" \"YouTube and YouTube Music/subscriptions/subscriptions.json\") kadibna xagan soo gali."
+    },
+    {
+      "name": "infinite_videos",
+      "value": "muuqaalo ∞"
+    },
+    {
+      "name": "info_labels",
+      "value": "Shayga:\nCodsiga:\nLuuqada Shayga:\nWadanka Shayga:\nLuuqada Appka:\nAdeega:\nWakhtiga oo GMT ah:\nXidhmada:\nTirsiga Appka:\nTirsiga Nooca Barnaamijka:"
+    },
+    {
+      "name": "install",
+      "value": "Ku shub"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "khaanadan ma jirto"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Shaygani ma jiro ama ogolaansho looma haysto in wax laga baddalo ama la furo"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Shaygan/tixraaca shayga lama heli karo"
+    },
+    {
+      "name": "just_once",
+      "value": "Markan uun"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Bogga Bandhigga"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Soo deji appka maqan ee Kore?"
+    },
+    {
+      "name": "license",
+      "value": "Waxaa sameeyay %1$s iyadoo hoos timaadda %2$s"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Iftiin"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Ha xadidin"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Xadid tayada (khadka SIM-ka)"
+    },
+    {
+      "name": "list",
+      "value": "Si taxan"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Qaabka soobandhigga"
+    },
+    {
+      "name": "local",
+      "value": "Gudaha"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Soojeedinada raadinta gudaha"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Tayo hoose (ka yar)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Ku dhufo raadinta si aad wax uraadiso."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Bogga guud"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Daaqadaha lasoobandhigo bogga guud"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Waan daawaday"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Tirada dib iskugu dayida sixida dajinta intaan la iska daynin"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Xadka dib-isugudayida"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Xadidka da'da"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Waa la tirtiray kaydkii K/G ahaa fahfaahinada yaryar"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Tirtir waxyaabaha K/G ah ee boga website-ka"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Tirtir faahfaahinada yaryar"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Qaybta"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Martigaliye"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Luuqada"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Laysin"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Gaar-ahaanshaha dhinaca muuqashada iyo fudayka isticmaalka ee shayga daaran"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Gudaha"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Gaar ah"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Lawada arko"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Aan liistada kujirin"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Taageero"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Shaambadaha"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "U gudbi xaga dambe"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Waxba"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "U gudbi xaga daaqada"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Waxa la samayn doono marka app kale loo gudbayo ayadoo muuqaal caadi u daaran yahay — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Yaree marka app kale loo gudbo"
+    },
+    {
+      "name": "missing_file",
+      "value": "Shaygan waa la guuriyay ama waa la tirtiray"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Dhamaystirmay"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Socda"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ muuqaal"
+    },
+    {
+      "name": "most_liked",
+      "value": "inta loogu jecelyahay"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Xisaabinaya baddalka"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Dhakada ayaa lagu qabtay"
+    },
+    {
+      "name": "msg_error",
+      "value": "Khalad"
+    },
+    {
+      "name": "msg_name",
+      "value": "Magaca shayga"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Ogolaanshahan ayaa loo baahan yahay si\n\nloogu furo qaabka daaqada"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe wuu dajinayaa"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Faahfaahinta kusii dhufo"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Qaybaha"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Fadlan sug…"
+    },
+    {
+      "name": "mute",
+      "value": "Aamusii"
+    },
+    {
+      "name": "name",
+      "value": "Magaca"
+    },
+    {
+      "name": "navigate_back",
+      "value": "Ka Noqo"
+    },
+    {
+      "name": "network_error",
+      "value": "khalad xaga khadka ah"
+    },
+    {
+      "name": "never",
+      "value": "Marna"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Cusub oo Shiddan"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Ayadooy ugu wacantahay xayiraad xaga AVPlayer-ka ah xadka dhaaf-dhaafinta waa %d ilbiriqsi"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Dooro nashqada habaynkii ee aad doorbiday — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Nashqada Habaynka"
+    },
+    {
+      "name": "no",
+      "value": "Maya"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Wax app ah oo kuugu jira mafuri karo midkan"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Fadlan khaanada wax lagu dajin doono hadhawto xaga fadhiga kasoo dooro"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Wax kanaal ah wali lama rukuman"
+    },
+    {
+      "name": "no_comments",
+      "value": "faallooyin ma jiraan"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Wali lama fadhiisin khaanadii dajinta, dooro khaanada wax lagu dajin doono hadda"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Cidna ma dhagaysanayso"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Cidna ma daawanayso"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Wax fura lama helin shaygan. Ku shubo VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Wax fura lama helin shaygan. (waxaad Ku shuban kartaa VLC si aad u furto)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Wax xul ah wali lama calaamadsanin"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Wax la dajiyo lama heli karo"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Dad rukuntay ma jiraan"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Shay ZIP ah oo sax ah majiro"
+    },
+    {
+      "name": "no_videos",
+      "value": "muuqaalo ma jiraan"
+    },
+    {
+      "name": "no_views",
+      "value": "Lama furin"
+    },
+    {
+      "name": "not_available",
+      "value": "Lama heli karo"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Batoonka koowaad"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Batoonka labaad"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Batoonka saddexaad"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Batoonka afraad"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Batoonka shanaad"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Soo Kicinaya"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Waxba"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Ku celi"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "isku qas"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Ugu badnaan waxad dooran kartaa sadex shay iney ka muuqdaan ogaysiiska yar!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Wax ka baddal hawsha ogaysiiska adigoo dushooda ku dhufanaya. Dooro ilaa sadex kamida si ay uga muuqdaan ogaysiiska yar adigoo saxaya santuuqa dhanka midig kaga yaala"
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Ogaysiisyada NewPipe markuu gadaal iyo xaga daaqada wax ka daarayo"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "Ogaysiisyada NewPipe"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Androidka hakuu baddalo midabka ogaysiiska galka waxa daaran asagoo kusalaynaya midabka galka shayga daaran (aalladahoo dhan looma wada heli karo nidaamkan)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Midabbee ogaysiiska"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "La ekaysii galka muuqaalka xaga ogaysiisyada ka muuqda cabirka 1:1 ayadoo laga soo baddalayo 16:9"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Galka la ekaysii cabirka 1:1"
+    },
+    {
+      "name": "off",
+      "value": "Xidhan"
+    },
+    {
+      "name": "ok",
+      "value": "Hagaag"
+    },
+    {
+      "name": "on",
+      "value": "Furan"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 shay ayaa la saaray."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Fur biraawsarka"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Ku fur qaabka daaqada"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Fur websiteka"
+    },
+    {
+      "name": "open_with",
+      "value": "Ku fur"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Tani waxay baddali fadhiga siduu kuu yahay hadda."
+    },
+    {
+      "name": "overwrite",
+      "value": "Ku badal"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "Faylka laguma baddali karo"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Shay horay loo soo dajiyay oo magacan leh ayaa jira"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Shay magacan leh ayaa horay ujiray"
+    },
+    {
+      "name": "paid_content",
+      "value": "Shaygan waxaa loo heli karaa kaliya xubnaha bixiyay lacag, sidaa darteed NewPipe laguma daawan/dagsan karo."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Lama furi karo website-ka"
+    },
+    {
+      "name": "pause",
+      "value": "Qabo"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Wada qabo dajinta"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Dhabqinta dajinta (khadka xadidan)"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Tani waxay muhiim tahay marka khadka la isticmaalayo midka SIM-ka loo baddalo ayadoo la qabanayo dajinta socota inkastooo soodajimaha qaar aan lajoojin karin"
+    },
+    {
+      "name": "paused",
+      "value": "la qabtay"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Qaybtan horay ayay ujirtay"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Lama ansixin karo qaybtan"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Gali tixraaca qaybta"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Kaliya waxaa la taageeraa tixraacyada HTTPS-ka ah"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Ku dar qayb"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Ka hel qaybaha aad jeceshahay %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Dooro qaybaha aad jeceshahay ee PeerTube-ka"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "Qaybaha PeerTube"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Hawshan waxaa diiday aalada"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "U ogolow appka inuu dul fuulo applicationada kale"
+    },
+    {
+      "name": "play_all",
+      "value": "Wada Daar"
+    },
+    {
+      "name": "play_audio",
+      "value": "Maqal"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Fadhiga Dhagaysiga"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Ka saar"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Faahfaahin"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Ku fur Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Dheelitirka codka"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Sidii hore kuceli"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Maamulista Xawaaraha"
+    },
+    {
+      "name": "playback_step",
+      "value": "Talaabo"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Teembada"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "kasoo kabanaya khaladkii xaga daareha kadhacay"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "shaygan lama daari karo"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "khalad xaga daareha ah oon la sixi karin ayaa dhacay"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "La xulay"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Xulka waa la sameeyay"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "isa-sameeyay (soosaare lama helin)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Boga xulka"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Galkii xulka waa la baddalay."
+    },
+    {
+      "name": "playlists",
+      "value": "Xul"
+    },
+    {
+      "name": "popup_player",
+      "value": "Daareha daaqada"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Ku daaraya daaqada"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Xusuusnow meeshii iyo cabirkii udambeeyay ee daaqada"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Xusuusnow fadhiga daaqada"
+    },
+    {
+      "name": "post_processing",
+      "value": "habaynaya"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Hawsha la doorbiday marka shay la furayo — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Hawsha 'fur' loo doorbiday"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Soo kicinaya shayga la codsaday"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Helaya xogta…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Gudbin hore"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "Mashruuca NewPipe sir dhawrkaaga aad ayuu u qiimeeyaa. Sidaas darteed, App-ku wax xogtaada ah ma uruuriyo fasax la'aan.\n\nSiyaasada sir-dhawrka NewPipe ayaa si faahfaahsan u sharaxda wixii xog ah ee la diro lana kaydiyo markaad cilad farsamo wariso."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Siyaasadda Arrimaha Khaaska ah ee NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "Shaygan waa khaas, sidaa darteed NewPipe laguma daawan karo lagumana dajin karo."
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Cabirka soodaarida udhexeeya"
+    },
+    {
+      "name": "queued",
+      "value": "la horay"
+    },
+    {
+      "name": "radio",
+      "value": "Raadye"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Liisanka akhri"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Akhri siyaasadda asturnaanta"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "Kaydkii reCAPTCHA waa la nadiifiyay"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "Tijaabada reCAPTCHA ayaa la codsaday"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Xalli"
+    },
+    {
+      "name": "recent",
+      "value": "Ugu Dambeeyay"
+    },
+    {
+      "name": "recently_added",
+      "value": "Dhawaan Lasoo Galiyay"
+    },
+    {
+      "name": "recovering",
+      "value": "kasoo kabanaya"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "La xidhiidha"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Soojeedinada raadinta banaanka"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Saar kuwa la daawaday"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Haa, sidoo kale ku dar muuqaalada qayb laga daawaday"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Saar muuqaalada la daawaday?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Muuqaalada la daawaday kahor iyo kadib markii xulka lagu daray waa la saari doonaa. \nMa hubtaa?"
+    },
+    {
+      "name": "rename",
+      "value": "Magaca ka baddal"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Magaca ka baddal"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Ku buuxi"
+    },
+    {
+      "name": "resize_fit",
+      "value": "La ekaysii"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Soo dhawee"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Dib ugu celi sidii hore"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Ma rabtaa inaad sidii hore kuceliso?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Muuqaalkan da'da qofka ayuu ku xidhanyahay.\n\n\n\nKasoo fur \"%1$s\" xaga fadhiga hadaad rabto inaad aragto."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Muuqaalkan da'da qofka ayuu ku xidhan yahay.\n\nAyadooy ugu wacantahay talaabooyin cusub oo YouTube uu ku qaaday muuqaalada da'da ku xidhan, NewPipe ma furi karo muuqaalkan."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Sii wad wixii daaraa marka la dhabqiyo kadib (tusaale marka wicitaan kusoo galo)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Sii wad daaridda"
+    },
+    {
+      "name": "retry",
+      "value": "ku celi"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Lama akhrin karo daaqadihii la kaydiyay, …isticmaalaya kuwii app-ku kusoo baxay"
+    },
+    {
+      "name": "search",
+      "value": "Raadi"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Wixii la raadiyay waa la tirtiray"
+    },
+    {
+      "name": "search_no_results",
+      "value": "natiijo lama helin"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Kutusaya natiijooyinka: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Raadi %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Raadi %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Wakhtiga horay udhaafinta/dibucelinta"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Tusmada dhaafdhaafinta"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Dooro kanaal"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Dooro Bandhig"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Dooro xul"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Hoos ayaad ka dooran kartaa nashqada habaynkii ee aad door-biday"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Ku fadhiisi galka xulka"
+    },
+    {
+      "name": "settings",
+      "value": "Fadhiga"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Nashqada"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Tirtir Xogta"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Cilad bixinta"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Dajinta"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Bandhigga"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Wixii Hore & kaydka K/G ah"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Dabeecada"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Daareha"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Cusboonaysiinta"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Muuqaalada & Dhagaysiga"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Xarafyada magaca shayga loo ogol yahay"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Xarfaha aan la taageerin waxaa lagu bdadali midkan"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Xarafka lagu baddalayo"
+    },
+    {
+      "name": "share",
+      "value": "La wadaag"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Ku La wadaag"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Soo bandhig waxyaabaha laga yaabo inaysa ku haboonayn caruurta sababtoo ah waxay ku xidhan yihiin da'da qofka (sida 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Tus waxyaabaha da'da ku xidhan"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Faahfaahinta kanaalka"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Xidh si aad uqariso faallooyinka"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Tus faallooyinka"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Xidh si aad u qariso faahfaahinta muuqaalka iyo xogaha dheeraadka ah"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Tus faahfaahinta"
+    },
+    {
+      "name": "show_error",
+      "value": "Tus khaladka"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Aalladaha qaar kaliya ayaa furi kara muuqaalada 2K/4K ga ah"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Tus tayooyinka sare"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Tus sharaxaada marka la riixayo batoonka xaga dambe ama midka daaqada ee ku yaala xaga \"Faahfaahinta:\" muuqaalka"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Tus sharaxaada \"Farta ku hay si aad iskugu darto\""
+    },
+    {
+      "name": "show_info",
+      "value": "Tus Faahfaahinta"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Tus ciladaha kaydka"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Halkan xidh si aad u qariso santuuqyada faahfaahinada yaryarka ah ee xogaha dheeraadka ah ee soosaaraha muuqaalka/dhagaysiga, waxa la daawanayo ama codsi raadin"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Faahfaahinta dheeraadka ah"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Muuqaalada 'Xiga' iyo 'La xidhiidha'"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Qoraaladii asal ahaan adeegyada la socday (wakhtigii kasoo wareegay) way ka muuqan doonaan waxyaabaha aad furanayso"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Tus wakhtigii asalka ahaa"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Soo bandhig istikhyaar ah in muuqaalka lagu furo Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Soodhig istikhyaarka \"Ku fur Kodi\""
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Dooro soojeedinada lasoo bandhigo marka wax la raadinayo"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Soojeedinada raadinta"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "U isticmaal galka xaga shaashada markay xidhantahay iyo xaga kore ee ogaysiisyada"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Soobandhig galka"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Horay u dhaafi meelaha aamusan"
+    },
+    {
+      "name": "songs",
+      "value": "Heeso"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Waan ka xunahay, sidaa inay dhacdo ma ahayn."
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Shaygan waa SoundCloud Go+, ama ugu yaraan wadankaaga ayuu ka yahay, sidaa darteed NewPipe laguma daawan/dagsan karo."
+    },
+    {
+      "name": "start",
+      "value": "Bilow"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Si loogu hogaansamo Maaraynta Xog Dhawrka Guud ee heer Yurub (GDPR), waxaan halkan kugu xusuusinaynaa siyaasada sirdhawrka NewPipe. Fadlan si taxadar leh u akhriso.\n\nWaana inaad aqbashaa si [hadii aad damacdo] aad cilad appka ah warcelin nooga soo dirto."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Wada bilow dajinta"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Xaga dambe ku daar"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Xaga daaqada ku daar"
+    },
+    {
+      "name": "stop",
+      "value": "Jooji"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Rukumo"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Rukuntay"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "inta rukumatay lama heli karo"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Lama baddali karo rukunka"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Lama cusbooneysiin karo rukunka"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Rukunka lama gudbin karo"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Lama soo galin karo rukunka"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Taabo \"Dhameeyay\" ✅ markaad xaliso"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "U Baddal Xaga Dambe"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "U baddal Sida Caadiga ah"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "U baddal qaabka Daaqada"
+    },
+    {
+      "name": "systems_language",
+      "value": "Aaladu saytahay"
+    },
+    {
+      "name": "tab_about",
+      "value": "Ku Saabsan & Su’aalaha Inta Badan La Isweydiiyo"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "La calaamadsaday"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Dooro Daaqada"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Shati"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Rukunka"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Qaabka tablet-ka"
+    },
+    {
+      "name": "theme_title",
+      "value": "Nashqada"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "kaydkii kumeelgaadhka ahaa ee sawirka waa la tirtiray"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Ku saabsan NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Wixii Hore"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Daar hormada"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "Tijaabada reCAPTCHA"
+    },
+    {
+      "name": "title_last_played",
+      "value": "U Dambeeyay ee La Daawaday"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Shatiyada qolo saddexaad"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Badanaa La Daawado"
+    },
+    {
+      "name": "top_50",
+      "value": "50ka Sare"
+    },
+    {
+      "name": "tracks",
+      "value": "Muusik"
+    },
+    {
+      "name": "trending",
+      "value": "Shiddan"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Ka saar calaamadsashada"
+    },
+    {
+      "name": "undo",
+      "value": "Soo celi"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Ka fur (sababi kara isdbadal)"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Garanwaa]"
+    },
+    {
+      "name": "unmute",
+      "value": "Ka hadalsii"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Iskajooji Rukunka"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Tixraac aan la furi karin"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Lama aqoonsan karo tixraacan. Ku fur app kale?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Ogaysiis soo bandhig doonaya inaad appka cusboonaysiiso marka mid cusub soo baxo"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Cusboonaysiinta"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Lasoo galiyay: %1$s"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Isticmaal dhagaysi Daare dibada ah"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Codka ayuu ka saaraa tayada muuqaalada qaar"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Isticmaal muuqaal daare dibada ah"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Dhaaf-dhaafinta dagdaga ah ee waxa daaran, si buuxda oo sax ah wax uma dhaafiso balse waxay u sahashaa muuqaal daareha inuu u dhaaf dhaafiyo si dagdag ah. Nidaamkan 5, 15 ama 25 ilbiriqsi wax looma dhaafin karo"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Isticmaal Dhaafinta dagdaga ah"
+    },
+    {
+      "name": "users",
+      "value": "Isticmaale"
+    },
+    {
+      "name": "video",
+      "value": "Muuqaal"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Sameeyay %s"
+    },
+    {
+      "name": "video_player",
+      "value": "Muuqaal daareha"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Muuqaalo la daawado lama helin"
+    },
+    {
+      "name": "videos_string",
+      "value": "Muuqaalo"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Ka eeg GitHub"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Kaydka wixii ladaawaday waa la tirtiray"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Meelihii ay marayeen waa la tirtiray"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Booqo Mareegta NewPipe si aad u hesho macluumaad dheeraad ah iyo warar."
+    },
+    {
+      "name": "website_title",
+      "value": "Mareegta internetka"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Xogta:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Waxa dhacay:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "WiFi-ga kaliya"
+    },
+    {
+      "name": "yes",
+      "value": "Haa"
+    },
+    {
+      "name": "your_comment",
+      "value": "Faalladaada (oo Ingiriis ah):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Muuqaalkan waxaa loo heli karaa kaliya xubnaha YouTube Music Premium, sidaa darteed NewPipe laguma daawan/dagsan karo."
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube-ku wuxuu leeyahay nidaamka \"Qaabka Xadidan\" kaasoo qariya waxyaabo laga yaabo ineysa haboonayn"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Fur \"Qaabka Xadidan\""
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

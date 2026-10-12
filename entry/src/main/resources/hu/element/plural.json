@@ -1,0 +1,225 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d nap"
+        },
+        {
+          "quantity": "other",
+          "value": "%d nap"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%1$s letöltés törölve"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s letöltés törölve"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Letöltés befejezve"
+        },
+        {
+          "quantity": "other",
+          "value": "%s letöltés befejezve"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d feliratkozás exportálása…"
+        },
+        {
+          "quantity": "other",
+          "value": "%d feliratkozások exportálása…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d kiválasztva"
+        },
+        {
+          "quantity": "other",
+          "value": "%d kiválasztva"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d óra"
+        },
+        {
+          "quantity": "other",
+          "value": "%d óra"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d feliratkozás importálása…"
+        },
+        {
+          "quantity": "other",
+          "value": "%d feliratkozások importálása…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s hallgató"
+        },
+        {
+          "quantity": "other",
+          "value": "%s hallgató"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d feliratkozás betöltése…"
+        },
+        {
+          "quantity": "other",
+          "value": "%d feliratkozások betöltése…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d perc"
+        },
+        {
+          "quantity": "other",
+          "value": "%d perc"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s új elő közvetítés"
+        },
+        {
+          "quantity": "other",
+          "value": "%s új elő közvetítés"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s válasz"
+        },
+        {
+          "quantity": "other",
+          "value": "%s válasz"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d másodperc"
+        },
+        {
+          "quantity": "other",
+          "value": "%d másodperc"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s feliratkozó"
+        },
+        {
+          "quantity": "other",
+          "value": "%s feliratkozó"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s videó"
+        },
+        {
+          "quantity": "other",
+          "value": "%s videó"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s megtekintés"
+        },
+        {
+          "quantity": "other",
+          "value": "%s megtekintés"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s néző"
+        },
+        {
+          "quantity": "other",
+          "value": "%s néző"
+        }
+      ]
+    }
+  ]
+}

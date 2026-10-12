@@ -1,0 +1,216 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "ರದ್ದುಗೊಳಿಸಿ"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "ಚಾನಲ್ ಅನ್‌ಸಬ್‌ಸ್ಕ್ರೈಬ್ ಮಾಡಲಾಗಿದೆ"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "ಗೆ ಸೇರಿಸಿ"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "ಹಿನ್ನೆಲೆ"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "ಸ್ಟ್ರೀಮ್ ಫೈಲ್ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "ಪಾಪ್ಅಪ್"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "ನೀವು \"%1$s\" ಎಂದು ಅರ್ಥೈಸಿದ್ದೀರಾ?"
+    },
+    {
+      "name": "download",
+      "value": "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದ ಆಡಿಯೊ ಫೈಲ್‌ಗಳನ್ನು ಇಲ್ಲಿ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "ಆಡಿಯೋ ಡೌನ್‌ಲೋಡ್ ಫೋಲ್ಡರ್"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "ವೀಡಿಯೊ ಫೈಲ್‌ಗಳಿಗಾಗಿ ಡೌನ್‌ಲೋಡ್ ಫೋಲ್ಡರ್ ಆಯ್ಕೆಮಾಡಿ"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದ ವೀಡಿಯೊ ಫೈಲ್‌ಗಳನ್ನು ಇಲ್ಲಿ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ"
+    },
+    {
+      "name": "download_path_title",
+      "value": "ವೀಡಿಯೊ ಡೌನ್‌ಲೋಡ್ ಫೋಲ್ಡರ್"
+    },
+    {
+      "name": "install",
+      "value": "ಸ್ಥಾಪಿಸಿ"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "ಪ್ರಾರಂಭಿಸಲು ಭೂತಗನ್ನಡಿಯನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ."
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "ವೀಕ್ಷಿಸಲಾಗಿದೆ ಎಂದು ಗುರುತಿಸಿ"
+    },
+    {
+      "name": "no",
+      "value": "ಇಲ್ಲ"
+    },
+    {
+      "name": "no_player_found",
+      "value": "ಯಾವುದೇ ಸ್ಟ್ರೀಮ್ ಪ್ಲೇಯರ್ ಕಂಡುಬಂದಿಲ್ಲ. VLC ಸ್ಥಾಪಿಸುವುದೇ?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "ಯಾವುದೇ ಸ್ಟ್ರೀಮ್ ಪ್ಲೇಯರ್ ಕಂಡುಬಂದಿಲ್ಲ (ಅದನ್ನು ಪ್ಲೇ ಮಾಡಲು ನೀವು VLC ಅನ್ನು ಸ್ಥಾಪಿಸಬಹುದು)."
+    },
+    {
+      "name": "ok",
+      "value": "ಸರಿ"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "ಬ್ರೌಸರ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "ಪಾಪ್‌ಅಪ್ ಮೋಡ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ"
+    },
+    {
+      "name": "open_with",
+      "value": "ಇದರೊಂದಿಗೆ ತೆರೆಯಿರಿ"
+    },
+    {
+      "name": "search",
+      "value": "ಹುಡುಕಿ"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "ಇದಕ್ಕೆ ಫಲಿತಾಂಶಗಳನ್ನು ತೋರಿಸಲಾಗುತ್ತಿದೆ: %s"
+    },
+    {
+      "name": "settings",
+      "value": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+    },
+    {
+      "name": "share",
+      "value": "ಶೇರ್ ಮಾಡಿ"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "ಬಳಸಿ ಹಂಚಿಕೊಳ್ಳಿ"
+    },
+    {
+      "name": "show_info",
+      "value": "ಮಾಹಿತಿಯನ್ನು ತೋರಿಸಿ"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "ಸಬ್‌ಸ್ಕ್ರೈಬ್"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "ಸಬ್‌ಸ್ಕ್ರೈಬ್ ಮಾಡಲಾಗಿದೆ"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "ಚಂದಾದಾರಿಕೆಯನ್ನು ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "ಚಂದಾದಾರಿಕೆಯನ್ನು ನವೀಕರಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "ಬುಕ್ಮಾರ್ಕ್ ಮಾಡಲಾದ ಪ್ಲೇಪಟ್ಟಿಗಳು"
+    },
+    {
+      "name": "tab_choose",
+      "value": "ಟ್ಯಾಬ್ ಆಯ್ಕೆಮಾಡಿ"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "ಚಂದಾದಾರಿಕೆಗಳು"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "ಅನ್‌ಸಬ್‌ಸ್ಕ್ರೈಬ್ ಮಾಡಿ"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "%1$s ರಂದು ಪ್ರಕಟಿಸಲಾಗಿದೆ"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "ಬಾಹ್ಯ ಆಡಿಯೊ ಪ್ಲೇಯರ್ ಬಳಸಿ"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "ಕೆಲವು ರೆಸಲ್ಯೂಶನ್‌ಗಳಲ್ಲಿ ಆಡಿಯೊವನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "ಬಾಹ್ಯ ವೀಡಿಯೊ ಪ್ಲೇಯರ್ ಬಳಸಿ"
+    },
+    {
+      "name": "yes",
+      "value": "ಹೌದು"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

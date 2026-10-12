@@ -1,0 +1,988 @@
+{
+  "string": [
+    {
+      "name": "action_history",
+      "value": "Chronologia"
+    },
+    {
+      "name": "all",
+      "value": "Omne"
+    },
+    {
+      "name": "always",
+      "value": "Sempre"
+    },
+    {
+      "name": "app_language_title",
+      "value": "Lingua del application"
+    },
+    {
+      "name": "app_license_title",
+      "value": "Licentia de NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Falleva le interfacie del application"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Il ha un actualisation de NewPipe disponibile!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Notificationes de nove versiones de NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Notification de actualisation del application"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Necun fluxo de audio trovate"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Reproduction automatic"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Es reproduce in fundo"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Melior resolution"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Nigro"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancellar"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Create per %s"
+    },
+    {
+      "name": "channels",
+      "value": "Canales"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Seliger un instantia"
+    },
+    {
+      "name": "clear",
+      "value": "Vacuar"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Vacuar le chronologia de discargamentos"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Dele tote le positiones de reproduction"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Deler le positiones de reproduction"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Dele le chronologia de parolas clave de cerca"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Vacuar le chronologia de cerca"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Dele le chronologia del contenido observate e positiones de reproduction"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Vacuar le chronologia de reproductiones"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Commentos"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Esque tu vole vacuar le chronologia de discargamentos o deler omne files discargate?"
+    },
+    {
+      "name": "content",
+      "value": "Contento"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Lingua predefinite del contento"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Contento non disponibile"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Contribuer"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Adder a"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Fundo"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Discargar le file de fluxo"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Emergente"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s per %2$s sub %3$s"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Obscur"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Formato de audio predefinite"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Pais predefinite del contentos"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Resolution predefinite del fenestra emergente"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Resolution predefinite"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Formato de video predefinite"
+    },
+    {
+      "name": "delete",
+      "value": "Deler"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Esque tu vole deler iste articulo del chronologia de cerca?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Esque tu vole deler tote le positiones de reproduction?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Deler omne chronologia de cerca?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Deler omne chronologia de reproductiones?"
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Description"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Non me place"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Me place"
+    },
+    {
+      "name": "disabled",
+      "value": "Disactivate"
+    },
+    {
+      "name": "done",
+      "value": "Preste"
+    },
+    {
+      "name": "download",
+      "value": "Discargar"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Discargar"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Comenciava le discarga"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Selige dossier de discarga pro files de audio"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Dossier de discarga de audio"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Selige dossier de discarga pro files de video"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Dossier de discarga de video"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Le discarga al carta SD non es possibile. Reinitialisar le location del dossier de discargas?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Immagazinage externe non disponibile"
+    },
+    {
+      "name": "downloads",
+      "value": "Discargamentos"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Discargamentos"
+    },
+    {
+      "name": "duration_live",
+      "value": "In directe"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Nihil contentos ci"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Restaurar le ultime position del reproduction"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Resumer le reproduction"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Monstrar le indicatores de position in listas"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Positiones in le listas"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Immagazinar le cercas localmente"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Chronologia de cerca"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Immagazinar un chronologia de videos observate"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Chronologia de reproductiones"
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Non pote connecter con le servitor"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Detalios:"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Ocurreva un error: %1$s"
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Reportar in GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Reporto de error"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Reportar"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Pardono, qualcosa vadeva incorrecte."
+    },
+    {
+      "name": "events",
+      "value": "Eventos"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Exportar le chronologia, subscriptiones, listas de reproduction e configurationes"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Actualisar sempre"
+    },
+    {
+      "name": "file",
+      "value": "File"
+    },
+    {
+      "name": "file_deleted",
+      "value": "File delite"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Le nomine del file non pote esser vacue"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Novitates"
+    },
+    {
+      "name": "general_error",
+      "value": "Error"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Reimplaciar tu chronologia, subscriptiones e (optionalmente) configurationes currente"
+    },
+    {
+      "name": "install",
+      "value": "Installar"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Le dossier non existe"
+    },
+    {
+      "name": "just_once",
+      "value": "Solo un vice"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Clar"
+    },
+    {
+      "name": "main_page_content",
+      "value": "Contento del pagina principal"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Marcar como reguardate"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Lingua"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Licentia"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Privacitate"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Interne"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Private"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Supporto"
+    },
+    {
+      "name": "missing_file",
+      "value": "File displaciate o delite"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "Plus de 100 videos"
+    },
+    {
+      "name": "msg_name",
+      "value": "Nomine de file"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe discargante"
+    },
+    {
+      "name": "network_error",
+      "value": "Error de rete"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Thema nocturne"
+    },
+    {
+      "name": "no",
+      "value": "Non"
+    },
+    {
+      "name": "no_comments",
+      "value": "Nulle commentos"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Nemo es ascoltante"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Nemo is observante"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Nulle fluxos disponibile pro discargar"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Nulle subscriptores"
+    },
+    {
+      "name": "no_videos",
+      "value": "Nulle videos"
+    },
+    {
+      "name": "no_views",
+      "value": "Nulle reproductiones"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Cargante fe"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Nihil"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Repeter"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Aleatori"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "Notification de NewPipe"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Aperir in le navigator"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Aperir in modo emergente"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Aperir le sito web"
+    },
+    {
+      "name": "open_with",
+      "value": "Aperir con"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Pausar le discargas"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Le instantia jam existe"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Insere URL de instantia"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Solmente le URLs HTTPS es supportate"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Adder instantia"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Selige tu instantias favorite de PeerTube"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "Instantias de PeerTube"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Permitter monstrar supra altere applicationes"
+    },
+    {
+      "name": "play_all",
+      "value": "Reproducer omne"
+    },
+    {
+      "name": "play_audio",
+      "value": "Audio"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Reproducer con Kodi"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Non poteva reproducer iste video"
+    },
+    {
+      "name": "playlists",
+      "value": "Listas de reproduction"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Es reproduce in modo emergente"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Rememorar ultime grandor e position del reproductor emergente"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Rememorar grandor e position del fenestra emergente"
+    },
+    {
+      "name": "radio",
+      "value": "Radio"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Leger le licentia"
+    },
+    {
+      "name": "recent",
+      "value": "Recente"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Fluxos associate"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Suggestiones de recerca remote"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Deler le videos observate"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Si, e le videos partialmente observate"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Deler le videos observate?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Le videos jam observate ante e post de esser addite al lista de reproduction essera removite. \nSecur que tu vole? Isto non pote disfacer se!"
+    },
+    {
+      "name": "rename",
+      "value": "Renominar"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Reinitialisar le valores predefinite"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Esque tu vole reinitialisar le valores predefinite?"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Continuar le reproduction post interruptiones"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Reprender le reproduction"
+    },
+    {
+      "name": "retry",
+      "value": "Retentar"
+    },
+    {
+      "name": "search",
+      "value": "Cerca"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Chronologia de recerca delite"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Nulle resultatos"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Monstrante resultatos pro: %s"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Selige un canal"
+    },
+    {
+      "name": "settings",
+      "value": "Configurationes"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Apparentia"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Facer un copia de securitate e restaurar"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Vacuar le datos"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Depuration"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Chronologia e cache"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Comportamento"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Configurar le notification del fluxo in reproduction"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Notification de reproductor"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Reproductor"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Actualisationes"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Video e audio"
+    },
+    {
+      "name": "share",
+      "value": "Compartir"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Compartir con"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Monstrar contento restricte per etate"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Monstrar le commentos"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Monstrar le description"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Solmente alicun apparatos pote reproducer videos 2K/4K"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Monstrar resolutiones alte"
+    },
+    {
+      "name": "show_info",
+      "value": "Monstrar information"
+    },
+    {
+      "name": "show_less",
+      "value": "Monstrar minus"
+    },
+    {
+      "name": "show_more",
+      "value": "Monstrar plus"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Monstrar le videos sequente e simile"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Monstrar option \"Reproducer con Kodi\""
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Suggestiones de cerca"
+    },
+    {
+      "name": "songs",
+      "value": "Cantos"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Pardono, illo non deberea haber ocurrite."
+    },
+    {
+      "name": "start",
+      "value": "Initiar"
+    },
+    {
+      "name": "start_downloads",
+      "value": "Initiar discargas"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Initiar le reproductor principal in schermo plen"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Subscriber"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Subscribite"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Le numero de subscriptores non es disponibile"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Non poteva cambiar le subscription"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Non poteva actualisar le subscription"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Cambiar a modo fundo"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Cambia a Principal"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Cambiar a modo emergente"
+    },
+    {
+      "name": "systems_language",
+      "value": "Predefinite del systema"
+    },
+    {
+      "name": "tab_about",
+      "value": "FAQ e A proposito de"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Seliger le scheda"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Licentias"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Subscriptiones"
+    },
+    {
+      "name": "theme_title",
+      "value": "Thema"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "A proposito de NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Chronologia"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Ultime reproductiones"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Le plus reproducite"
+    },
+    {
+      "name": "tracks",
+      "value": "Pistas"
+    },
+    {
+      "name": "undo",
+      "value": "Disfacer"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Incognite]"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Cancellar le subscription"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "URL non supportate"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Monstrar un notification pro requestar le actualisation del application quando un nove version es disponibile"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Actualisationes"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Publicate le %1$s"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Usar reproductor de video externe"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Usar le recerca rapide e inexacte"
+    },
+    {
+      "name": "users",
+      "value": "Usatores"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Per %s"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Necun fluxo de video trovate"
+    },
+    {
+      "name": "videos_string",
+      "value": "Videos"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Vider in GitHub"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Chronologia de reproductiones vacuate"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Positiones de reproduction delite"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Visita le sito web de NewPipe pro plus de informationes e novitates."
+    },
+    {
+      "name": "website_title",
+      "value": "Sito web"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Information:"
+    },
+    {
+      "name": "yes",
+      "value": "Si"
+    },
+    {
+      "name": "your_comment",
+      "value": "Tu commento (in anglese):"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Activar el \"Modo restricte\" de YouTube"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

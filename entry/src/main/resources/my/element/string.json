@@ -1,0 +1,132 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "ပယ်ဖျက်ပါ"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "တိုက်ရိုက်ဖိုင်ကို ဒေါင်းလုဒ်လုပ်မည်"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "\"%1$s\" ကိုဆိုလိုသလား။"
+    },
+    {
+      "name": "download",
+      "value": "ဒေါင်းလုဒ်"
+    },
+    {
+      "name": "install",
+      "value": "ထည့်သွင်းမည်"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "စတင်ရန် ဖောက်ထွင်းမှန်ကိုထိပါ။"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "ကြည့်ပြီးပြီ"
+    },
+    {
+      "name": "no",
+      "value": "မဟုတ်ပါ"
+    },
+    {
+      "name": "no_player_found",
+      "value": "တိုက်ရိုက်ကြည့်ရန် ပလေယာမရှိပါ။VLCသွင်းမလား။"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "တိုက်ရိုက်ကြည့်ရန် ပလေယာမရှိပါ(သင်VLCကိုသွင်းနိုင်ပါသည်။)"
+    },
+    {
+      "name": "ok",
+      "value": "အဆင်ပြေသည်"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "ဒီမီနူးအိုင်တမ်ကဝဘ်ဘရောက်ဇာထဲမှာဗီဒီယိုသို့မဟုတ်အသံဖိုင်ကိုဖွင့်မည်ဖြစ်သည်"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "popupပုံစံမှာဖွင့်ပါ"
+    },
+    {
+      "name": "open_with",
+      "value": "မည်သို့ ဖွင့်မည်ရွေးချယ်ပါ"
+    },
+    {
+      "name": "search",
+      "value": "ရှာဖွေရန်"
+    },
+    {
+      "name": "settings",
+      "value": "ဆက်တင်များ"
+    },
+    {
+      "name": "share",
+      "value": "မျှဝေမည်"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "ဖြင့် မျှဝေမည်"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "တင်ခဲ့သည် %1$s"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "အခြားဗီဒီယိုပလေယာ အားသုံးမည်"
+    },
+    {
+      "name": "yes",
+      "value": "ဟုတ်တယ်"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

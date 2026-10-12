@@ -1,0 +1,134 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d दिन"
+        },
+        {
+          "quantity": "other",
+          "value": "%d दिनहरु"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d चयन"
+        },
+        {
+          "quantity": "other",
+          "value": "%d चयन"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d घण्टा"
+        },
+        {
+          "quantity": "other",
+          "value": "%d घण्टा"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s श्रोता"
+        },
+        {
+          "quantity": "other",
+          "value": "%s श्रोताहरु"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d मिनेट"
+        },
+        {
+          "quantity": "other",
+          "value": "%d मिनेट"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d सेकेन्ड"
+        },
+        {
+          "quantity": "other",
+          "value": "%d सेकेन्ड"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s सदस्य"
+        },
+        {
+          "quantity": "other",
+          "value": "%s सदस्यहरू"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s भिडियो"
+        },
+        {
+          "quantity": "other",
+          "value": "%s भिडियोहरू"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s पटक हेरिएको"
+        },
+        {
+          "quantity": "other",
+          "value": "%s पटक हेरिएको"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s जना हेर्दै हुनुहुन्छ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s जना हेर्दै हुनुहुन्छ"
+        }
+      ]
+    }
+  ]
+}

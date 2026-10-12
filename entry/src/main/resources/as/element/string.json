@@ -1,0 +1,432 @@
+{
+  "string": [
+    {
+      "name": "auto_queue_title",
+      "value": "পৰৱৰ্তী ষ্ট্ৰিম স্বয়ংক্ৰিয়ভাৱে enque কৰক"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "ক'লা"
+    },
+    {
+      "name": "cancel",
+      "value": "বাতিল কৰক"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Channel আনচাবস্ক্ৰাইব কৰা হ'ল"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "সক্ৰিয় প্লেয়াৰৰ queue সলনি কৰা হ’ব"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "এটা প্লেয়াৰ পৰা আন এটালৈ সলনি কৰিলে আপোনাৰ queue সলনি হ'ব পাৰে"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "এটা queue বিলুপ্তি কৰাৰ আগতে নিশ্চিতকৰণৰ বাবে সুধিব"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "যোগ কৰক"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "বেকগ্ৰাউণ্ড"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "ষ্ট্ৰিম কৰা ফাইল ডাউনলোড কৰক"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "পপ-আপ"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "প্লেয়াৰটো ক্ৰেচ কৰক"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "অন্ধকাৰ"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "অডিঅ' ৰ প্ৰকাৰ"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "স্থায়ী পপআপ ৰিজোলিউচন"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "স্থায়ী ৰিজ'লিউচন"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "ভিডিঅ'ৰ প্ৰকাৰ"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "আপুনি \"%1$s\" বুজাইছিল নেকি?"
+    },
+    {
+      "name": "download",
+      "value": "ডাউনল’ড"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "অডিঅ' ফাইলসমূহৰ বাবে ডাউনলোড folder নিৰ্বাচন কৰক"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "ডাউনলোড কৰা অডিঅ' ফাইলসমূহ ইয়াত সংৰক্ষণ কৰা হয়"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "অডিঅ' ডাউনলোড folder"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "ভিডিঅ' ফাইলসমূহৰ বাবে ডাউনলোড folder বাছক"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "ডাউনলোড কৰা ভিডিঅ’ ফাইলসমূহ ইয়াত সংৰক্ষণ কৰা হয়"
+    },
+    {
+      "name": "download_path_title",
+      "value": "ভিডিঅ' ডাউনলোড folder"
+    },
+    {
+      "name": "install",
+      "value": "ইনষ্টল"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Kode এপ ইনষ্টল?"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "পোহৰ"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "আৰম্ভ কৰিবলৈ মেগনিফাইং গ্লাছৰ চিহ্নত টিপক।"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "চোৱা হ'ল (চিহ্নিত কৰক)"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "সংৰক্ষণ কৰি থোৱা মেটাডাটা মচি পেলোৱা হ'ল"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "সকলো সংৰক্ষণ কৰি ৰখা ৱেবপেজৰ তথ্য আঁতৰাওক"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "সংৰক্ষিত কৰি থোৱা মেটাডাটা মচি পেলাওক"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "নিশাৰ থিম"
+    },
+    {
+      "name": "no_player_found",
+      "value": "কোনো ষ্ট্ৰিম প্লেয়াৰ পোৱা নগ'ল। VLC ইনষ্টল কৰক?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "কোনো ষ্ট্ৰিম প্লেয়াৰ পোৱা নগ'ল (আপুনি ইয়াক বজাবলৈ VLC ইনষ্টল কৰিব পাৰে)।"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "First action button"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Second action button"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Third action button"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Fourth action button"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Fifth action button"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "বাফাৰিং"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "নথিং"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "পুনৰাবৃত্তি"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "শ্বাফেল"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "You can select at most three actions to show in the compact notification!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Edit each notification action below by tapping on it. Select up to three of them to be shown in the compact notification by using the checkboxes on the right"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "থাম্বনেইলত থকা মূল ৰং অনুসৰি এণ্ড্ৰইডক জাননীৰ ৰং কাষ্টমাইজ কৰিবলৈ কওক (মন কৰিব যে এইটো সকলো ডিভাইচতে উপলব্ধ নহয়)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "জাননী ৰ‌ঙিণ কৰক"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "জাননীত দেখুওৱা ভিডিঅ’ থাম্বনেইলটো ১৬:৯ৰ পৰা ১:১ অনুপাতলৈ ক্ৰপ কৰক"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "থাম্বনেইলক ১:১ অনুপাত লৈ ক্ৰপ কৰক"
+    },
+    {
+      "name": "ok",
+      "value": "ঠিক আছে"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "ব্ৰাউজাৰত খোলক"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "POPUP অৱস্থাত খোলক"
+    },
+    {
+      "name": "open_with",
+      "value": "...ৰ সৈতে খোলক"
+    },
+    {
+      "name": "play_audio",
+      "value": "অডিঅ'"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Kodi ৰ সৈতে বজাওক"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "পপ-আপৰ অন্তিম আকাৰ আৰু অৱস্থান মনত ৰাখিব"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "পপ-আপ বৈশিষ্ট্যসমূহ মনত ৰাখিব"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "লোড ব্যৱধানৰ আকাৰ সলনি কৰক (বৰ্তমানে %s) । এটা কম মানে প্ৰাৰম্ভিক ভিডিঅ' লোডিং দ্ৰুত কৰিব পাৰে। পৰিৱৰ্তনৰ বাবে এটা খেলুৱৈ পুনৰাৰম্ভৰ প্ৰয়োজন"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "প্লেবেক লোড কৰাৰ ব্যৱধানৰ আকাৰ"
+    },
+    {
+      "name": "search",
+      "value": "সন্ধান কৰক"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "%s ৰ বাবে ফলাফল দেখুৱা হৈছে"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "ফাষ্ট-ফৰৱাৰ্ড/-ৰিৱাইণ্ড কৰিবলৈ বিচৰা সময়সীমা"
+    },
+    {
+      "name": "settings",
+      "value": "ছেটিংছ"
+    },
+    {
+      "name": "share",
+      "value": "চেয়াৰ"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "চেয়াৰ কৰক"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "মন্তব্য লুকুৱাবলৈ বন্ধ কৰক"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "মন্তব্য দেখুৱাওক"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "ভিডিঅ'ৰ বিৱৰণ আৰু অতিৰিক্ত তথ্য লুকুৱাবলৈ বন্ধ কৰক"
+    },
+    {
+      "name": "show_description_title",
+      "value": "বিৱৰণ দেখুৱাওক"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "কেৱল কিছুমান ডিভাইচেহে 2K/4K ভিডিঅ’ বজাব পাৰে"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "উচ্চ ৰিজ'লিউচন দেখুৱাওক"
+    },
+    {
+      "name": "show_info",
+      "value": "তথ্য দেখুৱাওক"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "ষ্ট্ৰিমৰ সৃষ্টিকৰ্তা, ষ্ট্ৰিমৰ বিষয়বস্তু বা এটা সন্ধান অনুৰোধৰ বিষয়ে অতিৰিক্ত তথ্যৰ সৈতে মেটা তথ্যৰ বাকচসমূহ লুকুৱাবলৈ বন্ধ কৰক"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "মেটা তথ্য দেখুৱাওক"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "'পৰৱৰ্তী' আৰু 'সাদৃশ্য থকা' ভিডিঅ' দেখুৱাওক"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Kodi মিডিয়া চেণ্টাৰৰ জৰিয়তে এটা ভিডিঅ' চলাবলৈ এটা বিকল্প প্ৰদৰ্শন কৰক"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "\"Kodi ৰ সৈতে খোলক\" বিকল্প দেখুৱাওক"
+    },
+    {
+      "name": "sort",
+      "value": "সজোৱা"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "চাবস্ক্ৰাইব"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "চাবস্ক্ৰাইব কৰা হ'ল"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "subscription সলনি কৰিব পৰা নগ'ল"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "subscription আপডেট কৰিব পৰা নগ'ল"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "বুকমাৰ্ক কৰা প্লেলিষ্ট"
+    },
+    {
+      "name": "tab_choose",
+      "value": "টেব নিৰ্বাচন কৰক"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "চাবস্ক্ৰিপচন"
+    },
+    {
+      "name": "theme_title",
+      "value": "থিম"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "সংৰক্ষিত ছবি মচি পেলোৱা হ'ল"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "আনচাবস্ক্ৰাইব"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "%1$s ত প্ৰকাশ কৰা হৈছে"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "বাহ্যিক অডিঅ’ প্লেয়াৰ ব্যৱহাৰ কৰক"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "কিছু ৰিজ’লিউচনত অডিঅ’ আঁতৰাওক"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "বাহ্যিক ভিডিঅ’ প্লেয়াৰ ব্যৱহাৰ কৰক"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Inexact seek য়ে প্লেয়াৰটোক দ্ৰুত গতিত স্থান সলনি কৰিবলৈ অনুমতি দিয়ে। ৫, ১৫ বা ২৫ ছেকেণ্ড সলনি কৰিবলৈ বিচাৰিলে ইয়াৰ প্ৰয়োজন নহয়"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "দ্ৰুত inexact seek ব্যৱহাৰ কৰক"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

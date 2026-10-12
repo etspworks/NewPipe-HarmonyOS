@@ -1,0 +1,293 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%d dienas"
+        },
+        {
+          "quantity": "one",
+          "value": "%d dienu"
+        },
+        {
+          "quantity": "other",
+          "value": "%d dienas"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "Dzēstas %1$s lejupielādes"
+        },
+        {
+          "quantity": "one",
+          "value": "Dzēsta %1$s lejupielāde"
+        },
+        {
+          "quantity": "other",
+          "value": "Dzēstas %1$s lejupielādes"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%s lejupielādes pabeigtas"
+        },
+        {
+          "quantity": "one",
+          "value": "%s lejupielāde pabeigta"
+        },
+        {
+          "quantity": "other",
+          "value": "%s lejupielādes pabeigtas"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "Izgūst %d abonementus…"
+        },
+        {
+          "quantity": "one",
+          "value": "Izgūst %d abonementu…"
+        },
+        {
+          "quantity": "other",
+          "value": "Izgūst %d abonementus…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%d atlasīti"
+        },
+        {
+          "quantity": "one",
+          "value": "%d atlasīts"
+        },
+        {
+          "quantity": "other",
+          "value": "%d atlasīti"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%d stundas"
+        },
+        {
+          "quantity": "one",
+          "value": "%d stundu"
+        },
+        {
+          "quantity": "other",
+          "value": "%d stundas"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "Ievieto %d abonementus…"
+        },
+        {
+          "quantity": "one",
+          "value": "Ievieto %d abonementu…"
+        },
+        {
+          "quantity": "other",
+          "value": "Ievieto %d abonementus…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%s klausītāju"
+        },
+        {
+          "quantity": "one",
+          "value": "%s klausītājs"
+        },
+        {
+          "quantity": "other",
+          "value": "%s klausītāji"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "Ielādē %d abonementus…"
+        },
+        {
+          "quantity": "one",
+          "value": "Ielādē %d abonementu…"
+        },
+        {
+          "quantity": "other",
+          "value": "Ielādē %d abonementus…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%d minūtes"
+        },
+        {
+          "quantity": "one",
+          "value": "%d minūti"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minūtes"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%s jauni video/audio"
+        },
+        {
+          "quantity": "one",
+          "value": "%s jauns video/audio"
+        },
+        {
+          "quantity": "other",
+          "value": "%s jauni video/audio"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%s atbildes"
+        },
+        {
+          "quantity": "one",
+          "value": "%s atbilde"
+        },
+        {
+          "quantity": "other",
+          "value": "%s atbildes"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%d sekundes"
+        },
+        {
+          "quantity": "one",
+          "value": "%d sekundi"
+        },
+        {
+          "quantity": "other",
+          "value": "%d sekundes"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%s abonenti"
+        },
+        {
+          "quantity": "one",
+          "value": "%s abonents"
+        },
+        {
+          "quantity": "other",
+          "value": "%s abonenti"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%s videoklipi"
+        },
+        {
+          "quantity": "one",
+          "value": "%s videoklips"
+        },
+        {
+          "quantity": "other",
+          "value": "%s videoklipi"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%s skatījumi"
+        },
+        {
+          "quantity": "one",
+          "value": "%s skatījums"
+        },
+        {
+          "quantity": "other",
+          "value": "%s skatījumi"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%s skatītāji skatās"
+        },
+        {
+          "quantity": "one",
+          "value": "%s skatītājs skatās"
+        },
+        {
+          "quantity": "other",
+          "value": "%s skatītāji skatās"
+        }
+      ]
+    }
+  ]
+}

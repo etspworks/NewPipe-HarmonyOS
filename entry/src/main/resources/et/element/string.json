@@ -1,0 +1,3088 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Nõustu"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Kasutajakonto on suletud"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Kasutajakonto on suletud\n\n%1$s on märkinud põhjuseks: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "Ajalugu"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Lisa esitusloendisse"
+    },
+    {
+      "name": "albums",
+      "value": "Albumid"
+    },
+    {
+      "name": "all",
+      "value": "Kõik"
+    },
+    {
+      "name": "always",
+      "value": "Alati"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Küsi alati"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Video väljundpinna muutumisel see alternatiivne lahendus eemaldab videokodekid kasutusest ja laadib nad uuesti ega ürita videokodeke uue väljundpinnaga sobitada. See seadistus toimib vaid Android 6 ja uuemates versioonides ning mõne seadme puhul on juba automaatselt kasutusel\n\n\n\nSelle valiku kasutamine hoiab ära mõned vea, mis tekivad ekraani pööramisel ja täisekraanivaate kasutamisel"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Kasuta alati AVPlayer'i video väljundpinna seadistamise lahendust"
+    },
+    {
+      "name": "any_network",
+      "value": "Mis tahes võrk"
+    },
+    {
+      "name": "api23_requirement_dialog_blogpost",
+      "value": "Postitus meie ajaveebis"
+    },
+    {
+      "name": "api23_requirement_dialog_message",
+      "value": "Kahjuks sõltub NewPipe mõnest teegist, mis on lõpetanud Androidi versioonide 5.0 ja 5.1 toetamise. Seetõttu töötab järgmine NewPipe’i versioon kahjuks ainult nutiseadmetes, millel on Android 6 või uuem versioon. Lisateavet leiad ajaveebi postitusest."
+    },
+    {
+      "name": "api23_requirement_dialog_title",
+      "value": "NewPipe loobub Android 5 toest"
+    },
+    {
+      "name": "app_description",
+      "value": "Vaba ja lihtne voogesitus HarmonyOS-is."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Rakenduse keel"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe on vaba ja avatud lähtekoodiga tarkvara. Seada võid kasutada, uurida, jagada ja parandada nii, nagu õigemaks pead. Täpsemalt - seda võid levitada ja/või muuta vastavalt Vaba Tarkvara Sihtasutuse avaldatud GNU Üldise Avaliku Litsentsi v.3 (või sinu valikul hilisema versiooni) tingimustele."
+    },
+    {
+      "name": "app_license_title",
+      "value": "NewPipe'i litsents"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Rakendus jooksis kokku"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "%s allalaadimiseks toksa"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "NewPipe'i värskendus on saadaval!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Teavitus NewPipe'i uuetest versioonidest"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Rakenduse värskenduse teavitus"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Sa kasutad NewPipe'i uusimat versiooni"
+    },
+    {
+      "name": "artists",
+      "value": "Esitajad"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Helivooge ei leitud"
+    },
+    {
+      "name": "audio_track",
+      "value": "Heliriba"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Selles meediavoos peaks heliriba juba olemas olema"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "kirjeldav"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "dubleeritud"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "algne"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "täiendav"
+    },
+    {
+      "name": "auto",
+      "value": "Auto"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Automaatne (seadme teema)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Jätka lõpetamise (mitte-kordavat) esitamist lisadest järjekorra lõppu seotud voo"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Järgmine voog automaatselt järjekorda"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Lisa automaatselt esitusloendisse"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe võib aeg-ajalt automaatselt kontrollida uute versioonide olemasolu ning sind vastavalt teavitada. \nKas sa soovid sellist võimalust kasutada?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Alusta esitamist automaatselt — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Automaatesitus"
+    },
+    {
+      "name": "background_player",
+      "value": "Taustapleier"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Taasesitus taustal"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Parim lahutus"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Must"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Tühi leht"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Lisa esitusloend järjehoidjaks"
+    },
+    {
+      "name": "brightness",
+      "value": "Eredus"
+    },
+    {
+      "name": "cancel",
+      "value": "Tühista"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Automaatselt loodud"
+    },
+    {
+      "name": "caption_none",
+      "value": "Subtiitriteta"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Kohanda subtiitrite teksti suurust ja tausta meediamängijas. Jõustamiseks taaskäivita rakendus"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Subtiitrid"
+    },
+    {
+      "name": "card",
+      "value": "Kaart"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Looja: %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Kanali leht"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Kanali teave"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Albumid"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Kanalid"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Meeldimisi"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Otseeeter"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Esitusloendid"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Lühivideod"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Palad"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Videod"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Kanali tellimus tühistatud"
+    },
+    {
+      "name": "channels",
+      "value": "Kanalid"
+    },
+    {
+      "name": "chapters",
+      "value": "Peatükid"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Tähed ja numbrid"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Erimärgid"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Kontrolli uuendusi"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Käivita uute meediavoogude kontroll"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Kontrollin uuendusi…"
+    },
+    {
+      "name": "checksum",
+      "value": "Kontrollsumma"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Vali eksemplar"
+    },
+    {
+      "name": "clear",
+      "value": "Kustuta"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Kustuta küpsised, mille NewPipe on reCAPTCHA vastamise ajal salvestanud"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Kustuta reCAPTCHA küpsised"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Kustuta allalaadimiste ajalugu"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Kustutab kõik taasesituse käigus salvestatud asukohad"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Kustuta taasesituste asukohad"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Aktiivse mängija esitusloend asendatakse"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Lülitamine ühelt mängijalt teisele võib asendada su esitusloendi"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Küsi enne esitusloendi tühjendamist kinnitust"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Kustutab otsisõnade ajaloo"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Kustuta otsinguajalugu"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Kustutab vaadatud voogude ajaloo ja taasesituse asukohad"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Puhasta vaatamiste ajalugu"
+    },
+    {
+      "name": "close",
+      "value": "Sulge"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Kommentaarid on välja lülitatud"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Kommentaarid"
+    },
+    {
+      "name": "conferences",
+      "value": "Konverentsid"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Kas sa soovid kustutada allalaadimiste ajaloo või allalaaditud failid?"
+    },
+    {
+      "name": "content",
+      "value": "Sisu"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Sisu vaikimisi keel"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Sisu pole saadaval"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "NewPipe hetkel sellist võimaluist ei toeta.\n\n\n\nAga loodetavasti jõuame sellise võimaluse tulevasse versiooni lisada."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Kui sul on ideid kujunduse muutmisest, koodi puhastamisest või suurtest koodi muudatustest - abi on alati teretulnud. Mida rohkem tehtud, seda paremaks läheb!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Tee kaastööd"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Lisa esitusloendisse"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Taust"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Laadi voog alla"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Hüpikaken"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Kopeeri vormindatud aruanne"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s %2$s %3$s alla"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Hoiatus: Kõiki faile ei õnnestunud importida."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Kõiki pisipilte ei õnnestunud laadida"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Allalaadimismenüü seadistamine nurjus"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Jooksuta rakendus kokku"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Jooksuta meediamängija kokku"
+    },
+    {
+      "name": "create",
+      "value": "Loo"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Koosta veateade"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Uus esitusloend"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Tume"
+    },
+    {
+      "name": "decline",
+      "value": "Keeldu"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Heli vaikevorming"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Sisu vaikimisi riik"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Vaikimisi seadistatud kiosk"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Hüpikakna vaikelahutus"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Vaikelahutus"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Video vaikevorming"
+    },
+    {
+      "name": "delete",
+      "value": "Kustuta"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Kustuta allalaaditud failid"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Kas kustutame kõik allalaaditud failid andmekandjalt?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Kustuta kirje"
+    },
+    {
+      "name": "delete_file",
+      "value": "Kustuta fail"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Kas kustutame selle kirje otsinguajaloost?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Kas kustutame kõik taasesituste asukohad?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Kas kustutame selle esitusloendi?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Kas kustutada kogu otsinguajalugu?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Kas kustutada kogu vaatamiste ajalugu?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Ära võimalda valida kirjelduse teksti"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Võimalda valida kirjelduse teksti"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Sa saad nüüd valida kirjelduse tekstist. Pane tähele, et valikurežiimis võib leht vilkuda ja lingid ei pruugi olla klõpsatavd."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Kirjeldus"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Ei meeldi"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Lohista järjestuse muutmiseks"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Südamlik autor"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Meeldimisi"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Esiletõstetud kommentaar"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Kanali tunnuspilt"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Esita video, kestus:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Üleslaadiaja avatari pisipilt"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Kas mõtlesid: \"%1$s\"?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Kuna on teada, et see seade ei toeta meedia tunneldamist, siis on see funktsionaalsus vaikimisi välja lülitatud."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Lülita meedia tunneldamine välja juhul, kui esitamisel tekib must ekraan või pildi kuvamine on katkendlik."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Lülita meedia tunneldamine välja"
+    },
+    {
+      "name": "disabled",
+      "value": "Keelatud"
+    },
+    {
+      "name": "dismiss",
+      "value": "Loobu"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe'i arendajad on vabatahtlikud, kes kulutavad oma vaba aega, toomaks sulle parimat kasutuskogemust. On aeg anda tagasi aidates arendajaid ja muuta NewPipe veel paremaks, nautides ise tassi kohvi."
+    },
+    {
+      "name": "donation_title",
+      "value": "Anneta"
+    },
+    {
+      "name": "done",
+      "value": "Valmis"
+    },
+    {
+      "name": "dont_show",
+      "value": "Ära kuva"
+    },
+    {
+      "name": "download",
+      "value": "Allalaadimine"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Sellise nimega allalaadimine on juba pooleli"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Selle nimega allalaadimine on käimas"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Laadi alla"
+    },
+    {
+      "name": "download_failed",
+      "value": "Allalaadimine nurjus"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Allalaadimine algas"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Vali alla laaditud audiofailide kaust"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Siia salvestatakse alla laaditud audiofailid"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Audio allalaadimise kaust"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Vali alla laaditud videofailide kaust"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Alla laetud videos salvestatakse siia"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Video allalaadimise kaust"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Allalaadimine välisele SD-kaardile ei ole võimalik. Kas lähtestada allalaadimiste kataloogi asukoht?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Väline andmekandja pole saadaval"
+    },
+    {
+      "name": "downloads",
+      "value": "Allalaadimised"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Alati küsime kuhu kausta soovid faile alla laadida.\n\nKui soovid salvestada välisele SD kaardile, siis võta kasutusele süsteemi kaustavalija (system folder picker ehk SAF)"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Sinult küsitakse iga kord, kuhu alla laadimine salvestada"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Küsi allalaaditavate failide salvestamise kausta"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "„Storage Access Framework“-i ehk süsteemse kaustavalija kasutamisel saad andmeid salvestada ka välisele SD-kaardile"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Android 10st alates on toetatud ainult salvestusjuurdepääsu raamistik 'Storage Access Framework'"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Kasuta süsteemset kaustavalijat (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Allalaadimised"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Sulge sahtel"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Vaheta teenust, hetkel on kasutusel:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Ava sahtel"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Hallina kuvatud esitusloendid juba sisaldavad seda kirjet."
+    },
+    {
+      "name": "duration",
+      "value": "Kestus"
+    },
+    {
+      "name": "duration_live",
+      "value": "Otse"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Siin pole veel midagi"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Jõusta väljaspool fragmenti või elutsüklit olevate kättetoimetamatute Rx erindite raporteerimine nende vabastamise järgselt"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Teavita elutsüklist väljas vigadest"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Mälulekke seire võib põhjustada rakenduse hangumise"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Taasa viimane esituskoht"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Jätka mängimisega"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Kuva esituskohtade indikaatorid esitusloendites"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Kohad esitusloendites"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Piira allalaadimiste järjekorda"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Luba korraga vaid üks allalaadimine"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Salvesta otsinguajalugu kohalikult"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Otsinguajalugu"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Tellimustega seotud uute meedivoogude teavitused"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Uute meedivoogude teavitused"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Jälgi videote vaatamist"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Vaatamiste ajalugu"
+    },
+    {
+      "name": "enqueue",
+      "value": "Lisa esitusjärjekorda"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Lisa esitamiseks järgmisena"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Lisa esitusjärjekorda"
+    },
+    {
+      "name": "enqueued",
+      "value": "Esitusjärjekorda lisatud"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Lisasin esitamiseks järgmisena"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Kirje on kustutatud"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Serveriga ei saa ühendust"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Üksikasjad:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Seda allalaadimist ei saa uuesti alustada"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Faili ei saa luua"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Server ei saada andmeid"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Ei leitud"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Server ei toeta mitmelõimelisi allalaadimisi. Proovi uuesti kasutades @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Seadmes pole enam piisavalt vaba ruumi"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Seadmes pole enam ruumi"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Ilmnes viga: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Sihtkausta ei saa luua"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Järeltöötlemine nurjus"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe lõpetas faili töötlemisel töö"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Faili kustutamisega läks ka tööjärg kautsi"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Teata e-posti teel"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Teavitused vigadest informeerimiseks"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Teavitus vigadest"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe'i töös tekkis viga, sellest teavitamiseks toksa"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Tekkis viga, vaata vastavat teadet"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Palun kontrolli kas sinu kogetud krahhi käsitlev vearaport on juba olemas. Luues korduvraporteid võtad meilt aega, mida saaksime kulutada tegelike vigade parandamiseks."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Teata sellest GitHub'is"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Veateade"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Teata"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Vabandust, midagi läks valesti."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Turvalist ühendust ei suudetud luua"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Ühendus aegus"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Kommentaaride laadimine ei õnnestunud"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Serverit ei leitud"
+    },
+    {
+      "name": "events",
+      "value": "Sündmused"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Eksporditud"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Ekspordi ajalugu, tellimused, esitusloendid ja sätted"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Ekspordi andmebaas"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Eksport…"
+    },
+    {
+      "name": "export_subscriptions_summary",
+      "value": "Ekspirdi oma tellimused json-faili"
+    },
+    {
+      "name": "export_subscriptions_title",
+      "value": "Ekspordi tellimusi"
+    },
+    {
+      "name": "export_to",
+      "value": "Ekspordi asukohta"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Välised pleierid ei toeta seda tüüpi linke"
+    },
+    {
+      "name": "faq",
+      "value": "Edasi loe veebisaidist"
+    },
+    {
+      "name": "faq_description",
+      "value": "Kui sul tekib selle rakenduse kasutamisel probleeme, siis esmalt vaata, kas vastus leidub korduma kippuvate küsimuste hulgas!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Korduma kippuvad küsimused"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Kiirrežiim"
+    },
+    {
+      "name": "featured",
+      "value": "Esiletõstetud"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Uus"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Laadi kanali kaardid"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Andmevoo uuendamisel laaditavad kanali kaardid. Kui kanalite uuendamine toimub kiirrežiimis, siis see eelistus ei ole kasutusel."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Kas sa soovid selle kanalite rühma kustutada?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Rühmal puudub nimi"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Sa pole tellimusi valinud"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Vali tellimused"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Kanalirühmade leht"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Näita vaid rühmitamata tellimus"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Kanalite rühmad"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Näita järgmisi meediavooge"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Via voo laadimisel"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Voo '%s' laadimine ei õnnestnud."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Kiirvoo režiim ei paku selle kohta täiendavat teavet."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Autori konto on suletud. \nTulevikus ei saa NewPipe seda meediavoogu laadida. \nKas soovid tühistada selle kanali tellimuse?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Uued andmevoo kirjed"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Laadin andmevoogu…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Andmevoo viimane uuendus: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Töötlen andmevoogu…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Näita/peida meediavood"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Osaliselt vaadatud"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Tulemas"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Lõpuni vaadatud"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Pole laaditud: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Värskenda alati"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Aeg pärast viimast värskendust, mille möödudes loetakse tellimus aegunuks — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Voo värskendamise künnis"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Keela kiire režiim"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Luba kiire režiim"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Kas sinu meelest on voo laadimine aeglane? Sel juhul proovi lubada kiire laadimine (seda saad muuta seadetes või vajutades allolevat nuppu).\n\nNewPipe pakub kahte voo laadimise strateegiat:\n• Tellitud kanali täielik, kuid aeglane hankimine.\n• Teenuse spetsiaalse otspunkti kasutamine, mis on kiire, kuid tavaliselt mittetäielik.\n\nErinevus nende kahe vahel seisneb selles, et kiirel puudub tavaliselt teave, näiteks üksuse pikkus või tüüp (ei saa eristada reaalajas videoid tavalistest) ja see võib tagastada vähem üksusi.\n\nYouTube on näide teenusest, mis pakub seda kiirmeetodit oma RSS-vooga.\n\nNii et valik taandub sellele, mida eelistad: kiirus või täpne teave."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Saadaval mõnedes teenustes. See on tavaliselt palju kiirem, kuid võib tagastada piiratud koguse elemente ja sageli osalise informatsiooni (nt. puudub kestus, elemendi tüüp, laiv olek)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Hangi võimalusel spetsiaalsest voost"
+    },
+    {
+      "name": "file",
+      "value": "Fail"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Fail kustutati"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Tühi failinimi pole lubatud"
+    },
+    {
+      "name": "forward",
+      "value": "Keri edasi"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Mis on uut"
+    },
+    {
+      "name": "general_error",
+      "value": "Viga"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Loo kordumatu nimi"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "See sisu ei ole sinu riigis saadaval."
+    },
+    {
+      "name": "get_notified",
+      "value": "Saa teavitusi"
+    },
+    {
+      "name": "give_back",
+      "value": "Anneta"
+    },
+    {
+      "name": "grid",
+      "value": "Võrgustik"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Teavitused video räsimise edenemise kohta"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Teavitus video räsi kohta"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Parem kvaliteet (suurem)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Järjekorda lisamiseks vajuta"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Kasulik näiteks kui olukorras kui kõrvaklappide nupud on katki"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Eira nutiseadmes asuvate või seotud seadmete meedianuppude vajutusi"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Parim kvaliteet"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Madal kvaliteet"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Keskmine kvaliteet"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Ära laadi pilte"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Vali soovitud pildikvaliteet või sootuks ära luba piltide laadimist ning nii saad muuta võrguliikluse ja mälu mahtu. Muudatusega eemaldatakse puhverdatud pildid nii mälust kui andmekandjalt — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Pildikvaliteet"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Imporditud"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Alistab praeguse ajaloo, tellimused, esitusloendid ja (valikuliselt) sätted"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Impordi andmebaas"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Impordi fail"
+    },
+    {
+      "name": "import_from",
+      "value": "Impordi asukohast"
+    },
+    {
+      "name": "import_from_previous_export",
+      "value": "Impordi tellimusi varasemeksporditud failist"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "See toiming võib põhjustada suurt võrguliiklust.\n\n\n\nKas jätkata?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Import…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Kas importida ka seadistused?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Imporditavad andmed kasutavad turvaprobleemidega vormingut, mida alates versioonist 0.27.0 NewPipe enam kasutada ei suuda. Palun kontrolli, et impordifail on loodud usaldusväärse osapoole poolt ning eelista ekspordifaile, mis on loodud NewPipe'i versiooniga 0.27.0 või uuemaga. Tugi sellise vana vormingu kasutamisele kaob õige pea ja seejärel NewPipe'i uuemad ja vanemad versioonid ei saa omavahel andmeid enam vahetada."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Impordi SoundCloudi profiil trükkides URL või oma ID:\n\n\n\n1. Luba \"töölaua režiim\" veebilehitsejas (mobiilsete seadmete jaoks leht pole kättesaadav)\n\n2. Ava URL: %1$s\n\n3. Logi sisse\n\n4. Kopeeri suunatud profiili URL."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "sinu_ID, soundcloud.com/sinu_id"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Tellimusi saad importida või eksportida 3 punktiga menüüst"
+    },
+    {
+      "name": "import_subscriptions_summary",
+      "value": "Impordi tellimusi varasemeksporditud json-failist"
+    },
+    {
+      "name": "import_subscriptions_title",
+      "value": "Impordi tellimusi"
+    },
+    {
+      "name": "import_title",
+      "value": "Import"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Impordi YouTube tellimused Google väljavõttest:\n\n\n\n1. Ava aadress: %1$s\n\n2. Logi sisse, kui seda küsitakse.\n\n3. Klõpsa \"Kõigi andmetega\", vali \"Tühista kõik\", vali ainult \"Tellimused\" ja klõpsa \"OK\".\n\n4. Klõpsa \"Järgmine samm\" ja seejärel \"Loo eksport\".\n\n5. Klõpsa nupul \"Laadi alla\" siis, kui ta ilmub.\n\n6. Klõpsi siitsamast \"Impordi fail\" linki ning vali allalaaditud .zip fail.\n\n7. Kui .zip faili importimine ei toimi, siis paki .csv fail lahti (tavaliselt on see fail \"YouTube ja YouTube Muusika/tellimused/tellimused\" või \"YouTube and YouTube Music/subscriptions/subscriptions\") ja klõpsi siitsamast \"Impordi fail\" linki ning vali lahtipakitud csv fail."
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ videot"
+    },
+    {
+      "name": "info_labels",
+      "value": "Mis:\nPäring:\nSisu keel:\nSisu maa:\nRakenduse keel:\nTeenus:\nGMT aeg:\nPakett:\nVersioon:\nOS versioon:"
+    },
+    {
+      "name": "install",
+      "value": "Paigalda"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Kataloogi pole"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Puudub fail või puuduvad õigused seda faili lugeda või kirjutada"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Faili/sisu allikat pole"
+    },
+    {
+      "name": "just_once",
+      "value": "Üks kord"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "Üksikasjad"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "2025. aasta augustis teatas Google, et alates septembrist 2026 uute rakenduste paigaldamine kõikides uutes Androidi seadmetes eeldab arendajate verifitseerimist, sealhulgas juhtudel, kui selline rakendus on paigaldatud väljastpoolt Google Play rakendustepoodi. Kuna NewPipe'i arendajad pole sellise nõudmisega nõus, siis sellise aja saabumisel NewPipe enam ei toimi sertifitseeritud Androidi seadmetes."
+    },
+    {
+      "name": "kao_solution",
+      "value": "Lahendus"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Kioskivaade"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Kas paigaldame puuduva Kore rakenduse?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary pole saadaval"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Vali viibe meediamängija ekraani vasaku poole jaoks"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Toiming viipel vasakul poolel"
+    },
+    {
+      "name": "license",
+      "value": "Arendaja: %1$s, kasutatud litsents: %2$s"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Hele"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Piiranguta"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Piira lahutust mobiilse andmeside kasutamisel"
+    },
+    {
+      "name": "list",
+      "value": "Nimekiri"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Nimekirjavaate režiim"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Laadime metateavet…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Laadin meediavoo teavet…"
+    },
+    {
+      "name": "local",
+      "value": "Kohalikud"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Kohaliku otsingu soovitused"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Madalam kvaliteet (väiksem)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Alustamiseks toksa suurendusklaasi ikooni."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Avalehe sisu"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Esilehel kuvatavad vahekaardid"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Üksuse eemaldamiseks viipa"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Tõsta põhiline vahekaartide valija alla äärde"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Vahekaartide põhiline asukoht"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Kontrolli uuendusi käsitsi"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Märgi vaadatuks"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Suurim katsete arv enne allalaadimise tühistamist"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Korduskatseid"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Vanusepiir"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Tunnuspildid"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Reklaampildid"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Metaandmed kustutati vahemälust"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Kustuta veebilehtede andmed vahemälust"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Kustuta metaandmed vahemälust"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Kategooria"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Host"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Keel"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Litsents"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Privaatsus"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Sisemine"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Privaatne"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Avalik"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Määratlemata"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Alamkanali tunnuspilt"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Tellijad"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Kasutajatugi"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Sildid"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Pisipildid"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Üleslaadija tunnuspilt"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud on lõpetanud oma algse „Top 50“ edetabeli pidamise. Seega on ka vastav vahekaart meie rakenduse põhivaatest eemaldatud."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "SoundCloudi „Top 50“ leht on eemaldatud"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube on alates 21.07.25 lõpetanud ühendatud populaarsust koguvate videote lehe kasutamise. Mistõttu ka NewPipe on asendanud vaikimisi populaarsust koguvate videote lehe sarnase otse-eetri lehega.\n\n„Seadistused -> Sisu -> Avalehe sisu“ alt saad ka muid sarnaseid lehti seadistada."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "YouTube'i kombineeritud populaarsust koguvad videovoog on eemaldatud"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Esita taustal"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Pole"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Minimeeri hüpikpleierisse"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Tegevus lülitusel peamiselt videopleierilt teisele rakendusele — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Minimeeri, kui kasutad teisi rakendusi"
+    },
+    {
+      "name": "missing_file",
+      "value": "Faili asukoht on muutunud või on ta kustutatud"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Lõpetatud"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Ootel"
+    },
+    {
+      "name": "more_options",
+      "value": "Lisavalikud"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ videot"
+    },
+    {
+      "name": "most_liked",
+      "value": "Enim meeldimisi"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Arvutan räsi"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Kopeeriti lõikepuhvrisse"
+    },
+    {
+      "name": "msg_error",
+      "value": "Viga"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Lõikelauale kopeerimine ei õnnestunud"
+    },
+    {
+      "name": "msg_name",
+      "value": "Failinimi"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Need õigused on vajalikud\n\nhüpikakna avamiseks"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe'i on allalaadimisel"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Üksikasjade nägemiseks toksa"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Lõimed"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Palun oota…"
+    },
+    {
+      "name": "mute",
+      "value": "Summuta"
+    },
+    {
+      "name": "name",
+      "value": "Nimi"
+    },
+    {
+      "name": "navigate_back",
+      "value": "Tagasi"
+    },
+    {
+      "name": "network_error",
+      "value": "Võrgu viga"
+    },
+    {
+      "name": "never",
+      "value": "Ei iialgi"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Uus ja kuum"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "AVPlayer'i piirangute tõttu seadistasime otsingusammu %d sekundile"
+    },
+    {
+      "name": "next_stream",
+      "value": "Järgmine meediavoog"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "See valik on kasutusel vaid %s teema puhul"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Vali eelistatud teema öiseks kasutuseks — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Öine teema"
+    },
+    {
+      "name": "no",
+      "value": "Ei"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Ükski sinu seadme rakendus ei saa seda avada"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Selle tegevuse jaoks ei leidunud sobilikku failihaldurit.\n\nPalun paigalda nutiseadmesse failihaldur või proovi allalaadimiste seadistustest „%s“ välja lülitada"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Selle tegevuse jaoks ei leidunud sobilikku failihaldurit.\n\nPalun paigalda nutiseadmesse failihaldur, mis järgib Storage Access Framework reeglistikku"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Välise pleieri jaoks ei leidu sobilikke helivoogusid"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Vali määra allalaadimiste kataloog hiljem sätetes"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Kanaleid pole veel tellitud"
+    },
+    {
+      "name": "no_comments",
+      "value": "Kommentaare pole"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Allalaadimiste kaust on veel valimata - palun vali see nüüd"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Ühtegi andmevoo gruppi pole veel loodud"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Otseeetris meediavoogusid ei leidu"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Mitte keegi hetkel seda pala ei kuula"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Mitte keegi hetkel seda videot ei vaata"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Voogesituseks puudub pleier. Kas paigaldame VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Voogesituseks puudub pleier (selleks võid paigaldada VLC)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Esitusloendi järjehoidjaid veel pole"
+    },
+    {
+      "name": "no_streams",
+      "value": "Meediavoogusid ei leidu"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Allalaaditavaid videovooge pole"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Tellijaid pole"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Korralikku ZIP faili pole"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Välise pleieri jaoks ei leidu sobilikke videovoogusid"
+    },
+    {
+      "name": "no_videos",
+      "value": "Videoid pole"
+    },
+    {
+      "name": "no_views",
+      "value": "Pole vaadatud"
+    },
+    {
+      "name": "none",
+      "value": "Määratlemata"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Esimene tegevusnupp"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Teine tegevusnupp"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Kolmas tegevusnupp"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Neljas tegevusnupp"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Viies tegevusnupp"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Puhverdamine"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Mitte midagi"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Korda"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Aja segi"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Sa saad valida kuni kolm tegevust, mida kuvatakse lühiteavituses!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Muuda iga teavituse tegevusi sellel toksates. Vali märkekastides paremal kuni kolm teavitust, mida kuvada lühiteates."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Muuda iga teavituse tegevust sellel toksates. Kolm esimest tegevust (esita/peata esitus, eelmine video, järgmine video) on süsteemsed ja neid ei saa muuta."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "NewPipe'i meediaesitaja teavitused"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe'i teavitus"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Lase Androidil kohandada teavituse värvi vastavalt pisipildi peamisele värvile (igal seademel ei pruugi see olla saadaval)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Teavituse värvimine"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Kadreeri teavituses kuvatav video pisipilt 16:9 külgede suhtest 1:1 suhtesse"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Kadreeri pisipilt 1:1 küljesuhtesse"
+    },
+    {
+      "name": "notifications",
+      "value": "Teavitused"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Teavitused pole kasutusel"
+    },
+    {
+      "name": "off",
+      "value": "Väljalülitatatud"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "on",
+      "value": "Kasutusel"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 üksus kustutatud."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Ava veebilehitsejas"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Ava hüpikaknas"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Ava esitusjärjekord"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Vaata veebis"
+    },
+    {
+      "name": "open_with",
+      "value": "Ava rakendusega"
+    },
+    {
+      "name": "override_current_data",
+      "value": "See alistab praeguse seadistuse."
+    },
+    {
+      "name": "overwrite",
+      "value": "Kirjuta üle"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "faili asendamine ei õnnestu"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Selle nimega allalaaditud fail on juba olemas"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Sellise nimega fail on juba olemas"
+    },
+    {
+      "name": "paid_content",
+      "value": "See sisu on kättesaadav ainult tasulise teenuse kasutajatele, seega ei saa seda NewPipe'i kaudu voogedastada ega alla laadida."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Veebilehe töötlemine nurjus"
+    },
+    {
+      "name": "pause",
+      "value": "Paus"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Peata allalaadimised"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Katkesta mahupiiranguga võrkudes"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Kasulik mobiilsele andmesidele lülitumisel, kuigi mõningaid alla laadimisi ei saa peatada"
+    },
+    {
+      "name": "paused",
+      "value": "peatatud"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Instants on juba olemas"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Instantsi valideerimine nurjus"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Sisesta isendi URL"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Sa saad kasutada vaid HTTPS-urle"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Lisa isend"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Otsi endale meeldivaid aadressilt %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Vali PeerTube lemmikisendid"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube isendid"
+    },
+    {
+      "name": "percent",
+      "value": "Protsent"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Tegevus keelati süsteemi poolt"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Luba rakendust kuvada teiste rakenduste peal"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "Kasutamaks meediaesitajat hüpikaknas palun vali järgnevast Androidi seadistuste valikust „%1$s“ ja lülita sisse „%2$s“."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "Luba kuvamine teiste rakenduste peal"
+    },
+    {
+      "name": "play",
+      "value": "Esita"
+    },
+    {
+      "name": "play_all",
+      "value": "Esita kõik"
+    },
+    {
+      "name": "play_audio",
+      "value": "Heli"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Heli seaded"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Heli: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Eemalda"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Üksikasjad"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Esita Kodi abil"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Toon"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Lähtesta"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Taasesituse kiiruse juhtimine"
+    },
+    {
+      "name": "playback_step",
+      "value": "Samm"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Tempo"
+    },
+    {
+      "name": "player_http_403",
+      "value": "Esitamise ajal lisas server andmevoogu HTTP oleku 403 ning tavaliselt tähendab see, et voogedastuse võrguaadress on aegunud või sinu seadme IP-aadress on keelatud"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "Esitamise ajal lisas server andmevoogu HTTP oleku %1$s"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Pleieri veast taastumine"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Selle voo esitus nurjus"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Ilmnes taastamatu pleieri viga"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Lisasime esitusloendisse"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Topeltkirje lisatud %d kord(a)"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Esitusloend loodud"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Automaatselt loodud (üleslaadijat ei leidu)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Esitusloendite vaade"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Esitusloendi pisipilt on muudetud."
+    },
+    {
+      "name": "playlists",
+      "value": "Esitusloendid"
+    },
+    {
+      "name": "popup_player",
+      "value": "Hüpikpleier"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Taasesitus hüpikaknas"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Pea hüpikakna viimane suurus ja asukoht meeles"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Pea hüpikakna suurus ja asukoht meeles"
+    },
+    {
+      "name": "post_processing",
+      "value": "järeltöötlus"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Eelista nägemispuudega inimeste jaoks koostatud heliriba, kui selline on olemas"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Eelista kirjeldavat heliriba"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Sõltumata keelevalikutest eelista esmaseks määratud heliriba"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Eelista algset heliriba"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Vaikimisi tegevus sisu avamisel — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Lingi avamine"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Soovitud sisu laadimine"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Info hankimine…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Eelmine eksport"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Eelmine meediavoog"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "NewPipe võtab privaatsust väga tõsiselt. Seetõttu ei kogu rakendus ilma nõusolekuta mingeid andmeid. \nNewPipe'i andmekaitsepõhimõtted selgitavad üksikasjalikult, milliseid andmeid saadetakse ja kogutakse veateate saatmisel."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "NewPipe'i andmekaitsepõhimõtted"
+    },
+    {
+      "name": "private_content",
+      "value": "See sisu on privaatne, seega ei saa seda NewPipe'i kaudu voogedastada ega alla laadida."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Töötlen andmeid… Võib kuluda mõni hetk"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer'i vaikimisi väärtused"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Muuda video laadimise välpa (hetkel %s). Väiksemast väärtusest võib abi olla, kui tahad et video esitamine algaks varem"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Taasesituseks vajalike andmete laadimise samm"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "järjekorras"
+    },
+    {
+      "name": "radio",
+      "value": "Raadio"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Loe litsentsi"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Loe andmekaitsepõhimõtteid"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA küpsised on kustutatud"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "reCAPTCHA nõude taotlus"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Lahenda"
+    },
+    {
+      "name": "recent",
+      "value": "Hiljutised"
+    },
+    {
+      "name": "recently_added",
+      "value": "Hiljuti lisatud"
+    },
+    {
+      "name": "recovering",
+      "value": "taastatakse"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Sarnane meedia"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Kaugotsingu soovitused"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Eemalda topeltkirjed"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Kas sa soovid eemaldada kõik topelt meediavood sellest esitusloendist?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Kas eemaldame topeltkirjed?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Eemalda vaadatud videod"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Jah, sealhulgas videod, mille vaatmine jäi pooleli"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Kas eemaldame vaadatud meediavood?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Sellega eemaldame vaadatud meediavood ja esitusloendisse lisatud sisu. \nKas sa oled kindel?"
+    },
+    {
+      "name": "rename",
+      "value": "Muuda nime"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Muuda nime"
+    },
+    {
+      "name": "replay",
+      "value": "Korda esitust"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Kui lähtestad kõik seadistused, siis kõik sinu muudetud seadistused asendatakse vaikimisi väärtustega ja rakendus käivitub uuesti.\n\n\n\nKas sa soovid jätkata?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Lähtesta kõik seadistused nende vaikimisi väärtusteks"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Lähtesta seadistused"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Täida"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Mahuta"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Suumi"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Taasta vaikeväärtused"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Kas soovid taastada vaikeväärtused?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Sellel videol on vanusepiirang.\n\n\n\nKui sa soovid seda näha, siis lülita seadistustest „%1$s“ sisse."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Sellel videol on vanusepiirang.\n\nVastavalt YouTube uuetele reeglitele, mis käitlevad vanusepiirangutega materjali, NewPipe ei saa seda kätte ning vastavalt ei suuda seda ka esitada."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Jätka taasesitust pärast katkestamist (nt. telefonikõne)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Jätka taasesitust"
+    },
+    {
+      "name": "retry",
+      "value": "Proovi uuesti"
+    },
+    {
+      "name": "rewind",
+      "value": "Keri tagasi"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Vali viibe meediamängija ekraani parema poole jaoks"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Toiming viipel paremal poolel"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Tõrge salvestatud vahekaaride lugemisel; kasutatakse vaikeväärtusi"
+    },
+    {
+      "name": "search",
+      "value": "Otsi"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Otsinguajalugu kustutati"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Tulemusi pole"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Kuvatakse otsingu tulemusi: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Otsi: %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Otsi: %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Kiire edasi- ja tagasikerimise sammu pikkus"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Otsinguriba pisipildivaates"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Vali kanal"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Vali andmevoo grupp"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Vali kiosk"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Vali esitusloend"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Vali heliriba väliste meediamängijate jaoks"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Järgnevalt saad sa valida sobiva teema öiseks kasutuseks"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Vali välis pleieri jaoks sobilik kvaliteet"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Valitud meediavood ei ole toetatud välises pleieris"
+    },
+    {
+      "name": "semitone",
+      "value": "Pooltoon"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Määra esitusloendi pisipildiks"
+    },
+    {
+      "name": "settings",
+      "value": "Seaded"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Välimus"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Varundus ja taastamine"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Puhasta andmed"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Silumine"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Laadi alla"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Järgnevas saad hallata mõningaid AVPlayer'i seadistusi. Need muudatused vajavad jõustumiseks meediamängija uuesti käivitamist"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "AVPlayer'i seadistused"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Voog"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Ajalugu ja vahemälu"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Käitumine"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Seadista hetkel esitatava meediavoo teavitusi"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Meediamängija teavitused"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Pleier"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Uuendused"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Pilt ja heli"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Lubatud tähemärgid failinimedes"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Vigased tähemärgid asendatakse selle väärtusega"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Asendustähemärk"
+    },
+    {
+      "name": "share",
+      "value": "Jaga"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Jaga"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Jaga esitusloendit"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Jaga YouTube'i ajutise esitusloendina"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Jaga url'ide loendina"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Jagamisel lisa pealkirjad"
+    },
+    {
+      "name": "short_billion",
+      "value": "%s mld"
+    },
+    {
+      "name": "short_million",
+      "value": "%s mln"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%s tuh"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Näita sisu, mis vanusepiirangu tõttu ilmselt ei sobi lastele (näiteks 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Kuva vanusepiiranguga sisu"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Näita kanali lisateavet"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Kanali kaardid"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Kanali lehel kuvatavad kaardid"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Lülita välja, et peita kommentaarid"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Kuva kommentaarid"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Näitab valikut meediamängija kokkujooksutamiseks"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Näita „Jooksuta meediamängija kokku“ nupukest"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Lülita välja, et peita video kirjeldus ja lisateave"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Kuva kirjeldus"
+    },
+    {
+      "name": "show_error",
+      "value": "Näita viga"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Näita veateate akent"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Ainult mõned seadmed suudavad esitada 2K/4K videoid"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Kuva kõrgemaid lahutusi"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Kuva vihje, kui videoandmete lehel vajutatakse tausta või hüpikakna nupule \"Täpsemalt:\""
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Kuva vihjet \"lisamiseks hoia\""
+    },
+    {
+      "name": "show_info",
+      "value": "Kuva info"
+    },
+    {
+      "name": "show_less",
+      "value": "Näita vähem"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Näita mälulekkeid"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Lülita välja, et peita metateabe kastid lisateabega voo looja, sisu või otsingu päringuga"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Kuva metateave"
+    },
+    {
+      "name": "show_more",
+      "value": "Näita veel"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Kuva 'järgmine' ja 'sarnased' videod"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Teenuste algtekstid on nähtavad voo elementides"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Kuva üksuste algupärane aeg"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Kuva valik video esitamiseks Kodi meediakeskuse kaudu"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Kuva valik \"Esita Kodi abil\""
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Vali otsingu ajal kuvatavad soovitused"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Kuva soovitused"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Kasuta pisipilti nii lukustusvaate kui teavituste taustana"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Näita pisipilte"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s keeldus andmete edastamisest ning eeldab sisselogimist tuvastamaks, et tegemist pole robotiga.\n\nLisaks võib olla juhtunud, et %1$s on lisanud sinu seadme ip-aadressi ajutisse keelunimekirja. Sa võid oodata natuke aega või vahetada võrguühendus viisi (näiteks lülitades VPN sisse/välja või kasutades WiFi asemel mobiilset internetiühendust).\n\nLisateavet leiad <a href=\"%2$s\">siit korduva kippumate küsimuste</a> alajaotusest."
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Keri helitu koht edasi"
+    },
+    {
+      "name": "songs",
+      "value": "Laulud"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Vabandust, seda poleks pidanud juhtuma."
+    },
+    {
+      "name": "sort",
+      "value": "Sortimine"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Vähemalt sinu riigis on see SoundCloud Go+ teenuse lugu, seega ei saa seda NewPipe'i kaudu voogedastada ega alla laadida."
+    },
+    {
+      "name": "start",
+      "value": "Start"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Selleks, et täita Euroopa Üldist Andmekaitse Määrust (GDPR), juhime tähelepanu NewPipe'i andmekaitsepõhimõtetele. Palun loe seda hoolikalt. \nMeile veateate saatmiseks pead sellega nõustuma."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Alusta allalaadimistega"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Hakka taustal mängima"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Hakka mängima hüpikaknas"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Kui ekraani pööramine on lukustatud, siis videote esitamisel ära käivita väikest vaadet, vaid käivita kohe täisekraanivaade. Viimasest väljumisel näed väikest esitusvaadet"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Käivita meediamängija täisekraanivaates"
+    },
+    {
+      "name": "stop",
+      "value": "Stopp"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Need meediavood, mida allalaadija ei oska kasutada, on peidetud"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Tellimuste-kohaste uute meedivoogude teavitused"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Uued meediavood"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Kontrollimise sagedus"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Võrguühendus on vajalik"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Telli"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Tellitud"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Tellijate arv pole saadaval"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Tellimust ei saanud muuta"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Tellimust ei õnnestunud uuendada"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Tellimuste eksport nurjus"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Tellimuste import nurjus"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Kui oled lõpetanud, siis vajuta „Valmis“ nuppu"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Lülita taustale"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Lülitu peamisele"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Lülita hüpikpleierile"
+    },
+    {
+      "name": "systems_language",
+      "value": "Kasuta süsteemi keelt"
+    },
+    {
+      "name": "tab_about",
+      "value": "Rakenduse teave ja KKK"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Esitusloendid järjehoidjates"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Esitusloendid"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Vali vahekaart"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Litsentsid"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Tellimused"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Vaade tahvelarvuti jaoks"
+    },
+    {
+      "name": "theme_title",
+      "value": "Teema"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Pildid kustutati vahemälust"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Rakenduse teave: NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Ajalugu"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Esitusjärjekord"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA nõue"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Viimati esitatud"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Kolmanda osapoole litsentsid"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Enim esitatud"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Lülita kõik sisse"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Lülita täisekraan sisse/välja"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Vaheta ekraani paigutust"
+    },
+    {
+      "name": "top_50",
+      "value": "Top 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Lood"
+    },
+    {
+      "name": "trending",
+      "value": "Trendid"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Populaarsust koguvad mängud"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Populaarsust koguvad filmid ja telesarjad"
+    },
+    {
+      "name": "trending_music",
+      "value": "Populaarsust koguv muusika"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Populaarsust koguvad taskuhäälingud"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Eemalda järjehoidja"
+    },
+    {
+      "name": "undo",
+      "value": "Võta tagasi"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Lahuta ühendus (võib põhjustada moonutusi)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Teadmata"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Tundmatu]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Tundmatu vorming"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Teadmata kvaliteet"
+    },
+    {
+      "name": "unmute",
+      "value": "Lõpeta summutamine"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Eemalda püsiv pisipilt"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Lõpeta tellimine"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "See sisu pole saadaval hetkel kehtvas riigis.\n\nRiiki saad muuta: Seadistused > Sisu > Sisu vaikimisi riik."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Mitte toetatud URL"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "URLi tuvastamine nurjus. Kas avada mõne teise rakendusega?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Kuva teavitus, kui uus versioon on saadaval"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Uuendused"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Avaldatud %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Kasuta seda võimalust, kui põhidekooder ei käivitu korralikult. Selle asemel laaditakse alternatiivne dekooder, kuid tulemuseks võib olla kehvem taasesituse kvaliteet"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Kasuta AVPlayer'i alternatiivset dekooderit"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Kasuta välist audiopleierit"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Eemaldab audio mõnedel lahutustel"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Kasuta välist videopleierit"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Ebatäpne kerimine lubab meediamängijal otsida asukohta kiiremini täpsuse arvel. Sellega ei tööta 5, 15 või 25 sekundi kaupa kerimine"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Kasuta ebatäpset kerimist"
+    },
+    {
+      "name": "users",
+      "value": "Kasutajad"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Autor: %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Videopleier"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Videovooge ei leitud"
+    },
+    {
+      "name": "videos_string",
+      "value": "Videod"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Vaata GitHubis"
+    },
+    {
+      "name": "volume",
+      "value": "Helitugevus"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Vaatamiste ajalugu kustutati"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Taasesituste asukohad on kustutatud"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Täiendava info ja uudiste lugemiseks külasta NewPipe'i veebisaiti."
+    },
+    {
+      "name": "website_title",
+      "value": "Veebisait"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Info:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Mis juhtus:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Vaid Wi-Fi võrgus"
+    },
+    {
+      "name": "yes",
+      "value": "Jah"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Sa oled nüüd selle kanali tellija"
+    },
+    {
+      "name": "your_comment",
+      "value": "Oma kommentaar (inglise keeles):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "See video on saadaval ainult YouTube Music Premium teenuse tellijatele, seega ei saa seda NewPipe'i kaudu voogedastada ega alla laadida."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "Esitamise ajal lisas server andmevoogu HTTP oleku 403 ning tavaliselt tähendab see, et sinu seadme IP-aadress on keelatud või voogedastuse võrguaadressi hägustamisvastastes meetmetes on viga"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube'is leiduv „Piiratud režiim“ peidab võimaliku täiskasvanutele mõeldud sisu"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Võta kasutusele YouTube'i „Piiratud režiim“"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

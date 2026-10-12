@@ -1,0 +1,294 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "יום"
+        },
+        {
+          "quantity": "two",
+          "value": "יומיים"
+        },
+        {
+          "quantity": "many",
+          "value": "%d ימים"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ימים"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "הורדה אחת נמחקה"
+        },
+        {
+          "quantity": "two",
+          "value": "%1$s הורדות נמחקו"
+        },
+        {
+          "quantity": "many",
+          "value": "%1$s הורדות נמחקו"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s הורדות נמחקו"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "הורדה הסתיימה"
+        },
+        {
+          "quantity": "two",
+          "value": "%s הורדות הסתיימו"
+        },
+        {
+          "quantity": "many",
+          "value": "%s הורדות הסתיימו"
+        },
+        {
+          "quantity": "other",
+          "value": "%s הורדות הסתיימו"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "נבחר אחד"
+        },
+        {
+          "quantity": "two",
+          "value": "%d נבחרו"
+        },
+        {
+          "quantity": "many",
+          "value": "%d נבחרו"
+        },
+        {
+          "quantity": "other",
+          "value": "%d נבחרו"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "שעה"
+        },
+        {
+          "quantity": "two",
+          "value": "שעתיים"
+        },
+        {
+          "quantity": "many",
+          "value": "%d שעות"
+        },
+        {
+          "quantity": "other",
+          "value": "%d שעות"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "מאזין %s"
+        },
+        {
+          "quantity": "two",
+          "value": "%s מאזינים"
+        },
+        {
+          "quantity": "many",
+          "value": "%s מאזינים"
+        },
+        {
+          "quantity": "other",
+          "value": "%s מאזינים"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "דקה"
+        },
+        {
+          "quantity": "two",
+          "value": "שתי דקות"
+        },
+        {
+          "quantity": "many",
+          "value": "%d דקות"
+        },
+        {
+          "quantity": "other",
+          "value": "%d דקות"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "תזרים חדש"
+        },
+        {
+          "quantity": "two",
+          "value": "%s תזרימים חדשים"
+        },
+        {
+          "quantity": "many",
+          "value": "%s תזרימים חדשים"
+        },
+        {
+          "quantity": "other",
+          "value": "%s תזרימים חדשים"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "תשובה %s"
+        },
+        {
+          "quantity": "two",
+          "value": "%s תשובות"
+        },
+        {
+          "quantity": "other",
+          "value": "%s תשובות"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "שנייה אחת"
+        },
+        {
+          "quantity": "two",
+          "value": "שתי שניות"
+        },
+        {
+          "quantity": "many",
+          "value": "%d שניות"
+        },
+        {
+          "quantity": "other",
+          "value": "%d שניות"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "מנוי אחד"
+        },
+        {
+          "quantity": "two",
+          "value": "שני מנויים"
+        },
+        {
+          "quantity": "many",
+          "value": "%s מנויים"
+        },
+        {
+          "quantity": "other",
+          "value": "%s מנויים"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "סרטון %s"
+        },
+        {
+          "quantity": "two",
+          "value": "%s סרטונים"
+        },
+        {
+          "quantity": "many",
+          "value": "%s סרטונים"
+        },
+        {
+          "quantity": "other",
+          "value": "%s סרטונים"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "צפייה אחת"
+        },
+        {
+          "quantity": "two",
+          "value": "שתי צפיות"
+        },
+        {
+          "quantity": "many",
+          "value": "%s צפיות"
+        },
+        {
+          "quantity": "other",
+          "value": "%s צפיות"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "צופה %s"
+        },
+        {
+          "quantity": "two",
+          "value": "%s צופים"
+        },
+        {
+          "quantity": "many",
+          "value": "%s צופים"
+        },
+        {
+          "quantity": "other",
+          "value": "%s צופים"
+        }
+      ]
+    }
+  ]
+}

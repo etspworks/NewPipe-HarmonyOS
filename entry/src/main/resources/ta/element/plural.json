@@ -1,0 +1,186 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d நாள்"
+        },
+        {
+          "quantity": "other",
+          "value": "%d நாட்கள்"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%1$s பதிவிறக்கம் அழிக்கபட்டது"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s பதிவிறக்கங்கள் அழிக்கபட்டன"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "பதிவிறக்கம் முடிந்தது"
+        },
+        {
+          "quantity": "other",
+          "value": "%s பதிவிறக்கங்கள் முடிந்தன"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d தேர்ந்தெடுக்கப்பட்டது"
+        },
+        {
+          "quantity": "other",
+          "value": "%d தேர்ந்தெடுக்கப்பட்டன"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d மணி"
+        },
+        {
+          "quantity": "other",
+          "value": "%d மணிநேரம்"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s கேட்பவர்"
+        },
+        {
+          "quantity": "other",
+          "value": "%s கேட்போர்"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d மணித்துளி"
+        },
+        {
+          "quantity": "other",
+          "value": "%d நிமிடங்கள்"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s புதிய ச்ட்ரீம்"
+        },
+        {
+          "quantity": "other",
+          "value": "%s புதிய நீரோடைகள்"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s பதில்"
+        },
+        {
+          "quantity": "other",
+          "value": "%s பதில்கள்"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d இரண்டாவது"
+        },
+        {
+          "quantity": "other",
+          "value": "%d விநாடிகள்"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s பின் தொடர்பவர்"
+        },
+        {
+          "quantity": "other",
+          "value": "%s பின் தொடர்பவர்கள்"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s காணொளி"
+        },
+        {
+          "quantity": "other",
+          "value": "%s காணொளிகள்"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s பார்வை"
+        },
+        {
+          "quantity": "other",
+          "value": "%s பார்வைகள்"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s பார்க்கிறார்"
+        },
+        {
+          "quantity": "other",
+          "value": "%s பார்க்கிறார்கள்"
+        }
+      ]
+    }
+  ]
+}

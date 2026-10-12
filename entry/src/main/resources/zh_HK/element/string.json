@@ -1,0 +1,2908 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "接受"
+    },
+    {
+      "name": "account_terminated",
+      "value": "已終止帳戶"
+    },
+    {
+      "name": "action_history",
+      "value": "紀錄"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "加入去播放清單"
+    },
+    {
+      "name": "albums",
+      "value": "專輯"
+    },
+    {
+      "name": "all",
+      "value": "全部嘢"
+    },
+    {
+      "name": "always",
+      "value": "幾時都係"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "幾時都問"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "呢個解決方法係喺發生表面變動嗰陣釋放同埋重新確認視訊編解碼器，而非直接將表面設定做編解碼器。ExoPlayer 已經喺部份有問題嘅裝置上使用了呢個設定，呢個設定僅係對 Android 6 或以上嘅更新版本有效。\n\n\n\n啟用呢個選項可以避免喺切換現有視訊播放程式或切換到全螢幕時出現播放錯誤"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "幾時都用 AVPlayer嘅浮面影片輸出設定解決方法"
+    },
+    {
+      "name": "any_network",
+      "value": "咩網絡都無所謂"
+    },
+    {
+      "name": "app_description",
+      "value": "喺 HarmonyOS 上盡享自由輕快嘅串流。"
+    },
+    {
+      "name": "app_language_title",
+      "value": "個 App 用咩語言"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe 係「著佐權」(copyleft) 嘅自由軟件：你可以隨意使用、考究、分享同改進佢。具體而言，你可以依據自由軟件基金會發佈嘅《GNU 通用公眾特許條款》第 3 版或 (按你選擇) 之後任一版本之下嘅條款，重新分發及/或修改呢個軟件。"
+    },
+    {
+      "name": "app_license_title",
+      "value": "NewPipe 嘅版權協議"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "App/界面閃退"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "撳一下去下載 %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "NewPipe 出咗更新喇！"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "NewPipe 有新版本嘅通知"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "App 更新通知"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "你已經用緊最新版本嘅 NewPipe"
+    },
+    {
+      "name": "artists",
+      "value": "演出者"
+    },
+    {
+      "name": "audio",
+      "value": "聲音"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "搵唔到聲音串流"
+    },
+    {
+      "name": "audio_track",
+      "value": "音軌"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "呢個串流已經有音軌喇"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "旁述"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "配音"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "原聲"
+    },
+    {
+      "name": "auto",
+      "value": "自動"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "明或暗 (跟返部機嘅主題色系)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "排隊清單嘅片要播完嘅時候 (並未設定循環播放) ，就追加一條相似性質嘅串流片"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "自動輪候接落串流"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "自動輪候"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe 可以周不時自動睇過有冇新版本，一出咗就通知您。\n\n您想唔想啟用呢個功能？"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "自動開始播放 — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "自動播放"
+    },
+    {
+      "name": "background_player",
+      "value": "背景播放器"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "幕後播緊"
+    },
+    {
+      "name": "best_resolution",
+      "value": "最佳解像度"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "紅日降"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "空白頁"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "收起播放清單"
+    },
+    {
+      "name": "brightness",
+      "value": "調整光暗度"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "自動產生"
+    },
+    {
+      "name": "caption_none",
+      "value": "無字幕"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "修改播放器字幕大細同背景款式。要重新開過個 app 先會生效"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "字幕"
+    },
+    {
+      "name": "card",
+      "value": "一張張"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "由 %s 建立"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "頻道頁面"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "簡介"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "專輯"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "頻道"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "直播"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "播放清單"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "短片"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "曲目"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "影片"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "已取消訂閱頻道"
+    },
+    {
+      "name": "channels",
+      "value": "頻道"
+    },
+    {
+      "name": "chapters",
+      "value": "章節"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "字母同數目字"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "大部份嘅特殊字元"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "檢查有冇更新"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "執行檢查有冇新加串流"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "檢查緊有冇更新…"
+    },
+    {
+      "name": "checksum",
+      "value": "校驗碼"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "揀選一個站"
+    },
+    {
+      "name": "clear",
+      "value": "抹走"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "抹走當你完成 reCAPTCHA 嘅時候， NewPipe 儲存嘅 Cookie"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "抹走 reCAPTCHA Cookie"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "抹走下載紀錄"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "全部剷走晒播放到邊個位"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "剷走播放到邊個位"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "目前播放器嘅排隊列表將會清走"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "轉換播放器嘅時候，排隊列表可能會清走"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "問咗先至將排隊列表清走"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "剷走晒搜尋關鍵字嘅紀錄"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "抹走搜尋紀錄"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "剷走播放過嘅串流同之前啲片睇到邊嘅紀錄"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "抹走播放紀錄"
+    },
+    {
+      "name": "close",
+      "value": "閂埋佢"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "未開放留言"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "留言"
+    },
+    {
+      "name": "conferences",
+      "value": "聚首"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "你想抹走你嘅下載紀錄，定係想剷走晒所有下載咗嘅檔案？"
+    },
+    {
+      "name": "content",
+      "value": "內容"
+    },
+    {
+      "name": "content_language_title",
+      "value": "預設內容語言"
+    },
+    {
+      "name": "content_not_available",
+      "value": "未能提供內容"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "NewPipe 仲未支援到呢樣。\n\n\n\n希望未來會喺日後嘅版本支援啦。"
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "無論你對翻譯、設計改動、打掃程式碼，抑或開山劈石編寫程式碼有咩偈仔，都勁歡迎你嚟幫手。聚沙成塔，眾志成城！"
+    },
+    {
+      "name": "contribution_title",
+      "value": "貢獻"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "加入去"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "幕後播"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "下載串流檔案"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "浮面播"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "複製執咗格式嘅報告"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s %2$s 版權所有，根據 %3$s 嘅條款授權"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "警告：未能匯入晒全部檔案。"
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "載入唔晒全部縮圖"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "設定唔到下載功能表"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "令個 app 閃退"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "令播放器閃退"
+    },
+    {
+      "name": "create",
+      "value": "加新"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "建立一則出現錯誤通知"
+    },
+    {
+      "name": "create_playlist",
+      "value": "新嘅播放清單"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "黑眼睛"
+    },
+    {
+      "name": "decline",
+      "value": "拒絕"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "預設聲音檔案格式"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "預設嘅國家內容"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "預設嘅互動站（Kiosk）"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "預設浮面播放器嘅解像度"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "預設嘅解像度"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "預設嘅影片檔案格式"
+    },
+    {
+      "name": "delete",
+      "value": "剷走"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "剷走下載咗嘅檔案"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "係咪要喺磁碟機上面消除晒全部下載咗嘅檔案？"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "你係咪想喺搜尋紀錄度剷走呢個項目？"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "係咪要全部剷走晒之前啲片嘅播放位置嘅紀錄？"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "係咪要剷走呢個播放清單？"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "係咪要全部剷走晒搜尋嘅紀錄？"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "係咪要全部剷走晒睇片嘅紀錄？"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "停止揀選描述入面嘅文字"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "啟用揀選描述入面嘅文字"
+    },
+    {
+      "name": "description_select_note",
+      "value": "你而家可以揀選喺描述入面嘅文字喇。不過要單聲先，喺揀選模式嘅時候，版面可能會有啲眨，同埋啲連結可能會撳唔到。"
+    },
+    {
+      "name": "description_tab_description",
+      "value": "描述"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "負皮"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "拖條片去執好清單排位"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "創作者畀咗心心"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "讚好"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "置頂留言"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "頻道嘅頭像縮圖"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "播放影片，片長："
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "上載者嘅頭像縮圖"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "你係咪想搵「%1$s」？"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "已知您部機個型號唔支援多媒體隧道，因此預設已經停用咗先。"
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "若果播片嘅時候窒下窒下或者黑畫面，就停用多媒體隧道啦。"
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "停用多媒體隧道"
+    },
+    {
+      "name": "disabled",
+      "value": "不適用"
+    },
+    {
+      "name": "dismiss",
+      "value": "明白"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe 係由一班熱心人用空閒時間義務咁開發㗎，為咗帶畀你最佳嘅使用體驗。係時候慷慨解囊，撐返開發者嘅付出，使 NewPipe 更臻完美，同時畀杯咖啡佢哋嘆下。"
+    },
+    {
+      "name": "donation_title",
+      "value": "課金"
+    },
+    {
+      "name": "done",
+      "value": "搞掂"
+    },
+    {
+      "name": "dont_show",
+      "value": "唔顯示"
+    },
+    {
+      "name": "download",
+      "value": "下載"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "有個等緊嘅下載撞名"
+    },
+    {
+      "name": "download_already_running",
+      "value": "有個整緊嘅下載撞名"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "下載"
+    },
+    {
+      "name": "download_failed",
+      "value": "下載失敗"
+    },
+    {
+      "name": "download_has_started",
+      "value": "開始咗下載"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "揀選音樂檔案嘅下載文件夾"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "下載咗嘅音樂檔案會收埋喺度"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "音樂下載文件夾"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "揀選影片檔案嘅下載文件夾"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "下載咗嘅影片檔案會收埋喺度"
+    },
+    {
+      "name": "download_path_title",
+      "value": "影片下載路徑"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "冇得下載落外置 SD 卡嗰度。要唔要重設下載資料夾嘅位置？"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "外置儲存空間用唔到"
+    },
+    {
+      "name": "downloads",
+      "value": "下載"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "每次下載都會問你要儲存去邊。\n\n如果你想儲存落外置 SD 卡入面，請啟用系統資料夾揀選器 (SAF)"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "每次下載都會問你要儲存去邊"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "問我要下載去邊"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "「儲存空間存取框架」係畀你下載落外置 SD 卡嗰度"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Android 10 打上，局住要用「儲存空間存取框架」"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "用系統資料夾揀選器 (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "下載"
+    },
+    {
+      "name": "drawer_close",
+      "value": "閂埋選單"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "轉換服務，而家揀選咗嘅係："
+    },
+    {
+      "name": "drawer_open",
+      "value": "開啟選單"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "灰咗嘅播放清單，即係已經有呢個項目。"
+    },
+    {
+      "name": "duration",
+      "value": "片長"
+    },
+    {
+      "name": "duration_live",
+      "value": "直播"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "大笪地"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "強制報告喺片段或週期棄置後送遞唔到嘅 Rx 狀況"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "報告週期完結後嘅錯誤"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "記憶體洩露監測喺傾卸堆疊嘢嘅時候，或者會導致個 app 冇反應"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "返返去最後播放嘅嗰個位"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "恢復播放"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "喺清單入面顯示最後播放到去邊個位"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "清單度睇到播到去邊"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "輪住嚟下載"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "下載要排隊逐個嚟"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "喺本機儲低搵過嘅紀錄"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "搜尋紀錄"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "通知訂閱有新嘅串流"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "新嘅串流通知"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "記低晒睇過嘅影片"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "有睇過有紀錄"
+    },
+    {
+      "name": "enqueue",
+      "value": "排隊排隊尾"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "攝咗做下個播"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "排隊尾等待播放"
+    },
+    {
+      "name": "enqueued",
+      "value": "排咗去隊尾"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "攝咗做下個播"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": "、"
+    },
+    {
+      "name": "error_connect_host",
+      "value": "連接唔到伺服器"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "詳情："
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "呢個下載檔案恢復唔到"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "建立唔到呢個檔案"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "伺服器冇傳返資料嚟"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "唔見咗影"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "伺服器唔接受多執行緒下載，請改用 @string/msg_threads = 1 再試下啦"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "部機冇晒位"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "部機冇晒位"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "發生錯誤：%1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "建立唔到呢個目的地資料夾"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "後期處理失敗"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe 未搞掂個檔案就閂埋咗"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "做做下冇咗，因為個檔案刪除咗"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "以電郵報告"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "報告問題嘅通知"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "問題報告通知"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe 遇到問題，撳一下去報告"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "發生問題，詳見通知"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "請睇過係咪已經有人喺度講緊你呢次彈 app 嘅狀況。若然重複發表已有嘅議題，就會嘥咗我哋可以真正用嚟修復其他錯漏嘅時間㗎喇。"
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "去 GitHub 度報告"
+    },
+    {
+      "name": "error_report_title",
+      "value": "問題報告"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "報告"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "出咗啲問題，唔好意思。"
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "建立唔到安全連線"
+    },
+    {
+      "name": "error_timeout",
+      "value": "等太耐連線"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "載入唔到留言"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "搵唔到伺服器"
+    },
+    {
+      "name": "events",
+      "value": "事件"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "匯出咗"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "匯出紀錄、訂閱、播放清單，同埋設定"
+    },
+    {
+      "name": "export_data_title",
+      "value": "匯出資料庫"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "匯出緊…"
+    },
+    {
+      "name": "export_to",
+      "value": "匯出去呢度"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "外置播放器唔支援呢類型嘅連結"
+    },
+    {
+      "name": "faq",
+      "value": "去網站睇下"
+    },
+    {
+      "name": "faq_description",
+      "value": "若然你係用緊呢個 app嗰陣有疑問，然而「亦有些難啟齒」，不妨睇下常見問題集，話唔定會發現「有場舞還未發表」！"
+    },
+    {
+      "name": "faq_title",
+      "value": "常見問題"
+    },
+    {
+      "name": "fast_mode",
+      "value": "快速模式"
+    },
+    {
+      "name": "featured",
+      "value": "精選"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "新"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "攞邊啲頻道分頁"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "更新摘要嘅時候要攞邊啲分頁返嚟。若果頻道用快速模式更新，就橫豎都無相干嘞。"
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "你係咪要刪除呢個谷？"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "成谷名留空"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "未有揀選訂閱"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "揀選訂閱"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "淨係顯示未成谷嘅訂閱"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "頻道成谷"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "下列嘅串流見得光"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "載入摘要嘅時候發生問題"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "載入唔到「%s」嘅摘要。"
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "快速摘要模式就此冇補充。"
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "著作者嘅帳戶已經被終止。\n\nNewPipe 日後唔會載入到呢個摘要。\n\n你要唔要取消訂閱呢個頻道？"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "新嘅摘要項目"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "載入緊摘要…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "摘要上次更新到：%s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "處理緊摘要…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "顯示/隱藏串流"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "未睇晒"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "未夠鐘上畫"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "睇晒"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "未有載入：%d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "幾時都照更新"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "訂閱對上一次更新後，隔幾耐視之為過時 — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "摘要隔幾耐要更新"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "停用快速模式"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "啟用快速模式"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "係咪覺得摘要「懸浮於半路太久，可否再快兩步」？可以試下啟用快速載入 (你可以喺設定度更改，又或者撳一下下低個掣)。\n\nNewPipe 提供兩種載入摘要嘅方針：\n• 攞晒成個訂閱頻道，慢得嚟志在夠完整。\n• 用特設嘅服務終端，快得嚟啲料爭少少。\n\n兩者嘅分別在於，快趣嗰個通常都係爭咁啲料：譬如話項目嘅片長同類型 (分唔到係直播定上載)，同埋攞返嚟數目可能會少啲。\n\nYouTube 就係其中一個有用 RSS 摘要提供呢個快趣門路嘅服務。\n\n所以就睇你點揀：想快定要準。"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "某啲服務有提供，通常會快趣好多，但項目數量可能有限同埋資訊欠奉 (例如片長、項目類型、直播狀態)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "有得攞就攞特設摘要"
+    },
+    {
+      "name": "file",
+      "value": "檔案"
+    },
+    {
+      "name": "file_deleted",
+      "value": "剷走咗個檔案"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "檔名冇得留空"
+    },
+    {
+      "name": "forward",
+      "value": "跳前"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "有咩新嘢"
+    },
+    {
+      "name": "general_error",
+      "value": "問題"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "產生獨一無二嘅名稱"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "呢部內容限區，喺你所在國家未有提供。"
+    },
+    {
+      "name": "get_notified",
+      "value": "收取通知"
+    },
+    {
+      "name": "give_back",
+      "value": "少少無拘"
+    },
+    {
+      "name": "grid",
+      "value": "一格格"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "影片雜湊進度嘅通知"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "影片雜湊通知"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "高畫質 (大格啲)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "撳住就輪候"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "譬如話你用耳機嗰陣，撳上面啲實體掣就會有用"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "忽略硬件多媒體掣嘅事件"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "高畫質"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "低畫質"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "一般畫質"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "唔要載入啲圖"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "揀選啲圖嘅畫質，定索性唔載入啲圖，去慳啲用數據同記憶體。更改會抹走記憶體同磁碟入面嘅影像快取 — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "啲圖嘅畫質"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "匯入咗"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "冚過你目前嘅紀錄、訂閱、播放清單，同埋 (有得揀係咪冚埋) 設定"
+    },
+    {
+      "name": "import_data_title",
+      "value": "匯入資料庫"
+    },
+    {
+      "name": "import_file_title",
+      "value": "匯入檔案"
+    },
+    {
+      "name": "import_from",
+      "value": "由呢處匯入"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "請注意：呢項操作可能相當消耗網絡數據。\n\n\n\n你係咪要繼續？"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "匯入緊…"
+    },
+    {
+      "name": "import_settings",
+      "value": "你想唔想匯入埋啲設定？"
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "輸入 URL 或者你嘅 ID 去匯入 SoundCloud 個人檔案：\n\n\n\n一、喺網頁瀏覽器啟用「桌面版模式」(個網唔支援手機版)\n\n二、去呢個網址：%1$s\n\n三、叫你登入就去馬\n\n四、複製佢彈返畀你去個人檔案嗰版個 URL。"
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "你個 ID、soundcloud.com/你個id"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "右上角嘅選單有得匯入或匯出訂閱"
+    },
+    {
+      "name": "import_title",
+      "value": "匯入"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "點樣用 Google 匯出嚟匯入 YouTube 訂閱：\n\n\n\n一、去呢個網址：%1$s\n\n二、叫你就登入\n\n三、撳一下「包含所有資料」，再撳一下「全部不選」，之後淨係剔返「訂閱」，然後撳「確定」\n\n四、撳一下「下一步」然後揀「建立匯出」\n\n五、個掣騷出嚟嘅時候就撳一下「下載」\n\n六、返返嚟呢度，喺下低撳「匯入檔案」，揀返下載咗嗰個 .zip 檔案\n\n七、[個 .zip 匯入唔到點算好] 將個 .csv 檔案解壓縮抽返出嚟 (通常係擺喺「YouTube and YouTube Music/subscriptions/subscriptions.csv」)，喺下低撳「匯入檔案」，揀返抽出嚟個 csv 檔案"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ 部影片"
+    },
+    {
+      "name": "info_labels",
+      "value": "經過：\n請求：\n內容語言：\n內容國家：\nApp 語言：\n服務：\nGMT 時間：\n封裝：\n版本：\nOS 版本："
+    },
+    {
+      "name": "install",
+      "value": "安裝"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "冇呢個資料夾"
+    },
+    {
+      "name": "invalid_file",
+      "value": "個檔案唔喺度，又或者欠缺讀寫權限"
+    },
+    {
+      "name": "invalid_source",
+      "value": "冇呢個檔案/內容來源"
+    },
+    {
+      "name": "just_once",
+      "value": "一次咁多"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "互動頁面"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "裝唔裝缺少咗嘅 Kore app？"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary 用唔到"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "揀選左手邊播放器螢幕嘅手勢"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "左手邊手勢動作"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "白頭浪"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "無限制"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "用流動數據嘅時候限制解像度"
+    },
+    {
+      "name": "list",
+      "value": "一行行"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "清單檢視模式"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "載入緊元資料…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "載入緊串流詳細資料…"
+    },
+    {
+      "name": "local",
+      "value": "站內"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "本機搜尋建議"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "低畫質 (細格啲)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "撳放大鏡開始。"
+    },
+    {
+      "name": "main_page_content",
+      "value": "頭條新嘢"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "頭版要擺放邊啲分頁"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "打橫掃走啲項目去剷走佢"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "主畫面嘅分頁揀選搬落最底"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "主畫面分頁擺位"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "手動檢查下有冇新版本"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "剔低睇過"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "試盡幾多次就取消個下載算數"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "頂櫳重試幾多次"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "年齡限制"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "頭像"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "橫額"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "抹除咗元資料快取"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "移除所有網頁嘅快取資料"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "抹除元資料快取"
+    },
+    {
+      "name": "metadata_category",
+      "value": "分類"
+    },
+    {
+      "name": "metadata_host",
+      "value": "主機"
+    },
+    {
+      "name": "metadata_language",
+      "value": "語言"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "版權協議"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "公開設定"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "內部"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "私人"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "公開"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "憑網址瀏覽"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "子頻道嘅頭像"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "訂閱者"
+    },
+    {
+      "name": "metadata_support",
+      "value": "支援"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "標籤"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "縮圖"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "上載者嘅頭像"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "借過幕後播"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "上返行人路"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "借過浮面播"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "當喺主影片播放器轉去第個 app 嘅時候點做好 — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "轉 app 嘅時候借過"
+    },
+    {
+      "name": "missing_file",
+      "value": "檔案搬走咗或剷走咗"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "完成咗"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "仲等緊"
+    },
+    {
+      "name": "more_options",
+      "value": "其他選項"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ 部影片"
+    },
+    {
+      "name": "most_liked",
+      "value": "最多讚"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "計算緊雜湊"
+    },
+    {
+      "name": "msg_copied",
+      "value": "複製咗去剪貼簿"
+    },
+    {
+      "name": "msg_error",
+      "value": "錯誤"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "複製唔到去剪貼簿"
+    },
+    {
+      "name": "msg_name",
+      "value": "檔案名稱"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "以浮面模式開啟\n\n有呢個權限至得"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe 下載緊"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "撳一下睇詳情"
+    },
+    {
+      "name": "msg_threads",
+      "value": "執行緒數量"
+    },
+    {
+      "name": "msg_wait",
+      "value": "請等等…"
+    },
+    {
+      "name": "mute",
+      "value": "噤聲"
+    },
+    {
+      "name": "name",
+      "value": "名稱"
+    },
+    {
+      "name": "network_error",
+      "value": "網絡問題"
+    },
+    {
+      "name": "never",
+      "value": "幾時都唔使"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "最新同大熱"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "礙於 AVPlayer 所限，快轉長度經已改為 %d 秒"
+    },
+    {
+      "name": "next_stream",
+      "value": "下一個串流"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "主題色系揀做%s 嘅時候至有得揀"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "揀選啱你心水嘅夜色主題 — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "晚風色系"
+    },
+    {
+      "name": "no",
+      "value": "唔使喇"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "你部機冇 app 開到佢"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "搵唔到合適嘅檔案總管進行呢個動作。\n\n請安裝一個檔案管理程式，又或者試下喺下載設定度停用「%s」"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "搵唔到合適嘅檔案總管進行呢個動作。\n\n請安裝一個與儲存空間存取框架兼容嘅檔案管理程式"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "外面嘅播放器用得到嘅聲音串流欠奉"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "請之後喺設定度揀定一個下載資料夾"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "未有頻道訂閱"
+    },
+    {
+      "name": "no_comments",
+      "value": "無留言"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "未設定下載資料夾，請立即揀選預設嘅下載資料夾"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "無直播串流"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "無人聽緊"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "無人睇緊"
+    },
+    {
+      "name": "no_player_found",
+      "value": "搵唔到串流播放器。要唔要裝 VLC？"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "搵唔到串流播放器 (你可以裝 VLC 嚟播)。"
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "未有收起嘅播放清單"
+    },
+    {
+      "name": "no_streams",
+      "value": "無串流"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "冇串流下載得到"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "無訂閱者"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "個 ZIP 檔無效"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "外面嘅播放器用得到嘅影片串流欠奉"
+    },
+    {
+      "name": "no_videos",
+      "value": "無影片"
+    },
+    {
+      "name": "no_views",
+      "value": "無觀看次數"
+    },
+    {
+      "name": "none",
+      "value": "乜都唔使做"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "第一粒動作掣"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "第二粒動作掣"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "第三粒動作掣"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "第四粒動作掣"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "第五粒動作掣"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "緩衝緊"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "空寥寥"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "循環播放"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "隨機播放"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "精簡通知最多淨係擺到三個動作！"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "撳下面嘅掣去更改對應嘅通知動作。用右手邊嘅格仔剔選最多三個，擺落去精簡通知度。"
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "撳下面嘅掣去更改對應嘅通知動作。頭三個動作 (播放/暫停、上一個、下一個) 系統預設咗，冇得揀。"
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "NewPipe 播放器嘅通知"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe 通知"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "等 Android 根據縮圖嘅主色自訂通知嘅顏色 (注意：唔係部部機都用得)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "通知色彩化"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "顯示喺通知嘅影片縮圖由 16:9 剪成 1:1 長寬比"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "縮圖以 1:1 長寬比框起"
+    },
+    {
+      "name": "notifications",
+      "value": "通知"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "已停用通知"
+    },
+    {
+      "name": "off",
+      "value": "閂"
+    },
+    {
+      "name": "ok",
+      "value": "好"
+    },
+    {
+      "name": "on",
+      "value": "開"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "刪除咗 1 個項目。"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "喺瀏覽器開啟"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "以浮面模式開啟"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "跳去排隊播"
+    },
+    {
+      "name": "open_website_license",
+      "value": "開啟網站"
+    },
+    {
+      "name": "open_with",
+      "value": "開啟方式係"
+    },
+    {
+      "name": "override_current_data",
+      "value": "噉樣做會冚咗你而家嘅設定個囉噃。"
+    },
+    {
+      "name": "overwrite",
+      "value": "覆寫"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "覆寫唔到個檔案"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "同個下載咗嘅檔案撞名"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "同個現有嘅檔案撞名"
+    },
+    {
+      "name": "paid_content",
+      "value": "呢部內容係付費使用者限定，因此 NewPipe 未能串流或下載。"
+    },
+    {
+      "name": "parsing_error",
+      "value": "解析唔到網站"
+    },
+    {
+      "name": "pause",
+      "value": "暫停"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "暫停晒所有下載"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "按用量收費嘅網絡就閘住"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "若然有機會用到流動數據嘅時候，可能會用得著，雖則有啲下載冇得暫停"
+    },
+    {
+      "name": "paused",
+      "value": "暫停咗"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "個站已經喺度喇"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "驗證唔到個站"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "請輸入個站嘅 URL"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "淨係支援 HTTPS 嘅 URL"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "加一個站"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "去 %s 發掘啱你心水嘅站"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "揀選啱你心水嘅 PeerTube 站"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube 站"
+    },
+    {
+      "name": "percent",
+      "value": "百分比"
+    },
+    {
+      "name": "permission_denied",
+      "value": "動作被系統拒絕咗"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "畀權限去喺其他 app 上面顯示"
+    },
+    {
+      "name": "play",
+      "value": "播放"
+    },
+    {
+      "name": "play_all",
+      "value": "照單全播"
+    },
+    {
+      "name": "play_audio",
+      "value": "聲音"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "聲音設定"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "聲音： %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "剷咗佢"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "詳細資料"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "用 Kodi 嚟播放"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "音高"
+    },
+    {
+      "name": "playback_reset",
+      "value": "重設"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "播放速度控掣"
+    },
+    {
+      "name": "playback_step",
+      "value": "飛前一格"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "節奏"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "復原緊播放器錯誤"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "播放唔到呢個串流"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "發生無法復原嘅播放器錯誤"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "加咗入播放清單"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "重複加入咗 %d 次"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "整咗個播放清單"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "自動產生 (搵唔到上載者)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "播放清單頁面"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "轉咗播放清單縮圖。"
+    },
+    {
+      "name": "playlists",
+      "value": "播放清單"
+    },
+    {
+      "name": "popup_player",
+      "value": "浮面播放器"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "浮面播緊"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "記住上次浮面嘅大細同擺位"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "記住浮面嘅擺法"
+    },
+    {
+      "name": "post_processing",
+      "value": "後期處理緊"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "揀選為視障人士而設嘅旁述音軌 (如有提供)"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "優先揀旁述"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "揀選原始音軌，唔理佢講咩話"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "優先揀原聲"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "預設開啟內容嘅時候做咩好 — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "揀定「開啟」動作"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "載入緊請求嘅內容"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "攞緊資訊…"
+    },
+    {
+      "name": "previous_export",
+      "value": "先前嘅匯出"
+    },
+    {
+      "name": "previous_stream",
+      "value": "上一個串流"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "NewPipe 專案非常著重你嘅私隱。因此，呢個 app 未得你同意係唔會收集任何資料。\n\nNewPipe 嘅私隱政策會詳述，當你傳送彈 app 報告嗰陣，有咩資料會傳送同保存。"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "NewPipe 嘅私隱政策"
+    },
+    {
+      "name": "private_content",
+      "value": "呢部內容係私人嘢，因此 NewPipe 未能串流或下載。"
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "處理緊… 可能要等等"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer 預設值"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "更改載入播放間隔大細 (目前係 %s)。細啲或者可以等條片快啲開波"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "載入播放間隔大細"
+    },
+    {
+      "name": "question_mark",
+      "value": "？"
+    },
+    {
+      "name": "queued",
+      "value": "排緊隊"
+    },
+    {
+      "name": "radio",
+      "value": "廣播"
+    },
+    {
+      "name": "read_full_license",
+      "value": "閱讀版權協議"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "閱讀私隱政策"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "抹走咗 reCAPTCHA Cookie"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "要完成 reCAPTCHA 考驗"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "執執佢"
+    },
+    {
+      "name": "recent",
+      "value": "近期"
+    },
+    {
+      "name": "recently_added",
+      "value": "最近新加"
+    },
+    {
+      "name": "recovering",
+      "value": "恢復緊"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "咁上下嘅嘢"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "遠端搜尋建議"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "重複嗰啲剷咗佢"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "你係咪要剷走呢個播放清單入面所有重複咗嘅串流？"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "重複咗嗰啲係咪要剷走？"
+    },
+    {
+      "name": "remove_watched",
+      "value": "睇咗嗰啲剷咗佢"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "好，包括埋睇過但未睇晒嘅影片"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "係咪要剷走睇咗嘅影片？"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "加入去播放清單之前或之後睇過嘅影片都會剷走個囉喎。 \n你肯定？剷走咗冇得掹個囉喎！"
+    },
+    {
+      "name": "rename",
+      "value": "改過個名"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "改過個名"
+    },
+    {
+      "name": "replay",
+      "value": "重播"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "推翻所有設定就會全盤抹走晒您喜好過嘅設定，然後重新開過個 app 個囉噃。\n\n\n\n您確定要不惜一切推倒重來？"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "顛覆所有設定，光復成預設值重新開始"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "推翻所有設定"
+    },
+    {
+      "name": "resize_fill",
+      "value": "填滿"
+    },
+    {
+      "name": "resize_fit",
+      "value": "貼合"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "縮放"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "還原返預設噉樣"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "你係咪要還原返做預設嗰個樣？"
+    },
+    {
+      "name": "restricted_video",
+      "value": "呢部影片有年齡限制。\n\n\n\n如果你想睇，請喺設定度開啟「%1$s」。"
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "呢部影片有年齡限制。\n\n鑑於 YouTube 就年齡限制影片嘅新政策，NewPipe 存取唔到條片嘅任何影像串流，所以播放唔到。"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "打斷 (例如有電話) 完之後繼續播放"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "恢復播放"
+    },
+    {
+      "name": "retry",
+      "value": "重試"
+    },
+    {
+      "name": "rewind",
+      "value": "跳後"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "揀選右手邊播放器螢幕嘅手勢"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "右手邊手勢動作"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "讀取唔到儲存咗嘅分頁，所以用返預設分頁"
+    },
+    {
+      "name": "search",
+      "value": "搜尋"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "剷走晒搜尋紀錄"
+    },
+    {
+      "name": "search_no_results",
+      "value": "乜都搵唔到"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "搜尋到嘅嘢係：%s"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "跳前/跳後嘅快轉長短"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "時間軸預覽縮圖"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "揀選一個頻道"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "揀選互動站"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "揀選一個播放清單"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "為外面嘅播放器揀選音軌"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "你可以喺下面揀選啱你心水嘅夜色主題"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "揀選外面嘅播放器用咩畫質"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "外面嘅播放器唔支援揀選嘅串流"
+    },
+    {
+      "name": "semitone",
+      "value": "半音"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "揀做播放清單縮圖"
+    },
+    {
+      "name": "settings",
+      "value": "設定"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "版面"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "備份與還原"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "抹除資料"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "除錯"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "下載"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "管理一啲 AVPlayer 設定。呢啲變更需要重新啟動播放程式先會生效"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "AVPlayer 設定"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "摘要"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "紀錄與快取"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "點做法"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "調整目前播放緊咩串流嘅通知"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "播放器通知"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "播放器"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "更新"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "影音"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "檔名准用啲咩字元"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "無效嘅字元會用呢一楷嚟代替"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "代替字元"
+    },
+    {
+      "name": "share",
+      "value": "分享"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "分享影片畀"
+    },
+    {
+      "name": "share_playlist",
+      "value": "分享播放清單"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "齋分享 URL 清單"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "分享埋片名"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "有年齡限制 (例如 18+/兒童不宜）嘅內容都照顯示"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "顯示年齡設限嘅內容"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "顯示頻道詳情"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "頻道分頁"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "頻道頁要騷邊啲分頁出嚟"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "關閉去隱藏留言"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "顯示留言"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "用播放器嘅時候顯示一個閃退選項"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "顯示「令播放器閃退」"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "閂埋佢去隱藏影片描述同附加資訊"
+    },
+    {
+      "name": "show_description_title",
+      "value": "顯示描述"
+    },
+    {
+      "name": "show_error",
+      "value": "睇下咩問題"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "顯示一則錯誤橫條"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "得某啲機先播到 2K/4K 影片"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "顯示更高解像度"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "喺影片詳情撳一下「幕後播」或「浮面播」個掣嘅時候顯示提示"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "顯示「撳住就輪候」提示"
+    },
+    {
+      "name": "show_info",
+      "value": "顯示資訊"
+    },
+    {
+      "name": "show_less",
+      "value": "摺埋"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "顯示記憶體洩露"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "閂埋佢去隱藏元資訊窗口，收起有關串流創作者、串流內容或者搜尋請求嘅額外資訊"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "顯示元資訊"
+    },
+    {
+      "name": "show_more",
+      "value": "拉開"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "顯示「接續落」同「咁上下」嘅影片"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "服務原本嘅字會騷返喺串流項目上面"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "顯示返項目原本話時隔幾耐"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "顯示以 Kodi 媒體中心播放影片嘅選項"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "顯示「用 Kodi 嚟播放」嘅選項"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "揀選搜尋嘅時候顯示邊啲建議"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "搜尋建議"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "喺鎖定畫面背景同埋通知都擺放縮圖"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "顯示縮圖"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "無聲嘅時候快轉"
+    },
+    {
+      "name": "songs",
+      "value": "歌曲"
+    },
+    {
+      "name": "sorry_string",
+      "value": "啫係嗱，世事講唔埋嘅，真係唔好意思。"
+    },
+    {
+      "name": "sort",
+      "value": "排序"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "呢首 (至少喺你所在國家而言) 係 SoundCloud Go+ 單曲，因此 NewPipe 未能串流或下載。"
+    },
+    {
+      "name": "start",
+      "value": "開始"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "為符合歐盟嘅《通用數據保障條例》(GDPR) 規範，我哋謹請你注意 NewPipe 嘅私隱政策。請仔細閱讀。\n\n你必須接受，先可以傳送錯誤報告畀我哋。"
+    },
+    {
+      "name": "start_downloads",
+      "value": "開始晒所有下載"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "喺幕後開始播放"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "喺浮面開始播放"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "開啟影片嘅時候唔用袖珍播放器就直接飛去全螢幕模式，如果自動旋轉鎖定嘅話。你仍可結束全螢幕返返去袖珍播放器"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "主播放器用全螢幕開啟"
+    },
+    {
+      "name": "stop",
+      "value": "停止"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "下載工具暫未支援嘅串流，就無謂擺出嚟喇"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "訂閱有新加串流嘅通知"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "新加嘅串流"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "檢查頻率"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "用咩網絡連線"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "訂閱"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "訂閱咗"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "訂閱者人數不詳"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "改唔到訂閱"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "更新唔到訂閱"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "匯出唔到訂閱"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "匯入唔到訂閱"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "執好就撳一下「搞掂」"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "收埋喺背景"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "轉返主版面"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "撈起去浮面"
+    },
+    {
+      "name": "systems_language",
+      "value": "系統預設"
+    },
+    {
+      "name": "tab_about",
+      "value": "跋記"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "儲起嘅播放清單"
+    },
+    {
+      "name": "tab_choose",
+      "value": "選擇標籤"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "版權協議"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "訂閱"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "平板電腦模式"
+    },
+    {
+      "name": "theme_title",
+      "value": "主題色系"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "抹除咗影像快取"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "關於 NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "紀錄"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "排隊播"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA 考驗"
+    },
+    {
+      "name": "title_last_played",
+      "value": "最近播放"
+    },
+    {
+      "name": "title_licenses",
+      "value": "第三方版權協議"
+    },
+    {
+      "name": "title_most_played",
+      "value": "最常播放"
+    },
+    {
+      "name": "toggle_all",
+      "value": "全部切換"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "切換全螢幕"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "橫豎轉換"
+    },
+    {
+      "name": "top_50",
+      "value": "頭 50 位"
+    },
+    {
+      "name": "tracks",
+      "value": "單曲"
+    },
+    {
+      "name": "trending",
+      "value": "時興"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "唔再收埋"
+    },
+    {
+      "name": "undo",
+      "value": "復原"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "脫鈎 (聲音可能會失真)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "未知"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[未知]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "未知格式"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "未知畫質"
+    },
+    {
+      "name": "unmute",
+      "value": "唔使噤聲"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "唔再揀定封面縮圖"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "取消訂閱"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "唔支援呢個網址"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "認唔出呢個 URL。要唔要用另一個 app 開？"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "出咗新版本嘅時候，顯示通知提示升級個 app"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "更新"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "喺 %1$s 發佈"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "如果遇到解碼器初始化問題，請啟用呢個選項，如果主解碼器初始化失敗，就會用優先順序較低的解碼器。咁樣可能會導致播放性能比使用主解碼器嗰陣差"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "用 AVPlayer 嘅解碼器汰退功能"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "用出面嘅音樂播放器"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "某啲影片可能會冇聲"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "用出面嘅影片播放器"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "粗略嘅快轉允許播放器比較籠統咁快轉去其他位置。快轉 5、15 或 25 秒就太仔細，做唔到"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "用粗略嘅快轉"
+    },
+    {
+      "name": "users",
+      "value": "使用者"
+    },
+    {
+      "name": "video",
+      "value": "影片"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "出自 %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s：%2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "影片播放器"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "搵唔到影像串流"
+    },
+    {
+      "name": "videos_string",
+      "value": "影片"
+    },
+    {
+      "name": "view_on_github",
+      "value": "去 GitHub 睇下"
+    },
+    {
+      "name": "volume",
+      "value": "音量"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "剷走咗睇過嘅紀錄"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "全部剷走咗播放到邊個位"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "去 NewPipe 網站睇更多資訊同最新消息。"
+    },
+    {
+      "name": "website_title",
+      "value": "網站"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "資訊："
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "出咗咩事："
+    },
+    {
+      "name": "wifi_only",
+      "value": "淨係用 Wi-Fi 嗰陣"
+    },
+    {
+      "name": "yes",
+      "value": "要"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "你而家訂閱咗呢個頻道"
+    },
+    {
+      "name": "your_comment",
+      "value": "你嘅見解 (請以英文輸入)："
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "呢部影片係 YouTube Music Premium 會員限定，因此 NewPipe 未能串流或下載。"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube 提供嘅「嚴格篩選模式」可以過濾潛在嘅成人內容"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "開啟 YouTube 嘅「嚴格篩選模式」"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

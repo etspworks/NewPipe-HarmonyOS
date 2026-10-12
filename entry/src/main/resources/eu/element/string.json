@@ -1,0 +1,3036 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Onartu"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Kontua itxi da"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Kontua itxi da\n\n%1$s-ek arrazoi hau ematen du: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "Historiala"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Gehitu erreprodukzio-zerrendara"
+    },
+    {
+      "name": "albums",
+      "value": "Albumak"
+    },
+    {
+      "name": "all",
+      "value": "Dena"
+    },
+    {
+      "name": "always",
+      "value": "Beti"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Galdetu beti"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Konponbide honek azal aldaketa bat gertatzean bideo kodekak askatu eta berrezartzen ditu, azalaren kodeka zuzenean ezarri ordez. ExoPlayer-ek dagoeneko erabiltzen du arazoak dituzten gailu batzuetan. Ezarpen honek Android 6 eta berriagotan funtzionatzen du soilik\n\n\n\nAukera hau gaitzeak erreprodukzio erroreak saihestu ditzake bideo-erreproduktorea aldatzean edo pantaila osoan jartzean"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Erabili beti AVPlayer-en bideo-irteeraren interfazeko ezarpenaren konponbidea"
+    },
+    {
+      "name": "any_network",
+      "value": "Edozein sare"
+    },
+    {
+      "name": "app_description",
+      "value": "Igorpen libre eta arinak HarmonyOS-en."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Aplikazioaren hizkuntza"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe copyleft software librea da: nahi duzunean erabili, aztertu, partekatu eta hobetu dezakezu. Zehazki, GNU Lizentzia Publiko Orokorraren baldintzen arabera birbanatu eta/edo aldatu dezakezu, Free Software Foundation-ek argitaratutako moduan, Lizentziaren 3. bertsioan edo (zure aukeran) ondorengo edozein bertsiotan."
+    },
+    {
+      "name": "app_license_title",
+      "value": "NewPipe-en lizentzia"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Aplikazioa/EIa kraskatu da"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Sakatu %s deskargatzeko"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "NewPipe-ren eguneraketa eskuragarri dago!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "NewPipe aplikazioaren bertsio berrien jakinarazpena"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Aplikazioaren eguneraketen jakinarazpena"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "NewPipe-en azken bertsioa erabiltzen ari zara"
+    },
+    {
+      "name": "artists",
+      "value": "Artistak"
+    },
+    {
+      "name": "audio",
+      "value": "Audioa"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Ez da audio-igorpenik aurkitu"
+    },
+    {
+      "name": "audio_track",
+      "value": "Audio-pista"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Audio-pista bat egon beharko litzateke igorpen honetan dagoeneko"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "deskriptiboa"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "bikoiztua"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "jatorrizkoa"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "bigarren mailako"
+    },
+    {
+      "name": "auto",
+      "value": "Automatikoa"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Automatikoa (gailuaren gaia)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Jarraitu erreprodukzioa errepikatu gabe, erlazionatutako igorpen bat gehituz"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Jarri ilaran hurrengo igorpena automatikoki"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Auto-ilaratzea"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe-k bertsio berriak bilatu ditzake eta eskuragarri daudenean jakinarazi.\n\nHau gaitu nahi duzu?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Erreprodukzioa automatikoki hasi — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Erreprodukzio automatikoa"
+    },
+    {
+      "name": "background_player",
+      "value": "Atzeko planoko erreproduzitzailea"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Atzeko planoan erreproduzitzen"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Bereizmen onena"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Beltza"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Orri hutsa"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Laster-markatu erreprodukzio-zerrenda"
+    },
+    {
+      "name": "brightness",
+      "value": "Distira"
+    },
+    {
+      "name": "cancel",
+      "value": "Utzi"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Automatikoki sortuak"
+    },
+    {
+      "name": "caption_none",
+      "value": "Azpititulurik ez"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Aldatu azpitituluen testuaren eskala eta atzealdeko estiloa. Aplikazioa berrabiarazi behar da aldaketak aplikatzeko"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Azpitituluak"
+    },
+    {
+      "name": "card",
+      "value": "Txartela"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "%s-(e)k sortuta"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Kanalaren orria"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Honi buruz"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Albumak"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Kanalak"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Gustoko"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Zuzenekoa"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Erreprodukzio-zerrendak"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Shorts"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Pistak"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Bideoak"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Kanaletik harpidetza kenduta"
+    },
+    {
+      "name": "channels",
+      "value": "Kanalak"
+    },
+    {
+      "name": "chapters",
+      "value": "Kapituluak"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Hizkiak eta zenbakiak"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Karaktere berezi gehienak"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Bilatu eguneraketak"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Bilatu igorpen berriak"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Eguneraketak bilatzen…"
+    },
+    {
+      "name": "checksum",
+      "value": "Egiaztaketa-batura"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Aukeratu instantzia bat"
+    },
+    {
+      "name": "clear",
+      "value": "Garbitu"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Garbitu NewPipe-k gordetzen dituen cookieak reCAPTCHA bat ebazten duzunean"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Ezabatu reCAPTCHA-ren kookiak"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Garbitu deskargen historia"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Erreprodukzio-kokapen guztiak ezabatzen ditu"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Ezabatu erreprodukzio-kokapenak"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Erreprodukzio-ilara aktiboa ordezkatuko da"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Erreproduzitzaile batetik beste batera aldatzeak ilara ordezkatu dezake"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Eskatu berrespena ilara bat garbitu baino lehenago"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Bilaketa-gakoen historia ezabatzen du"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Garbitu bilaketa-historia"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Erreproduzitutako igorpen-historia eta erreprodukzio-kokapenak ezabatzen ditu"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Garbitu erreprodukzio-historia"
+    },
+    {
+      "name": "close",
+      "value": "Itxi"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Iruzkinak desgaituta daude"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Iruzkinak"
+    },
+    {
+      "name": "conferences",
+      "value": "Konferentziak"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Zure deskargen historia garbitu nahi duzu ala deskargatutako fitxategi guztiak ezabatu?"
+    },
+    {
+      "name": "content",
+      "value": "Edukia"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Edukiaren hizkuntza lehenetsia"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Edukia ez dago eskuragarri"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Eduki hau ez dago oraindik NewPiperengatik onartuta. \n \nEtorkizuneko bertsio batean onartua izatea espero da."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Itzulpen, diseinu aldaketa, kode garbiketa edo kode aldaketa sakonak bezalako ideiak badituzu, laguntza beti da ongi etorria. Zenbat eta gehiago egin, orduan eta hobeto!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Lagundu"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Gehitu hona"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Bigarren planoa"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Deskargatu igorpen-fitxategia"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Laster-leihoa"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Formatodun txostena kopiatu"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s %2$s-(r)engatik, %3$s lizentziapean"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Abisua: Ezin izan dira fitxategi guztiak inportatu."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Ezin izan dira miniatura guztiak kargatu"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Ezin izan da deskargen menua ezarri"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Aplikazioa kraskatu"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Erreproduzitzailea kraskatu"
+    },
+    {
+      "name": "create",
+      "value": "Sortu"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Sortu errore jakinarazpen bat"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Erreprodukzio-zerrenda berria"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Iluna"
+    },
+    {
+      "name": "decline",
+      "value": "Ukatu"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Audio formatu lehenetsia"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Lehenetsitako edukiaren herrialdea"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Kiosko lehenetsia"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Laster-leihoaren lehenetsitako bereizmena"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Lehenetsitako bereizmena"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Lehenetsitako bideo-formatua"
+    },
+    {
+      "name": "delete",
+      "value": "Ezabatu"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Ezabatu deskargatutako fitxategiak"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Ezabatu deskargatutako fitxategi guztiak biltegitik?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Ezabatu sarrera"
+    },
+    {
+      "name": "delete_file",
+      "value": "Ezabatu fitxategia"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Elementu hau bilaketa-historiatik ezabatu nahi duzu?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Ezabatu erreprodukzio-kokapen guztiak?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Erreprodukzio-zerrenda hau ezabatu?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Ezabatu bilaketa-historia osoa?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Ezabatu erreprodukzio-historia osoa?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Desgaitu deskribapenaren testu-hautaketa"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Deskribapenaren testu-hautaketa gaitu"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Orain deskribapenaren barruko testua hauta dezakezu. Kontuan izan orrialdea keinuka hasi dezakela eta estekak ezin direla klikatu hautaketa moduan zauden bitartean."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Deskribapena"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Desatseginak"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Arrastatu ordena aldatzeko"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Sortzaileak baloratua"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Atseginak"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Ainguratutako iruzkina"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Kanalaren avatarraren miniatura"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Erreproduzitu bideoa, iraupena:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Igotzailearen abatarraren miniatura"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "\"%1$s\" esan nahi al zenuen?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Multimedia-tunela desgaitu da lehenespenez gailuan, gailuaren modeloak ez du onartzen eta."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Desgaitu multimedia-tunelatzea pantaila beltza edo bideoa erreproduzitzean eten egiten bada."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Multimedia-tunela desgaitu"
+    },
+    {
+      "name": "disabled",
+      "value": "Desgaituta"
+    },
+    {
+      "name": "dismiss",
+      "value": "Baztertu"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe boluntarioek garatu dute, haien denbora librea erabiltzaile esperientzia onena eskaintzen emanez. Eman dohaintza garatzaileei NewPipe are hobea izan dadin kafe bat hartzen duten bitartean."
+    },
+    {
+      "name": "donation_title",
+      "value": "Egin dohaintza"
+    },
+    {
+      "name": "done",
+      "value": "Eginda"
+    },
+    {
+      "name": "dont_show",
+      "value": "Ez da agertzen"
+    },
+    {
+      "name": "download",
+      "value": "Deskargatu"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Badago izen bereko deskarga bat zain"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Badago izen bera duen deskarga bat abian"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Deskargatu"
+    },
+    {
+      "name": "download_failed",
+      "value": "Deskargak huts egin du"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Deskarga hasi da"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Aukeratu audio-fitxategien deskarga karpeta"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Deskargatutako audio fitxategiak hemen gordetzen dira"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Audioa deskargatzeko karpeta"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Aukeratu bideo-fitxategien deskarga karpeta"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Deskargatutako bideoak hemen gordetzen dira"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Bideoak deskargatzeko karpeta"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Ezin da SD txartel batera deskargatu. Deskargen karpeta berrezarri nahi duzu?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Kanpoko biltegiratzea ez dago eskuragarri"
+    },
+    {
+      "name": "downloads",
+      "value": "Deskargak"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Non gorde galdetuko zaizu deskarga bakoitzean.\n\nGaitu sistemaren karpeta hautatzailea (SAF) kanpoko SD txartel batera deskargatu nahi baduzu"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Non gorde galdetuko zaizu deskarga bakoitzean"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Galdetu non deskargatu"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "'Biltegiaren Sarrera Framework'ak kanpoko SD txartel betera deskargatzea ahalbidetzen du"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Android 10etik aurrera 'Biltegiaren Sarrera Framework'a soilik onartzen da"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Erabili sistemaren karpeta hautatzailea (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Deskargak"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Itxi tiradera"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Aktibatu zerbitzua, orain hautatua:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Ireki tiradera"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Grisez idatzitako erreprodukzio-zerrendek jada badute elementu hau."
+    },
+    {
+      "name": "duration",
+      "value": "Iraupena"
+    },
+    {
+      "name": "duration_live",
+      "value": "Zuzenean"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Kilkerrak besterik ez daude hemen"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Behartu aktibitatearen bizitza ziklotik kanpo baztertu eta gero entregatu ezin diren Rx salbuespenen inguruko txostena"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Eman bizitza-ziklo kanpoko erroreen berri"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Memoria galeren monitorizazioa. Aplikazioak agian ez du erantzungo memoriaren aitortza egin bitartean"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Berrezarri azken erreprodukzio-posizioa"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Berrekin erreprodukzioa"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Erakutsi erreprodukzio-posizioen adierazleak zerrendetan"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Posizioak zerrendetan"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Mugatu deskargen ilara"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Deskarga bakarra soilik onartuko da aldi berean"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Gorde bilaketa-kontsultak tokian"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Bilaketa historiala"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Harpidetzen igorpen berriei buruz jakinarazi"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Igorpen berrien jakinarazpenak"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Gorde ikusitako bideoen historiala"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Ikustaldien historiala"
+    },
+    {
+      "name": "enqueue",
+      "value": "Ilaran jarri"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Gehitu jarraian"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Jarri ilaran"
+    },
+    {
+      "name": "enqueued",
+      "value": "Ilaran jarri da"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Jarraian jarrita"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Sarrera ezabatua"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Ezin da zerbitzariara konektatu"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Xehetasunak:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Ezin da deskarga hau berreskuratu"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Ezin da fitxategia sortu"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Zerbitzariak ez du daturik bidaltzen"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Ez da aurkitu"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Zerbitzariak ez ditu hainbat hariko deskargak onartzen, saiatu @string/msg_threads = 1 erabilita"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Ez dago leku libre nahikorik gailuan"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Ez dago lekurik gailuan"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Errore bat gertatu da: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Ezin da helburu karpeta sortu"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Post-prozesamenduak huts egin du"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe itxi egin da fitxategian lanean zegoela"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Aurrerapena galdu da, fitxategia ezabatu delako"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Eman honen berri e-posta bidez"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Jakinarazpenak erroreen berri emateko"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Errore-txostenen jakinarazpena"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe-k errore bat aurkitu du, sakatu berri emateko"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Errore bat gertatu da, ikusi jakinarazpena"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Mesedez, egiaztatu dagoeneko zure arazoarekin eztabaidarik sortuta badagoen. Sarrera duplikatuak daudenean, arazoa ebazteko erabili dezakegun denbora galtzen ari gara."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Eman berri GitHub-en"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Errore-txostena"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Salatu"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Barkatu, zerbait gaizki atera da."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Ezin izan da konexio seguru bat ezarri"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Konexioaren denbora-muga"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Ezin izan dira iruzkinak kargatu"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Ezin izan da zerbitzaria aurkitu"
+    },
+    {
+      "name": "events",
+      "value": "Gertaerak"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Esportatuta"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Esportatu historiala, harpidetzak, erreprodukzio-zerrendak eta ezarpenak"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Esportatu datu-basea"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Esportatzen…"
+    },
+    {
+      "name": "export_to",
+      "value": "Esportatu hona"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Kanpo erreproduzitzaileek ez dituzte mota honetako estekak onartzen"
+    },
+    {
+      "name": "faq",
+      "value": "Webgunean ikusi"
+    },
+    {
+      "name": "faq_description",
+      "value": "Arazoren bat baduzu aplikazioa erabiltzerakoan, irakur itzazu ohiko galdera hauen erantzunak!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Maiz egindako galderak"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Modu azkarra"
+    },
+    {
+      "name": "featured",
+      "value": "Nabarmenduak"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Berria"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Lortu kanalaren fitxak"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Lortuko diren fitxak jarioa eguneratzean. Aukera honek ez du eraginik kanal bat modu azkarra erabiliz eguneratzen bada."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Talde hau ezabatu nahi duzu?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Talde izena hutsik"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Ez da harpidetzarik hautatu"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Hautatu harpidetzak"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Kanal-taldeen orria"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Erakutsi taldekatuta ez dauden harpidetzak soilik"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Kanal-taldeak"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Erakutsi hurrengo igorpenak"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Errorea jarioa kargatzean"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Ezin izan da '%s' jarioa kargatu."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Jario azkarrak ez du honi buruz informazio gehiagorik ematen."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Egilearen kontua itxi da.\n\nNewPipe-k ezingo du etorkizunean jario hau kargatu.\n\nKanal honetatik harpidetza kendu nahi duzu?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Elementu berriak jarioan"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Jarioa kargatzen…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Jarioaren azken eguneraketa: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Jarioa prozesatzen…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Erakutsi/Ezkutatu igorpenak"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Partzialki ikusita"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Laster agertzeko"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Guztiz ikusia"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Kargatu gabe: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Eguneratu beti"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Pasatzen den denbora harpidetza bat zaharkituta dagoela kontuan hartzen den arte — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Jarioaren eguneratze atalasea"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Desgaitu modu azkarra"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Gaitu modu azkarra"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Jarioaren karga motelegia dela uste duzu? Hala bada, saiatu karga azkarra gaitzen (ezarpenetan edo beheko botoia sakatzen aldatu dezakezu).\n\nNewPipe jarioak kargatzeko bi estrategia eskaintzen ditu:\n• Harpidetza kanal osoa eskuratu, motela baina osoa.\n• Amaiera-puntu dedikatua erabiliz, arina baina ez osatua.\n\nBien arteko diferentzia arinak normalean informazioa falta dela da, elementuaren iraupena edo mota adibidez (ezin du bideo normalen eta zuzenekoen artean bereizi) eta elementu gutxiago buelta ditzake.\n\nYouTube da bere RSS jarioaren bidez metodo azkarra eskaintzen duen zerbitzu bat adibidez.\n\nBeraz aukerak zure nahietara murrizten dira: abiadura edo informazio zehatza."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Zerbitzu batzuetan eskuragarri, normalean askoz azkarragoa da, baina elementu kopuru mugatu eta osatu gabeko informazioa itzuli dezake (adib. iraupenik ez, elementu mota, zuzeneko egoerarik ez)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Eskuratu jario dedikatutik eskuragarri dagoenean"
+    },
+    {
+      "name": "file",
+      "value": "Fitxategia"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Fitxategia ezabatuta"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Fitxategi-izena ezin da hutsik egon"
+    },
+    {
+      "name": "forward",
+      "value": "Aurrera egin"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Zer dago berri"
+    },
+    {
+      "name": "general_error",
+      "value": "Errorea"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Sortu izen bakarra"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Eduki hau ez dago eskuragarri zure herrialdean."
+    },
+    {
+      "name": "get_notified",
+      "value": "Jaso jakinarazpenak"
+    },
+    {
+      "name": "give_back",
+      "value": "Egin dohaintza"
+    },
+    {
+      "name": "grid",
+      "value": "Sareta"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Jakinarazpenak bideoen hashing egoerarako"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Bideo hash jakinarazpena"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Kalitate handia (handiagoa)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Mantendu ilaran jartzeko"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Erabilgarria, adibidez, botoi fisiko hautsiak dituen entzungailua erabiltzen ari bazara"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Ezikusi hardware multimedia-botoien gertaerak"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Kalitate altua"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Kalitate baxua"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Kalitate ertaina"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Ez kargatu irudiak"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Aukeratu irudien kalitatea eta irudiak kargatu nahi dituzun ala ez, datuen eta memoriaren erabilera murrizteko. Aldaketek memoriako zein diskoko irudien cachea garbitzen dute — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Irudiaren kalitatea"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Inportatuta"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Zure uneko historiala, harpidetzak eta (aukeran) ezarpenak gainidazten ditu"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Inportatu datu-basea"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Inportatu fitxategia"
+    },
+    {
+      "name": "import_from",
+      "value": "Inportatu hemendik"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Eragiketa honek sarearen erabilera handia egin lezake.\n\n\n\nJarraitu nahi duzu?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Inportatzen…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Ezarpenak ere inportatu nahi dituzu?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Inportatzen den esportazioko ezarpenek NewPipe 0.27.0 geroztik zaharkituta zegoen formatu ahula erabiltzen dute. Ziurtatu inportatzen ari den esportazioa iturri fidagarri batekoa dela, eta etorkizunean NewPipe 0.27.0 edo berriagoa den esportazioak soilik erabili. Formatu ahul honetan ezarpenak inportatzeko euskarria erabat kenduko da laster, eta NewPipe-ren bertsio zaharrek ezin izango dituzte bertsio berrietatik esportazioen ezarpenak inportatu."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Inportatu SoundCloud profila URL-a edo zure ID-a idatziz: \n \n1. Gaitu «mahaigain modua» web nabigatzailean (gunea ez dabil mugikorretan) \n2. Joan URL honetara: %1$s \n3. Hasi saioa eskatzen zaizunean \n4. Kopiatu profilaren URL-a eraman zaizun orritik."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "zureID,soundcloud.com/zureid"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Hiru-puntutako menutik harpidetzak inportatu edo esportatu"
+    },
+    {
+      "name": "import_title",
+      "value": "Inportatu"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Inportatu YouTube harpidetzak Google takeout-etik: \n \n1. Joan URL honetara: %1$s \n2. Hasi saioa eskatzen zaizunean \n3. Hautatu «Datu guztiak barne», gero «Kendu hautapen guztiak», eta hautatu «harpidetzak» soilik eta egin klik «Ados» botoian \n4. Egin klik «Hurrengo pausua» eta «Sortu esportazioa» botoietan \n5. Egin klik «Deskargatu» botoian agertzen denean \n6. Egin klik INPORTATU FITXATEGIA botoian eta hautatu deskargatutako .zip fitxategia \n7. [.zip inportazioak huts egiten badu] Erauzi .csv fitxategia deskargatutako takeout zip-etik (normalean «Youtube eta Youtube Music/harpidetzak/harpidetzak.csv»), egin klik INPORTATU FITXATEGIA botoian eta hautatu erauzitako csv fitxategia"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ bideo"
+    },
+    {
+      "name": "info_labels",
+      "value": "Zer:\nEskaria:\nEdukiaren hizkuntza:\nEdukiaren herrialdea:\nAplikazioaren hizkuntza:\nZerbitzua:\nDenbora-zigilua:\nPaketea:\nBertsioa:\nSE bertsioa:"
+    },
+    {
+      "name": "install",
+      "value": "Instalatu"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Karpeta ez da existitzen"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Fitxategia ez dago edo ez dago baimenik irakurri edo idazteko"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Fitxategi/edukiaren iturria ez da existitzen"
+    },
+    {
+      "name": "just_once",
+      "value": "Behin besterik ez"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Kioskoaren orria"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Falta den Kore aplikazioa instalatu nahi duzu?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary ez dago eskuragarri"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Aukeratu erreproduzitzailearen pantailaren ezker erdiaren keinua"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Ezkerreko keinuaren ekintza"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Argia"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Mugagabea"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Mugatu bereizmena datu mugikorrak erabiltzean"
+    },
+    {
+      "name": "list",
+      "value": "Zerrenda"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Zerrenda ikuspegi modua"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Metadatuak kargatzen…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Igorpenaren xehetasunak kargatzen…"
+    },
+    {
+      "name": "local",
+      "value": "Tokikoa"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Tokiko bilaketa-iradokizunak"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Kalitate txikia (txikiagoa)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Sakatu lupan hasteko."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Orri nagusiko edukia"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Orri nagusian ikusiko diren fitxak"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Irristatu elementuak kentzeko"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Mugitu fitxa-hautatzaile nagusia azpira"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Fitxa nagusien kokapena"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Bilatu bertsio berriak eskuz"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Ikusitako gisa markatu"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Deskarga utzi aurretik saiatu beharreko aldi kopurua"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Gehienezko saiakerak"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Adin muga"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Abatarrak"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Bannerrak"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Metadatuen cachea ezabatuta"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Kendu cachetik webguneen datu guztiak"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Ezabatu cacheko metadatuak"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Kategoria"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Ostalaria"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Hizkuntza"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Lizentzia"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Pribatutasuna"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Barnekoa"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Pribatua"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Publikoa"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Zerrendatu gabea"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Azpikanalen abatarrak"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Harpidedunak"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Laguntza"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Etiketak"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Miniaturak"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Igotako abatarrak"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud-ek jatorrizko Top 50 zerrendetan eten egin du. Dagokion fitxa kendu da zure orrialde nagusitik."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "SoundCloud-eko 50 onenen orrialdea kendu da"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube-k joera-orrialde konbinatua eten du 2025eko uztailaren 21etik aurrera. NewPipe-k joera-orrialde lehenetsia zuzeneko emankizunekin ordezkatu du.\n\nJoera desberdineko orrialdeak ere hauta ditzakezu \"Ezarpenak > Edukia > Orrialde nagusiaren edukia\" atalean."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "YouTubeko joera konbinatuak kendu dira"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Minimizatu bigarren planoko erreproduzitzailera"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Bat ere ez"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Minimizatu laster-leiho erreproduzitzailera"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Ekintza bideo-erreproduzitzaile nagusitik beste aplikazio batera aldatzean — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Minimizatu app-a aldatzean"
+    },
+    {
+      "name": "missing_file",
+      "value": "Fitxategia lekuz aldatu edo ezabatu da"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Amaituta"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Zain"
+    },
+    {
+      "name": "more_options",
+      "value": "Aukera gehiago"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100 bideo baino gehiago"
+    },
+    {
+      "name": "most_liked",
+      "value": "Gogokoenak"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Hash-a kalkulatzen"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Arbelera kopiatuta"
+    },
+    {
+      "name": "msg_error",
+      "value": "Errorea"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Akatsa arbelera kopiatzeak huts egin du"
+    },
+    {
+      "name": "msg_name",
+      "value": "Fitxategi-izena"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Baimen hau beharrezkoa da\n\nlaster-leiho moduan irekitzeko"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe deskargatzen"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Sakatu xehetasunetarako"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Hariak"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Itxaron mesedez…"
+    },
+    {
+      "name": "mute",
+      "value": "Isilarazi"
+    },
+    {
+      "name": "name",
+      "value": "Izena"
+    },
+    {
+      "name": "network_error",
+      "value": "Sare-errorea"
+    },
+    {
+      "name": "never",
+      "value": "Inoiz ez"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Berria eta arrakastatsua"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "AVPlayer-en mugak direla eta bilaketaren iraupena %d segundotan ezarri da"
+    },
+    {
+      "name": "next_stream",
+      "value": "Hurrengo igorpena"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Aukera hau Gaiarako %s aukeratua badago soilik dago erabilgarri"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Hautatu zure gaueko gai gogokoena — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Gaueko gaia"
+    },
+    {
+      "name": "no",
+      "value": "Ez"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Ez dago zure gailuan hau ireki dezakeen aplikaziorik"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Ez da fitxategi kudeatzaile bat aurkitu ekintza honetarako.\n\nMesedez, instalatu fitxategi kudeatzaile bat edo saiatu '%s' desgaitzen deskarga ezarpenetan"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Ez da fitxategi kudeatzaile bat aurkitu ekintza honetarako.\n\nMesedez, instalatu Storage Access Framework-ekin bateragarria den fitxategi kudeatzaile bat"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Ez dago audio-igorpenik eskuragarri kanpoko erreproduzitzaileentzat"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Ezarri deskargetarako karpeta bat ezarpenetan geroago"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Ez dago kanal harpidetzarik oraindik"
+    },
+    {
+      "name": "no_comments",
+      "value": "Iruzkinik ez"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Ez da deskargatzeko karpetarik ezarri oraindik, aukeratu lehenetsitako deskargatzeko karpeta orain"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Ez da jario talderik sortu oraindik"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Zuzeneko igorpenik ez"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Ez dago inor entzuten"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Ez dago inor ikusten"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Ez da igorpen-erreproduzigailurik aurkitu. VLC instalatu?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Ez da igorpen-erreproduzigailurik aurkitu (VLC instalatu dezakezu erreproduzitzeko)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Oraindik ez dago erreprodukzio-zerrenda laster-markarik"
+    },
+    {
+      "name": "no_streams",
+      "value": "Igorpenik ez"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Ez dago igorpenik eskuragarri deskargatzeko"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Harpidedunik ez"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Ez da baliozko ZIP fitxategia"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Ez dago bideo-igorpenik eskuragarri kanpoko erreproduzitzaileentzat"
+    },
+    {
+      "name": "no_videos",
+      "value": "Bideorik ez"
+    },
+    {
+      "name": "no_views",
+      "value": "Erreprodukziorik ez"
+    },
+    {
+      "name": "none",
+      "value": "Bat ere ez"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Lehenego ekintzaren botoia"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Bigarren ekintzaren botoia"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Hirugarren ekintzaren botoia"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Laugarren ekintzaren botoia"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Bostgarren ekintzaren botoia"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Buferreratzen"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Ezer ez"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Errepikatu"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Nahastu"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Gehienez hiru ekintza aukera ditzakezu jakinarazpen trinkoan erakusteko!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Editatu beheko jakinarazpen-ekintza bakoitza sakatuz. Hautatu horietako hiru gehienez jakinarazpen trinkoan erakusteko, eskuineko kontrol-laukiak erabiliz."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Editatu beheko jakinarazpen-ekintza bakoitza sakatuz. Lehen hiru ekintzak (erreproduzitu/pausatu, aurrekoa eta hurrengoa) sistemarengatik ezarrita daude eta ezin dira pertsonalizatu."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "NewPipe erreproduzitzailearen jakinarazpenak"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe jakinarazpena"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Androidek miniaturako kolore nagusiaren arabera jakinarazpenaren kolorea pertsonalizatzea baimendu (kontuan izan ez dagoela gailu guztietan erabilgarri)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Koloreztatu jakinarazpena"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Ebaki jakinarazpenetan erakusten den bideo miniaturaren itxura-erlazioa 16:9tik 1:1era"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Miniatura 1:1 itxura-erlaziora ebaki"
+    },
+    {
+      "name": "notifications",
+      "value": "Jakinarazpenak"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Jakinarazpenak desgaituta daude"
+    },
+    {
+      "name": "off",
+      "value": "Itzalita"
+    },
+    {
+      "name": "ok",
+      "value": "Ados"
+    },
+    {
+      "name": "on",
+      "value": "Piztuta"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "Elementu 1 ezabatuta."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Nabigatzailean ireki"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Ireki laster-leiho moduan"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Ireki erreprodukzio-ilara"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Ireki webgunea"
+    },
+    {
+      "name": "open_with",
+      "value": "Ireki honekin"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Honek zure uneko konfigurazioa gainidatziko du."
+    },
+    {
+      "name": "overwrite",
+      "value": "Gainidatzi"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "ezin da fitxategia gainidatzi"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Badago izen bera duen deskargatutako fitxategi bat"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Badago izen bereko fitxategi bat"
+    },
+    {
+      "name": "paid_content",
+      "value": "Eduki hau ordaindu duten erabiltzaileentzat soilik dago eskuragarri, eta NewPipe-k ezin du igorri edo deskargatu."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Ezin izan da webgunea analizatu"
+    },
+    {
+      "name": "pause",
+      "value": "Pausatu"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Pausatu deskargak"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Eten sare neurtuetan"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Erabilgarria datu mugikorretara aldatzean, hala ere deskarga batzuk ezin dira pausatu"
+    },
+    {
+      "name": "paused",
+      "value": "pausatuta"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Instantzia badago aurretik"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Ezin izan da instantzia balioztatu"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Sartu instantziaren URLa"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "HTTPS URLak soilik onartzen dira"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Gehitu instantzia"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Aurkitu gustuko instantziak hemen: %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Hautatu zure gogoko PeerTube instantziak"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube instantziak"
+    },
+    {
+      "name": "percent",
+      "value": "Portzentaia"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Sistemak ekintza ukatu du"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Baimena eman beste aplikazioen gainetik erakusteko"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "Laster-leiho erreproduzitzailea erabiltzeko, hautatu %1$s Android-en ezarpenen menu hauan, eta gaitu %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "«Baimendu beste aplikazio batzuen gainean bistaratzea»"
+    },
+    {
+      "name": "play",
+      "value": "Erreproduzitu"
+    },
+    {
+      "name": "play_all",
+      "value": "Erreproduzitu denak"
+    },
+    {
+      "name": "play_audio",
+      "value": "Audioa"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Audio ezarpenak"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Audioa: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Kendu"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Xehetasunak"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Erreproduzitu Kodi-rekin"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Tonua"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Leheneratu"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Erreprodukzio-abiaduraren kontrolak"
+    },
+    {
+      "name": "playback_step",
+      "value": "Urratsa"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Tempoa"
+    },
+    {
+      "name": "player_http_403",
+      "value": "403 HTTP errorea jaso da zerbitzaritik erreproduzitzen ari zenean, ziurrenik streaming URLaren iraungipenak edo IP debeku batek eraginda"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "%1$s HTTP errorea jaso da zerbitzaritik erreproduzitzen ari zela"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Erreproduzitzailearen erroretik berreskuratzen"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Ezin izan da igorpen hau erreproduzitu"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Erreproduzitzailearen errore berreskuraezina gertatu da"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Zerrendara gehitua"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Kopia %d aldiz gehitu da"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Erreprodukzio-zerrenda sortuta"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Automatikoki sortua (igotzailea ez da aurkitu)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Erreprodukzio-zerrendaren orria"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Erreprodukzio zerrendaren miniatura aldatuta."
+    },
+    {
+      "name": "playlists",
+      "value": "Erreprodukzio-zerrendak"
+    },
+    {
+      "name": "popup_player",
+      "value": "Laster-leiho erreproduzitzailea"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Laster-leiho moduan erreproduzitzen"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Gogoratu laster-leihoaren azken tamaina eta posizioa"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Gogoratu laster-leihoaren propietateak"
+    },
+    {
+      "name": "post_processing",
+      "value": "post-prozesamendua"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Hautatu ikusmen-urritasuna dutenentzako azalpenak dituzten audio-pista bat erabilgarri badago"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Hobetsi audio deskribatzailea"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Hautatu jatorrizko audioaren pista hizkuntza zein den kontuan hartu gabe"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Hobetsi jatorrizko audioa"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Lehenetsitako ekintza edukia irekitzean — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "«Ireki» ekintza hobetsia"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Eskatutako edukia kargatzen"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Informazioa eskuratzen…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Aurreko esportazioa"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Aurreko igorpena"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "NewPipe proiektuak aintzat hartzen du zure pribatutasuna. Aplikazioak ez du zure baimenik gabe daturik jasotzen. \nNewPipe-en pribatutasun politikak zehazki azaltzen du zer datu bidali eta gordetzen den kraskatze txosten bat bidaltzen duzunean."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "NewPipe-en pribatutasun politika"
+    },
+    {
+      "name": "private_content",
+      "value": "Eduki hau pribatua da, eta NewPipe-k ezin du igorri edo deskargatu."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Prozesatzen... Itxoin mesedez"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer lehenetsia"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Aldatu eduki progresiboen kargatze-tartearen tamaina (oraingoa: %s). Balio baxu batek hasierako karga bizkortu dezake"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Erreprodukzioaren kargatze-tartearen tamaina"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "ilaran"
+    },
+    {
+      "name": "radio",
+      "value": "Irratia"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Irakurri lizentzia"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Irakurri pribatutasun politika"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA kookiak garbitu dira"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "reCAPTCHA erronka eskatu da"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Ebatzi"
+    },
+    {
+      "name": "recent",
+      "value": "Azkenak"
+    },
+    {
+      "name": "recently_added",
+      "value": "Berriki gehitua"
+    },
+    {
+      "name": "recovering",
+      "value": "berreskuratzen"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Erlazionatutako elementuak"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Urruneko bilaketa-iradokizunak"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Kendu bikoiztuak"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Igorpen bikoiztu guztiak kendu nahi dituzu zerrenda honetatik?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Kendu bikoiztuak?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Kendu ikusitako bideoak"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Bai, partzialki ikusitako bideoak ere bai"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Ikusitako igorpenak kendu?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Dagoeneko ikusi eta gero erreprodukzio-zerrendara gehitu diren igorpenak kendu egingo dira. \nJarraitu nahi duzu?"
+    },
+    {
+      "name": "rename",
+      "value": "Berrizendatu"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Berrizendatu"
+    },
+    {
+      "name": "replay",
+      "value": "Berriro erreproduzitu"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Ezarpenak berrezartzeak zure ezarpen gogokoenak baztertzen ditu eta aplikazioa berrabiarazten du.\n\n\n\nAurrera egin nahi duzu?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Berrezarri ezarpen guztiak lehenetsitako baliotara"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Berrezarri ezarpenak"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Bete"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Doitu"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Zoom"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Berrezarri lehenetsitakoak"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Lehenetsitako balioak berrezarri nahi dituzu?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Bideo hau adinez mugatua dago. \n \nIkusi nahi baduzu, gaitu ezazu \"%1$s\" ezarpenetan."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Bideo hau adinez mugatua dago.\n\nAdinez mugatutako bideoekiko YouTube-ren politika berriengatik, NewPipe-k ezin ditu bideoen igorpen hauek atzitu eta erreproduzitu."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Jarraitu erreproduzitzen etenaldien ostean (adib. telefono deiak)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Berrekin erreprodukzioa"
+    },
+    {
+      "name": "retry",
+      "value": "Saiatu berriro"
+    },
+    {
+      "name": "rewind",
+      "value": "Atzera egin"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Aukeratu erreproduzigailuaren pantailaren eskuin erdiaren keinua"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Eskuineko keinuaren ekintza"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Ezin izan dira gordetako fitxak irakurri, lehenetsitakoak erabiltzen"
+    },
+    {
+      "name": "search",
+      "value": "Bilatu"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Bilaketa-historia ezabatuta"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Emaitzarik ez"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "%s bilaketaren erantzunak erakusten"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Bilatu %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Bilatu %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Aurreratze/atzeratze bilaketaren iraupena"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Bilaketa-barraren miniaturen aurrebista"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Hautatu kanal bat"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Hatutatu jario talde bat"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Hautatu kiosko bat"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Hautatu erreprodukzio-zerrenda bat"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Hautatu kanpoko erreproduzitzailearen audio-pista"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Behean gaueko gai gogokoena hautatu dezakezu"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Hautatu kanpoko erreproduzitzaileen kalitatea"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Kanpoko erreproduzitzaileek ez dute hautatutako igorpena onartzen"
+    },
+    {
+      "name": "semitone",
+      "value": "Semitonoa"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Ezarri erreprodukzio-zerrendaren miniatura gisa"
+    },
+    {
+      "name": "settings",
+      "value": "Ezarpenak"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Itxura"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Babeskopia eta berrezarpena"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Garbitu datuak"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Arazketa"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Deskargak"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Kudeatu AVPlayer-en ezarpen batzuk. Aldaketa hauek eragina izan dezaten, erreproduzitzailea berrabiarazi behar da"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "AVPlayer-en ezarpenak"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Jarioa"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Historia eta cache-a"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Portaera"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Konfiguratu uneko erreprodukzio-igorpenaren jakinarazpena"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Erreproduzitzailearen jakinarazpenak"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Erreproduzitzailea"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Eguneraketak"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Bideoa eta audioa"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Fitxategi-izenetan baimendutako karaktereak"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Karaktere baliogabeak balio honekin ordezkatzen dira"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Ordezko karakterea"
+    },
+    {
+      "name": "share",
+      "value": "Partekatu"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Partekatu honekin"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Partekatu erreprodukzio-zerrenda"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Partekatu YouTubeko aldi baterako erreprodukzio-zerrenda gisa"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Partekatu URL zerrenda"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Partekatu tituluekin"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sMM"
+    },
+    {
+      "name": "short_million",
+      "value": "%sM"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sK"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Adinez mugatuta dagoen eta haurrentzako desegokia izan daitezkeen edukia erakutsi (+18 adibidez)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Adinez mugatutako edukia erakutsi"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Erakutsi kanalaren xehetasunak"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Kanalaren fitxak"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Ze fitxa erakusten diren kanal-orrietan"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Desgaitu iruzkinak ezkutatzeko"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Erakutsi iruzkinak"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Erreproduzitzailea erabiltzean kraskadura aukera erakusten du"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Erakutsi «Erreproduzitzailea kraskatu»"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Desgaitu bideoaren deskribapen eta informazio gehigarria ezkutatzeko"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Erakutsi deskribapena"
+    },
+    {
+      "name": "show_error",
+      "value": "Erakutsi errorea"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Erakutsi errore barra bat"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Gailu batzuek soilik erreproduzitu ditzakete 2K/4K bideoak"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Erakutsi bereizmen handiagoak"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Erakutsi aholkua bigarren planoko eta laster-leiho botoia sakatzean bideoaren «Xehetasunak: » atalean"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Erakutsi «Mantendu ilaran jartzeko » aholkua"
+    },
+    {
+      "name": "show_info",
+      "value": "Erakutsi informazioa"
+    },
+    {
+      "name": "show_less",
+      "value": "Erakutsi gutxiago"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Erakutsi memoria galerak"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Desgaitu igorpenaren sortzaileari, eduki edo bilaketa-eskaera bati buruzko meta informazio-koadroak ezkutatzeko"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Erakutsi meta informazioa"
+    },
+    {
+      "name": "show_more",
+      "value": "Erakutsi gehiago"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Erakutsi 'hurrengo' eta 'antzeko' bideoak"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Zerbitzuen jatorrizko testuak igorpenaren elementuetan ikusgai egongo dira"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Erakutsi «orain dela» jatorrizko denbora elementuetan"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Erakutsi bideoa Kodi multimedia zentroarekin erreproduzitzeko aukera bat"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Erakutsi «Erreproduzitu Kodi-rekin» aukera"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Aukeratu bilaketak egitean erakutsiko diren iradokizunak"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Bilaketa-iradokizunak"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Erabili miniatura blokeo pantaila eta jakinarazpenentzako"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Erakutsi miniatura"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s-ek datuak emateari uko egin dio, eskatzailea bot bat ez dela baieztatzeko saioa hasteko eskatuz.\n\nBaliteke zure IP helbidea %1$s-ek aldi baterako debekatu izana, denbora pixka bat itxaron dezakezu edo beste IP batera aldatu (adibidez, VPN bat aktibatu/itzaliz, edo WiFitik datu mugikorretara aldatuz)."
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Aurreratu azkar isilunea dagoenean"
+    },
+    {
+      "name": "songs",
+      "value": "Abestiak"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Hori ez litzateke gertatu behar."
+    },
+    {
+      "name": "sort",
+      "value": "Ordenatu"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Hau SoundCloud Go+ zerbitzuko pista bat da, zure herrialdean behintzat, eta NewPipe-k ezin du igorri edo deskargatu."
+    },
+    {
+      "name": "start",
+      "value": "Hasi"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Europako Datuak Babesteko Erregelamendu Orokorra (GDPR) betetzeko, NewPipe-ren pribatutasun-politikaren berri ematen dizugu. Mesedez, irakurri arretaz. \nAkatsen txostena bidaltzeko onartu behar duzu."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Hasi deskargak"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Hasi erreproduzitzen bigarren planoan"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Hasi erreproduzitzen laster-leihoan"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Ez hasi bideoak mini erreproduzitzailean eta hasi bideoak pantaila osoan zuzenean, auto biraketa blokeatuta badago. Mini erreproduzitzailea erabili dezakezu pantaila osotik irtetzean"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Hasi erreproduzitzaile nagusia pantaila osoan"
+    },
+    {
+      "name": "stop",
+      "value": "Gelditu"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Deskargatzaileak onartzen ez dituen igorpenak ez dira erakusten"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Harpidetzen igorpen berrien jakinarazpenak"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Igorpen berriak"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Egiaztatze maiztasuna"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Beharrezko sareko konexioa"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Harpidetu"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Harpidetuta"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Harpidedun kopurua ez dago eskuragarri"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Ezin izan da harpidetza aldatu"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Ezin izan da harpidetza eguneratu"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Ezin izan dira harpidetzak esportatu"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Ezin izan dira harpidetzak inportatu"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Sakatu «Eginda» konponduta dagoenean"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Aldatu bigarren planora"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Aldatu nagusira"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Aldatu laster-leihora"
+    },
+    {
+      "name": "systems_language",
+      "value": "Sistemaren lehenetsia"
+    },
+    {
+      "name": "tab_about",
+      "value": "Honi buruz eta ohiko galderak"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Gogoko erreprodukzio-zerrendak"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Erreprodukzio-zerrendak"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Aukeratu fitxa"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Lizentziak"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Harpidetzak"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Tablet modua"
+    },
+    {
+      "name": "theme_title",
+      "value": "Gaia"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Irudien cachea ezabatuta"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "NewPipe-i buruz"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Historiala"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Erreproduzitu ilara"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA erronka"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Erreproduzitutako azkena"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Hirugarrenen lizentziak"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Gehien erreproduzitutakoa"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Txandakatu denak"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Aldatu pantaila osora"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Aldatu pantailaren orientazioa"
+    },
+    {
+      "name": "top_50",
+      "value": "50 onenak"
+    },
+    {
+      "name": "tracks",
+      "value": "Pistak"
+    },
+    {
+      "name": "trending",
+      "value": "Joerak"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Bideojoko joerak"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Film eta telesail joerak"
+    },
+    {
+      "name": "trending_music",
+      "value": "Musika joerak"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Podcast joerak"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Kendu laster-marka"
+    },
+    {
+      "name": "undo",
+      "value": "Desegin"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Desgaitu (distortsioa sor lezake)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Ezezaguna"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Ezezaguna]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Formatu ezezaguna"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Kalitate ezezaguna"
+    },
+    {
+      "name": "unmute",
+      "value": "Gaitu audioa"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Betiko miniatura kendu"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Kendu harpidetza"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "Eduki hau ez dago eskuragarri hautatutako edukiaren herrialderako.\n\nAldatu zure hautaketa \"Ezarpenak > Edukia > Edukiaren herrialde lehenetsia\" ataletik."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Ez da URLa onartzen"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Ezin izan da URL-a ezagutu. Beste aplikazio batekin ireki?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Erakutsi jakinarazpena bertsio berri bat eskuragarri dagoenean aplikazioaren eguneratzea eskatzeko"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Eguneraketak"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Argitaratze-data: %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Gaitu aukera hau deskodetzailea hasieratzeko arazoak badituzu, hala nola, lehentasun gutxiago duen deskodetzailetara igarotzea deskodetzaile nagusiaren hasieratzeak huts egiten badu. Aukera honek erreprodukzioak kalitate urria izatea ekar dezake, deskodetzaile nagusiak erabiltzean ez bezala"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Erabili AVPlayer-en deskodetzailearen ordezko ezaugarria"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Erabili kanpo audio-erreproduzitzailea"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Audioa kentzen du bereizmen batzuetan"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Erabili kanpo bideo-erreproduzitzailea"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Bilaketa ez zehatzak erreproduzitzaileari posizioak azkarrago baina zehaztasun txikiagoarekin bilatzea ahalbidetzen dio. 5, 15 edo 25 segundoz bilatzea ez du honekin funtzionatzen"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Erabili bilaketa azkar ez zehatza"
+    },
+    {
+      "name": "users",
+      "value": "Erabiltzaileak"
+    },
+    {
+      "name": "video",
+      "value": "Bideoa"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Egilea: %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Bideo erreproduzitzailea"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Ez da bideo-igorpenik aurkitu"
+    },
+    {
+      "name": "videos_string",
+      "value": "Bideoak"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Ikusi GitHub-en"
+    },
+    {
+      "name": "volume",
+      "value": "Bolumena"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Erreprodukzio-historia ezabatuta"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Erreprodukzio-kokapenak ezabatuta"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Bisitatu NewPipe webgunea informazio gehiagorako eta berriak irakurtzeko."
+    },
+    {
+      "name": "website_title",
+      "value": "Webgunea"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Informazioa:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Zer gertatu da:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "WiFi-arekin soilik"
+    },
+    {
+      "name": "yes",
+      "value": "Bai"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Kanal honetara harpidetu zara"
+    },
+    {
+      "name": "your_comment",
+      "value": "Zure iruzkina (Ingelesez):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Bideo hau YouTube Music Premium kideentzako soilik dago eskuragarri, eta NewPipe-k ezin du igorri edo deskargatu."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "403 HTTP errorea jaso da zerbitzaritik erreproduzitzen ari zenean, ziurrenik IP debeku batek edo streaming URLaren desofuskazio arazoek eraginda"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube-ren «Modu mugatua» helduentzako edukia izan daitekeen edukia ezkutatzen du"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Gaitu YouTube-ren «Modu mugatua»"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

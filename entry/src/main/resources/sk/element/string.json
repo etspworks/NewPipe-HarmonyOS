@@ -1,0 +1,3092 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Prijať"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Účet bol zrušený"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Účet bol zrušený\n\n%1$s uvádza tento dôvod: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "História"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Pridať do playlistu"
+    },
+    {
+      "name": "albums",
+      "value": "Albumy"
+    },
+    {
+      "name": "all",
+      "value": "Všetko"
+    },
+    {
+      "name": "always",
+      "value": "Vždy"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Vždy sa opýtať"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Toto riešenie uvoľní a znovu nastaví videokodeky pri zmene rozhrania namiesto priameho nastavenia rozhrania kodeku. Nastavenie už používa ExoPlayer na niektorých zariadeniach s týmto problémom a týka sa len systému Android 6 a vyššie\n\n\n\nPovolením tejto možnosti môžete zabrániť chybám prehrávania pri zmene aktuálneho prehrávača videa alebo pri prepnutí do režimu celej obrazovky"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Vždy použiť nastavenia výstupu videa AVPlayera"
+    },
+    {
+      "name": "any_network",
+      "value": "Akákoľvek sieť"
+    },
+    {
+      "name": "api23_requirement_dialog_blogpost",
+      "value": "Blogový príspevok"
+    },
+    {
+      "name": "api23_requirement_dialog_message",
+      "value": "NewPipe je bohužiaľ závislý od niekoľkých knižníc, ktoré ukončili podporu pre Android 5.0 a 5.1. Ďalšia verzia NewPipe bude preto, žiaľ, fungovať len na zariadeniach s Androidom 6 alebo novším. Viac informácií nájdete v blogovom príspevku."
+    },
+    {
+      "name": "api23_requirement_dialog_title",
+      "value": "NewPipe ukončuje podporu pre Android 5"
+    },
+    {
+      "name": "app_description",
+      "value": "Voľné a ľahké streamovanie pre HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Jazyk aplikácie"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe je voľný softvér s copyleftom: Môžete ho používať, študovať, zdieľať a vylepšovať podľa vlastného uváženia. Konkrétne ho môžete redistribuovať a/alebo modifikovať podľa podmienok Všeobecnej verejnej licencie GNU, ako ju uverejnila Free Software Foundation, buď verzie 3 licencie, alebo (podľa vášho výberu) akejkoľvek neskoršej verzie."
+    },
+    {
+      "name": "app_license_title",
+      "value": "Licencia NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Aplikácia/UP zlyhalo"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Dotykom stiahnite %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Aktualizácia NewPipe je k dispozícii!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Upozornenia na novú verziu NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Oznámenie o aktualizácii aplikácie"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Používate najnovšiu verziu NewPipe"
+    },
+    {
+      "name": "artists",
+      "value": "Umelci"
+    },
+    {
+      "name": "audio",
+      "value": "Zvuk"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Neboli nájdené žiadne audio streamy"
+    },
+    {
+      "name": "audio_track",
+      "value": "Zvuková stopa"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "V tomto streame by už mala byť prítomná zvuková stopa"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "popisná"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "dabovaná"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "povodná"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "sekundárny"
+    },
+    {
+      "name": "auto",
+      "value": "Auto"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Automatická (téma zariadenia)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Končiaci (neopakujúci sa) zoznam prehrávania bude pokračovať súvisiacim streamom"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Automaticky zaradiť ďalší stream"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Automatický rad"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe môže z času na čas automaticky kontrolovať nové verzie a upozorniť vás, keď budú k dispozícii.\n\nChcete to povoliť?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Spustí automatické prehrávanie - %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Automatické prehrávanie"
+    },
+    {
+      "name": "background_player",
+      "value": "Zvuk na pozadí"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Prehrávanie na pozadí"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Najlepšie rozlíšenie"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Čierna"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Prázdna stránka"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Pridať playlist medzi záložky"
+    },
+    {
+      "name": "brightness",
+      "value": "Jas"
+    },
+    {
+      "name": "cancel",
+      "value": "Zrušiť"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Automaticky vygenerované"
+    },
+    {
+      "name": "caption_none",
+      "value": "Bez titulkov"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Upravte mierku textu titulkov prehrávača a štýly pozadia. Vyžaduje sa reštart aplikácie"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Titulky"
+    },
+    {
+      "name": "card",
+      "value": "Karta"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Vytvoril %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Kanál"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "O kanále"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Albumy"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Kanály"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Páči sa"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Naživo"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Playlisty"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Krátke"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Stopy"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Videá"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Odber zrušený"
+    },
+    {
+      "name": "channels",
+      "value": "Kanály"
+    },
+    {
+      "name": "chapters",
+      "value": "Kapitoly"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Písmená a číslice"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Väčšina špeciálnych znakov"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Skontrolovať aktualizácie"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Skontrolovať nové streamy"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Kontrolujú sa aktualizácie…"
+    },
+    {
+      "name": "checksum",
+      "value": "Kontrolný súčet"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Vyberte inštanciu"
+    },
+    {
+      "name": "clear",
+      "value": "Vyčistiť"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Vymaže cookies, ktoré NewPipe ukladá, keď vyriešite reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Vymazať cookies reCAPTCHA"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Vymazať históriu sťahovania"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Odstráni všetky pozície prehrávania"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Odstrániť pozície prehrávania"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Zoznam aktuálneho prehrávača bude prepísaný"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Prepnutie z jedného prehrávača na druhý môže nahradiť vaše poradie"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Vyžadovať povolenie pred vyčistením zoznamu"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Odstráni históriu vyhľadávania kľúčových slov"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Vymazať históriu vyhľadávania"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Odstráni históriu a pozície prehrávaných streamov"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Vymazať históriu pozerania"
+    },
+    {
+      "name": "close",
+      "value": "Zatvoriť"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Komentáre sú zakázané"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Komentáre"
+    },
+    {
+      "name": "conferences",
+      "value": "Konferencie"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Chcete vymazať históriu sťahovania alebo odstrániť všetky stiahnuté súbory?"
+    },
+    {
+      "name": "content",
+      "value": "Obsah"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Preferovaný jazyk obsahu"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Obsah nie je dostupný"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Tento obsah ešte nie je podporovaný v NwPipe.\n\n\n\nMožno v budúcnosti sa to zmení."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Či už máte nápady týkajúce sa prekladu, dizajnu, čistenia kódu alebo zásadných zmien v kóde – vaša pomoc je vždy vítaná. Čím viac sa urobí, tým lepšie to bude!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Prispieť"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Pridať do"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Na pozadí"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Stiahnuť súbor streamu"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "V okne"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Kopírovať formátované hlásenie"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s od %2$s pod %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Upozornenie: Nemožno importovať všetky súbory."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Nemožno zobraziť všetky náhľady"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Nemožno nastaviť menu preberania"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Vynútiť zastavenie"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Zlyhanie prehrávača"
+    },
+    {
+      "name": "create",
+      "value": "Vytvoriť"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Oznámte chybu"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Nový playlist"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Tmavá"
+    },
+    {
+      "name": "decline",
+      "value": "Odmietnuť"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Predvolený zvukový formát"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Predvolený obsah pre krajinu"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Predvolený kiosk"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Predvolená veľkosť mini okna"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Štandardné rozlíšenie"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Preferovaný formát videa"
+    },
+    {
+      "name": "delete",
+      "value": "Zmazať"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Vymazať stiahnuté súbory"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Vymazať všetky stiahnuté súbory z disku?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Vymazať položku"
+    },
+    {
+      "name": "delete_file",
+      "value": "Vymazať súbor"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Chcete odstrániť túto položku z histórie vyhľadávania?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Odstrániť všetky pozície prehrávania?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Odstrániť tento playlist?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Vymazať celú históriu vyhľadávania?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Vymazať celú históriu pozerania?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Zakázať výber textu v popise"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Povolenie výberu textu v popise"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Teraz môžete vybrať text vo vnútri popisu. Upozorňujeme, že stránka môže blikať a odkazy nemusia byť klikateľné, keď je v režime výberu."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Popis"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Dislajky"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Potiahnutím zmeniť poradie"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Obľúbené autorom"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Lajky"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Pripnutý komentár"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Minuatúrny avatar kanála"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Prehrať video, dĺžka:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Náhľad avataru uploadera"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Mysleli ste \"%1$s\"?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Vaše zariadenie nepodporuje tunelovanie medií a preto bolo tunelovanie medií zakázané."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Ak sa video pri prehrávaní seká alebo sa objaví čierna obrazovka, vypnite tunelovanie médií."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Zakázať tunelovanie médií"
+    },
+    {
+      "name": "disabled",
+      "value": "Vypnuté"
+    },
+    {
+      "name": "dismiss",
+      "value": "Zrušiť"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe vyvíjajú dobrovoľníci, ktorí vo voľnom čase pracujú na tom, aby vám poskytli čo najlepší používateľský zážitok. Odmeňte vývojárov, aby mohli NewPipe ešte vylepšiť, zatiaľ čo si vychutnávajú šálku kávy."
+    },
+    {
+      "name": "donation_title",
+      "value": "Darovať"
+    },
+    {
+      "name": "done",
+      "value": "Hotovo"
+    },
+    {
+      "name": "dont_show",
+      "value": "Neukazovať"
+    },
+    {
+      "name": "download",
+      "value": "Prevziať"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Súbor s rovnakým názvom už čaká na stiahnutie"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Sťahovanie s týmto názvom už prebieha"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Prevziať"
+    },
+    {
+      "name": "download_failed",
+      "value": "Sťahovanie zlyhalo"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Sťahovanie začalo"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Vyberte priečinok pre audio súbory"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Stiahnuté zvukové súbory sú uložené tu"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Priečinok pre stiahnuté audio"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Vyberte priečinok pre stiahnuté video"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Stiahnuté video súbory sú uložené tu"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Adresár stiahnutých videí"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Sťahovanie na externú SD kartu nie je možné. Obnoviť umiestnenie priečinka na sťahovanie?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Externé úložisko je nedostupné"
+    },
+    {
+      "name": "downloads",
+      "value": "Stiahnuté súbory"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Pri každom sťahovaní súboru sa bude vyžadovať zadanie cieľového adresára.\n\nAk chcete súbory sťahovať na externú SD kartu povoľte možnosť výberu adresára (SAF)"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Pri každom sťahovaní sa zobrazí výzva, kam uložiť súbor"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Pýtať sa na adresár sťahovania"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "\"Storage Access Framework\" umožňuje sťahovanie na externú SD kartu"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Od Androidu 10 je podporovaný len 'Storage Access Framework'"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Použite výber adresára (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Stiahnuté"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Zavrieť zásuvku"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Prepnúť službu, práve vybraté:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Otvoriť zásuvku"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Playlisty zobrazené šedou farbou už obsahujú danú položku."
+    },
+    {
+      "name": "duration",
+      "value": "Dĺžka"
+    },
+    {
+      "name": "duration_live",
+      "value": "Naživo"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Zatiaľ je tu ticho ako v hrobe"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Vynúti hlásenie nedoručiteľných výnimiek Rx mimo časového cyklu fragmentov alebo aktivity po zneškodnení"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Nahlásiť mimo-cyklické chyby"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Monitorovanie úniku pamäte môže spôsobiť, že aplikácia nebude reagovať"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Obnoví poslednú pozíciu prehrávania"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Obnoviť prehrávanie"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Zobrazí indikátory pozície prehrávania v zoznamoch"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Poradie v zoznamoch"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Limitovať počet položiek pri sťahovaní"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Súbory sa budú sťahovať jeden po druhom"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Hľadané výrazy uloží lokálne"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Hľadať v histórií"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Upozorní na nové streamy z odberov"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Upozornenia na nové streamy"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Uloží históriu pozeraných videí"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "História pozerania"
+    },
+    {
+      "name": "enqueue",
+      "value": "Fronta"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Pridať do zoznamu"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Zaradiť do poradia"
+    },
+    {
+      "name": "enqueued",
+      "value": "Zaradené do poradia"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Ďaľší v poradí"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Položka vymazaná"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Nepodarilo sa pripojiť k serveru"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Detaily:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Sťahovanie nemožno obnoviť"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Nie je možné vytvoriť súbor"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Server neposiela údaje"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Nenájdené"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Server neakceptuje preberanie viacerých vlákien, zopakujte s @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Nedostatok voľného miesta v zariadení"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "V zariadení už nie je voľné miesto"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Nastala chyba: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Adresár nie je možné vytvoriť"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Post-spracovanie zlyhalo"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe bol ukončený počas spracovávania súboru"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Nemožno pokračovať, súbor bol vymazaný"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Nahlásiť cez e-mail"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Hlásenie chýb"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Nahlásenie chyby"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "V NewPipe sa vyskytla chyba, klepnutím ju nahláste"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Vyskytla sa chyba, pozrite si upozornenie"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Skontrolujte prosím, či rovnaká chyba už nie je nahlásená. Vytváranie duplicitných hlásení komplikuje prácu vývojárov."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Nahlásiť na GitHub-e"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Hlásenie o chybe"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Správa"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Pardon, niečo sa pokazilo."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Nepodarilo sa vytvoriť zabezpečené pripojenie"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Spojenie vypršalo"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Nemožno načítať komentáre"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Server sa nepodarilo nájsť"
+    },
+    {
+      "name": "events",
+      "value": "Udalosti"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Export dokončený"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Exportuje históriu, odbery, playlisty a nastavenia"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Exportovať databázu"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Exportovanie…"
+    },
+    {
+      "name": "export_subscriptions_summary",
+      "value": "Export vašich odberov do súboru .json"
+    },
+    {
+      "name": "export_subscriptions_title",
+      "value": "Exportovať odbery"
+    },
+    {
+      "name": "export_to",
+      "value": "Exportovať do"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Externé prehrávače nepodporujú tieto typy odkazov"
+    },
+    {
+      "name": "faq",
+      "value": "Pozrieť na webstránke"
+    },
+    {
+      "name": "faq_description",
+      "value": "Ak máte problémy s používaním aplikácie, určite si prečítajte tieto odpovede na zvyčajné otázky!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Často kladené otázky"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Rýchly režim"
+    },
+    {
+      "name": "featured",
+      "value": "Najlepšie"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Nový"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Načítať karty kanála"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Karty, ktoré sa majú načítať pri aktualizácii informačného kanála. Táto možnosť nemá žiadny účinok, ak je kanál aktualizovaný pomocou rýchleho režimu."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Chcete zmazať vybranú skupinu?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Bez názvu skupiny"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Žiadne vybrané odbery"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Vyberte odbery"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Stránka skupiny kanálov"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Zobraziť iba nezoskupené odbery"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Skupiny kanálov"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Zobrazovať nasledovné streamy"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Chyba pri načítaní kanála"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Nemožno načítať informačný kanál '%s'."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Tento rýchly režim neposkytuje viac informácií."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Účet autora bol zrušený.\n\nPreto ho NewPipe nebude môcť v budúcnosti načítať.\n\nChcete sa odhlásiť z odberu tohto kanála?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Nové položky informačného kanála"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Načítavanie zdroja…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Zdroj aktualizovaný: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Spracovávanie zdroja…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Zobrazovať/Skrývať streamy"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Rozpozerané"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Nadchádzajúce"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Dopozerané"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Nenačítané: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Vždy aktualizovať"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Čas od poslednej aktualizácie, kedy sa odber považuje za neaktuálny - %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Interval obnovy zdroja"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Zakázať rýchly režim"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Povoliť rýchly režim"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Myslíte si, že načítavanie informačného kanála je príliš pomalé? Ak áno, skúste povoliť rýchle načítanie (môžete ho zmeniť v nastaveniach alebo stlačením tlačidla nižšie).\n\nNewPipe ponúka dve stratégie načítania informačného kanála:\n• Načítava sa celý kanál prihlásenia na odber, ktorý je pomalý, ale úplný.\n• Používanie vyhradeného koncového bodu služby, ktorý je rýchly, ale zvyčajne nie je kompletný.\n\nRozdiel medzi nimi je ten, že v prípade rýchleho zvyčajne chýbajú nejaké informácie, napríklad trvanie alebo typ položky (nedá sa rozlíšiť medzi živými videami a normálnymi videami) a môže načítať menej položiek.\n\nYouTube je príkladom služby, ktorá ponúka túto rýchlu metódu s informačným kanálom RSS.\n\nTakže výber sa zredukuje na to, čo uprednostňujete: rýchlosť alebo presné informácie."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Služba je dostupná len pre určité zdroje, zvyčajne je rýchlejšia ale môže vrátiť obmedzený počet položiek alebo neúplné informácie (napr. dĺžka, typ, status)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Načítať z vyhradeného zdroja, ak je k dispozícii"
+    },
+    {
+      "name": "file",
+      "value": "Súbor"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Súbor vymazaný"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Názov súboru nesme byť prázdny"
+    },
+    {
+      "name": "forward",
+      "value": "Dopredu"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Čo je nové"
+    },
+    {
+      "name": "general_error",
+      "value": "Chyba"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Vytvoriť jedinečný názov"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Tento obsah nie je vo vašej krajine k dispozícii."
+    },
+    {
+      "name": "get_notified",
+      "value": "Dostávať upozornenia"
+    },
+    {
+      "name": "give_back",
+      "value": "Odmeniť"
+    },
+    {
+      "name": "grid",
+      "value": "Mriežka"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Oznámenia o priebehu hašovania videa"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Oznámenie o hashovaní videa"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Vysoká kvalita (väčšie)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Podržaním pridať do zoznamu"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Toto sa môže hodiť v prípade, že máte pokazené tlačidlá na slúchadlách"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Ignorovať fyzické tlačidlá"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Vysoká kvalita"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Nízka kvalita"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Stredná kvalita"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Nenačítavať obrázky"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Vyberte kvalitu obrázkov a či sa majú obrázky vôbec načítať, aby sa znížila spotreba dát a pamäte. Zmeny vymažú vyrovnávaciu pamäť obrázkov v pamäti a na disku - %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Kvalita obrázkov"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Import dokončený"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Prepíše aktuálnu históriu, odbery, playlisty a (voliteľne) nastavenia"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Importovať databázu"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Import súboru"
+    },
+    {
+      "name": "import_from",
+      "value": "Importovať z"
+    },
+    {
+      "name": "import_from_previous_export",
+      "value": "Importovať z predchádzajúceho exportu"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Operácia môže byť náročná na počet prenesených dát.\n\n\n\nChcete pokračovať?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Importovanie…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Chcete zároveň importovať aj nastavenia?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Nastavenia v importovanom exporte používajú zraniteľný formát, ktorý bol od verzie NewPipe 0.27.0 zrušený. Uistite sa, že importovaný export pochádza z dôveryhodného zdroja, a v budúcnosti radšej používajte len exporty získané z verzie NewPipe 0.27.0 alebo novšej. Podpora importu nastavení v tomto zraniteľnom formáte bude čoskoro úplne odstránená a potom už staré verzie programu NewPipe nebudú môcť importovať nastavenia exportov z nových verzií."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Importovať SoundCloud profil zadaním URL adresy alebo vášho ID:\n\n\n\n1. Prepnite režim na \"desktop\" (web nie je dostupný pre mobilné zariadenia)\n\n2. Prejdite na túto URL adresu: %1$s\n\n3. Po výzve sa prihláste do svojho účtu\n\n4. Skopírujte adresu URL, na ktorú ste boli presmerovaní."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "vašeID, soundcloud.com/vašeid"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Importujte alebo exportujte odbery v menu s 3-mi bodkami"
+    },
+    {
+      "name": "import_subscriptions_summary",
+      "value": "Import odberov z predchádzajúceho exportu .json"
+    },
+    {
+      "name": "import_subscriptions_title",
+      "value": "Importovať odbery"
+    },
+    {
+      "name": "import_title",
+      "value": "Import"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Import odberov služby YouTube pomocou Google takeout:\n\n\n\n1. Prejdite na túto adresu URL: %1$s\n\n2. Po výzve sa prihláste do svojho účtu\n\n3. Kliknite na \"Zahrnuté sú všetky údaj služby YouTube\", kliknite na \"Zrušiť výber\", zaškrtnite \"odbery\" a kliknite na OK\n\n4. Kliknite na \"Ďalší krok\" a potom na \"Vytvoriť export\"\n\n5. Po chvíli sa objaví tlačidlo s nápisom \"Stiahnuť\"\n\n6. Kliknite na IMPORT ZO SÚBORU a zvoľte stiahnutý zip súbor\n\n7. Ak import zip súbory zlyhá. Stiahnutý súbor otvorte a extrahujte .csv súbor (nachádza sa v \"/Takeout/YouTube a YouTube Music/odbery/\"), tento súbor importujte do NewPipe"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ videí"
+    },
+    {
+      "name": "info_labels",
+      "value": "Čo:\nPožiadavka:\nJazyk obsahu:\nKrajina Obsahu:\nJazyk Aplikácie:\nSlužba:\nČas v GMT:\nBalík:\nVerzia:\nOS:"
+    },
+    {
+      "name": "install",
+      "value": "Inštalovať"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Neplatný adresár"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Súbor buď neexistuje alebo nemáte dostatočné práva na je čítanie či zápis"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Neplatný zdroj súboru/obsahu"
+    },
+    {
+      "name": "just_once",
+      "value": "Iba raz"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "Podrobnosti"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "V auguste 2025 spoločnosť Google oznámila, že od septembra 2026 bude inštalácia aplikácií vyžadovať overenie vývojára pre všetky aplikácie Android na certifikovaných zariadeniach, vrátane tých, ktoré sú inštalované mimo obchodu Play Store. Keďže vývojári NewPipe s touto požiadavkou nesúhlasia, NewPipe po tomto termíne nebude na certifikovaných zariadeniach Android fungovať."
+    },
+    {
+      "name": "kao_solution",
+      "value": "Riešenie"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Kiosk"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Nainštalovať chýbajúcu aplikáciu Kore?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary nie je k dispozícii"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Vyberte gesto pre ľavú polovicu obrazovky prehrávača"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Akcia gesta vľavo"
+    },
+    {
+      "name": "license",
+      "value": "Od %1$s pod licenciou %2$s"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Svetlá"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Bez limitu"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Limitovať rozlíšenie pri použití mobilných dát"
+    },
+    {
+      "name": "list",
+      "value": "Zoznam"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Režim zobrazenia zoznamu"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Načítavanie metadát…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Nahrávanie podrobností streamu…"
+    },
+    {
+      "name": "local",
+      "value": "Miestne"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Miestne návrhy vyhľadávania"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Nízka kvalita (menšie)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Začnite ťuknutím na lupu."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Obsah na hlavnej stránke"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Aké karty sa zobrazujú na hlavnej stránke"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Potiahnutím vymazať"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Presunie výber hlavnej karty do spodnej časti"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Poloha hlavných kariet"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Ručne skontrolovať nové verzie"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Označiť ako videné"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Maximálny počet pokusov pred zrušením sťahovania"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Maximum opakovaní"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Vekový limit"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Avatary"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Bannery"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Vyrovnávacia pamäť metadát bola vymazaná"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Odstráni všetky údaje webových stránok vo vyrovnávacej pamäti"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Vymazať metadáta uložené vo vyrovnávacej pamäti"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Kategória"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Hostiteľ"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Jazyk"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Licencia"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Ochrana osobných údajov"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Interné"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Súkromné"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Verejné"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Nezaradené"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Sub-kanálové avatary"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Odberatelia"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Podpora"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Tagy"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Náhľady"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Avatary uploadera"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud prestal používať pôvodnú Top 50. Daná stránka bola odstránená z hlavnej stránky."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "SoundCloud Top 50 stránka odstránená"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube ukončil prevádzku kombinovanej stránky s trendmi k 21. júlu 2025. NewPipe nahradil predvolenú stránku s trendmi stránkou s trendovými živými prenosmi.\n\nV nastaveniach „Nastavenia > Obsah > Obsah hlavnej stránky“ môžete vybrať aj iné stránky s trendmi."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "Odstránené kombinované trendy na YouTube"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Prehrávať na pozadí"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Nič"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Prehrávať v okne"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Akcia pri prepnutí do inej aplikácie z hlavného prehrávača videa - %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Minimalizovať pri prepnutí aplikácie"
+    },
+    {
+      "name": "missing_file",
+      "value": "Súbor bol presunutý alebo odstránený"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Ukončené"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Vo fronte"
+    },
+    {
+      "name": "more_options",
+      "value": "Ďalšie možnosti"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ videí"
+    },
+    {
+      "name": "most_liked",
+      "value": "Najobľúbenejšie"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Počítanie hash"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Skopírované do schránky"
+    },
+    {
+      "name": "msg_error",
+      "value": "Chyba"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Kopírovanie do schránky zlyhalo"
+    },
+    {
+      "name": "msg_name",
+      "value": "Názov súboru"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Tieto práva sú potrebné pre\n\nprehrávanie v mini okne"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe Preberanie"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Dotykom zobraziť detaily"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Vlákna"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Čakajte prosím…"
+    },
+    {
+      "name": "mute",
+      "value": "Stlmiť"
+    },
+    {
+      "name": "name",
+      "value": "Názov"
+    },
+    {
+      "name": "navigate_back",
+      "value": "Naspäť"
+    },
+    {
+      "name": "network_error",
+      "value": "Chyba siete"
+    },
+    {
+      "name": "never",
+      "value": "Nikdy"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Nové a horúce"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Pre obmedzenie AVPlayera bolo prehľadávania nastavené na %d sekúnd"
+    },
+    {
+      "name": "next_stream",
+      "value": "Ďalší stream"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Táto možnosť je dostupná len pre motív %s"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Vyberte si svoju obľúbenú nočnú tému — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Nočná téma"
+    },
+    {
+      "name": "no",
+      "value": "Nie"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Aplikácia na otvorenie súboru nie je nainštalovaná"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Pre túto akciu sa nenašiel vhodný správca súborov.\n\nNainštalujte si správcu súborov alebo skúste vypnúť '%s' v nastaveniach sťahovania"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Pre túto akciu sa nenašiel vhodný správca súborov.\n\nNainštalujte správcu súborov kompatibilného s rozhraním Storage Access Framework"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Žiadne audio streamy nie sú k dispozícií pre externé prehrávače"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Priečinok na sťahovanie zadefinujte prosím neskôr v nastaveniach"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Zatiaľ nemáte žiadne odbery kanálov"
+    },
+    {
+      "name": "no_comments",
+      "value": "Žiadne komentáre"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Nie je nastavený adresár na sťahovanie, nastavte ho teraz"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Skupina kanálov zatiaľ nie je vytvorená"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Žiadne živé prenosy"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Toto nikto nepočúva"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Toto nikto nesleduje"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Nenašiel sa prehrávač. Chcete nainštalovať VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Nebol nájdený žiadny prehrávač pre stream (môžete si nainštalovať napr. VLC)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Žiadne záložky playlistov"
+    },
+    {
+      "name": "no_streams",
+      "value": "Žiadne videá"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Žiadne streamy nie sú k dispozícii na prevzatie"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Žiadni odberatelia"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Neplatný ZIP súbor"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Žiadne video streamy nie sú k dispozícií pre externé prehrávače"
+    },
+    {
+      "name": "no_videos",
+      "value": "Žiadne videá"
+    },
+    {
+      "name": "no_views",
+      "value": "Žiadne zobrazenia"
+    },
+    {
+      "name": "none",
+      "value": "Nič"
+    },
+    {
+      "name": "not_available",
+      "value": "Nedostupné"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Akčné tlačidlo jedna"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Akčné tlačidlo dva"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Akčné tlačidlo tri"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Akčné tlačidlo štyri"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Akčné tlačidlo päť"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Bufferuje"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Nič"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Opakovať"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Náhodné"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "V kompaktnom oznámení môžete vybrať najviac tri akcie, ktoré sa majú zobraziť!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Všetky nasledovné oznámenia môžete upraviť poklepaním. Tri z nich môžete vybrať a tieto sa budú zobrazovať v kompaktnom oznámení."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Každú akciu oznámenia upravte poklepaním. Prvé tri akcie (prehrať/pozastaviť, predchádzajúce, ďalšie) sú nastavené systémom a nie je možné ich prispôsobiť."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Notifikácie NewPipe prehrávača"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe oznámenia"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Nechajte Android, aby prispôsobil farbu oznámenia podľa hlavnej farby v miniatúre (nemusí to fungovať na všetkých zariadeniach)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Farby upozornení"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Oreže miniatúru videa zobrazenej v oznámení z pomeru strán 16:9 na 1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Orezať pomer strán miniatúry na 1: 1"
+    },
+    {
+      "name": "notifications",
+      "value": "Oznámenia"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Upozornenia sú vypnuté"
+    },
+    {
+      "name": "off",
+      "value": "Vypnuté"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "on",
+      "value": "Zapnuté"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 položka bola vymazaná."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Otvoriť v prehliadači"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Otvoriť vo vyskakovacom okne"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Otvoriť zoznam prehrávania"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Otvoriť webstránku"
+    },
+    {
+      "name": "open_with",
+      "value": "Otvoriť s"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Toto prepíše vaše aktuálne nastavenie."
+    },
+    {
+      "name": "overwrite",
+      "value": "Prepísať"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "súbor nemožno prepísať"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Stiahnutý súbor s týmto názvom už existuje"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Súbor s týmto názvom už existuje"
+    },
+    {
+      "name": "paid_content",
+      "value": "Tento obsah je k dispozícii iba platiacim používateľom, preto ho NewPipe nemôže streamovať ani sťahovať."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Nemožno analyzovať webovú stránku"
+    },
+    {
+      "name": "pause",
+      "value": "Pauza"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Pozastaviť sťahovanie"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Pozastaviť pri prechode na mobilné dáta"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Je to užitočné pri prechode na mobilné dáta, niektoré sťahovania však nemožno pozastaviť"
+    },
+    {
+      "name": "paused",
+      "value": "pozastavené"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Inštancia už existuje"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Nepodarilo sa overiť inštanciu"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Vložiť URL inštancie"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Podporované sú iba adresy URL s HTTPS"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Pridať inštanciu"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Nájdite inštancie, ktoré chcete na %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Vyberte si svoje obľúbené inštancie PeerTube"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "Inštancie PeerTube"
+    },
+    {
+      "name": "percent",
+      "value": "Percent"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Akcia odmietnutá systémom"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Súhlas pre zobrazenie cez ďalšie aplikácie"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "Ak chcete používať Popup Player, vyberte %1$s v nasledujúcej ponuke nastavení Androidu a povoľte %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "Povoliť zobrazenie cez iné aplikácie"
+    },
+    {
+      "name": "play",
+      "value": "Prehrať"
+    },
+    {
+      "name": "play_all",
+      "value": "Prehrať všetko"
+    },
+    {
+      "name": "play_audio",
+      "value": "Zvuk"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Nastavenie zvuku"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Zvuk: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Odstrániť"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Podrobnosti"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Prehrať cez Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Výška"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Vynulovať"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Ovládanie rýchlosti prehrávania"
+    },
+    {
+      "name": "playback_step",
+      "value": "Krok"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Rýchlosť"
+    },
+    {
+      "name": "player_http_403",
+      "value": "Počas prehrávania bola zo servera prijatá chyba HTTP 403, pravdepodobne spôsobená vypršaním platnosti streamingovej adresy URL alebo zákazom IP adresy"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "Chyba HTTP %1$s prijatá zo servera počas prehrávania"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Zotavovanie po chybe v prehrávaní"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Nepodarilo sa prehrať tento stream"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Pri prehrávaní došlo k chybe a nemožno pokračovať"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "V playliste"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Duplikát bol pridaný %d-krát"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Playlist bol vytvorený"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Automaticky generované (používateľ sa nenašiel)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Zoznam playlistov"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Miniatúra playlistu bola zmenená."
+    },
+    {
+      "name": "playlists",
+      "value": "Playlisty"
+    },
+    {
+      "name": "popup_player",
+      "value": "Mini okno"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Prehrávanie v mini okne"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Zapamätá si posledné nastavenie veľkosti a pozície vyskakovacieho okna"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Zapamätať si parametre mini okna"
+    },
+    {
+      "name": "post_processing",
+      "value": "následné spracovanie"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Vyberte zvukovú stopu s popisom pre osoby so zrakovým postihnutím, ak je k dispozícii"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Preferovať prehrávanie popisu"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Vyberte pôvodnú zvukovú stopu bez ohľadu na jazyk"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Preferovať pôvodné audio"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Predvolená akcia pri otváraní obsahu — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Preferovaná akcia 'otvoriť'"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Načítanie požadované obsahu"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Získavajú sa informácie…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Predchádzajúci export"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Predchádzajúci stream"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "Projekt NewPipe berie ochranu vašich osobných údajov veľmi vážne. Aplikácia preto bez vášho súhlasu nezhromažďuje žiadne údaje.\nV zásadách ochrany osobných údajov NewPipe je podrobne vysvetlené, aké údaje sa odosielajú a ukladajú pri zaslaní správy o chybe."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Zásady ochrany osobných údajov NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "Toto je privátny obsah a preto ho NewPipe nemôže prehrávať ani sťahovať."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Spracovávanie... môže to chvíľku trvať"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer preddefinovaný"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Zmení veľkosť intervalu načítania pri progresívnom obsahu (v súčasnosti %s). Nižšia hodnota môže urýchliť ich počiatočné načítanie"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Interval medzipamäte"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "vo fronte"
+    },
+    {
+      "name": "radio",
+      "value": "Rádio"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Prečítajte si licenciu"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Prečítajte si zásady ochrany osobných údajov"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA cookies boli vymazané"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "Požiadavka reCAPTCHA"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Vyrieš"
+    },
+    {
+      "name": "recent",
+      "value": "Nedávne"
+    },
+    {
+      "name": "recently_added",
+      "value": "Nedávno pridané"
+    },
+    {
+      "name": "recovering",
+      "value": "obnovovanie"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Súvisiace streamy"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Návrhy vzdialeného vyhľadávania"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Odstrániť duplikáty"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Chcete odstrániť všetky duplikátne streamy z tohoto playlistu?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Odstrániť duplikáty?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Odstrániť pozerané"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Áno aj čiastočne pozreté videá"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Odstrániť pozerané videá?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Videá, ktoré ste sledovali pred a po pridaní do playlistu, budú odstránené. \nNaozaj to chcete urobiť?"
+    },
+    {
+      "name": "rename",
+      "value": "Premenovať"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Premenovať"
+    },
+    {
+      "name": "replay",
+      "value": "Opäť prehrať"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Obnovením nastavení sa zrušia všetky preferované nastavenia a aplikácia sa reštartuje.\n\n\n\nSte si istí, že chcete pokračovať?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Obnoví všetky nastavenia na pôvodné hodnoty"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Obnoviť nastavenia"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Vyplniť"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Prispôsobiť"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Zväčšiť"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Obnoviť predvolené nastavenia"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Chcete obnoviť predvolené hodnoty?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Vekovo obmedzené video.\n\n\n\nPre zobrazenie videa povoľte \"%1$s\" v nastaveniach."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Toto video je vekovo obmedzené.\n\nNewPipe ho nemôže prehrať z dôvodu nových pravidiel služby YouTube pre videá s vekovým obmedzením."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Pokračouje v prehrávaní po prerušení (napr. po telefonáte)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Pokračovať v prehrávaní"
+    },
+    {
+      "name": "retry",
+      "value": "Znova"
+    },
+    {
+      "name": "rewind",
+      "value": "Dozadu"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Vyberte gesto pre pravú polovicu obrazovky prehrávača"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Akcia gesta vpravo"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Chyba pri načítavaní uložených kariet, použijú sa predvolené"
+    },
+    {
+      "name": "search",
+      "value": "Hľadať"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "História vyhľadávaní bola vymazaná"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Žiadne výsledky"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Zobrazujú sa výsledky pre: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Hľadať %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Hľadať %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Dĺžka rýchleho pretáčania"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Náhľad miniatúry pri vyhľadávaní"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Vyberte si kanál"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Vybrať skupinu kanálov"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Vyberte si kiosk"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Vyberte playlist"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Výber zvukovej stopy pre externé prehrávače"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Dolu si môžete vybrať svoju obľúbenú nočnú tému"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Vybrať kvalitu pre externé prehrávače"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Vybraný stream nie je podporovaný externými prehrávačmi"
+    },
+    {
+      "name": "semitone",
+      "value": "Poltón"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Nastaviť ako miniatúru playlistu"
+    },
+    {
+      "name": "settings",
+      "value": "Nastavenia"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Vzhľad"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Záloha a obnovenie"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Vymazať údaje"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Ladenie"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Sťahovanie"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Úprava niektorých nastavení prehrávača AVPlayer. Pre aplikovanie týchto zmien je potrebné reštartovať prehrávač"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "Nastavenia AVPlayer"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Zdroj"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "História a medzipamäť"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Správanie"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Nastavte oznámenie aktuálneho streamu prehrávania"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Upozornenie z prehrávača"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Prehrávač"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Aktualizácie"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Video a zvuk"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Povolené znaky v názvoch súborov"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Neplatné znaky budú nahradené znakmi s týmto významom"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Náhradný znak"
+    },
+    {
+      "name": "share",
+      "value": "Zdieľať"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Zdieľať s"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Zdieľať playlist"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Zdieľať ako dočasný playlist YouTube"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Zdieľať URL playlistu"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Zdieľať s názvami"
+    },
+    {
+      "name": "short_billion",
+      "value": "%smld."
+    },
+    {
+      "name": "short_million",
+      "value": "%smil."
+    },
+    {
+      "name": "short_thousand",
+      "value": "%stis."
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Zobrazí obsah, ktorý je pravdepodobne nevhodný pre deti, pretože má vekové obmedzenie (napríklad 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Zobraziť vekovo obmedzený obsah"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Zobraziť podrobnosti kanála"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Karty kanálov"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Aké karty sa zobrazujú na stránkach kanála"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Vypnutím tejto funkcie sa nebudú zobrazovať komentáre"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Zobraziť komentáre"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Zobrazí možnosť zlyhania pri používaní prehrávača"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Zobraziť „Zhodiť prehrávač“"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Vypnutím skryjete popis videa a ďalšie informácie"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Zobraziť popis"
+    },
+    {
+      "name": "show_error",
+      "value": "Zobraziť chybu"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Zobraziť krátke oznámenie chyby"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Len niektoré zariadenia podporujú videá 2K/4K"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Zobraziť vyššie rozlíšenie"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Zobrazí tip pri stlačení tlačidiel pozadia alebo vyskakovacieho okna videa \"Podrobnosti:\""
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Zobrazovať tip \"Pridať podržaním\""
+    },
+    {
+      "name": "show_info",
+      "value": "Zobraziť info"
+    },
+    {
+      "name": "show_less",
+      "value": "Zobraziť menej"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Zobraziť memory leaks"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Vypnutím skryjete metainformačné polia s ďalšími informáciami o autorovi streamu, obsahu streamu alebo požiadavke na vyhľadávanie"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Zobrazovať meta informácie"
+    },
+    {
+      "name": "show_more",
+      "value": "Zobraziť viac"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Ukázať 'Ďalšie' a 'Podobné' videá"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Pôvodné texty zo služieb budú viditeľné v položkách streamu"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Zobrazovať pôvodný čas"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Zobrazí možnosť prehrať video cez mediálne centrum Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Zobraziť možnosť \"Prehrať cez Kodi\""
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Vyberte návrhy, ktoré sa majú zobrazovať pri vyhľadávaní"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Hľadať návrhy"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Použije miniatúru pre pozadie uzamknutej obrazovke a oznámenia"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Zobrazovať miniatúru"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s odmietol poskytnúť údaje, žiada o prihlásenie na potvrdenie, že žiadateľ nie je bot.\n\nVaša IP adresa mohla byť dočasne zakázaná %1$s, môžete nejaký čas počkať alebo prejsť na inú IP adresu (napríklad zapnutím/vypnutím VPN alebo prepnutím z WiFi na mobilné dáta).\n\nPozrite si <a href=\"%2$s\">túto časť FAQ</a> pre viac informácií."
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Pretáčať tiché pasáže"
+    },
+    {
+      "name": "songs",
+      "value": "Skladby"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Pardon, toto sa nemalo stať."
+    },
+    {
+      "name": "sort",
+      "value": "Usporiadať"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Táto skladba je typu SoundCloud Go+, pre vašu krajinu je tento typ zakázaný a preto ju NewPipe nemôže streamovať ani sťahovať."
+    },
+    {
+      "name": "start",
+      "value": "Štart"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "V súlade s Európskym Všeobecným Nariadením o Ochrane Údajov (GDPR), chceme upriamiť Vašu pozornosť na zmluvu o ochrane osobných údajov v NewPipe. Starostlivo si ju prečítajte.\n\nMusíte ju prijať pred nahlásením chyby."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Spustite sťahovanie"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Prehrať (zvuk) odtiaľto na pozadí"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Spustiť prehrávanie vo vyskakovacom okne"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Ak je automatické otáčanie zablokované, nespustí videá v miniprehrávači, ale prepne sa do celoobrazovkového režimu. Do miniprehrávača sa dostanete po ukončení režimu celej obrazovky"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Hlavný prehrávač na celej obrazovke"
+    },
+    {
+      "name": "stop",
+      "value": "Stop"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Streamy nepodporované sťahovačom sa nezobrazujú"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Oznámenia o nových streamoch v odberoch"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Nové streamy"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Frekvencia kontroly"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Je vyžadované pripojenie na internet"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Odoberať"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Odoberané"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Počet odberateľov nie je k dispozícii"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Nemožno zmeniť odber"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Nemožno aktualizovať odber"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Nemožno exportovať odbery"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Nemožno importovať odbery"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Vyrieš a stlač \"Hotovo\""
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Prepnúť na pozadie"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Prepnúť na Video"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Prepnúť do mini okna"
+    },
+    {
+      "name": "systems_language",
+      "value": "Predvolený"
+    },
+    {
+      "name": "tab_about",
+      "value": "O nás a často kladené otázky"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Uložené playlisty"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Playlisty"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Zvoliť panel"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Licencie"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Odbery"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Režim tabletu"
+    },
+    {
+      "name": "theme_title",
+      "value": "Téma"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Vyrovnávacia pamäť obrázkov vymazaná"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "O aplikácii NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "História"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Prehrať zoznam"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "Výzva reCAPTCHA"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Naposledy prehrávané"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Licencie tretích strán"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Najprehrávanejšie"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Zapnúť všetko"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Prepnúť na celú obrazovku"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Prepnúť orientáciu obrazovky"
+    },
+    {
+      "name": "top_50",
+      "value": "Top 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Skladby"
+    },
+    {
+      "name": "trending",
+      "value": "Populárne"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Populárne hry"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Populárne filmy a seriály"
+    },
+    {
+      "name": "trending_music",
+      "value": "Populárna hudba"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Populárne podcasty"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Odstrániť záložku"
+    },
+    {
+      "name": "undo",
+      "value": "Vrátiť"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Spraviť nezávislými (môže spôsobovať skreslenie)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Neznáma"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Neznámy]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Neznámy formát"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Neznáma kvalita"
+    },
+    {
+      "name": "unmute",
+      "value": "Povoliť"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Vypnutie trvalého náhľadu"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Zrušiť odber"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "Tento obsah nie je dostupný pre aktuálne zvolenú krajinu obsahu.\n\nZmeňte výber v ponuke \"Nastavenia > Obsah > Predvolená krajina obsahu\"."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "URL nie je podporovaná"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Nemožno rozpoznať URL. Otvoriť pomocou inej aplikácie?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Zobrazí sa výzva na aktualizáciu aplikácie, keď je k dispozícii nová verzia"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Aktualizácie"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Zverejnené %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Túto možnosť povoľte, ak máte problémy s inicializáciou dekodéra, ktorý sa v prípade zlyhania inicializácie primárnych dekodérov vráti k dekodérom s nižšou prioritou. To môže mať za následok nižší výkon prehrávania ako pri použití primárnych dekodérov"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Použiť funkciu záložného dekodéra prehrávača AVPlayer"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Použiť externý prehrávač zvuku"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Odstráni audio pri niektorých rozlíšeniach"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Použiť externý prehrávač videa"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Rýchly posun umožňuje prejsť na novú pozíciu rýchlejšie, ale s menšou presnosťou. Posun o 5, 15 alebo 25 sekúnd v tomto prípade nie je možný"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Používať rýchly posun"
+    },
+    {
+      "name": "users",
+      "value": "Používatelia"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "%s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Prehrávač videa"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Neboli nájdené žiadne video streamy"
+    },
+    {
+      "name": "videos_string",
+      "value": "Videá"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Pozrieť na GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "Hlasitosť"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "História pozerania bola vymazaná"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Pozície prehrávania boli odstránené"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Navštívte webovú stránku NewPipe pre viac informácií a noviniek."
+    },
+    {
+      "name": "website_title",
+      "value": "Webová stránka"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Info:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Čo sa stalo:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Iba na WiFi"
+    },
+    {
+      "name": "yes",
+      "value": "Áno"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Začali ste odoberať tento kanál"
+    },
+    {
+      "name": "your_comment",
+      "value": "Váš komentár (v Angličtine):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Toto video je k dispozícii iba členom služby YouTube Music Premium, preto ho NewPipe nemôže streamovať ani sťahovať."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "Chyba HTTP 403 prijatá zo servera počas prehrávania, pravdepodobne spôsobená zákazom IP adresy alebo problémami s deobfuskáciou streamingovej URL adresy"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube poskytuje \"Obmedzený režim\", ktorý skrýva potenciálny obsah pre dospelých"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Zapnúť \"Obmedzený režim YouTube\""
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

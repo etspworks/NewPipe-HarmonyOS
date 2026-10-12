@@ -1,0 +1,309 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d deň"
+        },
+        {
+          "quantity": "few",
+          "value": "%d dni"
+        },
+        {
+          "quantity": "other",
+          "value": "%d dní"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%1$s sťahovanie zmazané"
+        },
+        {
+          "quantity": "few",
+          "value": "%1$s sťahovania zmazané"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s sťahovaní zmazaných"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Sťahovanie ukončené"
+        },
+        {
+          "quantity": "few",
+          "value": "%s ukončené sťahovania"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ukončených sťahovaní"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Exportovanie %d odberu…"
+        },
+        {
+          "quantity": "few",
+          "value": "Exportovanie %d odberov…"
+        },
+        {
+          "quantity": "many",
+          "value": "Exportovanie %d odberov…"
+        },
+        {
+          "quantity": "other",
+          "value": "Exportovanie %d odberov…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d vybraný"
+        },
+        {
+          "quantity": "few",
+          "value": "%d vybrané"
+        },
+        {
+          "quantity": "other",
+          "value": "%d vybraných"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d hodina"
+        },
+        {
+          "quantity": "few",
+          "value": "%d hodiny"
+        },
+        {
+          "quantity": "other",
+          "value": "%d hodín"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Importovanie %d odberu…"
+        },
+        {
+          "quantity": "few",
+          "value": "Importovanie %d odberov…"
+        },
+        {
+          "quantity": "many",
+          "value": "Importovanie %d odberov…"
+        },
+        {
+          "quantity": "other",
+          "value": "Importovanie %d odberov…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s poslucháč"
+        },
+        {
+          "quantity": "few",
+          "value": "%s poslucháči"
+        },
+        {
+          "quantity": "other",
+          "value": "%s poslucháčov"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Načítanie %d odberu…"
+        },
+        {
+          "quantity": "few",
+          "value": "Načítanie %d odberov…"
+        },
+        {
+          "quantity": "many",
+          "value": "Načítanie %d odberov…"
+        },
+        {
+          "quantity": "other",
+          "value": "Načítanie %d odberov…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minuta"
+        },
+        {
+          "quantity": "few",
+          "value": "%d minuty"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minút"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s nový stream"
+        },
+        {
+          "quantity": "few",
+          "value": "%s nové streamy"
+        },
+        {
+          "quantity": "other",
+          "value": "%s nových streamov"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s odpoveď"
+        },
+        {
+          "quantity": "few",
+          "value": "%s odpovede"
+        },
+        {
+          "quantity": "other",
+          "value": "%s odpovedí"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d sekunda"
+        },
+        {
+          "quantity": "few",
+          "value": "%d sekundy"
+        },
+        {
+          "quantity": "other",
+          "value": "%d sekúnd"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s odberateľ"
+        },
+        {
+          "quantity": "few",
+          "value": "%s odberatelia"
+        },
+        {
+          "quantity": "other",
+          "value": "%s odberateľov"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s video"
+        },
+        {
+          "quantity": "few",
+          "value": "%s videá"
+        },
+        {
+          "quantity": "other",
+          "value": "%s videí"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s zobrazenie"
+        },
+        {
+          "quantity": "few",
+          "value": "%s zobrazenia"
+        },
+        {
+          "quantity": "many",
+          "value": "%s zobrazení"
+        },
+        {
+          "quantity": "other",
+          "value": "%s zobrazení"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s sleduje"
+        },
+        {
+          "quantity": "few",
+          "value": "%s sledujú"
+        },
+        {
+          "quantity": "other",
+          "value": "%s sleduje"
+        }
+      ]
+    }
+  ]
+}

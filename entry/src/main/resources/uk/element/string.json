@@ -1,0 +1,3048 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Прийняти"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Обліковий запис припинено"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Обліковий запис заблоковано\n\n%1$s вказує таку причину: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "Історія"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Додати в добірку"
+    },
+    {
+      "name": "albums",
+      "value": "Альбоми"
+    },
+    {
+      "name": "all",
+      "value": "Усе"
+    },
+    {
+      "name": "always",
+      "value": "Завжди"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Завжди питати"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Цей обхідний шлях вивільняє і повторно встановлює відеокодеки, коли відбувається зміна поверхні, замість того, щоб налаштовувати поверхню на кодек безпосередньо. Це налаштування вже використовується ExoPlayer на деяких пристроях з цією проблемою, але воно працює лише на Android 6 і новіших версіях\n\n\n\nУвімкнення цієї опції може запобігти помилкам відтворення під час перемикання поточного відеопрогравача або переходу до повноекранного режиму"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Завжди використовувати обхідний шлях налаштування поверхні відеовиходу AVPlayer"
+    },
+    {
+      "name": "any_network",
+      "value": "Будь-яка мережа"
+    },
+    {
+      "name": "app_description",
+      "value": "Вільне та легке потокове програвання на HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Мова"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe є вільним (копілефт) застосунком: ви можете використовувати, поширювати та вдосконалювати його на власний розсуд. Зокрема ви можете розповсюджувати та/або змінювати його за умов дотримання вимог GNU General Public License 3-ї версії або (на ваш вибір) будь-якої пізнішої версії, опублікованої Free Software Foundation."
+    },
+    {
+      "name": "app_license_title",
+      "value": "Ліцензія NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Збій застосунку/інтерфейсу"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Торкніться, щоб завантажити %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Доступне оновлення NewPipe!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Сповіщення про нові версії NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Сповіщення про оновлення застосунку"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Ви використовуєте найновішу версію NewPipe"
+    },
+    {
+      "name": "artists",
+      "value": "Виконавці"
+    },
+    {
+      "name": "audio",
+      "value": "Аудіо"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Аудіопотоки не знайдено"
+    },
+    {
+      "name": "audio_track",
+      "value": "Звукова доріжка"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "У цій трансляції вже має бути звукова доріжка"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "описова"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "дубльована"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "оригінальна"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "вторинний"
+    },
+    {
+      "name": "auto",
+      "value": "Автоматично"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Автоматична (тема пристрою)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Продовжити при завершені (не повторюваної) черги, додавши повʼязаний запис"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Автододавання в чергу наступної трансляції"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Автоматична черга"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe може час від часу автоматично перевіряти наявність нових версій і сповіщати вас про їх появу.\n\nХочете увімкнути цю функцію?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Починати відтворення автоматично — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Автовідтворення"
+    },
+    {
+      "name": "background_player",
+      "value": "Тильний програвач"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Відтворення у фоновому режимі"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Найкраща роздільність"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Чорна"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Порожня сторінка"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Додати добірку до закладок"
+    },
+    {
+      "name": "brightness",
+      "value": "Яскравість"
+    },
+    {
+      "name": "cancel",
+      "value": "Скасувати"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Створені автоматично"
+    },
+    {
+      "name": "caption_none",
+      "value": "Без субтитрів"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Зміна висоти тексту субтитрів та стилів тла. Потребує перезапуску застосунку"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Субтитри"
+    },
+    {
+      "name": "card",
+      "value": "Картки"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Створено %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Сторінка каналу"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Про канал"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Альбоми"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Канали"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Вподобання"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Наживо"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Добірки"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Shorts"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Треки"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Відео"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Ви відписалися від каналу"
+    },
+    {
+      "name": "channels",
+      "value": "Канали"
+    },
+    {
+      "name": "chapters",
+      "value": "Розділи"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Букви та цифри"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Більшість спеціальних символів"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Перевірити наявність оновлень"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Запустити виявлення нових трансляцій"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Перевірка оновлень…"
+    },
+    {
+      "name": "checksum",
+      "value": "Контрольна сума"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Вибрати екземпляр"
+    },
+    {
+      "name": "clear",
+      "value": "Очистити"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Очистити збережені під час вирішення reCAPTCHA реп'яшки (cookies)"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Очистити реп'яшки (cookies) reCAPTCHA"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Очистити історію завантажень"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Видаляє всі позиції відтворення"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Видалити позиції відтворення"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Черга активного програвача буде замінена"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Перехід від одного програвача до іншого може замінити вашу чергу"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Підтверджувати очищення черги"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Видаляє історію пошукових запитів"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Очистити історію пошуку"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Видаляє історію відтворень і позицій відтворення"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Очистити історію переглядів"
+    },
+    {
+      "name": "close",
+      "value": "Закрити"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Коментарі вимкнено"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Коментарі"
+    },
+    {
+      "name": "conferences",
+      "value": "Конференції"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Очистити історію завантажень чи завантажені файли?"
+    },
+    {
+      "name": "content",
+      "value": "Вміст"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Переважна мова вмісту"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Вміст недоступний"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "NewPipe ще не підтримує цей вміст.\n\n\n\nМожливо, підтримка з'явиться в наступних версіях."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Які б не були ваші ідеї: переклад, дизайн, легкий чи глобальний рефакторинг — будь-яка допомога завжди у пригоді. Що більше зроблено, то ліпшим стає NewPipe!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Посприяти"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Додати до"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "У фоні"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Завантажити потоковий файл"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "У вікні"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Скопіювати відформатований звіт"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s, %2$s під %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Увага: не вдалося імпортувати всі файли."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Не вдалося завантажити всі ескізи"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Не вдалося налаштувати меню завантаження"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Збій застосунку"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Збій програвача"
+    },
+    {
+      "name": "create",
+      "value": "Створити"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Створити сповіщення про помилку"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Нова добірка"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Темна"
+    },
+    {
+      "name": "decline",
+      "value": "Відхилити"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Типовий формат звуку"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Типова країна вмісту"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Типовий кіоск"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Типова роздільність вікна"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Типова роздільність"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Типовий формат відео"
+    },
+    {
+      "name": "delete",
+      "value": "Видалити"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Видалити завантажені файли"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Видалити всі завантажені файли з диска?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Видалити запис"
+    },
+    {
+      "name": "delete_file",
+      "value": "Видалити файл"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Видалити цей елемент з історії пошуку?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Видалити всі позиції відтворення?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Видалити цю добірку?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Видалити всю історію пошуку?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Видалити всю історію переглядів?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Заборонити виділення тексту в описі"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Дозволити виділяти текст в описі"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Тепер можна виділяти текст в описі. Зауважте, що сторінка може мигати і посилання можуть не працювати в режимі виділення."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Опис"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Не сподобалося"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Перетягуйте для впорядкування"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Вподобано автором"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Вподобані"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Закріплений коментар"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Ескіз аватара каналу"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Відтворити відео, тривалість:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Мініатюрний аватар завантажувача відео"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Ви мали на увазі: «%1$s»?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Тунелювання медіа типово було вимкнено на вашому пристрої, оскільки ваша модель його не підтримує."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Вимкнення тунелювання медіаданих за наявності чорного екрана або гальмування під час відтворення відео."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Вимкнути тунелювання медіа"
+    },
+    {
+      "name": "disabled",
+      "value": "Вимкнено"
+    },
+    {
+      "name": "dismiss",
+      "value": "Відхилити"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe розроблений добровольцями, які витрачають власний час заради вашого задоволення. Допоможіть розробникам зробити NewPipe ще ліпшим, насолоджуючись філіжанкою кави."
+    },
+    {
+      "name": "donation_title",
+      "value": "Фінансова допомога"
+    },
+    {
+      "name": "done",
+      "value": "Готово"
+    },
+    {
+      "name": "dont_show",
+      "value": "Не показувати"
+    },
+    {
+      "name": "download",
+      "value": "Завантажити"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Завантаження з такою назвою вже додано в чергу"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Файл з такою назвою вже завантажується"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Завантажити"
+    },
+    {
+      "name": "download_failed",
+      "value": "Помилка завантаження"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Завантаження почалося"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Виберіть теку для завантаження аудіофайлів"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Завантажені аудіофайли зберігаються тут"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Тека для завантаження аудіо"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Виберіть теку для завантаження відеофайлів"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Шлях до теки із завантаженими відео"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Тека для завантаження відео"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Завантаження до зовнішньої SD-карти неможливе. Скинути розташування теки для завантажень?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Зовнішнє сховище недоступне"
+    },
+    {
+      "name": "downloads",
+      "value": "Завантаження"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Вас питатиме, куди зберігати кожне завантаження.\n\nУвімкніть системний вибір теки (SAF), якщо бажаєте завантажувати на зовнішню SD-картку"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Вас питатиме, куди зберігати кожне завантаження"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Запитувати, куди завантажувати"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "Фреймворк доступу до сховища (SAF) дозволяє завантажувати на зовнішню SD-картку"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Починаючи з Android 10, підтримується тільки \"Storage Access Framework\""
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Використовувати системний вибір теки (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Завантаження"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Закрити бічну панель"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Перемкнути службу, наразі обрано:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Відкрити бічну панель"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "У виділених сірим кольором добірках цей елемент уже є."
+    },
+    {
+      "name": "duration",
+      "value": "Тривалість"
+    },
+    {
+      "name": "duration_live",
+      "value": "Наживо"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Нічого немає… чути лише цвіркунів"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Примусове звітування про неможливість доставлення Rx-винятків, які відбуваються за межами фрагменту або діяльності життєвого циклу після усунення"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Звітувати про помилки життєвого циклу застосунку"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Моніторинг втрат пам'яті може призвести до нереагування застосунку під час запису дампу"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Відновлювати останню позицію"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Продовжувати перегляд"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Показувати індикатори позицій переглядів у списках"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Позиції у списках"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Обмежити чергу завантажень"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Одночасно виконувати лише одне завантаження"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Зберігати пошукові запити локально"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Історія пошуків"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Сповіщати про нові трансляції з підписок"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Сповіщення про нові трансляції"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Вести облік перегляду відеозаписів"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Історія переглядів"
+    },
+    {
+      "name": "enqueue",
+      "value": "Додати у чергу"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Запланувати наступним"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Додати у чергу"
+    },
+    {
+      "name": "enqueued",
+      "value": "Додано у чергу"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Заплановано наступним"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Запис видалено"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Не вдалося з'єднатися із сервером"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Деталі:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Неможливо відновити це завантаження"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Неможливо створити файл"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Сервер не надсилає дані"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Не знайдено"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Сервер не підтримує завантажень у декілька потоків, спробуйте з параметром @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Недостатньо вільного простору на пристрої"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "На пристрої не залишилося вільного простору"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Сталася помилка: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Неможливо створити цільову теку"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Невдала пост-обробка"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe був закритий під час роботи над файлом"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Прогрес втрачено через видалення файлу"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Надіслати звіт е-поштою"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Сповіщення для звітів про помилки"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Сповіщення про звіт про помилку"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "Сталася помилка NewPipe, торкніться, щоб звітувати"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Сталася помилка. Перегляньте сповіщення"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Перевірте, будь ласка, чи проблема що спричинила збій вже відома спільноті та розробникам. Дублюючи запити на вирішення помилок ви забираєте час розробників, який можна було б витратити на розв'язання наявних проблем."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Повідомити на GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Звіт про помилку"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Звіт"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Вибачте, щось пішло не так."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Захищене з'єднання не встановлено"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Час очікування з'єднання вичерпано"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Не вдалося завантажити коментарі"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Сервер не знайдено"
+    },
+    {
+      "name": "events",
+      "value": "Події"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Експортовано"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Експорт підписок, списків відтворення, історії та налаштувань"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Експортувати базу даних"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Експортування…"
+    },
+    {
+      "name": "export_to",
+      "value": "Експортувати до"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Зовнішні програвачі не підтримують такі види посилань"
+    },
+    {
+      "name": "faq",
+      "value": "Переглянути на сайті"
+    },
+    {
+      "name": "faq_description",
+      "value": "Якщо у вас виникли проблеми з використанням застосунку, обов'язково ознайомтеся з відповідями на поширені запитання!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Поширені запитання"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Швидкий режим"
+    },
+    {
+      "name": "featured",
+      "value": "Рекомендовані"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Нова"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Отримання вкладок каналу"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Отримувані вкладки під час оновлення стрічки. Ця опція не застосовується, якщо канал оновлюється за допомогою швидкого режиму."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Бажаєте видалити цю групу?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Порожня назва групи"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Підписки не вибрані"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Виберіть підписки"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Сторінка групи каналів"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Показати лише незгруповані підписки"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Групи каналів"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Показати такі трансляції"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Помилка завантаження стрічки"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Неможливо завантажити стрічку для «%s»."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Режим швидкої підписки не надає багато інформації щодо цього."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Обліковий запис автора припинено.\n\nNewPipe не зможе завантажити цей канал у майбутньому.\n\nВідписатися від цього каналу?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Нові записи стрічки"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Завантаження каналу…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Останнє оновлення: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Обробка каналу…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Показати/сховати трансляції"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Частково переглянуто"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Незабаром"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Повністю переглянуто"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Не завантажено: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Оновлювати постійно"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Період актуальності підписок після поновлення — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Поріг оновлення підписок"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Звичайний режим"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Швидкий режим"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Якщо оновлення підписок здається вам занадто повільним, спробуйте увімкнути швидкий режим (змінити можна в налаштуваннях або кнопкою внизу).\n\nNewPipe дозволяє оновлювати підписки різними способами:\n• Отримання каналу цілком, повільно, але з повною інформацією.\n• Оновлення через RSS-канал, швидко, але інформація не повна.\n\nЗа швидкого оновлення втрачається тривалість елемента і його тип (не можна визначити, трансляція це або звичайне відео), а також елементи каналу.\n\nYouTube є прикладом такої служби, яка дозволяє виконувати швидке оновлення по RSS.\n\nВибір за вами: швидкість або точність."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Доступно для деяких служб, швидке, але може повертати не весь вміст каналу і часто неповну інформацію (тривалість, тип елемента, статус трансляції)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Отримувати з виділеної стрічки, коли доступно"
+    },
+    {
+      "name": "file",
+      "value": "Файл"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Файл видалено"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Назва файлу не може бути порожньою"
+    },
+    {
+      "name": "forward",
+      "value": "Перемотати вперед"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Новинки"
+    },
+    {
+      "name": "general_error",
+      "value": "Помилка"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Згенерувати унікальну назву"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Цей вміст недоступний у вашій країні."
+    },
+    {
+      "name": "get_notified",
+      "value": "Сповіщати"
+    },
+    {
+      "name": "give_back",
+      "value": "Ваша допомога"
+    },
+    {
+      "name": "grid",
+      "value": "Сiтка"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Сповіщення про перебіг відеогешування"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Сповіщення про відеохешування"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Висока якість (більше)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Утримуйте, щоб додати в чергу"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Корисно, наприклад, якщо ви використовуєте гарнітуру зі зламаними фізичними кнопками"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Ігнорувати події апаратних медіакнопок"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Висока якість"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Низька якість"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Середня якість"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Не завантажувати зображення"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Виберіть якість зображень і чи завантажувати зображення взагалі, щоб знизити використання даних і пам'яті. Зміни очищують кеш зображень як у пам'яті, так і на диску — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Якість зображення"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Імпортовано"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Поточні підписки, добірки, історія і (за бажанням) налаштування буде замінено"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Імпортувати базу даних"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Вибрати файл"
+    },
+    {
+      "name": "import_from",
+      "value": "Імпортувати з"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Майте на увазі: ця операція може потребувати багато трафіку.\n\n\n\nБажаєте продовжити?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Імпортування…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Імпортувати разом з налаштуваннями?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Параметри експорту, який імпортується, використовують вразливий формат, який не підтримується з NewPipe 0.27.0. Переконайтеся, що експорт, який імпортується, походить із надійного джерела, і в майбутньому віддайте перевагу використанню лише експорту, отриманого з NewPipe 0.27.0 або новішої версії. Підтримку імпорту налаштувань у цьому вразливому форматі незабаром буде повністю припинено, і тоді старі версії NewPipe більше не зможуть імпортувати налаштування експорту з нових версій."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Імпортуйте профіль SoundCloud, вписавши або URL, або ваш ID:\n\n\n\n1. Увімкніть режим «Версія для ПК» у браузері (сайт не підтримується мобільними пристроями)\n\n2. Перейдіть за цим посиланням: %1$s\n\n3. За запитом увійдіть до облікового запису\n\n4. Скопіюйте URL профілю, до якого ви будете переспрямовані."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "вашID, soundcloud.com/yourid"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Імпорт або експорт підписок з 3-крапкового меню"
+    },
+    {
+      "name": "import_title",
+      "value": "Імпорт"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Імпортуйте підписки YouTube за допомогою Google Takeout:\n\n\n\n1. Перейдіть за посиланням: %1$s\n\n2. Авторизуйтесь, якщо буде потрібно\n\n3. Позначте пункт «YouTube і YouTube Music», потім виберіть тип «підписки»\n\n4. Натисніть «Наступний крок» і «Експортувати дані»\n\n5. Натисніть кнопку «Завантажити», коли вона з'явиться\n\n6. Натисніть на ІМПОРТУВАТИ ФАЙЛ нижче і виберіть завантажений zip-файл\n\n7. [Якщо не вдалося імпортувати zip] Видобудьте файл .csv (зазвичай у розділі «YouTube і YouTube Music/Підписки/subscriptions.csv»), натисніть ІМПОРТУВАТИ ФАЙЛ нижче та виберіть видобутий файл csv"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ вiдео"
+    },
+    {
+      "name": "info_labels",
+      "value": "Що:\nЗапит:\nМова вмісту:\nКраїна вмісту:\nМова застосунку:\nСлужба:\nЧас GMT:\nПакунок:\nВерсія:\nВерсія ОС:"
+    },
+    {
+      "name": "install",
+      "value": "Встановити"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Такої теки не існує"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Файл не існує або відсутній дозвіл на його читання або запис"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Такого джерела файлу/вмісту не існує"
+    },
+    {
+      "name": "just_once",
+      "value": "Лише раз"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "Детальніше"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "У серпні 2025 року, Google анонсувала, що з вересня 2026 року, для встановлення застосунків буде потрібна верифікація розробника для всіх Android застосунків на сертифікованих пристроях, включаючи ті, що були встановлені не через Play Store. Оскільки розробники NewPipe не згодні з цією вимогою, NewPipe перестане працювати на сертифікованих Android пристроях після цієї дати."
+    },
+    {
+      "name": "kao_solution",
+      "value": "Вирішення"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Сторінка кіоску"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Установити відсутній застосунок Kore?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary недоступний"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Виберіть жест для лівої половини екрана програвача"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Дія жестом ліворуч"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Світла"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Без обмежень"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Обмежити роздільність під час мобільних даних"
+    },
+    {
+      "name": "list",
+      "value": "Список"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Режим перегляду списком"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Завантаження метаданих…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Завантаження відомостей про трансляцію…"
+    },
+    {
+      "name": "local",
+      "value": "Локальне"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Локальні пошукові пропозиції"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Низька якість (менше)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Торкніться лупи, щоб розпочати."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Вміст на головній сторінці"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Вкладки, показані на головній сторінці"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Проведіть пальцем по елементах, щоб вилучити їх"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Перемістити селектор головної вкладки вниз"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Розташування основних вкладок"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Перевірка нових версій вручну"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Позначити переглянутим"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Найбільша кількість спроб перед скасуванням завантаження"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Максимум спроб"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Вікове обмеження"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Аватари"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Банери"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Кеш метаданих стерто"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Видалити всі кешовані дані вебсторінок"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Стерти кеш метаданих"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Категорія"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Власник"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Мова"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Ліцензія"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Приватність"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Внутрішнє"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Приватне"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Публічне"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Поза списком"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Аватари підканалів"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Підписники"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Підтримка"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Мітки"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Мініатюри"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Вивантажувач аватарів"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud припинив підтримку оригінальних чартів Топ-50. Відповідну вкладку видалено з вашої головної сторінки."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "Сторінку SoundCloud Top 50 видалено"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube припинив підтримку об’єднаної сторінки трендів з 21 липня 2025 року. NewPipe замінив стандартну сторінку трендів на сторінку трендових прямих трансляцій.\n\nВи також можете вибрати різні сторінки трендів у розділі «Налаштування» > «Контент» > «Контент головної сторінки»."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "Видалено об’єднаний тренд YouTube"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Згорнути у фоновий програвач"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Нічого"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Зменшити до програвача у вікні"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Дія при перемиканні до інших застосунків з основного відеопрогравача — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Зменшити при перемиканні застосунку"
+    },
+    {
+      "name": "missing_file",
+      "value": "Файл переміщено або видалено"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Завершено"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Очікує"
+    },
+    {
+      "name": "more_options",
+      "value": "Інші опції"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ вiдео"
+    },
+    {
+      "name": "most_liked",
+      "value": "Найвподобаніші"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Обчислення хешу"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Скопійовано до буфера обміну"
+    },
+    {
+      "name": "msg_error",
+      "value": "Помилка"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Не вдалося скопіювати до буфера обміну"
+    },
+    {
+      "name": "msg_name",
+      "value": "Назва файлу"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Цей дозвіл потрібен для перегляду\n\nу віконному режимі"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe завантажує"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Деталі"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Потоки"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Зачекайте…"
+    },
+    {
+      "name": "mute",
+      "value": "Вимкнути звук"
+    },
+    {
+      "name": "name",
+      "value": "Назва"
+    },
+    {
+      "name": "network_error",
+      "value": "Помилка мережі"
+    },
+    {
+      "name": "never",
+      "value": "Ніколи"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Нове та гаряче"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Через обмеження AVPlayer точність перемотування становить %d секунд"
+    },
+    {
+      "name": "next_stream",
+      "value": "Наступний стрим"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Ця опція доступна, лише якщо темою обрано %s"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Виберіть нічну тему — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Нічна тема"
+    },
+    {
+      "name": "no",
+      "value": "Ні"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "На вашому пристрої нема програми, щоб відкрити це"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Для цієї дії не знайдено відповідного файлового менеджера.\n\nУстановіть файловий менеджер або спробуйте вимкнути «%s» у налаштуваннях завантажень"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Для цієї дії не знайдено відповідного файлового менеджера.\n\nУстановіть файловий менеджер, сумісний зі Storage Access Framework"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Немає аудіотрансляцій доступних для зовнішніх програвачів"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Вкажіть теку для завантажень пізніше в налаштуваннях"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Немає підписок на канали"
+    },
+    {
+      "name": "no_comments",
+      "value": "Коментарі відсутні"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Не вказано теки завантаження, оберіть типову теку завантаження зараз"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Групу каналів ще не створено"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Немає трансляцій наживо"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Ніхто не слухає"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Немає переглядів"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Програвач потокового відео не знайдений. Встановити VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Програвач потокового відео не знайдений (ви можете встановити VLC для програвання)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Жодну добірку ще не додано"
+    },
+    {
+      "name": "no_streams",
+      "value": "Немає трансляцій"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Відсутні потоки, доступні для завантаження"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Немає підписників"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Немає дійсного ZIP-файлу"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Немає доступних відеотрансляцій для зовнішніх програвачів"
+    },
+    {
+      "name": "no_videos",
+      "value": "Немає відео"
+    },
+    {
+      "name": "no_views",
+      "value": "Немає переглядів"
+    },
+    {
+      "name": "none",
+      "value": "Нічого"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Кнопка першої дії"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Кнопка другої дії"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Кнопка третьої дії"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Кнопка четвертої дії"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Кнопка пʼятої дії"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Буферизація"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Нічого"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Повтор"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Перемішати"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "У компактному сповіщенні є не більше трьох дій!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Відредагуйте кожну дію сповіщення, натиснувши на неї. Виберіть до трьох з них, які будуть показані в компактному сповіщенні, за допомогою прапорців праворуч."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Відредагуйте кожну дію сповіщення, натиснувши на неї. Перші три дії (відтворення/пауза, попередній і наступний) встановлюються системою і не можуть бути змінені."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Сповіщення для програвачів NewPipe"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "Сповіщення NewPipe"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Кольорувати повідомлення основним кольором мініатюри. Підтримується не всіма пристроями"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Кольорове сповіщення"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Обрізати мініатюру відео показувану в сповіщенні з пропорцій 16: 9 до 1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Обрізати ескіз до пропорцій 1:1"
+    },
+    {
+      "name": "notifications",
+      "value": "Сповіщення"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Сповіщення вимкнено"
+    },
+    {
+      "name": "off",
+      "value": "Вимкнути"
+    },
+    {
+      "name": "ok",
+      "value": "Гаразд"
+    },
+    {
+      "name": "on",
+      "value": "Увімкнути"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "Видалено 1 елемент."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Відкрити в оглядачі"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Відкрити у віконному режимі"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Відкрити чергу відтворення"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Відкрити вебсайт"
+    },
+    {
+      "name": "open_with",
+      "value": "Відкрити через"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Це перезапише ваші поточні налаштування."
+    },
+    {
+      "name": "overwrite",
+      "value": "Перезаписати"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "не можу перезаписати файл"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Завантажений файл з такою назвою вже існує"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Файл з такою назвою вже існує"
+    },
+    {
+      "name": "paid_content",
+      "value": "Цей вміст доступний лише користувачам, які заплатили, тому його не можна передавати потоково або завантажувати через NewPipe."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Не вдалося проаналізувати вебсайт"
+    },
+    {
+      "name": "pause",
+      "value": "Пауза"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Призупинити завантаження"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Переривати завантаження на небезлімітних з'єднаннях"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Корисно під час перемикання на мобільні дані, хоча деякі завантаження неможливо призупинити"
+    },
+    {
+      "name": "paused",
+      "value": "призупинено"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Екземпляр уже існує"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Не вдалося перевірити сервер"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Введіть URL екземпляра"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Підтримуються лише HTTPS-посилання"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Додати екземпляр"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Каталог серверів: %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Виберіть сервер PeerTube"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "Екземпляри PeerTube"
+    },
+    {
+      "name": "percent",
+      "value": "Відсоток"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Дію заборонено системою"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Потрібен дозвіл показувати поверх інших застосунків"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "Щоб використовувати спливаючий програвач, виберіть %1$s у наступному меню налаштувань Android та увімкніть %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "“Дозволити показ поверх інших програм”"
+    },
+    {
+      "name": "play",
+      "value": "Відтворити"
+    },
+    {
+      "name": "play_all",
+      "value": "Відтворити все"
+    },
+    {
+      "name": "play_audio",
+      "value": "Аудіо"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Налаштування аудіо"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Аудіо: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Вилучити"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Подробиці"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Програти в Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Тон"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Скинути"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Керування швидкістю відтворення"
+    },
+    {
+      "name": "playback_step",
+      "value": "Крок"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Темп"
+    },
+    {
+      "name": "player_http_403",
+      "value": "Під час відтворення від сервера отримано помилку HTTP 403, ймовірно, через закінчення терміну дії URL-адреси потокової передачі або заборону IP-адреси"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "Помилка HTTP %1$s отримана від сервера під час відтворення"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Відновлення після помилки програвача"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Не вдалося відтворити цей потік"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Сталася невиправна помилка програвача"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Додано в добірку"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Дублікат додано %d раз(ів)"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Добірку створено"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Створено автоматично (автора не знайдено)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Сторінка добірки"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Ескіз добірки змінено."
+    },
+    {
+      "name": "playlists",
+      "value": "Добірки"
+    },
+    {
+      "name": "popup_player",
+      "value": "Віконний програвач"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Відтворення у віконному режимі"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Памʼятати останній розмір і позицію вікна"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Памʼятати властивості вікна"
+    },
+    {
+      "name": "post_processing",
+      "value": "пост-обробка"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Вибирати звукову доріжку з описом для людей із вадами зору, якщо вона є"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Надавати перевагу описовому аудіо"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Вибирати оригінальну звукову доріжку незалежно від мови"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Надавати перевагу оригінальному аудіо"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Типова дія під час відкриття вмісту — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Бажана дія під час відкривання"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Завантаження запитаного контенту"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Отримання інформації…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Попереднє експортування"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Попередній стрим"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "Проєкт NewPipe дуже серйозно ставиться до вашої приватності. Тому застосунок не збирає ніяких даних без вашої згоди.\n\nПолітика приватності докладно NewPipe пояснює, які дані надсилаються і зберігаються у звіті про збій."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Політика приватності NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "Цей вміст є приватним, тому його не можна передавати потоково або завантажувати через NewPipe."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Обробка… Трохи заждіть"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "Типовий AVPlayer"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Змінити розмір інтервалу завантаження прогресивного вмісту (наразі %s). Нижче значення може прискорити його початкове завантаження"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Розмір інтервалу завантаження відтворення"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "додано в чергу"
+    },
+    {
+      "name": "radio",
+      "value": "Радіо"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Прочитати ліцензію"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Читати політику приватності"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "Реп'яшки (cookies) reCAPTCHA видалено"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "Запит перевірки reCAPTCHA"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Розв'язати"
+    },
+    {
+      "name": "recent",
+      "value": "Останні"
+    },
+    {
+      "name": "recently_added",
+      "value": "Недавно додані"
+    },
+    {
+      "name": "recovering",
+      "value": "відновлення"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Повʼязані елементи"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Віддалені пропозиції пошуку"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Вилучити дублікати"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Бажаєте вилучити всі повторювані трансляції в цій добірці?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Вилучити дублікати?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Видалити переглянуті"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Так, а також частково переглянуті відео"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Видалити переглянуті потоки?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Потоки, які були переглянуті до та після додавання в добірку, будуть видалені. \nВи впевнені?"
+    },
+    {
+      "name": "rename",
+      "value": "Перейменувати"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Перейменувати"
+    },
+    {
+      "name": "replay",
+      "value": "Повторити"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Скидання всіх налаштувань призведе до скидання всіх вибраних вами налаштувань і перезапуску застосунку.\n\n\n\nВи впевнені, що хочете продовжити?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Скинути всі налаштування до усталених значень"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Скинути налаштування"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Заповнити"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Вписати"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Збільшити"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Відновити типові налаштування"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Відновити типові значення?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Це відео з віковим обмеженням.\n\n\n\nЩоб побачити його ввімкніть «%1$s» в налаштуваннях."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Це відео має вікові обмеження.\n\nЗгідно з новою політикою YouTube щодо відео з віковими обмеженнями NewPipe не може мати доступ до жодного потоку цього відео і, таким чином, не має можливості відтворити його."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Продовжувати відтворення після переривань (напр. телефонних дзвінків)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Відновлювати відтворення"
+    },
+    {
+      "name": "retry",
+      "value": "Повторити спробу"
+    },
+    {
+      "name": "rewind",
+      "value": "Відмотати назад"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Виберіть жест для правої половини екрана програвача"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Дія жесту праворуч"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Помилка зчитування збережених вкладок. Використовуються типові вкладки"
+    },
+    {
+      "name": "search",
+      "value": "Пошук"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Історію пошуку видалено"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Нічого не знайдено"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Результати для: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Пошук %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Пошук %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Швидке перемотування"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Мініатюра з попереднім переглядом на повзунку поступу"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Обрати канал"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Виберіть групу каналів"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Обрати кіоск"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Вибрати добірку"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Вибір звукової доріжки для зовнішніх програвачів"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Ви можете вибрати нічну тему нижче"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Виберіть якість для зовнішніх програвачів"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Вибрана трансляція не підтримується зовнішніми програвачами"
+    },
+    {
+      "name": "semitone",
+      "value": "Напівтон"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Призначити ескізом добірки"
+    },
+    {
+      "name": "settings",
+      "value": "Налаштування"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Зовнішній вигляд"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Резервне копіювання і відновлення"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Очистити дані"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Налагодження"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Завантаження"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Керування деякими налаштуваннями AVPlayer. Щоб ці зміни набули чинності, потрібно перезапустити програвач"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "Налаштування AVPlayer"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Підписки"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Історія та кеш"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Поведінка"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Налаштувати повідомлення про відтворюваний наразі потік"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Сповіщення програвача"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Програвач"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Оновлення"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Відео та звук"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Допустимі символи в назвах файлів"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Недопустимі символи замінюватимуться цим значенням"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Замінні символи"
+    },
+    {
+      "name": "share",
+      "value": "Поширити"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Поширити через"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Поділитися добіркою"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Поділитися як тимчасовим списком відтворення YouTube"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Поділитися списком URL-адрес"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Поділитися з назвами"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sмлрд"
+    },
+    {
+      "name": "short_million",
+      "value": "%sмлн"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sтис"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Показувати вміст, який, можливо, не підходить для дітей, бо має вікове обмеження (наприклад, 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Вміст із віковими обмеженнями"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Показати деталі каналу"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Вкладки каналу"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Які вкладки показуються на сторінках каналів"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Вимкніть, щоб сховати коментарі"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Показувати коментарі"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Показує параметр збою під час використання програвача"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Показати \"Збій програвача\""
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Вимкніть, щоб приховати опис відео та додаткові відомості"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Показувати описи"
+    },
+    {
+      "name": "show_error",
+      "value": "Показати помилку"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Показати панель помилок"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Не всі пристрої можуть відтворювати 2K/4K-відео"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Показувати вищі роздільності"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Показувати підказку під час натискання фонової або спливної кнопки у відео \"Деталі:\""
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Показати підказку «Затисніть, щоб додати»"
+    },
+    {
+      "name": "show_info",
+      "value": "Показати інформацію"
+    },
+    {
+      "name": "show_less",
+      "value": "Показати менше"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Показувати витоки памʼяті"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Вимкніть, щоб приховати поля метаданих (автор потоку, вміст потоку або пошуковий запит)"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Показувати метадані"
+    },
+    {
+      "name": "show_more",
+      "value": "Показати більше"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Показувати «Наступне» і «Схожі» відео"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Оригінальні тексти сервісів будуть видимі в потокових елементах"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Початковий час оприлюднення"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Показати опцію відтворення відео в Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Показати опцію «Відтворити у Kodi»"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Виберіть які пропозиції показувати під час пошуку"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Пошукові пропозиції"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Використовувати ескізи для фону екрана блокування і для сповіщень"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Показувати ескіз"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s відмовився надати дані, запитуючи логін для підтвердження того, що запитувач не є ботом.\n\nВаша IP-адреса могла бути тимчасово заблокована %1$s. Ви можете почекати деякий час або перейти на іншу IP-адресу (наприклад, увімкнувши/вимкнувши VPN або переключившись з Wi-Fi на мобільні дані)."
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Пропускати тихі проміжки"
+    },
+    {
+      "name": "songs",
+      "value": "Пісні"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Перепрошуємо, цього не мало статися."
+    },
+    {
+      "name": "sort",
+      "value": "Сортувати"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Це доріжка для SoundCloud Go+, принаймні у вашій країні, тому її не можна передавати потоково або завантажувати через NewPipe."
+    },
+    {
+      "name": "start",
+      "value": "Почати"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "З метою дотримання Загального регламенту про захист даних ЄС (General Data Protection Regulation, GDPR) ми звертаємо вашу увагу на політику приватності NewPipe. Будь ласка, прочитайте уважно.\n\nВи маєте прийняти її, аби надіслати нам звіт про помилку."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Почати завантаження"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Розпочати програвання на фоні"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Почати відтворення у вікні"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Не запускати відео в мініпрогравачі, а перемикати в повноекранний режим безпосередньо, якщо автообертання заблоковано. Ви все одно можете отримати доступ до мініпрогравача, вийшовши з повноекранного режиму"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Запустити основний програвач у повноекранному режимі"
+    },
+    {
+      "name": "stop",
+      "value": "Зупинити"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Трансляції, які ще не підтримуються завантажувачем, не показані"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Сповіщення про нові трансляції для підписок"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Нові трансляції"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Частота перевірки"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Необхідний тип з'єднання"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Підписатися"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Ви підписалися"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Кількість підписників недоступна"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Не вдалося змінити підписку"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Не вдалося оновити підписку"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Не вдалося експортувати підписки"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Не вдалося імпортувати підписки"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Після завершення натисніть «Готово»"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Перейти у фоновий режим"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Перемкнути на головну"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Перемкнути у вікно"
+    },
+    {
+      "name": "systems_language",
+      "value": "Мова телефону"
+    },
+    {
+      "name": "tab_about",
+      "value": "Про застосунок і ЧаП"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Закладки відтворення"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Списки відтворення"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Обрати вкладку"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Ліцензії"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Підписки"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Режим планшета"
+    },
+    {
+      "name": "theme_title",
+      "value": "Тема"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Кеш зображень стерто"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Про NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Історія"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Відтворити чергу"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "Перевірка reCAPTCHA"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Відтворювалося останнім"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Ліцензії третіх сторін"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Відтворювалося найбільше"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Перемкнути всі"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Перемкнути повноекранний режим"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Змінити орієнтацію екрана"
+    },
+    {
+      "name": "top_50",
+      "value": "Топ 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Треки"
+    },
+    {
+      "name": "trending",
+      "value": "Набуває популярності"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Ігрові тренди"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Популярні фільми та шоу"
+    },
+    {
+      "name": "trending_music",
+      "value": "Популярна музика"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Популярні подкасти"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Видалити закладку"
+    },
+    {
+      "name": "undo",
+      "value": "Скасувати"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Від'єднати (може спричинити спотворення)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Невідомо"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Невідомо]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Невідомий формат"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Невідома якість"
+    },
+    {
+      "name": "unmute",
+      "value": "Увімкнути звук"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Прибрати постійну мініатюру"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Відписатися"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "Цей контент недоступний для вибраної країни контенту.\n\nЗмініть свій вибір у розділі \"Налаштування > Контент > Країна контенту за замовчуванням\"."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "URL не підтримується"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Не розпізнано URL. Відкрити через інший застосунок?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Показувати сповіщення з пропозицією оновити застосунок за наявності нової версії"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Оновлення"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Опубліковано %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Увімкніть цю опцію, якщо у вас є проблеми з ініціалізацією декодерів, які повертаються до декодерів нижчого пріоритету, якщо не вдається ініціалізувати первинні декодери. Це може призвести до погіршення якості відтворення порівняно з використанням первинних декодерів"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Використовувати запасну функцію декодера AVPlayer"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Зовнішній аудіопрогравач"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Прибирає звук за певної роздільності"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Зовнішній відеопрогравач"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Швидше, але не точне перемотування. Перехід на 5, 15 або 25 секунд не працюватиме"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Швидкий неточний пошук"
+    },
+    {
+      "name": "users",
+      "value": "Користувачі"
+    },
+    {
+      "name": "video",
+      "value": "Відео"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Від %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Відеопрогравач"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Відеопотоки не знайдено"
+    },
+    {
+      "name": "videos_string",
+      "value": "Відео"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Переглянути на GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "Гучність"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Історію переглядів видалено"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Позиції відтворення видалено"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Завітайте на офіційний сайт NewPipe, щоб отримати більше інформації та новин."
+    },
+    {
+      "name": "website_title",
+      "value": "Вебсайт"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Інформація:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Що сталося:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Лише через Wi-Fi"
+    },
+    {
+      "name": "yes",
+      "value": "Так"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Ви підписалися на цей канал"
+    },
+    {
+      "name": "your_comment",
+      "value": "Ваш коментар (англійською):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Це відео доступне лише для користувачів YouTube Music Premium, тому його не можна передавати потоково або завантажувати через NewPipe."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "Під час відтворення від сервера отримано помилку HTTP 403, ймовірно, через заборону IP-адреси або проблеми з деобфускацією URL-адреси потокової передачі"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube надає «Обмежений режим», що ховає потенційно дорослий вміст"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Увімкнути \"Обмежений режим\" YouTube"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

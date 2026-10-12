@@ -1,0 +1,186 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ଦିନ"
+        },
+        {
+          "quantity": "other",
+          "value": "ମୋଟ %d ଦିନ"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%1$s ଡାଉନଲୋଡ୍ ଡିଲିଟ୍ ହୋଇଛି"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s ଡାଉନଲୋଡ୍ ଗୁଡ଼ିକ ଡିଲିଟ୍ ହୋଇଛି"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "ଡାଉନଲୋଡ୍ ସମାପ୍ତ ହୋଇଛି"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ଟି ଡାଉନଲୋଡ୍ ସମାପ୍ତ ହୋଇଛି"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ଚୟନ ହୋଇଛି"
+        },
+        {
+          "quantity": "other",
+          "value": "ମୋଟ %d ଟି ଚୟନ ହୋଇଛି"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ଘଣ୍ଟା"
+        },
+        {
+          "quantity": "other",
+          "value": "ମୋଟ %d ଘଣ୍ଟା"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ଜଣ ଶ୍ରୋତା"
+        },
+        {
+          "quantity": "other",
+          "value": "ମୋଟ %s ଜଣ ଶ୍ରୋତା"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ମିନିଟ୍"
+        },
+        {
+          "quantity": "other",
+          "value": "ମୋଟ %d ମିନିଟ୍"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ନୂଆ ଷ୍ଟ୍ରୀମ"
+        },
+        {
+          "quantity": "other",
+          "value": "ମୋଟ %s ନୂଆ ଷ୍ଟ୍ରୀମ"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ଉତ୍ତର"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ଉତ୍ତରଗୁଡ଼ିକ"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ସେକେଣ୍ଡ"
+        },
+        {
+          "quantity": "other",
+          "value": "ମୋଟ %d ସେକେଣ୍ଡ"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ଗ୍ରାହକ"
+        },
+        {
+          "quantity": "other",
+          "value": "ମୋଟ %s ଗ୍ରାହକ"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ଭିଡିଓ"
+        },
+        {
+          "quantity": "other",
+          "value": "ମୋଟ %s ଭିଡିଓ"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ଦର୍ଶନ"
+        },
+        {
+          "quantity": "other",
+          "value": "ମୋଟ %s ଦର୍ଶନ"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ଜଣ ଦେଖୁଛନ୍ତି"
+        },
+        {
+          "quantity": "other",
+          "value": "ମୋଟ %s ଜଣ ଦେଖୁଛନ୍ତି"
+        }
+      ]
+    }
+  ]
+}

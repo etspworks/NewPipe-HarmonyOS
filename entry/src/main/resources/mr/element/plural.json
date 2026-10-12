@@ -1,0 +1,17 @@
+{
+  "plural": [
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s पाहत आहे"
+        },
+        {
+          "quantity": "other",
+          "value": "%s पाहत आहेत"
+        }
+      ]
+    }
+  ]
+}

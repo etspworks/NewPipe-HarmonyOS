@@ -1,0 +1,293 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d dia"
+        },
+        {
+          "quantity": "many",
+          "value": "%d dies"
+        },
+        {
+          "quantity": "other",
+          "value": "%d dies"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "S'ha suprimit %1$s baixada"
+        },
+        {
+          "quantity": "many",
+          "value": "S'han suprimit %1$s baixades"
+        },
+        {
+          "quantity": "other",
+          "value": "S'han suprimit %1$s baixades"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Baixada finalitzada"
+        },
+        {
+          "quantity": "many",
+          "value": "%s baixades finalitzades"
+        },
+        {
+          "quantity": "other",
+          "value": "%s baixades finalitzades"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Exportant subscripció %d…"
+        },
+        {
+          "quantity": "many",
+          "value": "Exportant subscripcions %d…"
+        },
+        {
+          "quantity": "other",
+          "value": "Exportant subscripcions %d…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d de seleccionat"
+        },
+        {
+          "quantity": "many",
+          "value": "%d de seleccionats"
+        },
+        {
+          "quantity": "other",
+          "value": "%d de seleccionats"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d hora"
+        },
+        {
+          "quantity": "many",
+          "value": "%d hores"
+        },
+        {
+          "quantity": "other",
+          "value": "%d hores"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Important subscripció %d…"
+        },
+        {
+          "quantity": "many",
+          "value": "Important subscripcions %d…"
+        },
+        {
+          "quantity": "other",
+          "value": "Important subscripcions %d…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s escoltant"
+        },
+        {
+          "quantity": "many",
+          "value": "%s escoltants"
+        },
+        {
+          "quantity": "other",
+          "value": "%s escoltants"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Carregant subscripció %d…"
+        },
+        {
+          "quantity": "many",
+          "value": "Carregant subscripcions %d…"
+        },
+        {
+          "quantity": "other",
+          "value": "Carregant subscripcions %d…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minut"
+        },
+        {
+          "quantity": "many",
+          "value": "%d minuts"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minuts"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s retransmissió nova"
+        },
+        {
+          "quantity": "many",
+          "value": "%s retransmissions noves"
+        },
+        {
+          "quantity": "other",
+          "value": "%s retransmissions noves"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%sresposta"
+        },
+        {
+          "quantity": "many",
+          "value": "%srespostes"
+        },
+        {
+          "quantity": "other",
+          "value": "%srespostes"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d segon"
+        },
+        {
+          "quantity": "many",
+          "value": "%d segons"
+        },
+        {
+          "quantity": "other",
+          "value": "%d segons"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s subscriptor"
+        },
+        {
+          "quantity": "many",
+          "value": "%s subscriptors"
+        },
+        {
+          "quantity": "other",
+          "value": "%s subscriptors"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s vídeo"
+        },
+        {
+          "quantity": "many",
+          "value": "%s vídeos"
+        },
+        {
+          "quantity": "other",
+          "value": "%s vídeos"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s reproducció"
+        },
+        {
+          "quantity": "many",
+          "value": "%s reproduccions"
+        },
+        {
+          "quantity": "other",
+          "value": "%s reproduccions"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s visualització"
+        },
+        {
+          "quantity": "many",
+          "value": "%s visualitzacions"
+        },
+        {
+          "quantity": "other",
+          "value": "%s visualitzacions"
+        }
+      ]
+    }
+  ]
+}

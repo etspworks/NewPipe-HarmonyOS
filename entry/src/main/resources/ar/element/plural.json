@@ -1,0 +1,497 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%d يوم"
+        },
+        {
+          "quantity": "one",
+          "value": "%d يوم"
+        },
+        {
+          "quantity": "two",
+          "value": "%d أيام"
+        },
+        {
+          "quantity": "few",
+          "value": "%d أيام"
+        },
+        {
+          "quantity": "many",
+          "value": "%d يومًا"
+        },
+        {
+          "quantity": "other",
+          "value": "%d يومًا"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "اكتمل %1$s تنزيل"
+        },
+        {
+          "quantity": "one",
+          "value": "اكتمل %1$s تنزيل"
+        },
+        {
+          "quantity": "two",
+          "value": "اكتمل %1$s تنزيل"
+        },
+        {
+          "quantity": "few",
+          "value": "اكتملت %1$s تنزيلات"
+        },
+        {
+          "quantity": "many",
+          "value": "اكتمل %1$s تنزيل"
+        },
+        {
+          "quantity": "other",
+          "value": "اكتمل %1$s تنزيل"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "اكتمل التنزيل"
+        },
+        {
+          "quantity": "one",
+          "value": "اكتمل التنزيل"
+        },
+        {
+          "quantity": "two",
+          "value": "اكتمل التنزيل"
+        },
+        {
+          "quantity": "few",
+          "value": "اكتمل تنزيل%s"
+        },
+        {
+          "quantity": "many",
+          "value": "اكتملت التنزيلات%s"
+        },
+        {
+          "quantity": "other",
+          "value": "اكتملت التنزيلات%s"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "تصدير %d إشتراك…"
+        },
+        {
+          "quantity": "one",
+          "value": "تصدير %d إشتراكات…"
+        },
+        {
+          "quantity": "two",
+          "value": "تصدير %d إشتراكات…"
+        },
+        {
+          "quantity": "few",
+          "value": "تصدير %d إشتراكات…"
+        },
+        {
+          "quantity": "many",
+          "value": "تصدير %d إشتراك…"
+        },
+        {
+          "quantity": "other",
+          "value": "تصدير %d إشتراك…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%d تحديد"
+        },
+        {
+          "quantity": "one",
+          "value": "%d المحدد"
+        },
+        {
+          "quantity": "two",
+          "value": "%d المحدد"
+        },
+        {
+          "quantity": "few",
+          "value": "%d المحدد"
+        },
+        {
+          "quantity": "many",
+          "value": "%d المحدد"
+        },
+        {
+          "quantity": "other",
+          "value": "%d المحدد"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%d ساعة"
+        },
+        {
+          "quantity": "one",
+          "value": "%d ساعة"
+        },
+        {
+          "quantity": "two",
+          "value": "%d ساعة"
+        },
+        {
+          "quantity": "few",
+          "value": "%d ساعات"
+        },
+        {
+          "quantity": "many",
+          "value": "%d ساعة"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ساعة"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "إستيراد %d إشتراكات…"
+        },
+        {
+          "quantity": "one",
+          "value": "إستيراد %d إشتراكات…"
+        },
+        {
+          "quantity": "two",
+          "value": "إستيراد %d إشتراك…"
+        },
+        {
+          "quantity": "few",
+          "value": "إستيراد %d إشتراكات…"
+        },
+        {
+          "quantity": "many",
+          "value": "إستيراد %d إشتراك…"
+        },
+        {
+          "quantity": "other",
+          "value": "إستيراد %d إشتراك…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%s الاستماع"
+        },
+        {
+          "quantity": "one",
+          "value": "%s الاستماع"
+        },
+        {
+          "quantity": "two",
+          "value": "%s مستمعين"
+        },
+        {
+          "quantity": "few",
+          "value": "%s مستمعين"
+        },
+        {
+          "quantity": "many",
+          "value": "%s مستمعين"
+        },
+        {
+          "quantity": "other",
+          "value": "%s مستمعين"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "تحميل %d إشتراكات…"
+        },
+        {
+          "quantity": "one",
+          "value": "تحميل %d إشتراكات…"
+        },
+        {
+          "quantity": "two",
+          "value": "تحميل %d إشتراك…"
+        },
+        {
+          "quantity": "few",
+          "value": "تحميل %d إشتراكات…"
+        },
+        {
+          "quantity": "many",
+          "value": "تحميل %d إشتراك…"
+        },
+        {
+          "quantity": "other",
+          "value": "تحميل %d إشتراك…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%d دقيقة"
+        },
+        {
+          "quantity": "one",
+          "value": "%d دقيقة"
+        },
+        {
+          "quantity": "two",
+          "value": "%d دقيقة"
+        },
+        {
+          "quantity": "few",
+          "value": "%d دقائق"
+        },
+        {
+          "quantity": "many",
+          "value": "%d دقيقة"
+        },
+        {
+          "quantity": "other",
+          "value": "%d دقيقة"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%s دفق جديد"
+        },
+        {
+          "quantity": "one",
+          "value": "%s دفق جديد"
+        },
+        {
+          "quantity": "two",
+          "value": "%s دفق جديد"
+        },
+        {
+          "quantity": "few",
+          "value": "%s دفوق جديدة"
+        },
+        {
+          "quantity": "many",
+          "value": "%s دفق جديد"
+        },
+        {
+          "quantity": "other",
+          "value": "%s دفق جديد"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "رد %s"
+        },
+        {
+          "quantity": "one",
+          "value": "رد %s"
+        },
+        {
+          "quantity": "two",
+          "value": "ردان%s"
+        },
+        {
+          "quantity": "few",
+          "value": "ردود%s"
+        },
+        {
+          "quantity": "many",
+          "value": "ردود %s"
+        },
+        {
+          "quantity": "other",
+          "value": "ردود %s"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%d ثانية"
+        },
+        {
+          "quantity": "one",
+          "value": "%d ثانية"
+        },
+        {
+          "quantity": "two",
+          "value": "%d ثانية"
+        },
+        {
+          "quantity": "few",
+          "value": "%d ثواني"
+        },
+        {
+          "quantity": "many",
+          "value": "%d ثانية"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ثانية"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%s مشارك"
+        },
+        {
+          "quantity": "one",
+          "value": "%s مشارك"
+        },
+        {
+          "quantity": "two",
+          "value": "%s مشاركين"
+        },
+        {
+          "quantity": "few",
+          "value": "%s مشترك"
+        },
+        {
+          "quantity": "many",
+          "value": "%s مشترك"
+        },
+        {
+          "quantity": "other",
+          "value": "%s مشترك"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%s فيديو"
+        },
+        {
+          "quantity": "one",
+          "value": "%s أشرطة فيديو"
+        },
+        {
+          "quantity": "two",
+          "value": "%s أشرطة فيديو"
+        },
+        {
+          "quantity": "few",
+          "value": "%s أشرطة فيديو"
+        },
+        {
+          "quantity": "many",
+          "value": "%s أشرطة فيديو"
+        },
+        {
+          "quantity": "other",
+          "value": "%s أشرطة فيديو"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%s مشاهد"
+        },
+        {
+          "quantity": "one",
+          "value": "%s مشاهد"
+        },
+        {
+          "quantity": "two",
+          "value": "%s مشاهدة"
+        },
+        {
+          "quantity": "few",
+          "value": "%s مشاهدة"
+        },
+        {
+          "quantity": "many",
+          "value": "%s مشاهدة"
+        },
+        {
+          "quantity": "other",
+          "value": "%s مشاهدة"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "%s مشاهدة"
+        },
+        {
+          "quantity": "one",
+          "value": "%s مشاهدة"
+        },
+        {
+          "quantity": "two",
+          "value": "%s مشاهدة"
+        },
+        {
+          "quantity": "few",
+          "value": "%s مشاهدات"
+        },
+        {
+          "quantity": "many",
+          "value": "%s مشاهدات"
+        },
+        {
+          "quantity": "other",
+          "value": "%s مشاهدات"
+        }
+      ]
+    }
+  ]
+}

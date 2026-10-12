@@ -1,0 +1,94 @@
+NewPipe for HarmonyOS
+=====================
+
+This project is an unofficial HarmonyOS NEXT (ArkTS / ArkUI) port of NewPipe, the
+free and open-source streaming front-end for Android by Team NewPipe.
+
+Upstream project: https://github.com/TeamNewPipe/NewPipe
+Upstream website: https://newpipe.net/
+
+It is based on NewPipe for Android 0.29.1 (build 1015), including the shared
+Kotlin module (net.newpipe.app) and the download service (us.shandian.giga) that
+ship in that repository.
+
+The upstream software is distributed under the GNU General Public License,
+version 3, reproduced in the LICENSE file at the root of this repository. The
+source it was ported from carries:
+
+    Copyright (C) Christian Schabesberger 2016 <chris.schabesberger@mailbox.org>
+
+This port reuses upstream source logic, strings, resources and artwork. All of it
+remains under that license, and everything written for HarmonyOS is released
+under the same terms.
+
+This port is NOT affiliated with, endorsed by, or supported by Team NewPipe.
+Please do not report problems with this port to the upstream project. The name
+"NewPipe" and the NewPipe app icon belong to their respective owners; the GPL
+covers the source code, not that name or that artwork.
+
+
+Ported third-party code
+-----------------------
+
+`oh-package.json5` declares no runtime dependency: every layer the app needs was
+ported into this repository rather than pulled in. Each port carries the
+upstream class it was written from in its file header, so the derivation can be
+checked file by file. What was ported, and under which license:
+
+* NewPipeExtractor 0.26.5 — the extractor, every service and link handler.
+  GNU General Public License, version 3.
+  https://github.com/TeamNewPipe/NewPipeExtractor
+
+* RxJava 3.1.12 and RxAndroid 3.0.2 — the reactive layer under
+  `entry/src/main/ets/common/rx/`.
+  Apache License, Version 2.0.
+  https://github.com/ReactiveX/RxJava
+
+* jsoup 1.22.2 — the HTML parser and selector engine under
+  `entry/src/main/ets/common/extractor/html/`.
+  MIT License.
+  https://jsoup.org/
+
+* Markwon 4.6.2 (core and linkify) — the description renderer under
+  `entry/src/main/ets/common/text/`.
+  Apache License, Version 2.0.
+  https://github.com/noties/Markwon
+
+* PrettyTime 5.0.8.Final — the relative-time formatter
+  `entry/src/main/ets/common/i18n/PrettyTime.ts`.
+  Apache License, Version 2.0.
+  https://github.com/ocpsoft/prettytime
+
+* NoNonsense-FilePicker — the in-app directory picker under
+  `entry/src/main/ets/pages/CustomFilePickerFragmentPage.ets` and
+  `entry/src/main/ets/common/file/FilePicker.ts`, which NewPipe vendors as a
+  fork and which this port needs because folder selection is not available to a
+  phone app on HarmonyOS.
+  Mozilla Public License, Version 2.0.
+  https://github.com/spacecowboy/NoNonsense-FilePicker
+
+
+Bundled upstream assets
+-----------------------
+
+* `entry/src/main/resources/rawfile/aboutlibraries.json` and
+  `entry/src/main/resources/rawfile/licenses/*.txt` are carried over from
+  upstream NewPipe and are what the in-app About screen shows. They describe the
+  libraries of the ANDROID build; this port ships none of them as binaries.
+
+* `entry/src/main/resources/rawfile/po_token.html` is upstream's
+  `app/src/main/assets/po_token.html`, used by the YouTube extractor.
+
+* The launcher icon, the splash artwork and the in-app vector icons under
+  `entry/src/main/resources/base/media/` come from upstream NewPipe's own
+  resources.
+
+* The screenshots under `assets/screenshots/` were captured on the port itself.
+
+
+Build and test tooling
+----------------------
+
+`@ohos/hypium` and `@ohos/hamock` are devDependencies only: they run the host
+test suite and are not part of the installed HAP. Both are published by Huawei
+under the Apache License, Version 2.0.

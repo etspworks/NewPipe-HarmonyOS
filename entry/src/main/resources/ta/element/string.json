@@ -1,0 +1,2936 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "ஏற்றுக்கொள்"
+    },
+    {
+      "name": "account_terminated",
+      "value": "கணக்கு நிறுத்தப்பட்டது"
+    },
+    {
+      "name": "action_history",
+      "value": "வரலாறு"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "ஒளிச்சரத்தில் சேர்"
+    },
+    {
+      "name": "albums",
+      "value": "தொகுப்புகள்"
+    },
+    {
+      "name": "all",
+      "value": "அனைத்தும்"
+    },
+    {
+      "name": "always",
+      "value": "எப்பொழுதும்"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "எப்போதும் கேளுங்கள்"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "இந்த பணித்தொகுப்பு ஒரு மேற்பரப்பு மாற்றம் நிகழும்போது வீடியோ கோடெக்குகளை வெளியிட்டு மீண்டும் நிறுவுகிறது, அதற்கு பதிலாக கோடெக்கிற்கு நேரடியாக மேற்பரப்பை அமைப்பதற்கு பதிலாக. இந்த சிக்கலுடன் சில சாதனங்களில் ஏற்கனவே எக்சோப்ளேயரால் பயன்படுத்தப்படுகிறது, இந்த அமைப்பு ஆண்ட்ராய்டு 6 மற்றும் அதற்கு மேற்பட்டவற்றில் மட்டுமே தாக்கத்தை ஏற்படுத்துகிறது\n\n இந்த விருப்பத்தை இயக்குவது தற்போதைய வீடியோ பிளேயரை மாற்றும்போது அல்லது முழுத்திரைக்கு மாறும்போது பிளேபேக் பிழைகளைத் தடுக்கலாம்"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "எப்போதும் AVPlayer இன் வீடியோ வெளியீட்டு மேற்பரப்பு அமைப்பு பணித்தொகுப்பைப் பயன்படுத்துங்கள்"
+    },
+    {
+      "name": "any_network",
+      "value": "எந்த பிணையமும்"
+    },
+    {
+      "name": "app_description",
+      "value": "HarmonyOS இல் லிப்ரே லைட்வெயிட் ச்ட்ரீமிங்."
+    },
+    {
+      "name": "app_language_title",
+      "value": "செயலியின் மொழி"
+    },
+    {
+      "name": "app_license",
+      "value": "நியூபைப் என்பது நகலெடுக்கப்பட்ட லிப்ரே மென்பொருள்: நீங்கள் அதைப் பயன்படுத்தலாம், படிக்கலாம், பகிரலாம் மற்றும் மேம்படுத்தலாம். குறிப்பாக நீங்கள் இலவச மென்பொருள் அறக்கட்டளையால் வெளியிடப்பட்ட குனு பொது பொதுமக்கள் உரிமத்தின் விதிமுறைகளின் கீழ் மறுபகிர்வு மற்றும்/அல்லது மாற்றியமைக்கலாம், உரிமத்தின் பதிப்பு 3 அல்லது (உங்கள் விருப்பத்தில்) பின்னர் எந்தப் பதிப்பையும் மாற்றலாம்."
+    },
+    {
+      "name": "app_license_title",
+      "value": "நியூபைப்பின் உரிமம்"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "செயலி நிறுத்தப்பட்டது"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "%s பதிவிறக்க தட்டவும்"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "NewPipe புதுப்பிப்பு கிடைக்கிறது!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "புதிய NewPipe பதிப்புக்கான அறிவிப்புகள்"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "செயலி புதுப்பித்தல் அறிவிப்பு"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "நீங்கள் நியூபைப்பின் அண்மைக் கால பதிப்பை இயக்குகிறீர்கள்"
+    },
+    {
+      "name": "artists",
+      "value": "கலைஞர்கள்"
+    },
+    {
+      "name": "audio",
+      "value": "ஒலி"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "எந்த ஒலியோடையும் இல்லை"
+    },
+    {
+      "name": "audio_track",
+      "value": "ஆடியோ டிராக்"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "இந்த ச்ட்ரீமில் ஏற்கனவே ஆடியோ டிராக் இருக்க வேண்டும்"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "விளக்கமான"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "டப்பிங்"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "அசல்"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "இரண்டாம் நிலை"
+    },
+    {
+      "name": "auto",
+      "value": "தானாக"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "தானியங்கி (சாதன தோற்றம்)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "தொடர்புடைய ஸ்ட்ரீமைச் சேர்ப்பதன் மூலம் (மீண்டும் நிகழாத) பிளேபேக் வரிசையைத் தொடரவும்"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "அடுத்த பாய்வில் தானாக-தாரைபடுத்து"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "தானாக-தாரைபடுத்தல்"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "நியூபைப் தானாகவே புதிய பதிப்புகள் அவ்வப்போது சரிபார்க்கலாம் மற்றும் அவை கிடைத்தவுடன் உங்களுக்குத் தெரிவிக்கலாம்.\n இதை இயக்க விரும்புகிறீர்களா?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "பிளேபேக்கை தானாகத் தொடங்குங்கள் - %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "தானாக ஓட்டு"
+    },
+    {
+      "name": "background_player",
+      "value": "பின்னணி பிளேயர்"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "பிண்ணணியில் ஓடுகிறது"
+    },
+    {
+      "name": "best_resolution",
+      "value": "சிறந்த திரைத் தெளிவுத்திறன்"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "கருமை"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "வெற்று பக்கம்"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "ஒளிச்சரத்தை நூற்குறி"
+    },
+    {
+      "name": "brightness",
+      "value": "ஒளி"
+    },
+    {
+      "name": "cancel",
+      "value": "ரத்துசெய்"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "தானாக உருவாக்கிய"
+    },
+    {
+      "name": "caption_none",
+      "value": "தலைப்புகள் இல்லை"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "பிளேயர் தலைப்பு உரை அளவு மற்றும் பின்னணி பாணிகளை மாற்றவும். நடைமுறைக்கு வர பயன்பாட்டு மறுதொடக்கம் தேவை"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "தலைப்புகள்"
+    },
+    {
+      "name": "card",
+      "value": "அட்டை"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "%s ஆல் உருவாக்கப்பட்டது"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "சேனல் பக்கம்"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "பற்றி"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "ஆல்பம்"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "சேனல்கள்"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "வாழ"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "பிளேலிச்ட்கள்"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "குறுக்குகள்"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "தடங்கள்"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "வீடியோக்கள்"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "சேனல் சந்தாநீக்கப்பட்டது"
+    },
+    {
+      "name": "channels",
+      "value": "சேனல்கள்"
+    },
+    {
+      "name": "chapters",
+      "value": "பாடங்கள்"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "கடிதங்கள் மற்றும் இலக்கங்கள்"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "மிகவும் சிறப்பு எழுத்துக்கள்"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "புதுப்பிப்புகளை சரிபார்க்கவும்"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "புதிய நீரோடைகளுக்கு காசோலை இயக்கவும்"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "புதுப்பிப்புகளைச் சரிபார்க்கிறது…"
+    },
+    {
+      "name": "checksum",
+      "value": "செக்சம்"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "ஒரு நிகழ்வைத் தேர்வுசெய்க"
+    },
+    {
+      "name": "clear",
+      "value": "அழி"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "reCAPTCHAஐ தீர்க்கையில் NewPipe சேமிக்கும் நினைவிகளைத் துடை"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "reCAPTCHA நினைவிகளைத் துடை"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "பதிவிறக்க வரலாற்றை அழி"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "எல்லா இயக்கக குறியிடங்களையும் அழிக்கும்"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "இயக்கக குறியிடங்களை அழி"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "செயலிலுள்ள இயக்கி வரிசை மாற்றப்படும்"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "ஒரு இயக்கி விட்டு மறு இயக்கி மாறுதல் உங்கள் வரிசையை மாற்றக்கூடும்"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "வரிசையை அழிக்கும் முன் உறுதிப்படுத்தலைக் கேள்"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "தேடப்பட்ட வார்த்தைகளின் வரலாற்றை அழி"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "தேடல் வரலாற்றை அழி"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "இயக்கிய பாய்வுகள் மற்றும் இயக்கக குறியிடங்களின் வரலாற்றை அழிக்கும்"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "பார்த்த வரலாற்றை அழி"
+    },
+    {
+      "name": "close",
+      "value": "மூடு"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "கருத்துகள் முடக்கப்பட்டுள்ளன"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "கருத்தளிப்புகள்"
+    },
+    {
+      "name": "conferences",
+      "value": "மாநாடுகள்"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "உங்கள் பதிவிறக்க வரலாற்றை அழிக்க வேண்டுமா அ எல்லா பதிவிறக்கிய கோப்புகளையும் நீக்க வேண்டுமா?"
+    },
+    {
+      "name": "content",
+      "value": "உள்ளடக்கம்"
+    },
+    {
+      "name": "content_language_title",
+      "value": "உள்ளடக்க இயல்பிருப்பு மொழி"
+    },
+    {
+      "name": "content_not_available",
+      "value": "உள்ளடக்கம் கிடைக்கவில்லை"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "இந்த உள்ளடக்கத்தை இன்னும் நியூபைப் ஆதரிக்கவில்லை.\n\n இது எதிர்கால பதிப்பில் ஆதரிக்கப்படும்."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "உங்களிடம் சிந்தனைகள் உள்ளதா; மொழிபெயர்ப்பு, வடிவமைப்பு மாற்றங்கள், குறியீடு தூய்மை அல்லது உண்மையான கனமான குறியீடு மாற்றங்கள் - உதவி எப்போதும் வரவேற்கத்தக்கது. மேலும் சிறப்பாகச் செய்யப்படுகிறது!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "பங்களிப்பு"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "இதற்கு சேர்"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "பின்புலம்"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "நிகழ்பட கோப்பைப் பதிவிறக்கு"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "திரைமேல்"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "வடிவமைக்கப்பட்ட அறிக்கையை நகலெடு"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s %2$s க்கு கீழ் %3$s க்கு கீழ்"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "எச்சரிக்கை: எல்லா கோப்புகளையும் இறக்குமதி செய்ய முடியவில்லை."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "எல்லா சிறுபடங்களையும் ஏற்ற முடியவில்லை"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "பதிவிறக்கச்சிறுபட்டியை அமைக்க முடியவில்லை"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "பயன்பாட்டை செயலிழக்கச் செய்யுங்கள்"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "இயக்கியைச் சிதை"
+    },
+    {
+      "name": "create",
+      "value": "உருவாக்கு"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "பிழை அறிவிப்பைப் படை"
+    },
+    {
+      "name": "create_playlist",
+      "value": "புதிய ஒளிச்சரம்"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "இருண்ட"
+    },
+    {
+      "name": "decline",
+      "value": "வீழ்ச்சி"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "இயல்பிருப்பு ஒலி வடிவம்"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "உள்ளடக்க இயல்பிருப்பு நாடு"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "இயல்புநிலை கியோச்க்"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "இயல்பிருப்பு திரைமேல் நிலை பிரிதிறன்"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "இயல்பிருப்பு பிரிதிறன்"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "இயல்பிருப்பு காணொளி வடிவம்"
+    },
+    {
+      "name": "delete",
+      "value": "நீக்கு"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "பதிவிறக்கிய கோப்புகளை நீக்கு"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "வட்டில் இருக்கும் பதிவிறக்கம் செய்யப்பட்ட அனைத்து கோப்புகளையும் அழிக்கவா?"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "தேடல் வரலாற்றிலிருந்து இந்த உருப்படியை நீக்கவா?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "எல்லா இயக்கக குறியிடங்களையும் அழிக்கவா?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "இந்த ஒளிச்சரத்தை அழிக்கவா?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "தேடல் வரலாறு முழுவதையும் அழி?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "பார்த்த வரலாறு முழுவதையும் அழி?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "விளக்கத்தில் உரையைத் தேர்ந்தெடுப்பதை முடக்கு"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "விளக்கத்தில் உரையைத் தேர்ந்தெடுப்பதை இயக்கவும்"
+    },
+    {
+      "name": "description_select_note",
+      "value": "நீங்கள் இப்போது விளக்கத்திற்குள் உரையைத் தேர்ந்தெடுக்கலாம். தேர்வு பயன்முறையில் இருக்கும்போது பக்கம் ஃப்ளிக்கர் மற்றும் இணைப்புகள் சொடுக்கு செய்யப்படாமல் இருக்கலாம் என்பதை நினைவில் கொள்க."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "விவரிப்பு"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "வெறுப்புகள்"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "இழுத்து வரிசைமாற்று"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "படைப்பாளரால் மனம்"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "விருப்பங்கள்"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "பின்னப்பட்ட கருத்து"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "சேனலின் அவதார் சிறுபடம்"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "காணொளியை இயக்கு, காலவளவு:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "பதிவேற்றியவரின் அவதார் சிறுபடம்"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "\"%1$s\" என்றீர்களா?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "உங்கள் சாதனத்தில் முன்னிருப்பாக மீடியா சுரங்கப்பாதை முடக்கப்பட்டது, ஏனெனில் உங்கள் சாதன மாதிரி அதை ஆதரிக்காது என்று அறியப்படுகிறது."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "நீங்கள் ஒரு கருப்பு திரை அனுபவித்தால் அல்லது வீடியோ பிளேபேக்கில் திணறினால் மீடியா சுரங்கப்பாதையை முடக்கு."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "மீடியா சுரங்கப்பாதையை முடக்கு"
+    },
+    {
+      "name": "disabled",
+      "value": "செயலிழக்கச் செய்யப்பட்டுள்ளது"
+    },
+    {
+      "name": "dismiss",
+      "value": "தள்ளுபடி"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "புதிய பயனர் அனுபவத்தை கொண்டு வரும் தன்னார்வலர்கள் தங்கள் இலவச நேரத்தை செலவழிப்பதன் மூலம் புதிய பாடத்தை உருவாக்கியுள்ளனர். உருவாக்குபவர்கள் ஒரு கப் காபியை அனுபவிக்கும் போது புதிய பக்கத்தை இன்னும் சிறப்பாக செய்ய உதவ உதவுகின்றன."
+    },
+    {
+      "name": "donation_title",
+      "value": "நன்கொடை"
+    },
+    {
+      "name": "done",
+      "value": "முடிந்தது"
+    },
+    {
+      "name": "dont_show",
+      "value": "காட்ட வேண்டாம்"
+    },
+    {
+      "name": "download",
+      "value": "பதிவிறக்கம்"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "இப்பெயருடன் ஒரு பதிவிறக்கம் நிலுவையிலுள்ளது"
+    },
+    {
+      "name": "download_already_running",
+      "value": "இப்பெயருடன் ஒரு பதிவிறக்கம் நடைபெறுகிறது"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "பதிவிறக்கு"
+    },
+    {
+      "name": "download_failed",
+      "value": "பதிவிறக்கம் தோல்வியடைந்தது"
+    },
+    {
+      "name": "download_has_started",
+      "value": "பதிவிறக்கம் தொடங்கியது"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "ஒலி கோப்புகளுக்கான பதிவிறக்கப் அடைவை தேர்வு செய்"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "பதிவிறங்கிய ஒலி கோப்புகள் இங்கே தேங்கும்"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "ஒலி பதிவிறக்க அடைவு"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "காணொளியின் பதிவிறக்க அடைவை தேர்வு செய்"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "பதிவிறங்கிய காணொளி கோப்புகள் இங்கே தேங்கும்"
+    },
+    {
+      "name": "download_path_title",
+      "value": "காணொளி பதிவிறக்க அடைவு"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "புற SD அட்டைக்குப் பதிவிறக்குதல் சாத்தியமில்லை. பதிவிறக்க அடைவிடத்தை அகரமாக்கவா?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "வெளி சேமிப்பு இயலாது"
+    },
+    {
+      "name": "downloads",
+      "value": "பதிவிறக்கங்கள்"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "ஒவ்வொரு பதிவிறக்கத்தையும் எங்கு சேமிப்பது என்று கேட்கப்படும்.\n வெளிப்புற எச்டி கார்டில் பதிவிறக்கம் செய்ய விரும்பினால் கணினி கோப்புறை பிக்கர் (SAF) ஐ இயக்கவும்"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "ஒவ்வொரு பதிவிறக்கத்தையும் எங்கு சேமிப்பது என்று கேட்கப்படும்"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "எங்கு பதிவிறக்கம் செய்வது என்று கேளுங்கள்"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "'சேமிப்பக அணுகல் கட்டமைப்பு' வெளிப்புற எச்டி கார்டுக்கு பதிவிறக்கங்களை அனுமதிக்கிறது"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "ஆண்ட்ராய்டு 10 இலிருந்து தொடங்கி 'சேமிப்பக அணுகல் கட்டமைப்பு' மட்டுமே ஆதரிக்கப்படுகிறது"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "கணினி கோப்புறை பிக்கர் (SAF) ஐப் பயன்படுத்தவும்"
+    },
+    {
+      "name": "downloads_title",
+      "value": "பதிவிறக்கங்கள்"
+    },
+    {
+      "name": "drawer_close",
+      "value": "மூடு டிராயர்"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "சேவையை மாற்றி, தற்போது தேர்ந்தெடுக்கப்பட்டது:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "திறந்த அலமாரியை"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "சாம்பல் நிறமாக இருக்கும் பிளேலிச்ட்களில் ஏற்கனவே இந்த உருப்படி உள்ளது."
+    },
+    {
+      "name": "duration",
+      "value": "காலம்"
+    },
+    {
+      "name": "duration_live",
+      "value": "நேரலை"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "எந்த முடிவுகளும் இல்லை"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "அகற்றப்பட்ட பிறகு துண்டு அல்லது செயல்பாட்டு வாழ்க்கைச் சுழற்சிக்கு வெளியே வழங்க முடியாத ஆர்எக்ச் விதிவிலக்குகளை கட்டாயப்படுத்துதல்"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "வாழ்நாள் முழுவதும் பிழைகள் புகாரளிக்கவும்"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "நினைவக கசிவு கண்காணிப்பு குவியல் கொட்டும்போது பயன்பாடு பதிலளிக்காமல் இருக்கக்கூடும்"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "கடைசியாக மீட்பொலித்த இருப்பிடத்தை மீட்டெடு"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "திரையிடலை தொடங்கு"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "பட்டியல்களில் இயக்கக குறியட நிலைகாட்டிகளைக் காட்டு"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "பட்டியலில் இடங்கள்"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "பதிவிறக்க வரிசையை கட்டுப்படுத்துங்கள்"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "ஒரு பதிவிறக்கம் ஒரே நேரத்தில் இயங்கும்"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "தேடல் வாக்கியத்தை அமைவிடத்தில் தேக்கு"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "தேடல் வரலாறு"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "சந்தாக்களிலிருந்து புதிய ச்ட்ரீம்கள் பற்றி அறிவிக்கவும்"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "புதிய ச்ட்ரீம்கள் அறிவிப்புகள்"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "பார்த்த காணொளிகளை குறிப்பிடு"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "பார்த்த வரலாறு"
+    },
+    {
+      "name": "enqueue",
+      "value": "சாரைபடுத்து"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "அடுத்தைச் சாரைபடுத்து"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "சாரைபடுத்து"
+    },
+    {
+      "name": "enqueued",
+      "value": "சாரைபடுத்தப்பட்டது"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "அடுத்தது சாரைபடுத்தப்பட்டது"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "சேவையகத்துடன் இணைக்க முடியாது"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "விவரங்கள்:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "இப்பதிவிறக்கத்தை மீட்டெடுக்க முடியவில்லை"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "கோப்பை உருவாக்க முடியாது"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "சேவையகம் தரவை அனுப்பாது"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "கண்டுபிடிக்கப்படவில்லை"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "சேவையகம் பல திரிக்கப்பட்ட பதிவிறக்கங்களை ஏற்காது, @சரம்/msg_threads = 1 உடன் மீண்டும் முயற்சிக்கவும்"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "சாதனத்தில் போதுமான இலவச இடம் இல்லை"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "சாதனத்தில் எந்த இடமும் இல்லை"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "ஒரு பிழை நிகழ்ந்தது: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "இலக்கு கோப்புறையை உருவாக்க முடியாது"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "பிந்தைய செயலாக்கம் தோல்வியடைந்தது"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "கோப்பில் பணிபுரியும் போது நியூபைப் மூடப்பட்டது"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "முன்னேற்றம் இழந்தது, ஏனெனில் கோப்பு நீக்கப்பட்டது"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "மின்னஞ்சல் வழியாக அறிக்கை"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "பிழைகளைப் புகாரளிக்க அறிவிப்புகள்"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "பிழையறிக்கை அறிவிப்பு"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe பிழையைச் எதிர்கொண்டது, புகாரளிக்க தட்டு"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "பிழை ஏற்பட்டது, அறிவிப்பைப் பார்"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "உங்கள் விபத்து பற்றி விவாதிக்கும் சிக்கல் ஏற்கனவே இருக்கிறதா என்று சரிபார்க்கவும். நகல் டிக்கெட்டுகளை உருவாக்கும்போது, உண்மையான பிழையை சரிசெய்ய நாங்கள் செலவழிக்கக்கூடிய எங்களிடமிருந்து நீங்கள் நேரத்தை எடுத்துக்கொள்கிறீர்கள்."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "GitHub இல் புகாரளி"
+    },
+    {
+      "name": "error_report_title",
+      "value": "பிழை அறிக்கை"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "புகாரளி"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "மன்னிக்கவும், ஏதோ தவறாகிற்று."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "பாதுகாப்பான இணைப்பை நிறுவ முடியவில்லை"
+    },
+    {
+      "name": "error_timeout",
+      "value": "இணைப்பு நேரம் முடிந்தது"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "கருத்துகளை ஏற்ற முடியவில்லை"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "சேவையகத்தைக் கண்டுபிடிக்க முடியவில்லை"
+    },
+    {
+      "name": "events",
+      "value": "நிகழ்வுகள்"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "ஏற்றுமதி"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "வரலாறு, சந்தாக்கள், ஒளிச்சரங்கள் மற்றும் அமைவை ஏற்றுமதி செய்"
+    },
+    {
+      "name": "export_data_title",
+      "value": "தகவல்கலை ஏற்றுமதி செய்"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "ஏற்றுமதி செய்கிறது…"
+    },
+    {
+      "name": "export_to",
+      "value": "ஏற்றுமதி"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "இவ்வகை தொடுப்புகளைப் புற இயக்கிகள் ஆதரக்கா"
+    },
+    {
+      "name": "faq",
+      "value": "இணையதளத்தில் காண்க"
+    },
+    {
+      "name": "faq_description",
+      "value": "பயன்பாட்டைப் பயன்படுத்துவதில் சிக்கல் இருந்தால், பொதுவான கேள்விகளுக்கு இந்த பதில்களைப் பார்க்கவும்!"
+    },
+    {
+      "name": "faq_title",
+      "value": "அடிக்கடி கேட்கப்படும் கேள்விகள்"
+    },
+    {
+      "name": "fast_mode",
+      "value": "வேகமான பயன்முறை"
+    },
+    {
+      "name": "featured",
+      "value": "இடம்பெற்றது"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "புதிய"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "சேனல் தாவல்களைப் பெறுங்கள்"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "ஊட்டத்தை புதுப்பிக்கும்போது பெற தாவல்கள். வேகமான பயன்முறையைப் பயன்படுத்தி ஒரு சேனல் புதுப்பிக்கப்பட்டால் இந்த விருப்பம் எந்த விளைவையும் ஏற்படுத்தாது."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "இந்தக் குழுவை நீக்க வேண்டுமா?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "வெற்று குழு பெயர்"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "சந்தா எதுவும் தேர்ந்தெடுக்கப்படவில்லை"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "சந்தாக்களைத் தேர்ந்தெடு"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "சேனல் குழு பக்கம்"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "ஒன்றிணைக்கா சந்தாக்களை மட்டும் காட்டு"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "சேனல் குழுக்கள்"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "பின்வரும் நீரோடைகளைக் காட்டு"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "ஊட்டத்தை ஏற்றுதல்"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "'%s' க்கு ஊட்டத்தை ஏற்ற முடியவில்லை."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "ஃபாச்ட் ஃபீட் பயன்முறை இது குறித்த கூடுதல் தகவலை வழங்காது."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "ஆசிரியரின் கணக்கு நிறுத்தப்பட்டுள்ளது.\n நியூபைப் எதிர்காலத்தில் இந்த ஊட்டத்தை ஏற்ற முடியாது.\n இந்த சேனலில் இருந்து குழுவிலக விரும்புகிறீர்களா?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "புதிய தீவன உருப்படிகள்"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "ஏற்றுதல் தீவனம்…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "கடைசியாக புதுப்பிக்கப்பட்டது: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "செயலாக்க ஊட்டம்…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "ச்ட்ரீம்களைக் காட்டு/மறைக்க"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "ஓரளவு பார்த்தேன்"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "வரவிருக்கும்"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "முழுமையாகப் பார்த்தேன்"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "ஏற்றப்படவில்லை: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "எப்போதும் புதுப்பிக்கவும்"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "சந்தா காலாவதியானதாகக் கருதப்படுவதற்கு முன் கடைசி புதுப்பிப்புக்குப் பிறகு நேரம் - %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "உணவுப் புதுப்பிப்பு வாசல்"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "வேகமான பயன்முறையை முடக்கு"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "வேகமான பயன்முறையை இயக்கவும்"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "தீவன ஏற்றுதல் மிகவும் மெதுவாக இருப்பதாக நீங்கள் நினைக்கிறீர்களா? அப்படியானால், வேகமாக ஏற்றுவதை இயக்க முயற்சிக்கவும் (நீங்கள் அதை அமைப்புகளில் மாற்றலாம் அல்லது கீழே உள்ள பொத்தானை அழுத்துவதன் மூலம்).\n\nநியூபைப் இரண்டு தீவன ஏற்றுதல் உத்திகளை வழங்குகிறது:\nசந்தா சேனலைப் பெறுதல், இது மெதுவாக ஆனால் முழுமையானது.\nபணி ஒரு பிரத்யேக பணி இறுதிப் புள்ளியைப் பயன்படுத்துதல், இது வேகமானது ஆனால் பொதுவாக முழுமையடையாது.\n\nஇரண்டிற்கும் இடையிலான வேறுபாடு என்னவென்றால், வேகமானவருக்கு வழக்கமாக உருப்படியின் காலம் அல்லது வகை போன்ற சில தகவல்கள் இல்லை (நேரடி வீடியோக்களுக்கும் சாதாரணமானவற்றுக்கும் இடையில் வேறுபடுத்த முடியாது) மற்றும் அது குறைவான உருப்படிகளைத் தரக்கூடும்.\n\nஇந்த வேகமான முறையை அதன் ஆர்எச்எச் ஊட்டத்துடன் வழங்கும் சேவைக்கு யூடியூப் ஒரு எடுத்துக்காட்டு.\n\nஎனவே தேர்வு நீங்கள் விரும்புவதைக் குறைக்கிறது: விரைவு அல்லது துல்லியமான செய்தி."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "சில சேவைகளில் கிடைக்கிறது, இது பொதுவாக மிக வேகமாக இருக்கும், ஆனால் ஒரு குறிப்பிட்ட அளவு உருப்படிகள் மற்றும் பெரும்பாலும் முழுமையற்ற தகவல்களைத் தரக்கூடும் (எ.கா. காலம், உருப்படி வகை, நேரடி நிலை இல்லை)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "கிடைக்கும்போது பிரத்யேக ஊட்டத்திலிருந்து பெறுங்கள்"
+    },
+    {
+      "name": "file",
+      "value": "கோப்பு"
+    },
+    {
+      "name": "file_deleted",
+      "value": "கோப்பு அழிக்கப்பட்டது"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "கோப்பு பெயர் காலியாக இருக்க முடியாது"
+    },
+    {
+      "name": "forward",
+      "value": "முன்னோக்கி"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "புதிதாக"
+    },
+    {
+      "name": "general_error",
+      "value": "பிழை"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "தனித்துவமான பெயரை உருவாக்குங்கள்"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "இந்த உள்ளடக்கம் உங்கள் நாட்டில் கிடைக்கவில்லை."
+    },
+    {
+      "name": "get_notified",
+      "value": "அறிவிக்க"
+    },
+    {
+      "name": "give_back",
+      "value": "திருப்பித் தரவும்"
+    },
+    {
+      "name": "grid",
+      "value": "வலைவாய்"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "வீடியோ ஹேஷிங் முன்னேற்றத்திற்கான அறிவிப்புகள்"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "வீடியோ ஹாஷ் அறிவிப்பு"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "உயர் தகுதி (பெரியது)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "சாரைபடுத்த நீண்டழுத்து"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "உதாரணமாக, நீங்கள் உடைந்த உடல் பொத்தான்களுடன் எட்செட் பயன்படுத்துகிறீர்கள் என்றால் பயனுள்ளதாக இருக்கும்"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "வன்பொருள் மீடியா பொத்தான் நிகழ்வுகளை புறக்கணிக்கவும்"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "உயர் தகுதி"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "குறைந்த தகுதி"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "நடுத்தர தகுதி"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "படங்களை ஏற்ற வேண்டாம்"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "தரவு மற்றும் நினைவக பயன்பாட்டைக் குறைக்க, படங்களின் தகுதி மற்றும் படங்களை ஏற்ற வேண்டுமா என்பதைத் தேர்வுசெய்க. மாற்றங்கள் நினைவகம் மற்றும் ஆன்-வட்டு பட தற்காலிக சேமிப்பு இரண்டையும் அழிக்கின்றன- %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "பட தகுதி"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "இறக்குமதி செய்யப்பட்டது"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "தற்போதைய வரலாறு, சந்தாக்கள், ஒளிச்சரங்கள் மற்றும் (விரும்பினால்) அமைவை மீறும்"
+    },
+    {
+      "name": "import_data_title",
+      "value": "தகவல்கலை இறக்குமதி செய்"
+    },
+    {
+      "name": "import_file_title",
+      "value": "கோப்பு இறக்குமதி"
+    },
+    {
+      "name": "import_from",
+      "value": "இருந்து இறக்குமதி"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "இந்த செயல்பாடு பிணையம் விலை உயர்ந்ததாக இருக்கும் என்பதை நினைவில் கொள்ளுங்கள்.\n\n நீங்கள் தொடர விரும்புகிறீர்களா?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "இறக்குமதி…"
+    },
+    {
+      "name": "import_settings",
+      "value": "அமைவையும் இறக்குமதி செய்யவா?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "ஏற்றுமதியில் இறக்குமதி செய்யப்படும் அமைப்புகள் பாதிக்கப்படக்கூடிய வடிவமைப்பைப் பயன்படுத்துகின்றன, இது நியூபைப் 0.27.0 முதல் நீக்கப்பட்டது. இறக்குமதி செய்யப்படும் ஏற்றுமதி நம்பகமான மூலத்திலிருந்து வந்தது என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள், மேலும் நியூபைப் 0.27.0 அல்லது எதிர்காலத்தில் புதியதாக பெறப்பட்ட ஏற்றுமதியை மட்டுமே பயன்படுத்த விரும்புகிறது. இந்த பாதிக்கப்படக்கூடிய வடிவத்தில் அமைப்புகளை இறக்குமதி செய்வதற்கான உதவி விரைவில் முழுமையாக அகற்றப்படும், பின்னர் நியூபைப்பின் பழைய பதிப்புகள் புதிய பதிப்புகளிலிருந்து ஏற்றுமதியின் அமைப்புகளை இனி இறக்குமதி செய்ய முடியாது."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "முகவரி அல்லது உங்கள் ஐடியை தட்டச்சு செய்வதன் மூலம் சவுண்ட்க்ளூட் சுயவிவரத்தை இறக்குமதி செய்க:\n\n 1. வலை உலாவியில் \"டெச்க்டாப் பயன்முறையை\" இயக்கவும் (மொபைல் சாதனங்களுக்கு தளம் கிடைக்கவில்லை)\n 2. இந்த முகவரி க்குச் செல்லுங்கள்: %1$s\n 3. கேட்டபோது உள்நுழைக\n 4. நீங்கள் திருப்பி விடப்பட்ட சுயவிவர முகவரி ஐ நகலெடுக்கவும்."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "YourID, SoundCloud.com/yourid"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "3-டாட் மெனுவிலிருந்து சந்தாக்களை இறக்குமதி செய்யுங்கள் அல்லது ஏற்றுமதி செய்யுங்கள்"
+    },
+    {
+      "name": "import_title",
+      "value": "இறக்குமதி"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "கூகிள் டேக்அவுட்டிலிருந்து YouTube சந்தாக்களை இறக்குமதி செய்க:\n\n 1. இந்த முகவரி க்குச் செல்லுங்கள்: %1$s\n 2. கேட்டபோது உள்நுழைக\n 3. \"அனைத்து தரவுகளும் சேர்க்கப்பட்டுள்ளன\" என்பதைக் சொடுக்கு செய்க, பின்னர் \"அனைத்தையும் தேர்வு செய்யுங்கள்\", பின்னர் \"சந்தாக்கள்\" மட்டுமே தேர்ந்தெடுத்து \"சரி\" என்பதைக் சொடுக்கு செய்க\n 4. \"அடுத்த படி\" என்பதைக் சொடுக்கு செய்து, பின்னர் \"ஏற்றுமதி உருவாக்கு\"\n 5. \"பதிவிறக்கு\" பொத்தானைக் சொடுக்கு செய்த பிறகு சொடுக்கு செய்க\n 6. கீழே உள்ள இறக்குமதி கோப்பைக் சொடுக்கு செய்து பதிவிறக்கம் செய்யப்பட்ட .zip கோப்பைத் தேர்ந்தெடுக்கவும்\n 7.[.zip இறக்குமதி தோல்வியடைந்தால்] .csv கோப்பை பிரித்தெடுக்கவும் (வழக்கமாக \"YouTube மற்றும் YouTube Music/subscriptions/subscriptions.csv\" என்பதன் கீழ்), கீழே உள்ள IMPORT FILE என்பதைக் கிளிக் செய்து, பிரித்தெடுக்கப்பட்ட csv கோப்பைத் தேர்ந்தெடு"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "வீடியோக்கள்"
+    },
+    {
+      "name": "info_labels",
+      "value": "என்ன:\nகோரிக்கை:\nஉள்ளடக்க மொழி:\nஉள்ளடக்க நாடு:\nசெயலி மொழி:\nசேவை:\nGMT நேரம்:\nசிப்பம்:\nபதிப்பு:\nOS பதிப்பு:"
+    },
+    {
+      "name": "install",
+      "value": "நிறுவு"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "அப்படியொரு அடைவுகள் இல்லை"
+    },
+    {
+      "name": "invalid_file",
+      "value": "கோப்பு இல்லை அ அதனை எழுதபடிக்கும் அனுமதி குறைகிறது"
+    },
+    {
+      "name": "invalid_source",
+      "value": "அப்படியொரு கோப்பு இல்லை"
+    },
+    {
+      "name": "just_once",
+      "value": "ஒரு முறை"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "கியோச்க் பக்கம்"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "இல்லாத Kore செயலியை நிறுவவா?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "கசிவு கிடைக்கவில்லை"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "பிளேயர் திரையின் இடது பாதிக்கு சைகையைத் தேர்வுசெய்க"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "இடது சைகை நடவடிக்கை"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "வெளிர்ந்த"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "வரம்பற்ற"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "மொபைல் தரவைப் பயன்படுத்தும் போது வீடியோ தரத்தைக் கட்டுப்படுத்துங்கள்"
+    },
+    {
+      "name": "list",
+      "value": "பட்டியல்"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "பட்டியல் பார்வை முறை"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "மெட்டாடேட்டாவை ஏற்றுகிறது…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "ச்ட்ரீம் விவரங்களை ஏற்றுகிறது…"
+    },
+    {
+      "name": "local",
+      "value": "உள்ளக"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "உள்ளூர் தேடல் பரிந்துரைகள்"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "குறைந்த தரம்"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "ஆரம்பிக்க பூதக்கண்ணாடியைத் தட்டு."
+    },
+    {
+      "name": "main_page_content",
+      "value": "முகப்புப்பக்க உள்ளடக்கம்"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "என்ன தாவல்கள் முதன்மையான பக்கத்தில் காட்டப்பட்டுள்ளன"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "உருப்படிகளை அகற்ற அவற்றைத் தேய்"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "முதன்மையான தாவல் தேர்வாளரை கீழே நகர்த்தவும்"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "முதன்மையான தாவல்கள் நிலை"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "புதிய பதிப்புகளை கைமுறையாக சரிபார்க்கவும்"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "பார்த்ததாகக் குறி"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "பதிவிறக்கத்தை ரத்துசெய்வதற்கு முன் செய்யவேண்டிய அதிகபட்ச முயற்சிகள்"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "அதிகபட்ச முயற்சிகள்"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "அகவை வரம்பு"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "அவதாரங்கள்"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "பதாகைகள்"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "மேல்நிலைத் தரவு பதுக்ககம் அழிக்கப்பட்டது"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "பதுக்ககப்படுத்திய வலைப்பக்கத் தரவை நீக்கு"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "மேல்நிலைத்தரவின் பதுக்ககம் அழிக்கப்பட்டது"
+    },
+    {
+      "name": "metadata_category",
+      "value": "வகை"
+    },
+    {
+      "name": "metadata_host",
+      "value": "விருந்தோம்பி"
+    },
+    {
+      "name": "metadata_language",
+      "value": "மொழி"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "உரிமம்"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "தனியுரிமை"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "உள்"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "தனிப்பட்ட"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "பொது"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "பட்டியலிடப்படாதது"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "துணை சேனல் அவதாரங்கள்"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "சந்தாதாரர்கள்"
+    },
+    {
+      "name": "metadata_support",
+      "value": "உதவி"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "குறிச்சொற்கள்"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "சிறு உருவங்கள்"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "பதிவேற்றும் அவதாரங்கள்"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "பின்னணி பிளேயருக்குக் குறைக்கவும்"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "எதுவுமில்லை"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "பாப்அப் பிளேயருக்குக் குறைக்கவும்"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "முதன்மையான வீடியோ பிளேயரிடமிருந்து பிற பயன்பாட்டிற்கு மாறும்போது செயல் - %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "பயன்பாட்டு சுவிட்சில் குறைக்கவும்"
+    },
+    {
+      "name": "missing_file",
+      "value": "கோப்பு மாற்ற அல்லது நீக்கப்பட்டது"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "முடிந்தது"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "நிலுவையில் உள்ளது"
+    },
+    {
+      "name": "more_options",
+      "value": "மேலும் விருப்பங்கள்"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ வீடியோக்கள்"
+    },
+    {
+      "name": "most_liked",
+      "value": "மிகவும் பிடித்தது"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "ஆச் கணக்கிடுதல்"
+    },
+    {
+      "name": "msg_copied",
+      "value": "நகலகத்திற்கு நகலெடுக்கபட்டது"
+    },
+    {
+      "name": "msg_error",
+      "value": "பிழை"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "இடைநிலைப்பலகைக்கு நகலெடுப்பதில் தோல்வி"
+    },
+    {
+      "name": "msg_name",
+      "value": "கோப்புப்பெயர்"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "இந்த இசைவு தேவை\n பாப்அப் பயன்முறையில் திறக்கவும்"
+    },
+    {
+      "name": "msg_running",
+      "value": "நியூபைப் பதிவிறக்குதல்"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "விவரங்களுக்கு தட்டவும்"
+    },
+    {
+      "name": "msg_threads",
+      "value": "நூல்கள்"
+    },
+    {
+      "name": "msg_wait",
+      "value": "தயவுசெய்து காத்திருங்கள்…"
+    },
+    {
+      "name": "mute",
+      "value": "முடக்கு"
+    },
+    {
+      "name": "name",
+      "value": "பெயர்"
+    },
+    {
+      "name": "network_error",
+      "value": "நெட்வொர்க் பிழை"
+    },
+    {
+      "name": "never",
+      "value": "ஒருபோதுமில்லை"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "புதிய மற்றும் சூடான"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "AVPlayer கட்டுப்பாடுகள் காரணமாக தேடல் காலம் %d விநாடிகளுக்கு அமைக்கப்பட்டது"
+    },
+    {
+      "name": "next_stream",
+      "value": "அடுத்த ச்ட்ரீம்"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "கருப்பொருளுக்கு %s தேர்ந்தெடுக்கப்பட்டால் மட்டுமே இந்த விருப்பம் கிடைக்கும்"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "உம் அபிமான இருண்ட தோற்றத்தைத் தேர்ந்தெடு — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "இரவுத் தோற்றம்"
+    },
+    {
+      "name": "no",
+      "value": "இல்லை"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "உங்கள் சாதனத்தில் எந்த பயன்பாடும் இதைத் திறக்க முடியாது"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "இந்த செயலுக்கு பொருத்தமான கோப்பு மேலாளர் எதுவும் கிடைக்கவில்லை.\n தயவுசெய்து ஒரு கோப்பு மேலாளரை நிறுவவும் அல்லது பதிவிறக்க அமைப்புகளில் '%s' ஐ முடக்க முயற்சிக்கவும்"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "இந்த செயலுக்கு பொருத்தமான கோப்பு மேலாளர் எதுவும் கிடைக்கவில்லை.\n சேமிப்பக அணுகல் கட்டமைப்பு இணக்கமான கோப்பு மேலாளரை நிறுவவும்"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "வெளிப்புற வீரர்களுக்கு ஆடியோ ச்ட்ரீம்கள் எதுவும் கிடைக்கவில்லை"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "பின்னர் பதிவிறக்க அடைவை அமைவில் வரையறுக்கவும்"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "எப்பதிவுத்தட சந்தாக்களுமில்லை"
+    },
+    {
+      "name": "no_comments",
+      "value": "கருத்துகள் இல்லை"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "பதிவிறக்க அடைவு இன்னும் அமைக்கப்படவில்லை, இப்போதைக்கு இயல்பிருப்பு பதிவிறக்க அடைவைத் தெரிவுசெய்"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "இதுவரை எந்த ஊட்டக் குழுவும் உருவாக்கப்படவில்லை"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "நேரடி நீரோடைகள் இல்லை"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "யாரும் கேட்கவில்லை"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "யாரும் பார்க்கவில்லை"
+    },
+    {
+      "name": "no_player_found",
+      "value": "நிகழ்பட ஓட்டி இல்லை. VLCஐ நிறுவவா?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "நிகழ்பட ஓட்டி இல்லை (இதை இயக்க VLC-ஐப் பயன்படுத்தலாம்)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "ஒளிச்சர நூற்குறிகள் இன்னுமில"
+    },
+    {
+      "name": "no_streams",
+      "value": "நீரோடைகள் இல்லை"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "பதிவிறக்கா எப்பாய்வும் கிடைக்கவில்லை"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "பின் தொடர்பவர்கள் இல்லை"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "செல்லுபடியாகும் சிப் கோப்பு இல்லை"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "வெளிப்புற வீரர்களுக்கு வீடியோ ச்ட்ரீம்கள் எதுவும் கிடைக்கவில்லை"
+    },
+    {
+      "name": "no_videos",
+      "value": "வீடியோக்கள் இல்லை"
+    },
+    {
+      "name": "no_views",
+      "value": "யாரும் பார்க்கவில்லை"
+    },
+    {
+      "name": "none",
+      "value": "எதுவுமில்லை"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "முதல் செயல் பொத்தான்"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "இரண்டாம் செயல் பொத்தான்"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "மூன்றாம் செயல் பொத்தான்"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "நான்காம் செயல் பொத்தான்"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "ஐந்தாம் செயல் பொத்தான்"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "இடையகப்படுத்துகிறது"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "ஏதுமில்லை"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "மீண்டும்"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "கலக்கு"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "சுருக்க அறிவிப்பில் காட்ட அதிகபட்சம் மூன்று செயல்களை நீங்கள் தேர்ந்தெடுக்கலாம்!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "ஒவ்வொரு அறிவிப்பு செயலையும் தட்டுவதன் மூலம் அதைத் தட்டவும். வலதுபுறத்தில் உள்ள தேர்வுப்பெட்டிகளைப் பயன்படுத்தி சிறிய அறிவிப்பில் காட்டப்படுவதற்கு அவற்றில் மூன்று வரை தேர்ந்தெடுக்கவும்."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "ஒவ்வொரு அறிவிப்பு செயலையும் தட்டுவதன் மூலம் அதைத் தட்டவும். முதல் மூன்று செயல்கள் (நாடகம்/இடைநிறுத்தம், முந்தைய மற்றும் அடுத்தவை) கணினியால் அமைக்கப்பட்டன, மேலும் அவை தனிப்பயனாக்க முடியாது."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "NewPipe இயக்கிக்கான அறிவிப்புகள்"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe அறிவிப்பு"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "சிறுபடத்திலுள்ள முதன்மை நிறத்திற்கேற்ப அறிவிப்பின் நிறத்தை Androidஐ தனிப்பயனாக்கச் செய் (இது எல்லா சாதனங்களிலும் கிடைக்காதென்பதை குறித்துக்கொள்)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "அறிவிப்பை வண்ணமயமாக்கு"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "அறிவிப்பில் தெரியும் காணொளி முகப்புபடத்தை 16: 9 முதல் 1: 1 அம்ச விகிதம் வரை அளவிட்டு பிரித்து எது"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "அட்டைப் படத்தை 1:1 விகிதத்தில் செதுக்கவும்"
+    },
+    {
+      "name": "notifications",
+      "value": "அறிவிப்புகள்"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "அறிவிப்புகள் முடக்கப்பட்டுள்ளன"
+    },
+    {
+      "name": "off",
+      "value": "அணை"
+    },
+    {
+      "name": "ok",
+      "value": "சரி"
+    },
+    {
+      "name": "on",
+      "value": "ஆன்"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "ஒரு உருப்படி நீக்கப்பட்டது."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "உலாவியில் திற"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "திரைமேல் நிலையில் காட்டு"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "திறந்த விளையாட்டு வரிசை"
+    },
+    {
+      "name": "open_website_license",
+      "value": "திறந்த வலைத்தளம்"
+    },
+    {
+      "name": "open_with",
+      "value": "இதனுடன் திற"
+    },
+    {
+      "name": "override_current_data",
+      "value": "இது உங்கள் தற்போதைய அமைப்பை மேலெழுதும்."
+    },
+    {
+      "name": "overwrite",
+      "value": "மேலெழுதும்"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "கோப்பை மேலெழுத முடியாது"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "இப்பெயருடன் ஏற்கனவே ஒரு பதிவிறக்கிய கோப்பு உள்ளது"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "இந்த பெயருடன் ஒரு கோப்பு ஏற்கனவே உள்ளது"
+    },
+    {
+      "name": "paid_content",
+      "value": "இந்த உள்ளடக்கம் பணம் செலுத்திய பயனர்களுக்கு மட்டுமே கிடைக்கிறது, எனவே இதை நியூபைப் மூலம் ச்ட்ரீம் செய்யவோ பதிவிறக்கம் செய்யவோ முடியாது."
+    },
+    {
+      "name": "parsing_error",
+      "value": "வலைத்தளத்தைப் பாகுபடுத்த முடியவில்லை"
+    },
+    {
+      "name": "pause",
+      "value": "இடைநிறுத்தம்"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "பதிவிறக்கங்களை இடைநிறுத்தவும்"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "மீட்டர் நெட்வொர்க்குகளில் குறுக்கீடு"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "மொபைல் தரவுக்கு மாறும்போது பயனுள்ளதாக இருக்கும், இருப்பினும் சில பதிவிறக்கங்களை இடைநிறுத்த முடியாது"
+    },
+    {
+      "name": "paused",
+      "value": "இடைநிறுத்தப்பட்டது"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "நிகழ்வு ஏற்கனவே உள்ளது"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "நிகழ்வை செல்லுபடுயாக்க முடியவில்லை"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "நிகழ்வு உரலியை உள்ளிடு"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "HTTPS உரலிகள் மட்டுமே ஆதரிக்கப்படுகின்றன"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "நிகழ்வைச் சேர்"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "உமக்குப் பிடித்த நிகழ்வை கண்டுபிடி இங்கு %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "உம் அபிமான பியர்டியூப் நிகழ்வுகளைத் தேர்ந்தெடு"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "பியர்டியூப் நிகழ்வுகள்"
+    },
+    {
+      "name": "percent",
+      "value": "விழுக்காடு"
+    },
+    {
+      "name": "permission_denied",
+      "value": "கணினி மறுத்த நடவடிக்கை"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "பிற செயலிகள் மீது காட்டும் அனுமதி கொடு"
+    },
+    {
+      "name": "play",
+      "value": "விளையாடுங்கள்"
+    },
+    {
+      "name": "play_all",
+      "value": "அனைத்தையும் இயக்கு"
+    },
+    {
+      "name": "play_audio",
+      "value": "ஒலி"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "ஒலியமைவு"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "ஆடியோ: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "அகற்று"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "விவரங்கள்"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Kodiயுடன் இயக்கு"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "குனிவு"
+    },
+    {
+      "name": "playback_reset",
+      "value": "மீட்டமை"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "பின்னணி வேக கட்டுப்பாடுகள்"
+    },
+    {
+      "name": "playback_step",
+      "value": "படி"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "டெம்போ"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "இயக்கி பிழையிலிருந்து மீளப்பெறுகிறது"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "இப்பாய்வினை இயக்க முடியவில்லை"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "மீட்கவியலாத இயக்கி பிழை ஏற்பட்டது"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "ஒளிச்சரமிடப்பட்டது"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "நகல் சேர்க்கப்பட்ட %d நேரம் (கள்)"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "ஒளிச்சரம் படைக்கப்பட்டது"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "தானாக-உண்டான (பதிவேற்றி எதுவுமில்லை)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "ஒளிச்சரப் பக்கம்"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "ஒளிச்சர சிறுபடம் மாறியது."
+    },
+    {
+      "name": "playlists",
+      "value": "ஒளிச்சரங்கள்"
+    },
+    {
+      "name": "popup_player",
+      "value": "பாப்அப் பிளேயர்"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "திரைமேல் நிலையில் ஓடுகிறது"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "திரைமேல் நிலையின் கடைசி அளவையும் இடத்தையும் நினைவுகொள்"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "திரைமேல் பண்புகளை நினைவுகொள்"
+    },
+    {
+      "name": "post_processing",
+      "value": "பிந்தைய செயலாக்கம்"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "கிடைத்தால் பார்வையற்றவர்களுக்கு விளக்கங்களுடன் ஆடியோ டிராக்கைத் தேர்ந்தெடுக்கவும்"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "விளக்க ஆடியோவை விரும்புங்கள்"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "மொழியைப் பொருட்படுத்தாமல் அசல் ஆடியோ டிராக்கைத் தேர்ந்தெடுக்கவும்"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "அசல் ஆடியோவை விரும்புங்கள்"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "உள்ளடக்கத்தைத் திறக்கும்போது இயல்புநிலை செயல் - %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "நயமான 'திற' செயல்"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "கோரிய உள்ளடக்கத்தை ஏற்றுகிறது"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "தகவலைப் பெறுகிறது…"
+    },
+    {
+      "name": "previous_export",
+      "value": "முந்தைய ஏற்றுமதி"
+    },
+    {
+      "name": "previous_stream",
+      "value": "முந்தைய ச்ட்ரீம்"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "நியூபைப் திட்டம் உங்கள் தனியுரிமையை மிகவும் தீவிரமாக எடுத்துக்கொள்கிறது. எனவே, பயன்பாடு உங்கள் அனுமதியின்றி எந்த தரவையும் சேகரிக்காது.\n நீங்கள் ஒரு செயலிழப்பு அறிக்கையை அனுப்பும்போது என்ன தரவு அனுப்பப்படுகிறது மற்றும் சேமிக்கப்படுகிறது என்பதை நியூபிப்பின் தனியுரிமைக் கொள்கை விரிவாக விளக்குகிறது."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "நியூபைப்பின் தனியுரிமைக் கொள்கை"
+    },
+    {
+      "name": "private_content",
+      "value": "இந்த உள்ளடக்கம் தனிப்பட்டது, எனவே இதை நியூபைப் மூலம் ச்ட்ரீம் செய்யவோ பதிவிறக்கம் செய்யவோ முடியாது."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "செயலாக்கம்… ஒரு கணம் ஆகலாம்"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer இயல்புநிலை"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "முற்போக்கான உள்ளடக்கங்களில் (தற்போது %s) சுமை இடைவெளி அளவை மாற்றவும். குறைந்த மதிப்பு அவற்றின் ஆரம்ப ஏற்றுதலை விரைவுபடுத்தக்கூடும்"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "பின்னணி சுழற்சியின் கால அளவு"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "வரிசையில்"
+    },
+    {
+      "name": "radio",
+      "value": "வானொலி"
+    },
+    {
+      "name": "read_full_license",
+      "value": "உரிமத்தைப் படியுங்கள்"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "தனியுரிமைக் கொள்கையைப் படியுங்கள்"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA நினைவிகள் துடைக்கப்பட்டன"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "ரெக்காப்ட்சா அறைகூவல் கோரப்பட்டது"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "தீர்க்க"
+    },
+    {
+      "name": "recent",
+      "value": "அண்மைக் கால"
+    },
+    {
+      "name": "recently_added",
+      "value": "அண்மைக் காலத்தில் சேர்க்கப்பட்டது"
+    },
+    {
+      "name": "recovering",
+      "value": "மீண்டு"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "உறவுடைய உருப்படிகள்"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "தொலைதேடல் பரிந்துரைகள்"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "நகல்களை அகற்று"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "இந்த பிளேலிச்ட்டில் உள்ள அனைத்து நகல் நீரோடைகளையும் அகற்ற விரும்புகிறீர்களா?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "நகல்களை அகற்றவா?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "பார்த்ததை அகற்று"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "ஆம், மற்றும் ஓரளவு பார்த்த வீடியோக்கள்"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "பார்த்த வீடியோக்களை அகற்றவா?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "பிளேலிச்ட்டில் சேர்க்கப்படுவதற்கு முன்னும் பின்னும் பார்க்கப்பட்ட வீடியோக்கள் அகற்றப்படும்.\n நீங்கள் உறுதியாக இருக்கிறீர்களா? இதை செயல்தவிர்க்க முடியாது!"
+    },
+    {
+      "name": "rename",
+      "value": "மறுபெயரிடுங்கள்"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "மறுபெயரிடு"
+    },
+    {
+      "name": "replay",
+      "value": "மீண்டும்"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "எல்லா அமைப்புகளையும் மீட்டமைப்பது உங்களுக்கு விருப்பமான அமைப்புகள் அனைத்தையும் நிராகரித்து பயன்பாட்டை மறுதொடக்கம் செய்யும்.\n\n நீங்கள் தொடர விரும்புகிறீர்களா?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "எல்லா அமைப்புகளையும் அவற்றின் இயல்புநிலை மதிப்புகளுக்கு மீட்டமைக்கவும்"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "அமைப்புகளை மீட்டமைக்கவும்"
+    },
+    {
+      "name": "resize_fill",
+      "value": "நிரப்பவும்"
+    },
+    {
+      "name": "resize_fit",
+      "value": "பொருத்தம்"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "பெரிதாக்கு"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "இயல்பிருப்புகளை மீட்டெடு"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "இயல்பிருப்புகளை மீட்டெடுக்க வேண்டுமா?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "இக்காணொளி வயது வரம்புக்குட்டபட்டது.\n\n\n\nஇதைக் காண வேண்டுமெனில் அமைவில் \"%1$s\"ஐ இயக்கு."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "இந்த வீடியோ வயது வரம்புக்குட்பட்டது.\n\nவயது வரம்புக்குட்பட்ட வீடியோக்கள் கொண்ட புதிய YouTube கொள்கைகள் காரணமாக, NewPipe ஆல் அதன் எந்த வீடியோ ஸ்ட்ரீம்களையும் அணுக முடியாது, இதனால் அதை இயக்க முடியவில்லை."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "தொலைபேசி அழைப்பு போன்ற குறுக்கீடுகளுக்கு பிறகு தொடரவும்"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "இயக்குதலைத் மறுதொடர்"
+    },
+    {
+      "name": "retry",
+      "value": "மீண்டும் முயற்சி"
+    },
+    {
+      "name": "rewind",
+      "value": "முன்னாடி"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "பிளேயர் திரையின் வலது பாதிக்கு சைகையைத் தேர்வுசெய்க"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "சரியான சைகை நடவடிக்கை"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "சேமித்த தாவல்களை வாசிக்க முடியவில்லை, ஆக இயல்பிருப்புகளைப் பயன்படுத்துகிறது"
+    },
+    {
+      "name": "search",
+      "value": "தேடு"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "தேடல் வரலாறு அழிக்கப்பட்டது"
+    },
+    {
+      "name": "search_no_results",
+      "value": "முடிவுகள் இல்லை"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "%s :க்கான முடிவுகளைக் காட்டுகிறது"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "வேகமாக முன்னோக்கி / திரும்பத் தேடும் காலம்"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "சீக்பர் சிறுபடம் முன்னோட்டம்"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "ஒரு சேனலைத் தேர்ந்தெடுக்கவும்"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "தீவனக் குழுவைத் தேர்ந்தெடுக்கவும்"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "ஒரு கியோச்கைத் தேர்ந்தெடுக்கவும்"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "ஒளிச்சரத்தைத் தேர்ந்தெடு"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "வெளிப்புற பிளேயர்களுக்கான ஆடியோ டிராக்கைத் தேர்ந்தெடுக்கவும்"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "உம் அபிமான இருண்ட தோற்றத்தைக் கீழே தேர்ந்தெடுக்கலாம்"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "வெளிப்புற வீரர்களுக்கான தரத்தைத் தேர்ந்தெடுக்கவும்"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "தேர்ந்தெடுக்கப்பட்ட ச்ட்ரீம் வெளிப்புற வீரர்களால் ஆதரிக்கப்படவில்லை"
+    },
+    {
+      "name": "semitone",
+      "value": "செமிடோன்"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "ஒளிச்சர சிறுபடமாக அமை"
+    },
+    {
+      "name": "settings",
+      "value": "அமைவு"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "தோற்றம்"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "காப்புப்பிரதி மற்றும் மீட்டமை"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "தரவை அழி"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "வழுநீக்கு"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "பதிவிறக்கம்"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "சில AVPlayer அமைப்புகளை நிர்வகிக்கவும். இந்த மாற்றங்கள் நடைமுறைக்கு வர ஒரு வீரர் மறுதொடக்கம் தேவை"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "AVPlayer அமைப்புகள்"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "தீவனம்"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "வரலாறும் பதுக்ககமும்"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "பண்பு"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "தற்போதைய இயங்கும் ஸ்ட்ரீம் அறிவிப்பை உள்ளமைக்கவும்"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "பிளேயர் அறிவிப்பு"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "இயக்கி"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "புதுப்பித்தல்கள்"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "காணொளியும் ஒலியும்"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "கோப்புப்பெயர்களில் அனுமதிக்கப்பட்ட வரியுருக்கள்"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "செல்லா வரியுருக்கள் இம்மதிப்புடன் மாற்றீடுசெய்யப்படும்"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "மாற்றீடு வரியுரு"
+    },
+    {
+      "name": "share",
+      "value": "பகிர்"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "இதனுடன் பகிர்"
+    },
+    {
+      "name": "share_playlist",
+      "value": "பிளேலிச்ட்டைப் பகிரவும்"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "YouTube தற்காலிக பிளேலிச்ட்டாக பகிரவும்"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n %2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "முகவரி பட்டியலைப் பகிரவும்"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "தலைப்புகளுடன் பகிர்ந்து கொள்ளுங்கள்"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "வயது வரம்பு (18+ போன்ற) இருப்பதால், குழந்தைகளுக்குப் பொருத்தமற்ற உள்ளடக்கத்தைக் காட்டு"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "வயது வரம்புக்குட்பட்ட உள்ளடக்கத்தைக் காட்டு"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "பதிவுத்தட விவரங்களைக் காட்டு"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "சேனல் தாவல்கள்"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "சேனல் பக்கங்களில் என்ன தாவல்கள் காட்டப்பட்டுள்ளன"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "கருத்துக்களை மறைக்க அணை"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "கருத்துக்களைக் காண்பி"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "பிளேயரைப் பயன்படுத்தும் போது செயலிழப்பு விருப்பத்தைக் காட்டுகிறது"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "\"வீரரை செயலிழக்க\" காட்டு"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "காணொளி விளக்கம் மற்றும் கூடுதல் தகவல்களை மறைக்க அணை"
+    },
+    {
+      "name": "show_description_title",
+      "value": "விளக்கத்தைக் காட்டு"
+    },
+    {
+      "name": "show_error",
+      "value": "பிழையைக் காட்டு"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "பிழை சிற்றுண்டியைக் காட்டு"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "சில சாதனங்கள் மட்டுமே 2k/4k காணொளிகளை இயக்கமுடியும்"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "உயரிய பிரிதிறன்களைக் காட்டு"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "\"விவரங்கள்:\" வீடியோவில் பின்னணி அல்லது பாப்அப் பட்டனை அழுத்தும் போது உதவிக்குறிப்பைக் காட்டு"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "\"சாரைபடுத்த நீண்டழுத்து\" துணுக்குதவியைக் காட்டு"
+    },
+    {
+      "name": "show_info",
+      "value": "தகவல் காண்பி"
+    },
+    {
+      "name": "show_less",
+      "value": "குறைவாகக் காட்டு"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "நினைவக கசிவுகளைக் காட்டு"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "பாய்வு உருவாக்குநர், பாய்வு உள்ளடக்கம் அ தேடல் கோரிக்கை குறித்த கூடுதல் தகவலையுடைய மேனிலைத் தகவட்பெட்டிகளை மறைக்க அணை"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "மேனிலை தகவல் காட்டு"
+    },
+    {
+      "name": "show_more",
+      "value": "மேலும் காட்டு"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "'அடுத்து' மற்றும் 'ஒப்பான' காணொளிகளைக் காட்டு"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "சேவைகளிலிருந்து அசல் நூல்கள் ச்ட்ரீம் உருப்படிகளில் காணப்படும்"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "அசல் நேரத்திற்கு முன்பு உருப்படிகளில் காட்டு"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "காணொளிகளை Kodi media centerஉடன் இயக்கும் இடப்பைக் காட்டு"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "\"Kodiயுடன் இயக்கு\" இடப்பைக் காட்டு"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "தேடும்போது காட்ட, பரிந்துரைகளைத் தெரிவுசெய்"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "பரிந்துரைகளைத் தேடு"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "பூட்டுத்திரைப் பின்புலத்திற்கும் அறிவிப்புகளுக்கும் சிறுபடத்தைப் பயன்படுத்து"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "சிறுபடங்காட்டு"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "ம .னத்தின் போது வேகமாக முன்னோக்கி"
+    },
+    {
+      "name": "songs",
+      "value": "பாடல்கள்"
+    },
+    {
+      "name": "sorry_string",
+      "value": "மன்னிக்கவும்."
+    },
+    {
+      "name": "sort",
+      "value": "வரிசைப்படுத்து"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "இது ஒரு சவுண்ட்க்ளூட் கோ+ டிராக் ஆகும், குறைந்தபட்சம் உங்கள் நாட்டில், எனவே இதை நியூபைப் மூலம் ச்ட்ரீம் செய்யவோ பதிவிறக்கம் செய்யவோ முடியாது."
+    },
+    {
+      "name": "start",
+      "value": "தொடங்கு"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "ஐரோப்பிய பொது தரவு பாதுகாப்பு ஒழுங்குமுறை (சிடிபிஆர்) உடன் இணங்குவதற்காக, நியூபைப்பின் தனியுரிமைக் கொள்கைக்கு இதன்மூலம் உங்கள் கவனத்தை ஈர்க்கிறோம். தயவுசெய்து அதை கவனமாகப் படியுங்கள்.\n பிழை அறிக்கையை எங்களுக்கு அனுப்ப நீங்கள் அதை ஏற்றுக்கொள்ள வேண்டும்."
+    },
+    {
+      "name": "start_downloads",
+      "value": "பதிவிறக்கங்களைத் தொடங்குங்கள்"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "பின்னணியில் இயங்கத் துவங்கு"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "பாப்அப்பில் இயங்கத் துவங்கு"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "துணையியக்கியில் காணொளிகளை துவக்காதே, ஆனால் தானாக சுழற்றல் பூட்டப்பட்டிருந்தால் நேரடியாக முழுதிரைக்குத் திரும்பு. முழுதிரையை வெளியேறி நீங்கள் இன்னும் துணையியக்கியை அணுகலாம்"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "முதன்மை இயக்கியை முழுதிரையில் துவக்கு"
+    },
+    {
+      "name": "stop",
+      "value": "நிறுத்து"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "பதிவிறக்கத்தால் இன்னும் ஆதரிக்கப்படாத நீரோடைகள் காட்டப்படவில்லை"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "சந்தாவுக்கான புதிய ஸ்ட்ரீம்கள் பற்றிய அறிவிப்புகள்"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "புதிய நீரோடைகள்"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "அதிர்வெண் சரிபார்க்கிறது"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "தேவையான பிணைய இணைப்பு"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "சந்தாசேர்"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "சந்தாசேர்ந்தாயிற்று"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "சந்தாதாரர் எண்ணிக்கை கிடைக்கவில்லை"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "சந்தாவை மாற்ற முடியவில்லை"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "சந்தாவைப் புதுப்பிக்க முடியவில்லை"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "சந்தாக்களை ஏற்றுமதி செய்ய முடியவில்லை"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "சந்தாக்களை இறக்குமதி செய்ய முடியவில்லை"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "தீர்க்கும்போது \"முடிந்தது\" என்பதை அழுத்தவும்"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "பின்னனிக்கு மாறு"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "முதற்பக்கத்துக்கு மாற்று"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "பாப்அப் இயக்கிக்கு மாறு"
+    },
+    {
+      "name": "systems_language",
+      "value": "இயங்குதள இயல்பிருப்பு"
+    },
+    {
+      "name": "tab_about",
+      "value": "பற்றி & கேள்விகள்"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "நூற்குறித்த ஒளிச்சரங்கள்"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "பிளேலிச்ட்கள்"
+    },
+    {
+      "name": "tab_choose",
+      "value": "பக்கத்தை தேர்வு செய்"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "உரிமங்கள்"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "சந்தாக்கள்"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "டேப்லெட் பயன்முறை"
+    },
+    {
+      "name": "theme_title",
+      "value": "தோற்றம்"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "பட பதுக்ககம் அழிக்கப்பட்டது"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "நியூபைப் பற்றி"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "வரலாறு"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "வரிசை விளையாடுங்கள்"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "ரெக்காப்ட்சா அறைகூவல்"
+    },
+    {
+      "name": "title_last_played",
+      "value": "கடைசியாக விளையாடியது"
+    },
+    {
+      "name": "title_licenses",
+      "value": "மூன்றாம் தரப்பு உரிமங்கள்"
+    },
+    {
+      "name": "title_most_played",
+      "value": "அதிகம் விளையாடியது"
+    },
+    {
+      "name": "toggle_all",
+      "value": "அனைத்தையும் மாற்று"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "மாற்று முழுத்திரை"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "திரை நோக்குநிலையை மாற்றவும்"
+    },
+    {
+      "name": "top_50",
+      "value": "முதல் 50"
+    },
+    {
+      "name": "tracks",
+      "value": "காணொளிக் கோப்புகள்"
+    },
+    {
+      "name": "trending",
+      "value": "நடப்பு"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "நூற்குறியை நீக்கு"
+    },
+    {
+      "name": "undo",
+      "value": "முந்தய நிலைக்குச் செல்"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "அவலூக் (விலகலை ஏற்படுத்தக்கூடும்)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "தெரியவில்லை"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[அறியப்படவில்லை]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "தெரியாத வடிவம்"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "அறியப்படாத தகுதி"
+    },
+    {
+      "name": "unmute",
+      "value": "ஊன்"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "நிரந்தர சிறுபடம்"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "சந்தாநீக்கு"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "ஆதரிக்கப்படாத உரலி"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "உரலியை அங்கீகரக்க முடியவில்லை. மற்றொரு செயலியில் திறக்கவா?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "புதிய பதிப்பு கிடைத்தால் செயலி புதுப்பிப்பு பற்றி நினைப்பூட்ட ஓர் அறிவிப்பைக் காட்டு"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "புதுப்பிப்புகள்"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "%1$s அன்று வெளியிடப்பட்டது"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "உங்களிடம் டிகோடர் துவக்க சிக்கல்கள் இருந்தால் இந்த விருப்பத்தை இயக்கவும், இது முதன்மை டிகோடர்கள் துவக்கம் தோல்வியுற்றால் குறைந்த முன்னுரிமை டிகோடர்களுக்குத் திரும்பும். முதன்மை டிகோடர்களைப் பயன்படுத்துவதை விட இது மோசமான பின்னணி செயல்திறனை ஏற்படுத்தக்கூடும்"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "AVPlayer இன் டிகோடர் குறைவடையும் அம்சத்தைப் பயன்படுத்தவும்"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "வேறு ஒலி இயக்கியைப் பயன்படுத்து"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "சில பிரிதிறன்களில் ஒலியை நீக்கும்"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "வேறு நிகழ்பட ஓட்டியைப் பயன்படுத்து"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "துல்லியமற்ற நாடல் குறைந்த துல்லியத்துடன் விரைவாக நாட இயக்கியை அனுமதிக்கிறது. 5, 15 அ 25 நொடிகள் நாடுவது இதனுடன் செயல்படாது"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "வேகமான பொருத்தமற்ற தேடலை பயன்படுத்து"
+    },
+    {
+      "name": "users",
+      "value": "பயனர்கள்"
+    },
+    {
+      "name": "video",
+      "value": "காணொலி"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "மூலம் %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "வீடியோ பிளேயர்"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "எந்த காணொலியும் இல்லை"
+    },
+    {
+      "name": "videos_string",
+      "value": "காணொளிகள்"
+    },
+    {
+      "name": "view_on_github",
+      "value": "கிட்அப்பில் காண்க"
+    },
+    {
+      "name": "volume",
+      "value": "தொகுதி"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "பார்த்த வரலாறு அழிக்கப்பட்டது"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "இயக்கக குறியிடங்கள் அழிக்கப்பட்டன"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "மேலும் செய்தி மற்றும் செய்திகளுக்கு நியூபைப் வலைத்தளத்தைப் பார்வையிடவும்."
+    },
+    {
+      "name": "website_title",
+      "value": "வலைத்தளம்"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "தகவல்:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "என்ன நடந்தது:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "அருகலையில் மட்டும்"
+    },
+    {
+      "name": "yes",
+      "value": "ஆம்"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "நீங்கள் இப்போது இந்த சேனலுக்கு குழுசேர்ந்தீர்கள்"
+    },
+    {
+      "name": "your_comment",
+      "value": "உங்கள் கருத்து:"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "இந்த வீடியோ யூடியூப் மியூசிக் காப்பீடு உறுப்பினர்களுக்கு மட்டுமே கிடைக்கிறது, எனவே இதை நியூபைப்பால் ச்ட்ரீம் செய்யவோ பதிவிறக்கம் செய்யவோ முடியாது."
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube \"கட்டுப்படுத்தப்பட்ட பயன்முறையை\" வழங்குகிறது, இது முதிர்ந்த உள்ளடக்கத்தை மறைக்கிறது"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "யூடியூபின் \"கட்டுப்பாடு பயன்முறை\"ஐ இயக்கு"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

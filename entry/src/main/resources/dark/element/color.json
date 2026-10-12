@@ -1,0 +1,104 @@
+{
+  "color": [
+    {
+      "name": "accent",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "background",
+      "value": "#222222"
+    },
+    {
+      "name": "border",
+      "value": "#33FFFFFF"
+    },
+    {
+      "name": "contrastColor",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "contrast_background",
+      "value": "#1F717171"
+    },
+    {
+      "name": "defaultIconTint",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "dialog_background",
+      "value": "#424242"
+    },
+    {
+      "name": "dialog_surface",
+      "value": "#424242"
+    },
+    {
+      "name": "on_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "on_surface",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "on_surface_disabled",
+      "value": "#4DFFFFFF"
+    },
+    {
+      "name": "on_surface_variant",
+      "value": "#B3FFFFFF"
+    },
+    {
+      "name": "primary",
+      "value": "#992722"
+    },
+    {
+      "name": "primary_bandcamp",
+      "value": "#1383A1"
+    },
+    {
+      "name": "primary_media_ccc",
+      "value": "#878787"
+    },
+    {
+      "name": "primary_peertube",
+      "value": "#A34700"
+    },
+    {
+      "name": "primary_soundcloud",
+      "value": "#A35300"
+    },
+    {
+      "name": "ripple",
+      "value": "#48FFFFFF"
+    },
+    {
+      "name": "selected",
+      "value": "#2AFFFFFF"
+    },
+    {
+      "name": "separator",
+      "value": "#0AFFFFFF"
+    },
+    {
+      "name": "settings_accent",
+      "value": "#FF5252"
+    },
+    {
+      "name": "shadow_start",
+      "value": "#82000000"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "surface",
+      "value": "#313131"
+    },
+    {
+      "name": "surface_variant",
+      "value": "#474747"
+    }
+  ]
+}

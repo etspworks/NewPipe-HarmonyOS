@@ -1,0 +1,361 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d дзень"
+        },
+        {
+          "quantity": "few",
+          "value": "%d дні"
+        },
+        {
+          "quantity": "many",
+          "value": "%d дзён"
+        },
+        {
+          "quantity": "other",
+          "value": "%d дзён"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Выдалены %1$s спампаваны файл"
+        },
+        {
+          "quantity": "few",
+          "value": "Выдалены %1$s спампаваныя файлы"
+        },
+        {
+          "quantity": "many",
+          "value": "Выдалена %1$s спампаваных файлаў"
+        },
+        {
+          "quantity": "other",
+          "value": "Выдалена %1$s спампаваных файлаў"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Спампоўванне %s файла завершана"
+        },
+        {
+          "quantity": "few",
+          "value": "Спампоўванне %s файлаў завершана"
+        },
+        {
+          "quantity": "many",
+          "value": "Спампоўванне %s файлаў завершана"
+        },
+        {
+          "quantity": "other",
+          "value": "Спампоўванне %s файлаў завершана"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Экспартаванне %d падпіскі…"
+        },
+        {
+          "quantity": "few",
+          "value": "Экспартаванне %d падпісак…"
+        },
+        {
+          "quantity": "many",
+          "value": "Экспартаванне %d падпісак…"
+        },
+        {
+          "quantity": "other",
+          "value": "Экспартаванне %d падпісак…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d выбраны"
+        },
+        {
+          "quantity": "few",
+          "value": "%d выбраныя"
+        },
+        {
+          "quantity": "many",
+          "value": "%d выбраных"
+        },
+        {
+          "quantity": "other",
+          "value": "%d выбраных"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d гадзіна"
+        },
+        {
+          "quantity": "few",
+          "value": "%d гадзіны"
+        },
+        {
+          "quantity": "many",
+          "value": "%d гадзін"
+        },
+        {
+          "quantity": "other",
+          "value": "%d гадзін"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Імпартаванне %d падпіскі…"
+        },
+        {
+          "quantity": "few",
+          "value": "Імпартаванне %d падпісак…"
+        },
+        {
+          "quantity": "many",
+          "value": "Імпартаванне %d падпісак…"
+        },
+        {
+          "quantity": "other",
+          "value": "Імпартаванне %d падпісак…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s слухач"
+        },
+        {
+          "quantity": "few",
+          "value": "%s слухача"
+        },
+        {
+          "quantity": "many",
+          "value": "%s слухачоў"
+        },
+        {
+          "quantity": "other",
+          "value": "%s слухачоў"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Загрузка %d падпіскі…"
+        },
+        {
+          "quantity": "few",
+          "value": "Загрузка %d падпісак…"
+        },
+        {
+          "quantity": "many",
+          "value": "Загрузка %d падпісак…"
+        },
+        {
+          "quantity": "other",
+          "value": "Загрузка %d падпісак…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d хвіліна"
+        },
+        {
+          "quantity": "few",
+          "value": "%d хвіліны"
+        },
+        {
+          "quantity": "many",
+          "value": "%d хвілін"
+        },
+        {
+          "quantity": "other",
+          "value": "%d хвілін"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s новая трансляцыя"
+        },
+        {
+          "quantity": "few",
+          "value": "%s новыя трансляцыі"
+        },
+        {
+          "quantity": "many",
+          "value": "%s новых трансляцый"
+        },
+        {
+          "quantity": "other",
+          "value": "%s новых трансляцый"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s адказ"
+        },
+        {
+          "quantity": "few",
+          "value": "%s адказы"
+        },
+        {
+          "quantity": "many",
+          "value": "%s адказаў"
+        },
+        {
+          "quantity": "other",
+          "value": "%s адказаў"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d секунда"
+        },
+        {
+          "quantity": "few",
+          "value": "%d секунды"
+        },
+        {
+          "quantity": "many",
+          "value": "%d секунд"
+        },
+        {
+          "quantity": "other",
+          "value": "%d секунд"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s падпісчык"
+        },
+        {
+          "quantity": "few",
+          "value": "%s падпісчыкі"
+        },
+        {
+          "quantity": "many",
+          "value": "%s падпісчыкаў"
+        },
+        {
+          "quantity": "other",
+          "value": "%s падпісчыкаў"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s відэа"
+        },
+        {
+          "quantity": "few",
+          "value": "%s відэа"
+        },
+        {
+          "quantity": "many",
+          "value": "%s відэа"
+        },
+        {
+          "quantity": "other",
+          "value": "%s відэа"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s прагляд"
+        },
+        {
+          "quantity": "few",
+          "value": "%s прагляды"
+        },
+        {
+          "quantity": "many",
+          "value": "%s праглядаў"
+        },
+        {
+          "quantity": "other",
+          "value": "%s праглядаў"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s глядач"
+        },
+        {
+          "quantity": "few",
+          "value": "%s гледачы"
+        },
+        {
+          "quantity": "many",
+          "value": "%s гледачоў"
+        },
+        {
+          "quantity": "other",
+          "value": "%s гледачоў"
+        }
+      ]
+    }
+  ]
+}

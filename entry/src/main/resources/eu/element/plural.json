@@ -1,0 +1,186 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "egun %d"
+        },
+        {
+          "quantity": "other",
+          "value": "%d egun"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Deskarga %1$s ezabatuta"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s deskarga ezabatuta"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Deskarga amaituta"
+        },
+        {
+          "quantity": "other",
+          "value": "%s deskarga amaituta"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d hautatuta"
+        },
+        {
+          "quantity": "other",
+          "value": "%d hautatuta"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "ordu %d"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ordu"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Entzule %s"
+        },
+        {
+          "quantity": "other",
+          "value": "%s entzule"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "minutu %d"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minutu"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Igorpen berri %s"
+        },
+        {
+          "quantity": "other",
+          "value": "%s igorpen berri"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "erantzun %s"
+        },
+        {
+          "quantity": "other",
+          "value": "%s erantzun"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "segundo %d"
+        },
+        {
+          "quantity": "other",
+          "value": "%d segundo"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Harpidedun %s"
+        },
+        {
+          "quantity": "other",
+          "value": "%s harpidedun"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Bideo %s"
+        },
+        {
+          "quantity": "other",
+          "value": "%s bideo"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Erreprodukzio %s"
+        },
+        {
+          "quantity": "other",
+          "value": "%s erreprodukzio"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Ikusle %s"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ikusle"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d dag"
+        },
+        {
+          "quantity": "other",
+          "value": "%d dagar"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Tog bort %1$s nedladdning"
+        },
+        {
+          "quantity": "other",
+          "value": "Tog bort %1$s nedladdningar"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Nedladdning slutförd"
+        },
+        {
+          "quantity": "other",
+          "value": "%s nedladdningar slutförda"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Exporterar %d prenumeration…"
+        },
+        {
+          "quantity": "other",
+          "value": "Exporterar %d prenumerationer…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d vald"
+        },
+        {
+          "quantity": "other",
+          "value": "%d valda"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d timme"
+        },
+        {
+          "quantity": "other",
+          "value": "%d timmar"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Importerar %d prenumeration…"
+        },
+        {
+          "quantity": "other",
+          "value": "Importerar %d prenumerationer…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s lyssnare"
+        },
+        {
+          "quantity": "other",
+          "value": "%s lyssnare"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Läser in %d prenumeration…"
+        },
+        {
+          "quantity": "other",
+          "value": "Läser in %d prenumerationer…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minut"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minuter"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ny strömning"
+        },
+        {
+          "quantity": "other",
+          "value": "%s nya strömningar"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s svar"
+        },
+        {
+          "quantity": "other",
+          "value": "%s svar"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d sekund"
+        },
+        {
+          "quantity": "other",
+          "value": "%d sekunder"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s prenumerant"
+        },
+        {
+          "quantity": "other",
+          "value": "%s prenumeranter"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s video"
+        },
+        {
+          "quantity": "other",
+          "value": "%s videor"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s visning"
+        },
+        {
+          "quantity": "other",
+          "value": "%s visningar"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s tittar"
+        },
+        {
+          "quantity": "other",
+          "value": "%s tittar"
+        }
+      ]
+    }
+  ]
+}

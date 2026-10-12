@@ -1,0 +1,293 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d дан"
+        },
+        {
+          "quantity": "few",
+          "value": "%d дана"
+        },
+        {
+          "quantity": "other",
+          "value": "%d дана"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Избрисано је %1$s преузимање"
+        },
+        {
+          "quantity": "few",
+          "value": "Избрисано је %1$s преузимања"
+        },
+        {
+          "quantity": "other",
+          "value": "Избрисано је %1$s преузимања"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s преузимање је завршено"
+        },
+        {
+          "quantity": "few",
+          "value": "%s преузимања су завршена"
+        },
+        {
+          "quantity": "other",
+          "value": "%s преузимања је завршено"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Извозим %d претплату…"
+        },
+        {
+          "quantity": "few",
+          "value": "Извозим %d претплате…"
+        },
+        {
+          "quantity": "other",
+          "value": "Извозим %d претплата…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d изабран"
+        },
+        {
+          "quantity": "few",
+          "value": "%d изабрана"
+        },
+        {
+          "quantity": "other",
+          "value": "%d изабраних"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d сат"
+        },
+        {
+          "quantity": "few",
+          "value": "%d сата"
+        },
+        {
+          "quantity": "other",
+          "value": "%d сати"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Увозим %d претплату…"
+        },
+        {
+          "quantity": "few",
+          "value": "Увозим %d претплате…"
+        },
+        {
+          "quantity": "other",
+          "value": "Увозим %d претплата…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s слушалац"
+        },
+        {
+          "quantity": "few",
+          "value": "%s слушаоца"
+        },
+        {
+          "quantity": "other",
+          "value": "%s слушалаца"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Учитавам %d претплату…"
+        },
+        {
+          "quantity": "few",
+          "value": "Учитавам %d претплате…"
+        },
+        {
+          "quantity": "other",
+          "value": "Учитавам %d претплата…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d минут"
+        },
+        {
+          "quantity": "few",
+          "value": "%d минута"
+        },
+        {
+          "quantity": "other",
+          "value": "%d минута"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s нови ток"
+        },
+        {
+          "quantity": "few",
+          "value": "%s нова тока"
+        },
+        {
+          "quantity": "other",
+          "value": "%s нових токова"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s одговор"
+        },
+        {
+          "quantity": "few",
+          "value": "%s одговора"
+        },
+        {
+          "quantity": "other",
+          "value": "%s одговора"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d секунда"
+        },
+        {
+          "quantity": "few",
+          "value": "%d секунде"
+        },
+        {
+          "quantity": "other",
+          "value": "%d секунди"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s пратилац"
+        },
+        {
+          "quantity": "few",
+          "value": "%s пратиоца"
+        },
+        {
+          "quantity": "other",
+          "value": "%s пратилаца"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s видео снимак"
+        },
+        {
+          "quantity": "few",
+          "value": "%s видео снимка"
+        },
+        {
+          "quantity": "other",
+          "value": "%s видео снимака"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s преглед"
+        },
+        {
+          "quantity": "few",
+          "value": "%s прегледа"
+        },
+        {
+          "quantity": "other",
+          "value": "%s прегледа"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s гледалац"
+        },
+        {
+          "quantity": "few",
+          "value": "%s гледаоца"
+        },
+        {
+          "quantity": "other",
+          "value": "%s гледалаца"
+        }
+      ]
+    }
+  ]
+}

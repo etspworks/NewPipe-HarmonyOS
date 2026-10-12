@@ -1,0 +1,225 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d दिन"
+        },
+        {
+          "quantity": "other",
+          "value": "%d दिन"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%1$s डाउनलोड हटाए गए"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s डाउनलोड्स हटाए गए"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "डाउनलोड संपूर्ण"
+        },
+        {
+          "quantity": "other",
+          "value": "%s डाउनलोड संपूर्ण"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d सब्सक्रिप्शन एक्सपोर्ट किया जा रहा है…"
+        },
+        {
+          "quantity": "other",
+          "value": "%d सब्सक्रिप्शन एक्सपोर्ट किए जा रहे हैं…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d चयनित"
+        },
+        {
+          "quantity": "other",
+          "value": "%d चयनित हुए"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d घंटा"
+        },
+        {
+          "quantity": "other",
+          "value": "%d घंटे"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d सब्सक्रिप्शन इंपोर्ट किया जा रहा है…"
+        },
+        {
+          "quantity": "other",
+          "value": "%d सब्सक्रिप्शन इंपोर्ट किए जा रहे हैं…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s श्रोता"
+        },
+        {
+          "quantity": "other",
+          "value": "%s श्रोता"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d सब्सक्रिप्शन लोड हो रहा है…"
+        },
+        {
+          "quantity": "other",
+          "value": "%d सब्सक्रिप्शन लोड हो रहे हैं…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d मिनट"
+        },
+        {
+          "quantity": "other",
+          "value": "%d मिनट्स"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s नई स्ट्रीम"
+        },
+        {
+          "quantity": "other",
+          "value": "%s नई स्ट्रीमें"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s जवाब"
+        },
+        {
+          "quantity": "other",
+          "value": "%s जवाब"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d सेकेंड"
+        },
+        {
+          "quantity": "other",
+          "value": "%d सेकंड्स"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s सब्सक्राइबर"
+        },
+        {
+          "quantity": "other",
+          "value": "%s सब्सक्राइबर्स"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s वीडियो"
+        },
+        {
+          "quantity": "other",
+          "value": "%s वीडियोज़"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s विऊ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s विऊज़"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s दर्शक है"
+        },
+        {
+          "quantity": "other",
+          "value": "%s दर्शक हैं"
+        }
+      ]
+    }
+  ]
+}

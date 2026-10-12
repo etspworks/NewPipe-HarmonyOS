@@ -1,0 +1,2948 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "მიღება"
+    },
+    {
+      "name": "account_terminated",
+      "value": "ანგარიში შეწყვეტილია"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "ანგარიში შეწყვეტილია\n\n%1$s ამ მიზეზს იძლევა: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "ისტორია"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "დასაკრავ სიაში დამატება"
+    },
+    {
+      "name": "albums",
+      "value": "ალბუმები"
+    },
+    {
+      "name": "all",
+      "value": "ყველა"
+    },
+    {
+      "name": "always",
+      "value": "ყოველთვის"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "ყოველთვის იკითხე"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "ეს გამოსავალი ათავისუფლებს და ხელახლა ააქტიურებს ვიდეო კოდეკებს ზედაპირის ცვლილებისას, ზედაპირის პირდაპირ კოდეკზე დაყენების ნაცვლად. ეს პარამეტრი უკვე გამოიყენება ExoPlayer-ის მიერ ზოგიერთ მოწყობილობაზე, რომელსაც ეს პრობლემა აქვს, და მოქმედებს მხოლოდ Android 6-ზე და უფრო მაღალ ვერსიებზე.\n\nამ პარამეტრის ჩართვამ შეიძლება თავიდან აიცილოს დაკვრის შეცდომები მიმდინარე ვიდეო პლეერის გადართვისას ან სრულ ეკრანზე გადართვისას."
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "ყოველთვის გამოიყენეთ AVPlayer-ის ვიდეო გამომავალი ზედაპირის პარამეტრების ალტერნატიული გადაწყვეტა"
+    },
+    {
+      "name": "any_network",
+      "value": "ნებისმიერი ქსელი"
+    },
+    {
+      "name": "app_description",
+      "value": "უფასო მსუბუქი ნაკადი HarmonyOS-ზე."
+    },
+    {
+      "name": "app_language_title",
+      "value": "აპლიკაციის ენა"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe არის copyleft უფასო პროგრამული უზრუნველყოფა: თქვენ შეგიძლიათ გამოიყენოთ, შეისწავლოთ, გააზიაროთ და გააუმჯობესოთ იგი სურვილისამებრ. კონკრეტულად თქვენ შეგიძლიათ გადაანაწილოთ და/ან შეცვალოთ იგი GNU-ს ზოგადი საჯარო ლიცენზიის პირობებით, როგორც ეს გამოქვეყნებულია თავისუფალი პროგრამული უზრუნველყოფის ფონდის მიერ, ლიცენზიის მე-3 ვერსიით, ან (თქვენი სურვილისამებრ) ნებისმიერი შემდგომი ვერსიით."
+    },
+    {
+      "name": "app_license_title",
+      "value": "NewPipe-ის ლიცენზია"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "აპი/UI გათიშულია"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "%s-ის გადმოსაწერად დაატყაპუნეთ"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "ხელმისაწვდომია NewPipe-ის განახლება!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "შეტყობინებები NewPipe-ის ახალი ვერსიებისთვის"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "აპლიკაციის განახლების შეტყობინება"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "თქვენი NewPipe-ის ვერსია უახლესია"
+    },
+    {
+      "name": "artists",
+      "value": "მოღერლები"
+    },
+    {
+      "name": "audio",
+      "value": "აუდიო"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "აუდიო ნაკადები ვერ მოიძებნა"
+    },
+    {
+      "name": "audio_track",
+      "value": "ხმის ჩანაწერი"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "ამ ნაკადში აუდიო ჩანაწერი უკვე უნდა იყოს წარმოდგენილი"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "აღწერითი"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "გახმოვანებული"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "ორიგინალი"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "მეორადი"
+    },
+    {
+      "name": "auto",
+      "value": "ავტო"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "ავტომატური (მოწყობილობის თემა)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "გააგრძელეთ დაკვრის რიგის (არაგანმეორებადი) დასრულება შესაბამისი ნაკადის დამატებით"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "შემდეგი ნაკადის ავტომატური შეყვანა"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "ავტომატური რიგი"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe-ს შეუძლია დროდადრო ავტომატურად შეამოწმოს ახალი ვერსიები და შეგატყობინოთ, როგორც კი ისინი ხელმისაწვდომი გახდება.\nგსურთ ამის ჩართვა?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "დაკვრის ავტომატურად დაწყება — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Ავტომატური ჩართვა"
+    },
+    {
+      "name": "background_player",
+      "value": "ფონური დამკვრელი"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "ვუკრავ ფონზე"
+    },
+    {
+      "name": "best_resolution",
+      "value": "საუკეთესო რეზოლუცია"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "შავი"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "ცარიელი გვერდი"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "სანიშნე დასაკრავი სია"
+    },
+    {
+      "name": "brightness",
+      "value": "სიკაშკაშე"
+    },
+    {
+      "name": "cancel",
+      "value": "გაუქმება"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "ავტომატურად გენერირებული"
+    },
+    {
+      "name": "caption_none",
+      "value": "სუბიტრები არ არის"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "შეცვალეთ დამკვრელის სუბტიტრების ტექსტის მასშტაბი და ფონის სტილი. ძალაში შესვლისთვის საჭიროა აპის გადატვირთვა"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "სუბტიტრები"
+    },
+    {
+      "name": "card",
+      "value": "ბარათი"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "შექმნილია %s-ის მიერ"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "არხის გვერდი"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "შესახებ"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "ალბომები"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "არხები"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "მოწონებები"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "ლაივი"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "დასაკრავი სიები"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "მოკლე ვიდეოები"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "ტრეკები"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "ვიდეოები"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "არხის გამოწერის გაუქმება"
+    },
+    {
+      "name": "channels",
+      "value": "არხები"
+    },
+    {
+      "name": "chapters",
+      "value": "თავები"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "ასოები და ციფრები"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "ყველაზე განსაკუთრებული პერსონაჟები"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Შეამოწმოთ განახლებები"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "გაუშვით შემოწმება ახალი ნაკადებისთვის"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "მიმდინარეობს განახლებების შემოწმება…"
+    },
+    {
+      "name": "checksum",
+      "value": "საკონტროლო ჯამი"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "აირჩიეთ მაგალითი"
+    },
+    {
+      "name": "clear",
+      "value": "გაწმენდა"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "წაშალეთ ქუქი-ფაილები, რომლებსაც NewPipe ინახავს, როდესაც თქვენ გადაჭრით reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "reCAPTCHA ქუქიების გასუფთავება"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "ჩამოტვირთვის ისტორიის გასუფთავება"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "წაშლის დაკვრის ყველა პოზიციას"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "წაშალეთ დაკვრის პოზიციები"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "აქტიური მოთამაშის რიგი შეიცვლება"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "ერთი მოთამაშიდან მეორეზე გადართვამ შესაძლოა შეცვალოს თქვენი რიგი"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "მოითხოვეთ დადასტურება რიგის გასუფთავებამდე"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "წაშლის საძიებო საკვანძო სიტყვების ისტორიას"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "ძიების ისტორიის გასუფთავება"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "წაშლის ნათამაშები დაკვრილ ისტორიას და დაკვრის პოზიციებს"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "ნახვის ისტორიის გასუფთავება"
+    },
+    {
+      "name": "close",
+      "value": "დახურვა"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "კომენტარები გამორთულია"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "კომენტარები"
+    },
+    {
+      "name": "conferences",
+      "value": "კონფერენციები"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "გსურთ თქვენი ჩამოტვირთვის ისტორიის გასუფთავება ან ყველა გადმოწერილი ფაილის წაშლა?"
+    },
+    {
+      "name": "content",
+      "value": "მასალა"
+    },
+    {
+      "name": "content_language_title",
+      "value": "ნაგულისხმევი შინაარსის ენა"
+    },
+    {
+      "name": "content_not_available",
+      "value": "მასალა ხელმიუწვდომელია"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "ეს შინაარსი ჯერ არ არის მხარდაჭერილი NewPipe-ის მიერ.\n\n\n\n იმედია, ის იქნება მხარდაჭერილი მომავალ ვერსიაში."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "გაქვთ თუ არა იდეები; თარგმანი, დიზაინის ცვლილებები, კოდის გაწმენდა ან კოდის რეალური მძიმე ცვლილებები — დახმარება ყოველთვის მისასალმებელია. რაც მეტი კეთდება მით უკეთესი!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "წვლილი შეიტანეთ"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "დამატება"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "ფონი"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "ნაკადის ფაილი ჩამოტვირთვა"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "ამომხტარი ფანჯარა"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "დააკოპირეთ ფორმატირებული ანგარიში"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s მიერ %2$s %3$s-ის ქვეშ"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "გაფრთხილება: ყველა ფაილის იმპორტი ვერ მოხერხდა."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "ყველა ესკიზის ჩატვირთვა ვერ მოხერხდა"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "ჩამოტვირთვის მენიუს დაყენება ვერ მოხერხდა"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "აპლიკაციის დაშლა"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "დაარტყა დამკვრელი"
+    },
+    {
+      "name": "create",
+      "value": "Შექმნა"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "შექმენით შეცდომის შეტყობინება"
+    },
+    {
+      "name": "create_playlist",
+      "value": "ახალი დასაკრავი სია"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "მუქი"
+    },
+    {
+      "name": "decline",
+      "value": "უარყოფა"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "ნაგულისხმევი აუდიო ფორმატი"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "ჩანაწერის სასურველი ქვეყანა"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "ნაგულისხმევი კიოსკი"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "ამომხტარი ფანჯრის ნაგულისხმევი რეზოლუცია"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "ნაგულისხმევი რეზოლუცია"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "ვიდეოს ნაგულისხმევი ფორმატი"
+    },
+    {
+      "name": "delete",
+      "value": "წაშლა"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "გადმოწერილი ფაილების წაშლა"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "წაშალოთ ყველა გადმოწერილი ფაილი დისკიდან?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "ჩანაწერის წაშლა"
+    },
+    {
+      "name": "delete_file",
+      "value": "ფაილის წაშლა"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "გსურთ წაშალოთ ეს ელემენტი ძიების ისტორიიდან?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "წაშალოთ დაკვრის ყველა პოზიცია?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "წაშალოთ ეს დასაკრავი სია?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "წაშალოთ მთელი ძიების ისტორია?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "წაშალოთ ნახვის მთელი ისტორია?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "გამორთეთ აღწერილობაში ტექსტის არჩევა"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "ჩართეთ აღწერილობაში ტექსტის არჩევა"
+    },
+    {
+      "name": "description_select_note",
+      "value": "ახლა შეგიძლიათ აირჩიოთ ტექსტი აღწერილობაში. გაითვალისწინეთ, რომ გვერდი შეიძლება ციმციმდეს და ბმულები არ იყოს დაწკაპუნებული შერჩევის რეჟიმში."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "აღწერა"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "დაწუნებები"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "გადაიტანეთ ხელახლა შეკვეთისთვის"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "დაგულებულია შემქმნელის მიერ"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "მოსწონს"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "ჩამაგრებული კომენტარი"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "არხის ავატარის ესკიზი"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "ვიდეოს დაკვრა, ხანგრძლივობა:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "ამტვირთველის ავატარის ესკიზი"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "„%1$s“-ს გულისხმობდი?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "მედიის გვირაბირება თქვენს მოწყობილობაზე ნაგულისხმევად გამორთულია, რადგან თქვენი მოწყობილობის მოდელი, როგორც ცნობილია, მას არ უჭერს მხარს."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "გამორთეთ მედია გვირაბი, თუ ვიდეოს დაკვრისას შავი ეკრანი ან ჭუჭყი გაქვთ"
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "მედია გვირაბის გათიშვა"
+    },
+    {
+      "name": "disabled",
+      "value": "გათიშულია"
+    },
+    {
+      "name": "dismiss",
+      "value": "გაუქმება"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe შემუშავებულია მოხალისეების მიერ, რომლებიც ატარებენ თავისუფალ დროს და მოგაქვთ საუკეთესო მომხმარებლის გამოცდილება. დაეხმარეთ დეველოპერებს, გააუმჯობესონ NewPipe, სანამ ფინჯანი ყავით ტკბებიან."
+    },
+    {
+      "name": "donation_title",
+      "value": "შემოწირულობა"
+    },
+    {
+      "name": "done",
+      "value": "შესრულებულია"
+    },
+    {
+      "name": "dont_show",
+      "value": "არ მაჩვენო"
+    },
+    {
+      "name": "download",
+      "value": "გადმოწერა"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "ამ სახელით მომლოდინე ჩამოტვირთვაა"
+    },
+    {
+      "name": "download_already_running",
+      "value": "მიმდინარეობს ჩამოტვირთვა ამ სახელით"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "ჩამოტვირთვა"
+    },
+    {
+      "name": "download_failed",
+      "value": "ჩამოტვირთვა ვერ მოხერხდა"
+    },
+    {
+      "name": "download_has_started",
+      "value": "ჩამოტვირთვა დაიწყო"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "აირჩიეთ ჩამოტვირთვის საქაღალდე აუდიო ფაილებისთვის"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "გადმოწერილი აუდიო ფაილები ინახება აქ"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "აუდიოს ჩამოტვირთვის საქაღალდე"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "აირჩიეთ ჩამოტვირთვის საქაღალდე ვიდეო ფაილებისთვის"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "გადმოწერილი ვიდეო ფაილები ინახება აქ"
+    },
+    {
+      "name": "download_path_title",
+      "value": "ვიდეოს ჩამოტვირთვის საქაღალდე"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "გარე SD ბარათზე ჩამოტვირთვა შეუძლებელია. გსურთ ჩამოტვირთვის საქაღალდის მდებარეობის გადაყენება?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "გარე მეხსიერება მიუწვდომელია"
+    },
+    {
+      "name": "downloads",
+      "value": "ჩამოტვირთვები"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "თქვენ მოგეთხოვებათ სად შეინახოთ თითოეული ჩამოტვირთვა.\n\n ჩართეთ სისტემის საქაღალდის ამომრჩევი (SAF), თუ გსურთ ჩამოტვირთოთ გარე SD ბარათზე"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "თქვენ მოგეთხოვებათ სად შეინახოთ თითოეული ჩამოტვირთვა"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "იკითხეთ, სად უნდა ჩამოტვირთოთ"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "\"Storage Access Framework\" საშუალებას გაძლევთ ჩამოტვირთოთ გარე SD ბარათზე"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Android 10-დან მხოლოდ „Storage Access Framework“ არის მხარდაჭერილი"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "გამოიყენეთ სისტემის საქაღალდის ამომრჩევი (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "ჩამოტვირთვები"
+    },
+    {
+      "name": "drawer_close",
+      "value": "დახურეთ უჯრა"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "სერვისის გადართვა, ამჟამად არჩეულია:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "გახსენით უჯრა"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "განაცრისფერებული დასაკრავი სიები ამ ელემენტს უკვე შეიცავენ."
+    },
+    {
+      "name": "duration_live",
+      "value": "ლაივი"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "აქ არაფერია კრიკეტების გარდა"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "იძულებითი მოხსენება შეუსაბამო Rx გამონაკლისების შესახებ ფრაგმენტის ან აქტივობის სასიცოცხლო ციკლის გარეთ განკარგვის შემდეგ"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "შეატყობინეთ სასიცოცხლო ციკლის შეცდომებს"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "მეხსიერების გაჟონვის მონიტორინგმა შესაძლოა გამოიწვიოს აპი უპასუხოდ გროვის გადაყრის დროს"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "აღადგინეთ დაკვრის ბოლო პოზიცია"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "განაახლეთ დაკვრა"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "დაკვრის პოზიციის ინდიკატორების ჩვენება სიებში"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "პოზიციები სიებში"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "ჩამოტვირთვის რიგის შეზღუდვა"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "ერთი ჩამოტვირთვა ერთდროულად იმუშავებს"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "შეინახეთ საძიებო მოთხოვნები ადგილობრივად"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "ძიების ისტორია"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "შემატყობინეთ ახალი ნაკადების შესახებ გამოწერებიდან"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "ახალი ნაკადების შეტყობინებები"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "თვალყური ადევნეთ ნანახ ვიდეოებს"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "ნახვის ისტორია"
+    },
+    {
+      "name": "enqueue",
+      "value": "რიგი"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "რიგი შემდეგი"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "რიგი"
+    },
+    {
+      "name": "enqueued",
+      "value": "რიგში ჩადებული"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "რიგში დადგა შემდეგი"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "ჩანაწერი წაშლილია"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "სერვერთან დაკავშირება შეუძლებელია"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "დეტალები:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "ამ ჩამოტვირთვის აღდგენა შეუძლებელია"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "ფაილის შექმნა შეუძლებელია"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "სერვერი არ აგზავნის მონაცემებს"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "არ მოიძებნა"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "სერვერი არ იღებს მრავალ ნაკადის ჩამოტვირთვებს, ხელახლა სცადეთ @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "მოწყობილობაზე საკმარისი თავისუფალი ადგილი არ არის"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "მოწყობილობაზე არ არის დარჩენილი თავისუფალი ადგილი"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "მოხდა შეცდომა: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "დანიშნულების საქაღალდის შექმნა შეუძლებელია"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "შემდგომი დამუშავება ვერ მოხერხდა"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "ფაილზე მუშაობისას NewPipe დაიხურა"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "პროგრესი დაიკარგა, რადგან ფაილი წაიშალა"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "ელფოსტით შეტყობინება"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "შეტყობინებები შეცდომების გასასაჩივრებლად"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "შეცდომის შესახებ შეტყობინება"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe-ს შეექმნა შეცდომა, შეეხეთ შეტყობინებისთვის"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "მოხდა შეცდომა, იხილეთ შეტყობინება"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "გთხოვთ, შეამოწმოთ, არის თუ არა პრობლემა თქვენი ავარიის განხილვის შესახებ. დუბლიკატი ბილეთების შექმნისას ჩვენგან იღებთ დროს, რომელიც ჩვენ შეგვიძლია დავხარჯოთ ფაქტობრივი ხარვეზის გამოსწორებაში."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "მოხსენება GitHub-ზე"
+    },
+    {
+      "name": "error_report_title",
+      "value": "შეცდომის საჩივარი"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "მოხსენება"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Ბოდიში, რაღაც არ არის რიგზე."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "უსაფრთხო კავშირის დამყარება ვერ მოხერხდა"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Კავშირის დრო ამოიწურა"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "კომენტარების ჩატვირთვა ვერ მოხერხდა"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "სერვერი ვერ ვიპოვე"
+    },
+    {
+      "name": "events",
+      "value": "დღესასწაულები"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "ექსპორტირებულია"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "ექსპორტის ისტორია, გამოწერები, დასაკრავი სიები და პარამეტრები"
+    },
+    {
+      "name": "export_data_title",
+      "value": "მონაცემთა ბაზის ექსპორტი"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "მიმდინარეობს ექსპორტი…"
+    },
+    {
+      "name": "export_to",
+      "value": "ექსპორტი"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "გარე დამკვრელს არ აქვთ ამ ტიპის ბმულების მხარდაჭერა"
+    },
+    {
+      "name": "faq",
+      "value": "ნახვა საიტზე"
+    },
+    {
+      "name": "faq_description",
+      "value": "თუ აპლიკაციის გამოყენება გიჭირთ, დარწმუნდით, რომ შეამოწმეთ ეს პასუხები საერთო კითხვებზე!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Ხშირად დასმული შეკითხვები"
+    },
+    {
+      "name": "fast_mode",
+      "value": "სწრაფი რეჟიმი"
+    },
+    {
+      "name": "featured",
+      "value": "გამორჩეული"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "ახალი"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "არხის ჩანართების მოძიება"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "არხის განახლებისას გამოსატანი ჩანართები. ამ პარამეტრს არანაირი ეფექტი არ აქვს, თუ არხი სწრაფი რეჟიმის გამოყენებით განახლდება."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "გსურთ ამ ჯგუფის წაშლა?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "ცარიელი ჯგუფის სახელი"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "გამოწერები არ არის არჩეული"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "აირჩიეთ გამომწერები"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "არხის ჯგუფის გვერდი"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "მხოლოდ დაუჯგუფებელი გამოწერების ჩვენება"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "არხების ჯგუფები"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "შემდეგი ნაკადების ჩვენება"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "შეცდომა არხის ჩატვირთვისას"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "„%s“-ის არხის ჩატვირთვა ვერ მოხერხდა."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "სწრაფი კვების რეჟიმი ამაზე მეტ ინფორმაციას არ იძლევა."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "ავტორის ანგარიში შეჩერებულია.\n\n NewPipe ვერ შეძლებს ამ არხის ჩატვირთვას მომავალში.\n\n გსურთ ამ არხის გამოწერის გაუქმება?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "ახალი არხის ელემენტები"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "არხის ჩატვირთვა…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "არხი ბოლოს განახლდა: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "არხის დამუშავება…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "ნაკადების ჩვენება/დამალვა"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "ნაწილობრივ ნანახი"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "მომავალი"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "სრულად ნანახი"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "არ არის ჩატვირთული: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "ყოველთვის განახლება"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "დრო ბოლო განახლებიდან გამოწერამდე ითვლება მოძველებულად — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "არხის განახლების ბარიერი"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "სწრაფი რეჟიმის გამორთვა"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "ჩართეთ სწრაფი რეჟიმი"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "როგორ ფიქრობთ, არხის ჩატვირთვა ძალიან ნელია? თუ ასეა, სცადეთ ჩართოთ სწრაფი ჩატვირთვა (შეგიძლიათ შეცვალოთ ის პარამეტრებში ან ქვემოთ მოცემულ ღილაკზე დაჭერით).\n\nNewPipe გთავაზობთ არხის ჩატვირთვის ორ სტრატეგიას:\n• მთელი სააბონენტო არხის მიღება, რომელიც ნელია, მაგრამ დასრულებულია.\n• გამოყოფილი სერვისის საბოლოო წერტილის გამოყენება, რომელიც არის სწრაფი, მაგრამ ჩვეულებრივ არასრული.\n\nამ ორს შორის განსხვავება ისაა, რომ სწრაფს, როგორც წესი, აკლია გარკვეული ინფორმაცია, მაგალითად, ნივთის ხანგრძლივობა ან ტიპი (არ განასხვავებს პირდაპირ ვიდეოებს ჩვეულებრივ ვიდეოებს შორის) და შეიძლება დაბრუნდეს ნაკლები ელემენტი.\n\nYouTube არის სერვისის მაგალითი, რომელიც გთავაზობთ ამ სწრაფ მეთოდს თავისი RSS არხით.\n\nასე რომ, არჩევანი დამოკიდებულია იმაზე, თუ რა გირჩევნიათ: სიჩქარე ან ზუსტი ინფორმაცია."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "ხელმისაწვდომია ზოგიერთ სერვისში, როგორც წესი, ბევრად უფრო სწრაფია, მაგრამ შეიძლება დააბრუნოს შეზღუდული რაოდენობის ელემენტი და ხშირად არასრული ინფორმაცია (მაგ. ხანგრძლივობის გარეშე, ელემენტის ტიპი, არ არის ლაივის სტატუსი)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "მიიღეთ გამოყოფილი არხიდან, როცა ხელმისაწვდომია"
+    },
+    {
+      "name": "file",
+      "value": "ფაილი"
+    },
+    {
+      "name": "file_deleted",
+      "value": "ფაილი წაიშალა"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "ფაილის სახელი არ შეიძლება იყოს ცარიელი"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Რა არის ახალი"
+    },
+    {
+      "name": "general_error",
+      "value": "შეცდომა"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "შექმენით უნიკალური სახელი"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "ეს ხელმიუწვდომელია თქვენი ქვეყნიდან."
+    },
+    {
+      "name": "get_notified",
+      "value": "მიიღეთ შეტყობინება"
+    },
+    {
+      "name": "give_back",
+      "value": "დაბრუნება"
+    },
+    {
+      "name": "grid",
+      "value": "ბადე"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "შეტყობინებები ვიდეოების ჰეშირების პროგრესის შესახებ"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "ვიდეო ჰეშის შეტყობინება"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "მაღალი ხარისხის (უფრო დიდი)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "გააჩერეთ რიგში"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "სასარგებლოა, მაგალითად, თუ იყენებთ ყურსაცვამდებს, რომლის ფიზიკური ღილაკებიც დაზიანებულია"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "აპარატურული მედია ღილაკების მოვლენების გამოტოვება"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "იმპორტირებულია"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "უგულებელყოფს თქვენს ამჟამინდელ ისტორიას, გამოწერებს, დასაკრავ სიებს და (სურვილისამებრ) პარამეტრებს"
+    },
+    {
+      "name": "import_data_title",
+      "value": "მონაცემთა ბაზის იმპორტი"
+    },
+    {
+      "name": "import_file_title",
+      "value": "ფაილის იმპორტი"
+    },
+    {
+      "name": "import_from",
+      "value": "იმპორტი დან"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "გაითვალისწინეთ, რომ ეს ოპერაცია შეიძლება იყოს ქსელის ძვირი.\n\n\n\n Გინდა გააგრძელო?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "მიმდინარეობს იმპორტი…"
+    },
+    {
+      "name": "import_settings",
+      "value": "გსურთ პარამეტრების იმპორტიც?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "იმპორტირებული ექსპორტის პარამეტრები იყენებს დაუცველ ფორმატს, რომელიც მოძველებულია NewPipe 0.27.0 ვერსიიდან. დარწმუნდით, რომ იმპორტირებული ექსპორტი სანდო წყაროდან არის და მომავალში უპირატესობა მიანიჭეთ მხოლოდ NewPipe 0.27.0 ან უფრო ახალი ვერსიიდან მიღებული ექსპორტირებული პარამეტრების გამოყენებას. ამ დაუცველ ფორმატში პარამეტრების იმპორტის მხარდაჭერა მალე მთლიანად გაუქმდება და შემდეგ NewPipe-ის ძველი ვერსიები ვეღარ შეძლებენ ექსპორტირებული პარამეტრების იმპორტირებას ახალი ვერსიებიდან."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "SoundCloud პროფილის იმპორტი URL-ის ან თქვენი ID-ის აკრეფით:\n\n\n\n 1. ჩართეთ \"დესკტოპის რეჟიმი\" ვებ-ბრაუზერში (საიტი მიუწვდომელია მობილური მოწყობილობებისთვის)\n\n 2. გადადით ამ URL-ზე: %1$s\n\n 3. შედით სისტემაში მოთხოვნისას\n\n 4. დააკოპირეთ პროფილის URL, რომელზეც გადამისამართდით."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "თქვენი ID, soundcloud.com/yourid"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "გამოწერების შეტანა/გამოტანა სამწერტილიანი მენიუდან"
+    },
+    {
+      "name": "import_title",
+      "value": "იმპორტი"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "YouTube გამოწერების იმპორტი Google takeout-დან:\n\n\n\n 1. გადადით ამ URL-ზე: %1$s\n\n 2. შედით სისტემაში მოთხოვნისას\n\n 3. დააწკაპუნეთ ღილაკზე \"ყველა მონაცემი შედის\", შემდეგ \"გააუქმეთ ყველა\", შემდეგ აირჩიეთ მხოლოდ \"გამოწერა\" და დააწკაპუნეთ \"OK\"\n\n 4. დააწკაპუნეთ „შემდეგი ნაბიჯი“ და შემდეგ „ექსპორტის შექმნა“\n\n 5. დააწკაპუნეთ ღილაკზე „ჩამოტვირთვა“ მისი გამოჩენის შემდეგ\n\n 6. დააწკაპუნეთ IMPORT FILE ქვემოთ და აირჩიეთ გადმოწერილი .zip ფაილი\n\n 7. [თუ .zip-ის შემოტანავერ მოხერხდა] ამოიღეთ"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ ვიდეოები"
+    },
+    {
+      "name": "info_labels",
+      "value": "რა:\nმოითხოვეთ:\nშემცველობის ენა:\nშემცველობის ქვეყანა:\nაპლიკაციის ენა:\nსერვისი:\nGMT დრო:\nპაკეტი:\nვერსია:\nOS ვერსია:"
+    },
+    {
+      "name": "install",
+      "value": "დაყენება"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "ასეთი საქაღალდე არ არის"
+    },
+    {
+      "name": "invalid_file",
+      "value": "ფაილი არ არსებობს ან მასზე წაკითხვის ან ჩაწერის ნებართვა აკლია"
+    },
+    {
+      "name": "invalid_source",
+      "value": "ასეთი ფაილის/შიგთავსის წყარო არ არის"
+    },
+    {
+      "name": "just_once",
+      "value": "მხოლოდ ერთხელ"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "კიოსკის გვერდი"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "დავაყენო აუცილებელი Kore აპი?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary არ არის ხელმისაწვდომი"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "აირჩიეთ ჟესტი მოთამაშის ეკრანის მარცხენა ნახევრისთვის"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "მარცხენა ჟესტის ქმედება"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "ღია"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "არანაირი ლიმიტი"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "შეზღუდეთ გარჩევადობა მობილური ინტერნეტის გამოყენებისას"
+    },
+    {
+      "name": "list",
+      "value": "სია"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "სიის ნახვის რეჟიმი"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "მზადდება ზედაპირული მახასიათებლები…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "ნაკადის დეტალების ჩატვირთვა…"
+    },
+    {
+      "name": "local",
+      "value": "ადგილობრივი"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "ადგილობრივი ძიების წინადადებები"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "დაბალი ხარისხი(პატარა)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "დასაწყებად შეეხეთ გამადიდებელს."
+    },
+    {
+      "name": "main_page_content",
+      "value": "მთავარი გვერდის შინაარსი"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "რა ჩანართებია ნაჩვენები მთავარ გვერდზე"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "გადაფურცლეთ ელემენტები მათი ამოსაშლელად"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "მთავარი ჩანართის ამომრჩევის ქვემოთ გადატანა"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "მთავარი ჩანართების პოზიცია"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "ხელით შეამოწმეთ ახალი ვერსიები"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "მონიშნეთ ნანახად"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "მცდელობების მაქსიმალური რაოდენობა ჩამოტვირთვის გაუქმებამდე"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "მაქსიმალური განმეორებითი ცდები"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Ასაკობრივი შეზღუდვა"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "ავატარები"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "ბანერები"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "მეტამონაცემების ქეში წაშლილია"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "წაშალეთ ყველა ქეშირებული ვებგვერდის მონაცემები"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "წაშალეთ ქეშირებული მეტამონაცემები"
+    },
+    {
+      "name": "metadata_category",
+      "value": "კატეგორია"
+    },
+    {
+      "name": "metadata_host",
+      "value": "მასპინძელი"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Ენა"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "ლიცენზია"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "კონფიდენციალურობა"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "შიდა"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "პირადი"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "საჯარო"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "დამალული"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "ქვეარხის ავატარები"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "გამომწერები"
+    },
+    {
+      "name": "metadata_support",
+      "value": "მხარდაჭერა"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "ტეგები"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "მინიატურები"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "ამტვირთავის ავატარები"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud-მა შეწყვიტა ორიგინალი ტოპ 50 ჩარტების გამოშვება. შესაბამისი ჩანართი წაიშალა თქვენი მთავარი გვერდიდან."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "SoundCloud-ის ტოპ 50 გვერდი წაიშალა"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube-მა 2025 წლის 21 ივლისიდან შეწყვიტა კომბინირებული ტრენდული გვერდის არსებობა. NewPipe-მა ნაგულისხმევი ტრენდული გვერდი ტრენდული პირდაპირი ტრანსლაციებით ჩაანაცვლა.\n\nასევე შეგიძლიათ აირჩიოთ სხვადასხვა ტრენდული გვერდები „პარამეტრები > მასალა > მთავარი გვერდის შინაარსი“-ში."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "YouTube-ის კომბინირებული ტრენდული გვერდი წაშლილია"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "მინიმიზაცია ფონურ დამკვრელამდე"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "არცერთი"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "მინიმიზაცია ამომხტარ დამკვრელიდან"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "მოქმედება სხვა აპზე გადასვლისას მთავარი ვიდეო დამკვრელიდან — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "მინიმიზაცია აპის გადამრთველზე"
+    },
+    {
+      "name": "missing_file",
+      "value": "ფაილი გადატანილია ან წაშლილია"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "დასრულდა"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "მომლოდინე"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ ვიდეოები"
+    },
+    {
+      "name": "most_liked",
+      "value": "ყველაზე მეტად მოწონებული"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "ჰეშის გაანგარიშება"
+    },
+    {
+      "name": "msg_copied",
+      "value": "კოპირებულია ბუფერში"
+    },
+    {
+      "name": "msg_error",
+      "value": "შეცდომა"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "ბუფერში კოპირების შეცდომა"
+    },
+    {
+      "name": "msg_name",
+      "value": "ფაილის სახელი"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "ეს უფლება აუცილებელია\n\nმხტუნარა რეჟიმში გასახსნელად"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe-ის ჩამოტვირთვა"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "შეეხეთ დეტალებისთვის"
+    },
+    {
+      "name": "msg_threads",
+      "value": "ძაფები"
+    },
+    {
+      "name": "msg_wait",
+      "value": "გთხოვთ მოიცადოთ…"
+    },
+    {
+      "name": "mute",
+      "value": "დადუმება"
+    },
+    {
+      "name": "name",
+      "value": "სახელი"
+    },
+    {
+      "name": "network_error",
+      "value": "Ქსელის შეცდომა"
+    },
+    {
+      "name": "never",
+      "value": "არასოდეს"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "ახალი და ცხელი"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "AVPlayer-ის შეზღუდვების გამო ძიების ხანგრძლივობა დაყენდა %d წამზე"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "ეს პარამეტრი ხელმისაწვდომია მხოლოდ როცა თემისთვის %s-ა მონიშნული"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "აირჩიეთ თქვენი საყვარელი ღამის თემა — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "მუქი თემა"
+    },
+    {
+      "name": "no",
+      "value": "არა"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "თქვენს მოწყობილობაზე არცერთ აპლიკაციას არ შეუძლია ამის გახსნა"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "ამ მოქმედებისთვის შესაბამისი ფაილების მენეჯერი ვერ მოიძებნა.\n\n გთხოვთ, დააინსტალიროთ ფაილის მენეჯერი ან სცადოთ გამორთოთ '%s' ჩამოტვირთვის პარამეტრებში"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "ამ მოქმედებისთვის შესაბამისი ფაილების მენეჯერი ვერ მოიძებნა.\n\n გთხოვთ, დააინსტალიროთ Storage Access Framework თავსებადი ფაილ მენეჯერი"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "აუდიო ნაკადები არ არის ხელმისაწვდომი გარე დამკვრელებისთვის"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "გთხოვთ, განსაზღვროთ ჩამოტვირთვის საქაღალდე მოგვიანებით პარამეტრებში"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "არხის გამოწერები ჯერ არ არის"
+    },
+    {
+      "name": "no_comments",
+      "value": "კომენტარი არ არის"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "ჩამოტვირთვის საქაღალდე ჯერ არ არის დაყენებული, ახლავე აირჩიეთ ჩამოტვირთვის ნაგულისხმევი საქაღალდე"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "არხის ჯგუფი ჯერ არ შექმნილა"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "პირდაპირი ტრანსლაციები არ არის"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "არავინ უსმენს"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "არავინ უყურებს"
+    },
+    {
+      "name": "no_player_found",
+      "value": "ნაკადის მოთამაშე ვერ მოიძებნა. დააყენეთ VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "ნაკადის პლეერი ვერ მოიძებნა (მის დასაკრავად შეგიძლიათ დააინსტალიროთ VLC)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "დასაკრავი სიის სანიშნეები ჯერ არ არის"
+    },
+    {
+      "name": "no_streams",
+      "value": "ნაკადები არ არის"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "ჩამოსატვირთად ხელმისაწვდომი ნაკადები არ არის"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "გამოწერები არ არის"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "არ არის სწორი ZIP ფაილი"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "ვიდეო ნაკადები არ არის ხელმისაწვდომი გარე დამკვრელებისთვის"
+    },
+    {
+      "name": "no_videos",
+      "value": "ვიდეოები არ არის"
+    },
+    {
+      "name": "no_views",
+      "value": "ნახვები არ არის"
+    },
+    {
+      "name": "none",
+      "value": "არაფერი"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "პირველი მოქმედების ღილაკი"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "მეორე მოქმედების ღილაკი"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "მოქმედების მესამე ღილაკი"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "მოქმედების მეოთხე ღილაკი"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "მეხუთე მოქმედების ღილაკი"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Ბუფერიზაცია"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "არაფერი"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "გაიმეორეთ"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "არევა"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "თქვენ შეგიძლიათ აირჩიოთ მაქსიმუმ სამი მოქმედება კომპაქტურ შეტყობინებაში საჩვენებლად!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "შეცვალეთ თითოეული შეტყობინებების მოქმედება ქვემოთ მასზე შეხებით. აირჩიეთ მაქსიმუმ სამი მათგანი, რომლებიც ნაჩვენები იქნება კომპაქტურ შეტყობინებაში მარჯვნივ მდებარე ველების გამოყენებით"
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "ქვემოთ მოცემული თითოეული შეტყობინების მოქმედების რედაქტირებისთვის მასზე შეხებით აირჩიეთ. პირველი სამი მოქმედება (დაკვრა/პაუზა, წინა და შემდეგი) სისტემის მიერ არის დაყენებული და მათი მორგება შეუძლებელია."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "შეტყობინებები NewPipe-ის დამკვრელისთვის"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe შეტყობინება"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "მიეცით Android-ს შეტყობინებების ფერის მორგება მინიატურაში მთავარი ფერის მიხედვით (გაითვალისწინეთ, რომ ეს არ არის ხელმისაწვდომი ყველა მოწყობილობაზე)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "შეფერილობის შეტყობინება"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "შეტყობინებაში ნაჩვენები ვიდეოს ესკიზის ამოჭრა 16:9-დან 1:1-მდე ასპექტის თანაფარდობით"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "ესკიზის ჩამოჭრა ასპექტის თანაფარდობაზე 1:1"
+    },
+    {
+      "name": "notifications",
+      "value": "შეტყობინებები"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "შეტყობინებები გამორთულია"
+    },
+    {
+      "name": "off",
+      "value": "გამორთულია"
+    },
+    {
+      "name": "ok",
+      "value": "კარგი"
+    },
+    {
+      "name": "on",
+      "value": "ჩართულია"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 ელემენტი წაიშალა."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "გახსენი ვებგვერდად"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "გახსენი ამომხტარ მდგომარეობაში"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "დაკვრის რიგის გახსნა"
+    },
+    {
+      "name": "open_website_license",
+      "value": "საიტის გახსნა"
+    },
+    {
+      "name": "open_with",
+      "value": "გახსენი რაღაცით"
+    },
+    {
+      "name": "override_current_data",
+      "value": "ეს უგულებელყოფს თქვენს მიმდინარე პარამეტრს."
+    },
+    {
+      "name": "overwrite",
+      "value": "გადაწერა"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "ფაილის გადაწერა შეუძლებელია"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "ჩამოტვირთული ფაილი ამ სახელით უკვე არსებობს"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "ფაილი ამ სახელით უკვე არსებობს"
+    },
+    {
+      "name": "paid_content",
+      "value": "ეს მასალა ხელმისაწვდომია მხოლოდ გადამხდელებისთვის, ამიტომაც NewPipe-ს მისი არც მთლიანად და არც თანდათანობით ჩამოწერა არ შეუძლია."
+    },
+    {
+      "name": "parsing_error",
+      "value": "ვებსაიტის გარჩევა ვერ მოხერხდა"
+    },
+    {
+      "name": "pause",
+      "value": "პაუზა"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "ჩამოტვირთვების პაუზა"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "შეფერხება მრიცხველ ქსელებში"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "სასარგებლოა მობილური ინტერნეტზე გადასვლისას, თუმცა ზოგიერთი ჩამოტვირთვის შეჩერება შეუძლებელია"
+    },
+    {
+      "name": "paused",
+      "value": "დაპაუზდა"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "ეგეთი უკვე არსებობს"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "ინსტანციის დადასტურება ვერ მოხერხდა"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "შეიყვანეთ მაგალითის URL"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "მხარდაჭერილია მხოლოდ HTTPS URL-ები"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "მაგალითის დამატება"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "იპოვეთ თქვენთვის სასურველი შემთხვევები %s-ზე"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "აირჩიეთ თქვენი საყვარელი PeerTube ეგზემპლარები"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube-ის შემთხვევები"
+    },
+    {
+      "name": "percent",
+      "value": "პროცენტი"
+    },
+    {
+      "name": "permission_denied",
+      "value": "მოქმედება უარყოფილია სისტემის მიერ"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "მიეცით სხვა აპებზე ჩვენების ნებართვა"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "ამომხტარი ფანჯრის გამოსაყენებლად, გთხოვთ, აირჩიოთ %1$s შემდეგ Android პარამეტრების მენიუში და ჩართოთ %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "“სხვა აპლიკაციებზე ჩვენების დაშვება“"
+    },
+    {
+      "name": "play_all",
+      "value": "ყველას დაკვრა"
+    },
+    {
+      "name": "play_audio",
+      "value": "აუდიო"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "აუდიო პარამეტრები"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "ხმა: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "ამოღება"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "დეტალები"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "დაკვრა Kodi-სთან"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "მოედანი"
+    },
+    {
+      "name": "playback_reset",
+      "value": "გადატვირთვა"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "დაკვრის სიჩქარის კონტროლი"
+    },
+    {
+      "name": "playback_step",
+      "value": "ნაბიჯი"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "ტემპი"
+    },
+    {
+      "name": "player_http_403",
+      "value": "დაკვრის დროს სერვერიდან მიღებული HTTP შეცდომა 403, სავარაუდოდ, გამოწვეული სტრიმინგის URL-ის ვადის გასვლით ან IP აკრძალვით."
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "დაკვრის დროს სერვერიდან მიღებული HTTP შეცდომა %1$s"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "დამკვრელის შეცდომის აღდგენა"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "ამ ნაკადის დაკვრა ვერ მოხერხდა"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "მოხდა დამკვრელის გამოუსწორებელი შეცდომა"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "დასაკრავი სიაში"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "ასლი დამატებულია %d-ჯერ"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "დასაკრავი სია შეიქმნა"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "ავტომატურად გენერირებული (ამტვირთავი ვერ მოიძებნა)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "დასაკრავი სიის გვერდი"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "დასაკრავი სიის ესკიზი შეიცვალა."
+    },
+    {
+      "name": "playlists",
+      "value": "დასაკრავი სიები"
+    },
+    {
+      "name": "popup_player",
+      "value": "ამომხტარი დამკვრელი"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "ვუკრავ ამომხტარი ფანჯარაში"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "გახსოვდეთ ამომხტარი ფანჯრის ბოლო ზომა და პოზიცია"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "დამახსოვრება ამომხტარი ფანჯრის თვისებები"
+    },
+    {
+      "name": "post_processing",
+      "value": "შემდგომი დამუშავება"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "აირჩიე მხედველობადაქვეითებულებისათვის დახასიათებული ხმის ჩანაწერი, თუ არის"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "აღწერილობითი აუდიოს უპირატესობა"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "თავდაპირველი ხმის ჩანაწერი აირჩიე ენის მიუხედავად"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "არჩიე თავდაპირველი ხმის ჩანაწერი"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "ნაგულისხმევი მოქმედება შინაარსის გახსნისას — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "სასურველი \"ღია\" მოქმედება"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "მოთხოვნილი მასალა მზადდება"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "ინფორმაციის მიღება…"
+    },
+    {
+      "name": "previous_export",
+      "value": "წინა ექსპორტი"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "NewPipe პროექტი თქვენს კონფიდენციალურობას ძალიან სერიოზულად ეკიდება. ამიტომ, აპლიკაცია არ აგროვებს მონაცემებს თქვენი თანხმობის გარეშე.\n\nNewPipe-ის კონფიდენციალურობის პოლიტიკა დეტალურად განმარტავს, თუ რა მონაცემები იგზავნება და ინახება ავარიის ანგარიშის გაგზავნისას."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "NewPipe-ის კონფიდენციალურობის პოლიტიკა"
+    },
+    {
+      "name": "private_content",
+      "value": "ეს მასალა პირადულია, ამიტომაც NewPipe-ს მისი არც მთლიანად და არც თანდათანობით ჩამოწერა არ შეუძლია."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "დამუშავება… შეიძლება რამდენიმე წუთი დასჭირდეს"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer ნაგულისხმევი"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "შეცვალეთ დატვირთვის ინტერვალის ზომა (ამჟამად %s). დაბალმა მნიშვნელობამ შეიძლება დააჩქაროს საწყისი ვიდეოს ჩატვირთვა."
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "დაკვრის დატვირთვის ინტერვალის ზომა"
+    },
+    {
+      "name": "queued",
+      "value": "რიგში დადგა"
+    },
+    {
+      "name": "radio",
+      "value": "რადიო"
+    },
+    {
+      "name": "read_full_license",
+      "value": "წაიკითხეთ ლიცენზია"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "წაიკითხეთ კონფიდენციალურობის პოლიტიკა"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA ქუქი-ფაილები გასუფთავდა"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "მოთხოვნილია reCAPTCHA გამოწვევა"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "ამოხსნა"
+    },
+    {
+      "name": "recent",
+      "value": "Ბოლო"
+    },
+    {
+      "name": "recently_added",
+      "value": "ახლახან დამატებულია"
+    },
+    {
+      "name": "recovering",
+      "value": "აღდგენა"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "დაკავშირებული ნივთები"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "დისტანციური ძიების შეთავაზებები"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "დუბლიკატების წაშლა"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "გნებავთ წავშალო ყველა დუბლირებული ნაკადი ამ დასაკრავი სიიდან?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "წავშალო დუბლიკატები?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "ნანახის ამოღება"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "დიახ, და ნაწილობრივ ნანახი ვიდეოები"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "წაშალოთ ნანახი ვიდეოები?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "ვიდეოები, რომლებიც უყურეთ დასაკრავ სიაში დამატებამდე და მის შემდეგ, წაიშლება. \n დარწმუნებული ხართ?"
+    },
+    {
+      "name": "rename",
+      "value": "გადარქმევა"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "გადარქმევა"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "ყველა პარამეტრის გადატვირთვა გააუქმებს თქვენს მიერ არჩეულ ყველა პარამეტრს და გადატვირთავს აპლიკაციას.\n\nდარწმუნებული ხართ, რომ გსურთ გაგრძელება?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "ყველა პარამეტრის ნაგულისხმევ მნიშვნელობებზე დაბრუნება"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "პარამეტრების გადაყენება"
+    },
+    {
+      "name": "resize_fill",
+      "value": "შეავსეთ"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Ჯდება"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "მასშტაბირება"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "ნაგულისხმევი პარამეტრების აღდგენა"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "გსურთ ნაგულისხმევი პარამეტრების აღდგენა?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "ეს ვიდეო ასაკობრივი შეზღუდულია.\n\n\n\nთუ გსურთ მისი ნახვა, ჩართეთ „%1$s“ პარამეტრებში."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "ეს ვიდეო ასაკობრივად შეზღუდულია.\n\n YouTube-ის ახალი წესების გამო ასაკობრივად შეზღუდული ვიდეოებით, NewPipe-ს არ შეუძლია წვდომა მის რომელიმე ვიდეო ნაკადზე და, შესაბამისად, ვერ ახერხებს მის დაკვრას."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "გააგრძელეთ დაკვრა შეფერხებების შემდეგ (მაგ. სატელეფონო ზარები"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "გააგრძელეთ დაკვრა"
+    },
+    {
+      "name": "retry",
+      "value": "ხელახლა სცადეთ"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "აირჩიეთ ჟესტი მოთამაშის ეკრანის მარჯვენა ნახევრისთვის"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "მარჯვენა ჟესტის ქმედება"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "შენახული ჩანართების წაკითხვა ვერ მოხერხდა, ამიტომ გამოიყენეთ ნაგულისხმევი ჩანართები"
+    },
+    {
+      "name": "search",
+      "value": "ძიება"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "ძიების ისტორია წაიშალა"
+    },
+    {
+      "name": "search_no_results",
+      "value": "არანაირი შედეგი"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "შედეგების ჩვენება: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "%1$s-ის ძიება"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "მოძებნეთ %1$s %2$s"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "სწრაფი წინსვლა/-გადახვევა ძიების ხანგრძლივობა"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Seekbar-ის ესკიზის გადახედვა"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "აირჩიეთ არხი"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "აირჩიეთ არხის ჯგუფი"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "აირჩიეთ კიოსკი"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "აირჩიეთ დასაკრავი სია"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "გარე პლეერებისთვის აუდიო ჩანაწერის არჩევა"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "თქვენ შეგიძლიათ აირჩიოთ თქვენი საყვარელი ღამის თემა ქვემოთ"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "აირჩიეთ ხარისხი გარე დამკვრელებისთვის"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "არჩეული ნაკადი არ არის მხარდაჭერილი გარე დამკვრელის მიერ"
+    },
+    {
+      "name": "semitone",
+      "value": "ნახევარტონი"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "დასაკრავი სიის მინიატურად დაყენება"
+    },
+    {
+      "name": "settings",
+      "value": "პარამეტრები"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "გარეგნობა"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "სარეზერვო ასლის შექმნა და აღდგენა"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "მონაცემების გასუფთავება"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "გამართვა"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "ჩამოტვირთვები"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "AVPlayer-ის ზოგიერთი პარამეტრის მართვა. ამ ცვლილებების ძალაში შესასვლელად მოთამაშის გადატვირთვაა საჭირო."
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "AVPlayer-ის პარამეტრები"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "არხი"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "ისტორია და ქეში"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Მოქმედება"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "მიმდინარე დამკვრელი ნაკადის შეტყობინების კონფიგურაცია"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "დამკვრელის შეტყობინება"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "დამკვრელი"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "განახლებები"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "ვიდეო და აუდიო"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "დაშვებული სიმბოლოები ფაილის სახელებში"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "არასწორი სიმბოლოები ჩანაცვლებულია ამ მნიშვნელობით"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "შემცვლელი პერსონაჟი"
+    },
+    {
+      "name": "share",
+      "value": "გაზიარება"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "გააზიარეთ როგორც"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sმლრდ"
+    },
+    {
+      "name": "short_million",
+      "value": "%sმლნ"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sათასი"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "მაჩვენე ბავშვებისთვის შეუფერებელი მასალა (თუნდაც 18 წლის ქვევით შეზღუდული)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "მაჩვენე ასაკით შეზღუდული მასალა"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "არხის დეტალების ჩვენება"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "არხის ჩანართები"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "რომელი ჩანართებია ნაჩვენები არხის გვერდებზე"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "გამორთეთ კომენტარების დასამალად"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "კომენტარების ჩვენება"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "აჩვენებს ავარიის ვარიანტს დამკვრელის გამოყენებისას"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "აჩვენე \"დამკვრელის დამსხვრევა\""
+    },
+    {
+      "name": "show_description_summary",
+      "value": "გამორთეთ ვიდეოს აღწერილობისა და დამატებითი ინფორმაციის დასამალად"
+    },
+    {
+      "name": "show_description_title",
+      "value": "აღწერილობის ჩვენება"
+    },
+    {
+      "name": "show_error",
+      "value": "შეცდომის ჩვენება"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "შეცდომის ზოლის ჩვენება"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "მხოლოდ ზოგიერთ მოწყობილობას შეუძლია 2K/4K ვიდეოების დაკვრა"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "უფრო მაღალი რეზოლუციის ჩვენება"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "რჩევის ჩვენება ფონზე ან ამომხტარ ღილაკზე დაჭერისას ვიდეოში \"დეტალები:\""
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "აჩვენეთ წვერი \"შეაჩერე რიგში\""
+    },
+    {
+      "name": "show_info",
+      "value": "ინფორმაციის ჩვენება"
+    },
+    {
+      "name": "show_less",
+      "value": "ნაკლების ჩვენება"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "მეხსიერების გაჟონვის ჩვენება"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "გამორთეთ მეტა-ინფორმაციის ყუთების დასამალად ნაკადის შემქმნელის, სტრიმინგის კონტენტის ან ძიების მოთხოვნის შესახებ დამატებითი ინფორმაციით"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "მეტა ინფორმაციის ჩვენება"
+    },
+    {
+      "name": "show_more",
+      "value": "მეტის ჩვენება"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "\"შემდეგი\" და \"მსგავსი\" ვიდეოების ჩვენება"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "ორიგინალური ტექსტები სერვისებიდან ხილული იქნება ნაკადის ერთეულებში"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "ორიგინალური დროის ჩვენება ერთეულებზე"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "აჩვენეთ ვიდეოს დაკვრის ვარიანტი Kodi მედია ცენტრის საშუალებით"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "აჩვენეთ \"დაუკარი კოდით\" ვარიანტი"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "აირჩიეთ შემოთავაზებების ჩვენება ძიებისას"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "ძიების შეთავაზებები"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "გამოიყენეთ ესკიზი როგორც ჩაკეტილი ეკრანის ფონისთვის, ასევე შეტყობინებებისთვის"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "ესკიზის ჩვენება"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s-მა უარი თქვა მონაცემების მიწოდებაზე და ითხოვა შესვლა იმის დასადასტურებლად, რომ მომთხოვნი რობოტი არ არის.\n\nშესაძლოა, თქვენი IP მისამართი დროებით აიკრძალა %1$s-ის მიერ, შეგიძლიათ დაელოდოთ ცოტა ხანს ან გადახვიდეთ სხვა IP მისამართზე (მაგალითად, VPN-ის ჩართვით/გამორთვით, ან WiFi-დან მობილურ მონაცემებზე გადართვით)."
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "დუმილის დროს სწრაფი წინსვლა"
+    },
+    {
+      "name": "songs",
+      "value": "სიმღერები"
+    },
+    {
+      "name": "sorry_string",
+      "value": "უკაცრავად, ეს არ უნდა მომხდარიყო."
+    },
+    {
+      "name": "sort",
+      "value": "დალაგება"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "ეს არის SoundCloud Go+ სიმღერა, ყოველ შემთხვევაში თქვენს ქვეყანაში, ამიტომ მისი სტრიმინგი ან ჩამოტვირთვა შეუძლებელია NewPipe-ის მიერ."
+    },
+    {
+      "name": "start",
+      "value": "დაწყება"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "მონაცემთა დაცვის ევროპული ზოგადი რეგულაციის (GDPR) შესაბამისობის მიზნით, ჩვენ ვაქცევთ თქვენს ყურადღებას NewPipe-ის კონფიდენციალურობის პოლიტიკაზე. გთხოვთ ყურადღებით წაიკითხოთ.\n\nთქვენ უნდა დაეთანხმოთ მას, რომ გამოგვიგზავნოთ ხარვეზის ანგარიში."
+    },
+    {
+      "name": "start_downloads",
+      "value": "ჩამოტვირთვების დაწყება"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "დაიწყეთ დაკვრა ფონზე"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "დაიწყეთ დაკვრა ამომხტარ ფანჯარაში"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "არ დაიწყოთ ვიდეოები მინი პლეერში, არამედ პირდაპირ გადადით სრულეკრანიან რეჟიმში, თუ ავტომატური როტაცია დაბლოკილია. თქვენ კვლავ შეგიძლიათ მინი პლეერზე წვდომა სრულეკრანიდან გასვლით"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "დაიწყეთ მთავარი მოთამაშე სრულ ეკრანზე"
+    },
+    {
+      "name": "stop",
+      "value": "გაჩერდი"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "ნაკადები, რომლებიც ჯერ არ არის მხარდაჭერილი დამტვირთველის მიერ, არ არის ნაჩვენები"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "შეტყობინებები ახალი ნაკადების შესახებ გამოწერებისთვის"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "ახალი ნაკადები"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "სიხშირის შემოწმება"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "საჭიროა ქსელის კავშირი"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "გამოწერა"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "გამოწერილი"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "გამომწერების რაოდენობა მიუწვდომელია"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "გამოწერის შეცვლა ვერ მოხერხდა"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "გამოწერის განახლება ვერ მოხერხდა"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "გამოწერების ექსპორტი ვერ მოხერხდა"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "გამოწერების იმპორტი ვერ მოხერხდა"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "როდესაც მოგვარდება, დააჭირეთ შესრულებულია"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "ფონზე გადართვა"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "მთავარზე გადართვა"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "გადართვა ამომხტარ ფანჯარაზე"
+    },
+    {
+      "name": "systems_language",
+      "value": "სისტემის ნაგულისხმევი"
+    },
+    {
+      "name": "tab_about",
+      "value": "შესახებ & ხშირად დასმული კითხვები"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "მონიშნული დასაკრავი სიები"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "დასაკრავი სიები"
+    },
+    {
+      "name": "tab_choose",
+      "value": "აირჩიეთ ჩანართი"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "ლიცენზიები"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "გამოწერები"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "პლანშეტის რეჟიმი"
+    },
+    {
+      "name": "theme_title",
+      "value": "თემა"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "სურათის ქეში წაშლილია"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "NewPipe-ის შესახებ"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "ისტორია"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "რიგის დაკვრა"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA გამოწვევა"
+    },
+    {
+      "name": "title_last_played",
+      "value": "ბოლოს დაუკრა"
+    },
+    {
+      "name": "title_licenses",
+      "value": "მესამე მხარის ლიცენზიები"
+    },
+    {
+      "name": "title_most_played",
+      "value": "ხშირად დაკრული"
+    },
+    {
+      "name": "toggle_all",
+      "value": "ყველას გადართვა"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "სრულეკრანიან რეჟიმზე გადართვა"
+    },
+    {
+      "name": "top_50",
+      "value": "ტოპ 50"
+    },
+    {
+      "name": "tracks",
+      "value": "ტრეკები"
+    },
+    {
+      "name": "trending",
+      "value": "ტრენდული"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "თამაშების ტრენდები"
+    },
+    {
+      "name": "trending_movies",
+      "value": "ტრენდული ფილმები და შოუები"
+    },
+    {
+      "name": "trending_music",
+      "value": "ტრენდული მუსიკა"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "ტრენდული პოდკასტები"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "ამოიღეთ სანიშნე"
+    },
+    {
+      "name": "undo",
+      "value": "გაუქმება"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "ამოღება (შეიძლება გამოიწვიოს დამახინჯება)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "უცნობი"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[უცნობი]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "უცნობი ფორმატი"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "უცნობი ხარისხი"
+    },
+    {
+      "name": "unmute",
+      "value": "დადუმების მოხსნა"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "მუდმივი მინიატურის მოხსნა"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "გამოწერის გაუქმება"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "ეს კონტენტი ამჟამად არჩეული კონტენტის ქვეყნისთვის მიუწვდომელია.\n\nშეცვალეთ თქვენი არჩევანი „პარამეტრები > კონტენტი > ნაგულისხმევი კონტენტის ქვეყანა“-დან."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "URL მხარდაუჭერელია"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "URL-ის ამოცნობა ვერ მოხერხდა. გავხსნა სხვა აპით?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "მაჩვენე შეტყობინება აპის განახლების მოთხოვნით, როდესაც ხელმისაწვდომი იქნება ახალი ვერსია"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "განახლებები"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "გამოქვეყნების თარიღი: %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "ჩართეთ ეს პარამეტრი, თუ დეკოდერის ინიციალიზაციის პრობლემები გაქვთ, რაც, თუ პირველადი დეკოდერების ინიციალიზაცია ვერ მოხერხდა, დაბალი პრიორიტეტის მქონე დეკოდერებს ეხება. ამან შეიძლება გამოიწვიოს დაკვრის დაბალი შესრულება, ვიდრე პირველადი დეკოდერების გამოყენებისას."
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "გამოიყენეთ AVPlayer-ის დეკოდერის სარეზერვო ფუნქცია"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "გამოიყენეთ გარე აუდიო დამკვრელი"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "შლის აუდიოს ზოგიერთი რეზოლუციით"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "გამოიყენეთ გარე ვიდეო დამკვრელი"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "არაზუსტი ძიება საშუალებას აძლევს მოთამაშეს უფრო სწრაფად მოიძიოს პოზიციები შემცირებული სიზუსტით. 5, 15 ან 25 წამის ძიება ამით არ მუშაობს"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "გამოიყენეთ სწრაფი არაზუსტი ძებნა"
+    },
+    {
+      "name": "users",
+      "value": "მომხმარებლები"
+    },
+    {
+      "name": "video",
+      "value": "ვიდეო"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "%s-ის მიხედვით"
+    },
+    {
+      "name": "video_player",
+      "value": "ვიდეო დამკვრელი"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "ვიდეო ნაკადები ვერ მოიძებნა"
+    },
+    {
+      "name": "videos_string",
+      "value": "ვიდეოები"
+    },
+    {
+      "name": "view_on_github",
+      "value": "ნახვა GitHub-ზე"
+    },
+    {
+      "name": "volume",
+      "value": "ხმა"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "ნახვის ისტორია წაშლილია"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "დაკვრის პოზიციები წაშლილია"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "ეწვიეთ NewPipe ვებსაიტს დამატებითი ინფორმაციისა და სიახლეებისთვის."
+    },
+    {
+      "name": "website_title",
+      "value": "საიტი"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "ინფორმაცია:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Რა მოხდა:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "მხოლოდ Wi-Fi-ზე"
+    },
+    {
+      "name": "yes",
+      "value": "დიახ"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "თქვენ ახლა გამოიწერეთ ეს არხი"
+    },
+    {
+      "name": "your_comment",
+      "value": "თქვენი კომენტარი (ინგლისურად):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "ეს ვიდეო ხელმისაწვდომია მხოლოდ YouTube Music Premium-ის წევრებისთვის, ამიტომ მისი სტრიმინგი ან ჩამოტვირთვა შეუძლებელია NewPipe-ის მიერ."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "დაკვრის დროს სერვერიდან მიღებული HTTP შეცდომა 403, სავარაუდოდ, გამოწვეულია IP აკრძალვით ან სტრიმინგის URL-ის დებფუსკაციის პრობლემებით."
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube გთავაზობთ „შეზღუდულ რეჟიმს“, რომელიც მალავს პოტენციურად ზრდასრულთა კონტენტს"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "ჩართეთ YouTube-ის „შეზღუდული რეჟიმი“"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

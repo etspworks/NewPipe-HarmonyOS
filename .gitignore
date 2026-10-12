@@ -97,6 +97,8 @@ out/
 *.xlsm
 *.xltx
 *.xltm
+# the function list comparison is part of the docs
+!docs/FUNCTION_LIST_COMPARISON.xlsx
 
 /.appanalyzer
 /.cache

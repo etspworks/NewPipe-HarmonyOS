@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-label="Feature grid: five streaming services, AVPlayer playback, background popup and PiP, play queue, search and suggestions, subscriptions and feed, downloads, playlists and watch history, kiosks and front-page tabs, comments and replies, settings and backup, 91 locales and theming">
+  <style>
+    .f{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+    .h{font-size:15px;font-weight:700;letter-spacing:2.2px;fill:#8b98a8}
+    .t{font-size:16.5px;font-weight:600;fill:#e6edf5}
+    .s{font-size:12.5px;fill:#8b98a8}
+    .g{fill:none;stroke-width:2.1;stroke-linecap:round;stroke-linejoin:round}
+  </style>
+  <rect width="1200" height="460" rx="18" fill="#0f1620"/>
+  <rect x="1" y="1" width="1198" height="458" rx="18" fill="none" stroke="#1f2a3a" stroke-width="2"/>
+  <text class="f h" x="64" y="52">WHAT SHIPPED</text>
+
+  <g id="tiles">
+    <!-- row 1 -->
+    <g transform="translate(64,74)">
+      <rect width="253" height="102" rx="12" fill="#161e2b"/>
+      <circle cx="38" cy="38" r="18" fill="#E8413F" opacity=".16"/>
+      <g class="g" stroke="#E8413F"><path d="M38 28l11 6.5-11 6.5-11-6.5z"/><path d="M27 41l11 6.5L49 41"/></g>
+      <text class="f t" x="20" y="80">Five streaming services</text>
+      <text class="f s" x="20" y="97">YouTube &#183; SoundCloud &#183; Bandcamp &#183; more</text>
+    </g>
+    <g transform="translate(337,74)">
+      <rect width="253" height="102" rx="12" fill="#161e2b"/>
+      <circle cx="38" cy="38" r="18" fill="#F2706D" opacity=".16"/>
+      <g class="g" stroke="#F2706D"><path d="M33 29l14 9-14 9z"/></g>
+      <text class="f t" x="20" y="80">AVPlayer playback</text>
+      <text class="f s" x="20" y="97">muxed MP4, HLS, then audio-only</text>
+    </g>
+    <g transform="translate(610,74)">
+      <rect width="253" height="102" rx="12" fill="#161e2b"/>
+      <circle cx="38" cy="38" r="18" fill="#a371f7" opacity=".16"/>
+      <g class="g" stroke="#a371f7"><rect x="26" y="29" width="24" height="18" rx="3"/><rect x="38" y="38" width="10" height="7" rx="1.5"/></g>
+      <text class="f t" x="20" y="80">Background, popup &amp; PiP</text>
+      <text class="f s" x="20" y="97">AVSession controls and cover art</text>
+    </g>
+    <g transform="translate(883,74)">
+      <rect width="253" height="102" rx="12" fill="#161e2b"/>
+      <circle cx="38" cy="38" r="18" fill="#3fb950" opacity=".16"/>
+      <g class="g" stroke="#3fb950"><path d="M28 31h14M28 37h14M28 43h8"/><path d="M44 37.5l6 3.5-6 3.5z"/></g>
+      <text class="f t" x="20" y="80">Play queue</text>
+      <text class="f s" x="20" y="97">drag reorder, shuffle, repeat, swipe</text>
+    </g>
+
+    <!-- row 2 -->
+    <g transform="translate(64,192)">
+      <rect width="253" height="102" rx="12" fill="#161e2b"/>
+      <circle cx="38" cy="38" r="18" fill="#f778ba" opacity=".16"/>
+      <g class="g" stroke="#f778ba"><circle cx="36" cy="35" r="7.5"/><path d="M42 41l6 6"/></g>
+      <text class="f t" x="20" y="80">Search &amp; suggestions</text>
+      <text class="f s" x="20" y="97">120 ms debounce, local + remote</text>
+    </g>
+    <g transform="translate(337,192)">
+      <rect width="253" height="102" rx="12" fill="#161e2b"/>
+      <circle cx="38" cy="38" r="18" fill="#d29922" opacity=".16"/>
+      <g class="g" stroke="#d29922"><path d="M31 38a7 7 0 0 1 7 7"/><path d="M31 31a14 14 0 0 1 14 14"/></g>
+      <circle cx="31.5" cy="44.5" r="2.4" fill="#d29922"/>
+      <text class="f t" x="20" y="80">Subscriptions &amp; feed</text>
+      <text class="f s" x="20" y="97">groups, channel tabs, import/export</text>
+    </g>
+    <g transform="translate(610,192)">
+      <rect width="253" height="102" rx="12" fill="#161e2b"/>
+      <circle cx="38" cy="38" r="18" fill="#3fb950" opacity=".16"/>
+      <g class="g" stroke="#3fb950"><path d="M38 28v12"/><path d="M33 35l5 5 5-5"/><path d="M28 46h20"/></g>
+      <text class="f t" x="20" y="80">Downloads</text>
+      <text class="f s" x="20" y="97">video, audio, subtitle; resumable</text>
+    </g>
+    <g transform="translate(883,192)">
+      <rect width="253" height="102" rx="12" fill="#161e2b"/>
+      <circle cx="38" cy="38" r="18" fill="#E8413F" opacity=".16"/>
+      <g class="g" stroke="#E8413F"><path d="M27 30h13M27 36h13M27 42h7"/><circle cx="44" cy="42" r="6"/><path d="M44 39v3l2 1.6"/></g>
+      <text class="f t" x="20" y="80">Playlists &amp; watch history</text>
+      <text class="f s" x="20" y="97">watch counts, resume points, bookmarks</text>
+    </g>
+
+    <!-- row 3 -->
+    <g transform="translate(64,310)">
+      <rect width="253" height="102" rx="12" fill="#161e2b"/>
+      <circle cx="38" cy="38" r="18" fill="#F2706D" opacity=".16"/>
+      <g class="g" stroke="#F2706D"><path d="M27 45l7-8 5 4 9-11"/><path d="M41 30h7v7"/></g>
+      <text class="f t" x="20" y="80">Kiosks &amp; front-page tabs</text>
+      <text class="f s" x="20" y="97">10 tab types: trending, charts, more</text>
+    </g>
+    <g transform="translate(337,310)">
+      <rect width="253" height="102" rx="12" fill="#161e2b"/>
+      <circle cx="38" cy="38" r="18" fill="#a371f7" opacity=".16"/>
+      <g class="g" stroke="#a371f7"><rect x="27" y="29" width="22" height="15" rx="3"/><path d="M34 44l-3 5 7-5"/></g>
+      <text class="f t" x="20" y="80">Comments &amp; replies</text>
+      <text class="f s" x="20" y="97">paginated replies, author and links</text>
+    </g>
+    <g transform="translate(610,310)">
+      <rect width="253" height="102" rx="12" fill="#161e2b"/>
+      <circle cx="38" cy="38" r="18" fill="#d29922" opacity=".16"/>
+      <g class="g" stroke="#d29922"><circle cx="38" cy="38" r="4.5"/><path d="M38 28v3.5M38 44.5V48M28 38h3.5M44.5 38H48M30.9 30.9l2.5 2.5M42.6 42.6l2.5 2.5M45.1 30.9l-2.5 2.5M33.4 42.6l-2.5 2.5"/></g>
+      <text class="f t" x="20" y="80">Settings &amp; backup</text>
+      <text class="f s" x="20" y="97">16 screens, 88 fuzzy rows, zip backup</text>
+    </g>
+    <g transform="translate(883,310)">
+      <rect width="253" height="102" rx="12" fill="#161e2b"/>
+      <circle cx="38" cy="38" r="18" fill="#f778ba" opacity=".16"/>
+      <g class="g" stroke="#f778ba"><circle cx="38" cy="38" r="9"/><path d="M29 38h18"/><path d="M38 29c4 4.5 4 13.5 0 18c-4-4.5-4-13.5 0-18z"/></g>
+      <text class="f t" x="20" y="80">91 locales &amp; theming</text>
+      <text class="f s" x="20" y="97">light and dark, 5 service accents</text>
+    </g>
+  </g>
+</svg>

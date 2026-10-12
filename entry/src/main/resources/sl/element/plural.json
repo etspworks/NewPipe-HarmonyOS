@@ -1,0 +1,109 @@
+{
+  "plural": [
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s poslušalec"
+        },
+        {
+          "quantity": "two",
+          "value": "%s poslušalca"
+        },
+        {
+          "quantity": "few",
+          "value": "%s poslušalcev"
+        },
+        {
+          "quantity": "other",
+          "value": "%s poslušalcev"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s naročnik"
+        },
+        {
+          "quantity": "two",
+          "value": "%s naročnika"
+        },
+        {
+          "quantity": "few",
+          "value": "%s naročniki"
+        },
+        {
+          "quantity": "other",
+          "value": "%s naročnikov"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s video posnetek"
+        },
+        {
+          "quantity": "two",
+          "value": "%s video posnetka"
+        },
+        {
+          "quantity": "few",
+          "value": "%s video posnetkov"
+        },
+        {
+          "quantity": "other",
+          "value": "%s posnetkov"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ogled"
+        },
+        {
+          "quantity": "two",
+          "value": "%s ogleda"
+        },
+        {
+          "quantity": "few",
+          "value": "%s ogledi"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ogledov"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s gledalec"
+        },
+        {
+          "quantity": "two",
+          "value": "%s gledalca"
+        },
+        {
+          "quantity": "few",
+          "value": "%s gledalcev"
+        },
+        {
+          "quantity": "other",
+          "value": "%s gledalcev"
+        }
+      ]
+    }
+  ]
+}

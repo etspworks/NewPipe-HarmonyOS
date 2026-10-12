@@ -1,0 +1,173 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d দিন"
+        },
+        {
+          "quantity": "other",
+          "value": "%d দিন"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%1$sটি ডাউনলোড মোছা হয়েছে"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$sটি ডাউনলোড মোছা হয়েছে"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "ডাউনলোড শেষ"
+        },
+        {
+          "quantity": "other",
+          "value": "%sটি ডাউনলোড শেষ"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d নির্বাচিত"
+        },
+        {
+          "quantity": "other",
+          "value": "%d সমূহ নির্বাচিত"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ঘন্টা"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ঘন্টা"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s জন শ্রোতা"
+        },
+        {
+          "quantity": "other",
+          "value": "%s জন শ্রোতা"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d মিনিট"
+        },
+        {
+          "quantity": "other",
+          "value": "%d মিনিট"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s টি নতুন ধারা"
+        },
+        {
+          "quantity": "other",
+          "value": "%s টি নতুন ধারা"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d সেকেন্ড"
+        },
+        {
+          "quantity": "other",
+          "value": "%d সেকেন্ড"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s সদস্যতা"
+        },
+        {
+          "quantity": "other",
+          "value": "%s সদস্যতাগণ"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%sটি ভিডিও"
+        },
+        {
+          "quantity": "other",
+          "value": "%sটি ভিডিও"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s বার দেখা"
+        },
+        {
+          "quantity": "other",
+          "value": "%s বার দেখা"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s জন দেখছে"
+        },
+        {
+          "quantity": "other",
+          "value": "%s জন দেখছে"
+        }
+      ]
+    }
+  ]
+}

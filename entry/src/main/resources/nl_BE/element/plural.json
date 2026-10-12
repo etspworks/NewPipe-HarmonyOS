@@ -1,0 +1,147 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d dag"
+        },
+        {
+          "quantity": "other",
+          "value": "%d dagen"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d geselecteerd"
+        },
+        {
+          "quantity": "other",
+          "value": "%d geselecteerd"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d uur"
+        },
+        {
+          "quantity": "other",
+          "value": "%d uren"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s luisteraar"
+        },
+        {
+          "quantity": "other",
+          "value": "%s luisteraars"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minuut"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minuten"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s nieuwe stream"
+        },
+        {
+          "quantity": "other",
+          "value": "%s nieuwe streams"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d seconde"
+        },
+        {
+          "quantity": "other",
+          "value": "%d seconden"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s abonnee"
+        },
+        {
+          "quantity": "other",
+          "value": "%s abonnees"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s video"
+        },
+        {
+          "quantity": "other",
+          "value": "%s video’s"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s weergave"
+        },
+        {
+          "quantity": "other",
+          "value": "%s weergaven"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s kijker"
+        },
+        {
+          "quantity": "other",
+          "value": "%s kijkers"
+        }
+      ]
+    }
+  ]
+}

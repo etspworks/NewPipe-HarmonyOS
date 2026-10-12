@@ -1,0 +1,186 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d dag"
+        },
+        {
+          "quantity": "other",
+          "value": "%d dage"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%1$s download slettet"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s downloads slettet"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Download fuldført"
+        },
+        {
+          "quantity": "other",
+          "value": "%s downloads fuldført"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d valgt"
+        },
+        {
+          "quantity": "other",
+          "value": "%d valgte"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d time"
+        },
+        {
+          "quantity": "other",
+          "value": "%d timer"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s lytter"
+        },
+        {
+          "quantity": "other",
+          "value": "%s lyttere"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minut"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minutter"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ny stream"
+        },
+        {
+          "quantity": "other",
+          "value": "%s nye streams"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s svar"
+        },
+        {
+          "quantity": "other",
+          "value": "%s svar"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d sekund"
+        },
+        {
+          "quantity": "other",
+          "value": "%d sekunder"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s abonnent"
+        },
+        {
+          "quantity": "other",
+          "value": "%s abonnenter"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Én video"
+        },
+        {
+          "quantity": "other",
+          "value": "%s videoer"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s visning"
+        },
+        {
+          "quantity": "other",
+          "value": "%s visninger"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s seer"
+        },
+        {
+          "quantity": "other",
+          "value": "%s seere"
+        }
+      ]
+    }
+  ]
+}

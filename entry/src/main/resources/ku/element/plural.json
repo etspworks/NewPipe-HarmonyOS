@@ -1,0 +1,134 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ڕۆژ"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ڕۆژەکان"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d دیاریکراو"
+        },
+        {
+          "quantity": "other",
+          "value": "%d هەڵبژێردراو"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d کاتژمێر"
+        },
+        {
+          "quantity": "other",
+          "value": "%d کات ژمێر"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s گوێی لێدەگرێ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s گوێی لێدەگرن"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d خولەک"
+        },
+        {
+          "quantity": "other",
+          "value": "%d خولەك"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d چرکە"
+        },
+        {
+          "quantity": "other",
+          "value": "%d چرکە"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s بەشداربوو"
+        },
+        {
+          "quantity": "other",
+          "value": "%s بەشداربوون"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ڤیدیۆ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ڤیدیۆکان"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s بینرااو"
+        },
+        {
+          "quantity": "other",
+          "value": "%s بینراو"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s تەماشا دەکات"
+        },
+        {
+          "quantity": "other",
+          "value": "%s تەماشا دەکەن"
+        }
+      ]
+    }
+  ]
+}

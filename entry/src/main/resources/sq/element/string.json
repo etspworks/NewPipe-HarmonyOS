@@ -1,0 +1,2432 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Prano"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Llogaria është mbyllur"
+    },
+    {
+      "name": "action_history",
+      "value": "Historiku"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Shto në listën e luajtjes"
+    },
+    {
+      "name": "albums",
+      "value": "Albumet"
+    },
+    {
+      "name": "all",
+      "value": "Të gjitha"
+    },
+    {
+      "name": "always",
+      "value": "Gjithmonë"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Gjithmonë pyet"
+    },
+    {
+      "name": "any_network",
+      "value": "Cilidi rrjet"
+    },
+    {
+      "name": "app_description",
+      "value": "Luajtës i lehtë dhe libre në HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Gjuha e aplikacionit"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe është program i lirë copyleft: Ju mund ta përdorni, ta studioni, ta ndani me të tjerët dhe ta përmirësoni sipas dëshirës. Specifikisht ju mund ta rishpërndani dhe/ose ta modifikoni sipas kushteve të Licensës GNU General Public siç është publikuar nga Fondacioni për Softuerin e Lirë (FSF), sipas versionit 3 të Licensës, ose (sipas mundësive tuaja) në një version më të ri."
+    },
+    {
+      "name": "app_license_title",
+      "value": "Licensa e NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Aplikacioni/UI u prish"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Përditësim i ri i NewPipe është i disponueshëm!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Njoftimet për versionet e reja të NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Njoftimi për Përditësime të Aplikacionit"
+    },
+    {
+      "name": "artists",
+      "value": "Artistët"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Nuk u gjendën stream për audio"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "përshkruese"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "dubluar"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "origjinal"
+    },
+    {
+      "name": "auto",
+      "value": "Automatike"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Automatike (tema e pajisjes)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Vazhdoje radhën e luajtjes së mbarueshme (e papërsëritur) duke shtuar një stream të ngjashëm"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Auto-radhit stream-in e radhës"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Listë automatike luajtjeje"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Nise luajtjen automatikisht — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Luajtje automatike"
+    },
+    {
+      "name": "background_player",
+      "value": "Luajtësi në sfond"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Duke luajtur në sfond"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Rezolucioni më i mirë"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "E zezë"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Faqe Bosh"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Shenjoje Listën e Luajtjes"
+    },
+    {
+      "name": "brightness",
+      "value": "Drita"
+    },
+    {
+      "name": "cancel",
+      "value": "Anulo"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "E gjeneruar automatikisht"
+    },
+    {
+      "name": "caption_none",
+      "value": "Pa Titra"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Modifikoni shkallën e tekstit të titrave dhe llojet e sfondeve të luajtësit. Kërkon një rinisje të aplikacionit që të aplikohen ndryshimet"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Titrat"
+    },
+    {
+      "name": "card",
+      "value": "Kartë"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Krijuar nga %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Faqja e Kanaleve"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Rreth"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Albumet"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Kanalet"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Live"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Videot"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Kanali u ç'abonua"
+    },
+    {
+      "name": "channels",
+      "value": "Kanalet"
+    },
+    {
+      "name": "chapters",
+      "value": "Kapitujt"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Shkronjat dhe numrat"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Shumica e karaktereve speciale"
+    },
+    {
+      "name": "checksum",
+      "value": "Kodi verifikues"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Zgjidhni një instancë"
+    },
+    {
+      "name": "clear",
+      "value": "Pastro"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Pastroni biskotat që NewPipe ruan kur zgjidhni një reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Pastroni biskotat reCAPTCHA"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Boshatis historikun e shkarkimeve"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Fshini të gjitha pozicionet e luajtjeve"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Fshini pozicionin e luajtjes"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Lista aktive e luajtjes do të zëvendësohet"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Kalimi nga një luajtës në një tjetër mund të zëvendësojë listën tuaj të luajtjes"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Pyet për konfirmim para se të boshatiset një rradhë luajtjeje"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Fshin historikun e fjalëve kyçe të kërkuara"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Fshini historikun e kërkimeve"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Fshin historikun e stream-ave të luajtura dhe pozicioneve të luajtjes"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Pastro historinë e videove të luajtura"
+    },
+    {
+      "name": "close",
+      "value": "Mbyll"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Komentet janë të ç'aktivizuara"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Komentet"
+    },
+    {
+      "name": "conferences",
+      "value": "Konferencat"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "A dëshironi të boshatisni historikun e shkarkimeve apo të fshini të gjithë skedarët e shkarkuar?"
+    },
+    {
+      "name": "content",
+      "value": "Përmbajtja"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Gjuha e dëshiruar e përmbajtjeve"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Përmbajtja e padisponueshme"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Kjo përmbajtje nuk është ende e mbështetur nga NewPipe.\n\n\n\nShpresojmë se do të mbështetet në një version të ardhshëm."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Nëse keni ide rreth; përkthimeve, ndryshimeve në dizajn, pastrimit të kodit, apo ndryshime rrënjësore të kodit—ndihma është gjithnjë e mirëpritur. Sa më shumë të bëhet aq më mirë do jetë!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Kontribuo"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Shto në"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Në sfond"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Shkarko skedarin stream"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Popup"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Kopjo raportin e formatuar"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s nga %2$s nën %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Kujdes: Nuk arritën të importohen të gjithë skedarët."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Nuk u mundën të ngarkoheshin të gjitha pamjet statike"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Nuk u arrit të vendosej menuja e shkarkimeve"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Rrëzoje aplikacionin manualisht"
+    },
+    {
+      "name": "create",
+      "value": "Krijo"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Listë Luajtje e Re"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "E errët"
+    },
+    {
+      "name": "decline",
+      "value": "Refuzo"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Formati i parazgjedhur audio"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Shteti i parazgjedhur i përmbajtjes"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Kioska e Parazgjedhur"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Rezolucioni i parazgjedhur i popup"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Rezolucioni i parazgjedhur"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Formati i parazgjedhur video"
+    },
+    {
+      "name": "delete",
+      "value": "Fshij"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Fshij skedarët e shkarkuar"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Doni ta fshini këtë objekt nga historiku i kërkimeve?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Doni të fshini të gjitha pozicionet e luajtjeve?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Të fshihet kjo listë luajtjeje?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Doni të fshini të gjithë historikun e kërkimeve?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Doni të fshini të gjithë historikun e videove të luajtura?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Ç'aktivizo selektimin e tekstit në përshkrim"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Aktivizo selektimin e tekstit në përshkrim"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Ju tani mund të selektoni tekst brenda përshkrimit. Faqja mund të dridhet dhe ndërlidhjet mund të mos jenë të klikueshme në modalitetin e selektimit."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Përshkrimi"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Mospëlqimet"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Tërhiqe për të ri-radhitur"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "E pëlqyer nga krijuesi"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Pëlqimet"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Pamja statike e avatarit të kanalit"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Luaje videon, kohëzgjatja:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Pamja statike e fotos së ngarkuesit"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "A po mendonit \"%1$s\"?"
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Ç'aktivizo tunelin e medias nëse po hasni një ekran të zi apo ngecje gjatë luajtjes së një videoje"
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Ç'aktivizo tunelin e medias"
+    },
+    {
+      "name": "disabled",
+      "value": "E çaktivizuar"
+    },
+    {
+      "name": "dismiss",
+      "value": "Hiqe"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe zhvillohet nga zhvillues të cilët shpenzojnë kohën e tyre të lirë për t'u prurë juve eksperiencën më të mirë për përdoruesin. Ktheni nderin duke ndihmuar zhvilluesit që ta bëjnë NewPipe akoma edhe më të mirë ndërkohë që ata pijnë një filxhan kafe."
+    },
+    {
+      "name": "donation_title",
+      "value": "Dhuro"
+    },
+    {
+      "name": "done",
+      "value": "U bë"
+    },
+    {
+      "name": "dont_show",
+      "value": "Mos shfaq"
+    },
+    {
+      "name": "download",
+      "value": "Shkarko"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Ka një shkarkim në pritje me këtë emër"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Ka një shkarkim në progres me këtë emër"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Shkarko"
+    },
+    {
+      "name": "download_failed",
+      "value": "Shkarkimi dështoi"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Shkarkimi ka filluar"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Zgjidhni dosjen e shkarkimit për skedarët audio"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Skedarët audio të shkarkuara ruhen lëtu"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Dosja e shkarkimeve audio"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Zgjidhni dosjen e shkarkimit për skedarët video"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Skedarët video të shkarkuara ruhen këtu"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Dosja e videove të shkarkuara"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Shkarkimi në kartën SD të jashtme nuk ishte i mundur. Doni të rivendosni vendndodhjen e dosjes së shkarkimeve?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Magazina e jashtme u padisponueshme"
+    },
+    {
+      "name": "downloads",
+      "value": "Shkarkimet"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Ju do të pyeteni se ku duhet ruajtur çdo shkarkim\n\nAktivizoni zgjedhësin e direktorisë së sistemit (SAF) nëse doni t'i shkarkoni në një kartë SD të jashtme"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Ju do të pyeteni se ku doni të ruani çdo shkarkim"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Pyet se ku duhet shkarkuar"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "'Storage Access Framework' lejon shkarkime në një kartë SD të jashtme"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Duke nisur nga Android 10 vetëm 'Storage Access Framework' është i mbështetur"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Përdor zgjedhësin e direktorisë së sistemit (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Shkarkimet"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Mbyll Sirtarin"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Aktivizoje shërbimin, momentalisht e zgjedhur:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Hap Sirtarin"
+    },
+    {
+      "name": "duration",
+      "value": "Zgjatja"
+    },
+    {
+      "name": "duration_live",
+      "value": "Në kohë reale"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Nuk ka asgjë këtu përveç bulkthave"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Detyroni raportimin e përjashtimeve Rx të padërgueshme jashtë fragmentit apo ciklit jetësor të aktivitetit pas hedhjes"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Raporto gabimet e jashtë-ciklit-të-jetës"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Monitorimi i rrjedhjeve të memorjes mund të bëjë aplikacionin të mos reagojë kur bëhet zbrazja e memorjes heap"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Rikthe pozicionin e fundit të luajtjes"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Vazhdo luajtjen"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Shfaq treguesit e pozicionit të luajtjes në lista"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Pozicionet në lista"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Limito radhën e shkarkimeve"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Një shkarkim do të vazhdojë gjatë gjithë kohës"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Ruani frazat e kërkuara lokalisht"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Historia e kërkimit"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Ruaji videot e shikuara"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Të shikuarat"
+    },
+    {
+      "name": "enqueue",
+      "value": "Radha"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Fute në radhë"
+    },
+    {
+      "name": "enqueued",
+      "value": "E futur në radhë"
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Nuk mund të lidhet me serverin"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Detajet:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Nuk mund të rikuperohet ky shkarkim"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Skedari nuk mund të krijohet"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Serveri nuk dërgon të dhëna"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Nuk u gjet"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Serveri nuk pranon shkarkime paralele, riprovoni me @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Nuk ka vend bosh në pajisje"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Ndodhi një gabim: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Dosja destinacion nuk mund të krijohet"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Procesimi dështoi"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe u mbyll ndërkohë që po punohej mbi skedarin"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Progresi humbi, pasi skedari është fshirë"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Raportoni këtë problem përmes e-mailit"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Ju lutemi kontrolloni nëse një raport ku diskutohet problemi ekziston tashmë. Kur krijoni raporte të duplikuara, ju merrni më tepër kohë nga ne, kohë të cilën mund ta shpenzonim mbi rregullimin e problemit aktual."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Raporto në GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Raporti i gabimit"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Raporto"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Na vjen keq, diçka shkoi keq."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Nuk u arrit të vendosej një lidhje e sigurtë"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Koha e lidhjes skadoi"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Nuk mundën të ngarkohen komentet"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Nuk u arrit të gjendej serveri"
+    },
+    {
+      "name": "events",
+      "value": "Eventet"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "U eksportua"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Eksporto historikun, abonimet, listat e luajtjes dhe mundësimet"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Eksporto databazën"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Duke eksportuar…"
+    },
+    {
+      "name": "export_to",
+      "value": "Eksporto në"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Luajtësit e jashtëm nuk i mbështesin këto lloje ndërlidhjesh"
+    },
+    {
+      "name": "faq",
+      "value": "Shikoje në faqen ueb"
+    },
+    {
+      "name": "faq_title",
+      "value": "Pyetjet më të shpeshta"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Modi i shpejtë"
+    },
+    {
+      "name": "featured",
+      "value": "E përzgjedhur"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "E re"
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "A doni ta fshini këtë grup?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Emër bosh i grupit"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Nuk u zgjodh asnjë abonim"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Zgjidhni abonimet"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Shfaq vetëm abonimet e pagrupuara"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Grupet e kanaleve"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Gabim gjatë ngarkimit të feed-it"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Nuk u arrit të ngarkohej feed-i për '%s'."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Modaliteti i feed-it të shpejtë nuk mundëson më tepër informacion mbi këtë."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Llogaria e autorit është bllokuar.\n\nNewPipe nuk do mund ta ngarkojë këtë feed në të ardhmen.\n\nA doni të ç'abonoheni nga ky kanal?"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Duke ngarkuar listën…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Lista u përditësua së fundmi: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Duke procesuar listën…"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Gjysmë të shikuar"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Së shpejti"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Te shikuara në plotësi"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "E pangarkuar: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Përditëso gjithnjë"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Koha pas një përditësimi të fundit para se një abonim të konsiderohet i vjetëruar — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Pragu i përditësimit të listës"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Çaktivizo"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Aktivizo modalitetin e shpejtë"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Mendoni se lista po ngarkohet shumë ngadalë? Nëse po, provoni të aktivizoni ngarkimin e shpejtë (ju mund ta ndryshoni tek aranzhimet ose duke shtypur butonin më poshtë).\n\nNewPipe ofron dy strategji të ndryshme të ngarkimit:\n• Të merret i gjithë kanali i abonuar, më e ngadaltë por e plotë\n• Të përdoret një shërbim i dedikuar, i cili është i shpejtë por jo i plotë.\n\nNdryshimi midis të dyjave është se i shpejti zakonisht ka më pak informacion, si psh kohëzgjatja e objektit apo lloji (nuk mund të bëjë dallimin midis videove në kohë reale apo atyre normale) dhe mund të kthejë më pak objekte.\n\nYouTube është një shembull i një shërbimi i cili e ofron këtë metodë të shpejtë me anë të listës së vetë RSS.\n\nSi përfundim, zgjedhja mbetet në dorën tuaj dhe se çfarë ju preferoni: shpejtësi apo informacion të saktë."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "E disponueshme në disa shërbime, zakonisht është shumë më e shpejtë por mund të kthejë një numër të limituar objektesh dhe shpesh informacion të paplotë (psh. pa kohëzgjatje, lloj objekti, status në kohë reale)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Merr nga një listë e dedikuar kur është e mundur"
+    },
+    {
+      "name": "file",
+      "value": "Skedar"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Skedari u fshi"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Emri i skedarit nuk mund të jetë bosh"
+    },
+    {
+      "name": "forward",
+      "value": "Para"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Të rejat"
+    },
+    {
+      "name": "general_error",
+      "value": "Gabim"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Gjenero një emër unik"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Kjo përmbajtje nuk është e disponueshme në shtetin tuaj."
+    },
+    {
+      "name": "get_notified",
+      "value": "Njoftohu"
+    },
+    {
+      "name": "give_back",
+      "value": "Jep"
+    },
+    {
+      "name": "grid",
+      "value": "Rrjet"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Njoftimet mbi progresin e hash-imit të videove"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Njoftimi për Hash e Videos"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Cilësi e lartë (më e madhe)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Mbaj shtypur për të shtuar në radhë"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "U importua"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Mbishkruan historinë, abonimet tuaja të tanishme, listat e luajtjes dhe mundësimet (opsionale)"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Importo databazën"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Importo skedarin"
+    },
+    {
+      "name": "import_from",
+      "value": "Importo nga"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Duhet të dini se ku veprim mund të jetë i shtrenjtë në kosto interneti.\n\n\n\nDëshironi të vazhdoni?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Duke importuar…"
+    },
+    {
+      "name": "import_settings",
+      "value": "A dëshironi që të importoni dhe aranzhimet gjithashtu?"
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Importoni një profil nga SoundCloud duke shkruar URL ose ID tuaj:\n\n\n\n1. Aktivizoni \"modalitetin desktop\" në një shfletues interneti (faqja e internetit nuk është e disponueshme për pajisjet mobile)\n\n2. Shkoni tek kjo URL: %1$s\n\n3. Hyni kur t'ju kërkohet\n\n4. Kopjoni URL e profilit drejt të cilit u ridrejtuat."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "IDjuaj, soundcloud.com/idjuaj"
+    },
+    {
+      "name": "import_title",
+      "value": "Importo"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Importoni abonimet nga YouTube përmes Google Takeout:\n\n\n\n1. Shkoni tek kjo URL: %1$s\n\n2. Hyni kur t'ju kërkohet\n\n3. Klikoni në \"All data included\", më pas në \"Deselect all\", dhe më pas zgjidhni vetëm \"subscriptions\" dhe klikoni \"OK\"\n\n4. Klikoni në \"Next step\" dhe më pas në \"Create export\"\n\n5. Klikoni në butonin \"Download\" pasi të shfaqet dhe\n\n6. Nga skedari zip i shkarkuar, ekstraktoni skedarin .json (zakonisht ndodhet tek \"YouTube and YouTube Music/subscriptions/subscriptions.json\") dhe importojeni atë këtu."
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ video"
+    },
+    {
+      "name": "info_labels",
+      "value": "Çfarë:\nKërkesa:\nGjuha e përmbajtjes:\nShteti i pëmbajtjes:\nGjuha e aplikacionit:\nShërbimi:\nKoha në GMT:\nPaketa:\nVersioni:\nVersioni i sistemit operativ:"
+    },
+    {
+      "name": "install",
+      "value": "Instalo"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Nuk ka dosje të tillë"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Ky skedar nuk ekziston ose mungon leja për të lexuar ose shkruar në të"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Nuk ka burim të tillë për skedarin/përmbajtjen"
+    },
+    {
+      "name": "just_once",
+      "value": "Vetëm një Herë"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Faqja Kioskë"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Instaloni aplikacionin Kore që mungon?"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "E bardhë"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Pa limit"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Limitoje rezolucionin kur je duke përdorur internetin nga SIM"
+    },
+    {
+      "name": "list",
+      "value": "Listë"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Pamja e listës"
+    },
+    {
+      "name": "local",
+      "value": "Lokale"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Sugjerime lokale për kërkim"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Cilësi e ulët (më e vogël)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Shtyp mbi lupën zmadhuese për të filluar."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Përmbajtja e faqes kryesore"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Cilat tab-e shfaqen në faqen kryesore"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Shëno si të parë"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Numri maksimal i provave para se të anulohet shkarkimi"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Provat maksimale"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Limiti i moshës"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Avataret"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Banerat"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Depoja e të dhënave meta u boshatis"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Boshatis depon e të gjitha të dhënave të faqeve të internetit"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Boshatis depon e të dhënave meta"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Kategoria"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Mundësuesi"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Gjuha"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Licensa"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Privatësia"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "E brendshme"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Private"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Publike"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "E palistuar"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Mbështetje"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Etiketat"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Minimizoje në luajtësin në sfond"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Asnjë"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Minimizoje në luajtësin popup"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Veprimi që ndërmerret kur kalohet në aplikacione të tjera nga luajtësi kryesor i videove — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Minimizoje kur kalon midis aplikacioneve"
+    },
+    {
+      "name": "missing_file",
+      "value": "Skedari ka lëvizur ose është fshirë"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Përfunduar"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Në pritje"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ video"
+    },
+    {
+      "name": "most_liked",
+      "value": "Më të pëlqyerat"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Duke llogaritur hash"
+    },
+    {
+      "name": "msg_copied",
+      "value": "U kopjua në tabelën e kopjeve"
+    },
+    {
+      "name": "msg_error",
+      "value": "Gabim"
+    },
+    {
+      "name": "msg_name",
+      "value": "Emri i skedarit"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Kjo leje duhet për\n\nt'u hapur në modalitetin popup"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe duke shkarkuar"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Shtyp për detajet"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Veprimet paralele"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Ju lutem prisni…"
+    },
+    {
+      "name": "mute",
+      "value": "Pa zë"
+    },
+    {
+      "name": "name",
+      "value": "Emri"
+    },
+    {
+      "name": "network_error",
+      "value": "Problem rrjeti"
+    },
+    {
+      "name": "never",
+      "value": "Kurrë"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Të rejat dhe të nxehtat"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Për shkak të limitimeve të AVPlayer kohëzgjatja e kërkimit u vendos në %d sekonda"
+    },
+    {
+      "name": "next_stream",
+      "value": "Streami i rradhes"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Zgjidhni temën tuaj të preferuar të natës - %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Tema e natës"
+    },
+    {
+      "name": "no",
+      "value": "Jo"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Nuk ka app në këtë pajisje që mund ta ngarkojë"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Ju lutemi vendosni një dosje shkarkimi më vonë nga aranzhimet"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Nuk ka ende kanale të abonuara"
+    },
+    {
+      "name": "no_comments",
+      "value": "Nuk ka komente"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Nuk ka ende një skedar të zgjedhur të shkarkimeve, zgjidheni skedarin e paravendosur tani"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Askush nuk po dëgjon"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Askush nuk po e sheh"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Nuk u gjend lexues për stream. Instalo VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Nuk u gjend lexues për stream (ju mund të instaloni VLC për ta lexuar)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Nuk ka ende shënjues të listave të luajtjes"
+    },
+    {
+      "name": "no_streams",
+      "value": "Nuk ka streams"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Nuk ka streams të disponueshme për shkarkim"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Nuk ka abonues"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Nuk është skedar ZIP i vlefshëm"
+    },
+    {
+      "name": "no_videos",
+      "value": "Nuk ka video"
+    },
+    {
+      "name": "no_views",
+      "value": "Nuk ka shikime"
+    },
+    {
+      "name": "none",
+      "value": "Asnjë"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Butoni i parë i veprimit"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Butoni i dytë i veprimit"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Butoni i tretë i veprimit"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Butoni i katërt i veprimit"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Butoni i pestë i veprimit"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Ngarkimi"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Asgjë"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Përsërit"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Trazo"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Ju mund të zgjidhni e shumta tre veprime për të shfaqur në njoftimin kompakt!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Redakto çdo veprim njoftimi më poshtë duke shtypur mbi të. Zgjidhni deri në tre prej tyre që të shfaqen në njoftimin kompakt duke përdorur kutitë në të djathtë"
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Njoftimet për luajtësit në sfond dhe popup të NewPipe"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "Njoftim nga NewPipe"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Lejoje Android që të modifikojë ngjyrën e njoftimit bazuar tek ngjyra kryesore në pamjen miniaturë (mbani mend që kjo nuk është e disponueshme në të gjitha pajisjet)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Ngjyros njoftimin"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Shkallëzoje pamjen miniaturë të videos së treguar në njoftim nga aspekti 16:9 në 1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Shkallëzoje pamjen miniaturë në aspektin 1:1"
+    },
+    {
+      "name": "notifications",
+      "value": "Njoftimet"
+    },
+    {
+      "name": "off",
+      "value": "Fikur"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "on",
+      "value": "Ndezur"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 objekt u fshi."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Hape në shfletues uebi"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Hape në modalitetin popup"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Hap faqen e internetit"
+    },
+    {
+      "name": "open_with",
+      "value": "Hape me"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Kjo do të mbishkruajë strukturimin tuaj të tanishëm."
+    },
+    {
+      "name": "overwrite",
+      "value": "Mbishkruaj"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "nuk mund të mbishkruhet skedari"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Një skedar i shkarkuar me këtë emër ekziston tashmë"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Një skedar me këtë emër ekziston tashmë"
+    },
+    {
+      "name": "paid_content",
+      "value": "Kjo përmbajtje është e disponueshme vetëm për përdoruesit që kanë paguar, kështu që nuk mund të luhet apo shkarkohet nga NewPipe."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Nuk u arrit të analizohej faqja"
+    },
+    {
+      "name": "pause",
+      "value": "Ndaloje"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Ndërprit shkarkimet"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Ndërprit në rrjete të limituara"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "E dobishme kur kaloni në internet përmes SIM, por disa shkarkimi nuk mund të pezullohen"
+    },
+    {
+      "name": "paused",
+      "value": "ndalur"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Instanca ekziston tashmë"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Nuk arriti të vërtetësohej instanca"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Vendosni URL e instancës"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Vetëm URL-të HTTPS janë të mbështetura"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Shtoni instancë"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Gjeni instancat që ju pëlqeni në %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Zgjidhni instancat tuaja të preferuara të PeerTube"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "Instancat PeerTube"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Veprim i ndaluar nga sistemi"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Jepni leje për tu shfaqur mbi aplikacionet e tjera"
+    },
+    {
+      "name": "play",
+      "value": "Luaj"
+    },
+    {
+      "name": "play_all",
+      "value": "Luaj të Gjitha"
+    },
+    {
+      "name": "play_audio",
+      "value": "Audio"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Aranzhimet Audio"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Audio: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Hiq"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Detaje"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Luaj me Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Intonacioni"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Rikthe"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Kontrolli i Shpejtësisë së Luajtjes"
+    },
+    {
+      "name": "playback_step",
+      "value": "Shkallë"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Ritmi"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Duke rikuperuar nga problemi i luajtësit"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Nuk u arrit të luhej ky stream"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Ndodhi një problem i parikuperueshëm i luajtësit"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "E shtuar në listën e luajtjes"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Lista e luajtjes u krijua"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "E gjeneruar automatikisht (nuk u gjet ngarkues)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Faqja e listës së luajtjes"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Pamja statike e listës së luajtjes u ndryshua."
+    },
+    {
+      "name": "playlists",
+      "value": "Listat e videove"
+    },
+    {
+      "name": "popup_player",
+      "value": "Luajtësi popup"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Duke luajtur në modalitetin popup"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Mbaj mend madhësinë e fundit dhe pozicionin e popup"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Mbaj mend popup"
+    },
+    {
+      "name": "post_processing",
+      "value": "duke procesuar"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Prefero audio përshkruese"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Prefero audion origjinale"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Veprimi i parazgjedhur kur hapet përmbajtja — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Veprimi i preferuar për 'hapjen'"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Duke ngarkuar përmbajtjen e kërkuar"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Duke marrë informacion…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Eksportimi i kaluar"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "Projekti NewPipe e merr privatësinë tuaj seriozisht. Kështu, aplikacioni nuk mbledh të dhëna pa dijeninë tuaj.\n\nPolitika e privatësisë së NewPipe shpjegon në detaje se çfarë të dhënat dërgohen dhe ruhen kur ju dërgoni një raport dështimi/crash."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Politika e Privatësisë së NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "Kjo përmbajtje është private, kështu që nuk mund të luhet apo shkarkohet nga NewPipe."
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "e shtuar në radhë"
+    },
+    {
+      "name": "radio",
+      "value": "Radio"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Lexo licensën"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Lexoni politikën e privatësisë"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "Biskotat reCAPTCHA janë pastruar"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "sfida reCAPTCHA u kërkua"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Zgjidh"
+    },
+    {
+      "name": "recent",
+      "value": "Të fundit"
+    },
+    {
+      "name": "recently_added",
+      "value": "Të shtuara së fundmi"
+    },
+    {
+      "name": "recovering",
+      "value": "duke rikuperuar"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Streams të ngjashme"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Sugjerime jo-lokale për kërkim"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Hiq duplikatet"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Hiq duplikatet?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Hiq të parat"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Po, dhe videot e shikuara pjesërisht"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Dëshironi t'i hiqni videot e para?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Videot që janë shikuar më parë dhe pasi janë shtuar në listën e luajtjes do të hiqen. \nA jeni të sigurt? Kjo nuk mund të zhbëhet!"
+    },
+    {
+      "name": "rename",
+      "value": "Riemërto"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Riemërto"
+    },
+    {
+      "name": "replay",
+      "value": "Ri-luaj"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Mbushe ekranin"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Përshtat me ekranin"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Afroje"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Kthe në gjendjen fillestare"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "A doni të riktheheni në gjendjen fillestare?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Kjo video ka kufizime moshe.\n\n\n\nAktivizoni \"%1$s\" tek aranzhimet nëse doni ta shihni."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Kjo video është e kufizuar në moshë.\n\nPër shkak të politikave të reja të YouTube në lidhje me videot e kufizuara në moshë, NewPipe nuk mund të aksesojë asnjë nga videot dhe nuk mund t'i luajë ato."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Vazhdoje luajtjen pas ndërprerjeve (psh. telefonatat)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Vazhdoje luajtjen"
+    },
+    {
+      "name": "retry",
+      "value": "Riprovo"
+    },
+    {
+      "name": "rewind",
+      "value": "Rikthe"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Nuk arritën të lexohen tab-et e ruajtura, do përdoren të paravendosurat"
+    },
+    {
+      "name": "search",
+      "value": "Kërko"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Historiku i kërkimeve u fshi"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Nuk ka rezultate"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Duke shfaqur rezultatet për: %s"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Kohëzgjatja e kërkimit me shtytje-përpara/-pas"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Parapamje e pamjes miniaturë të lëvizësit të kohës"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Zgjidhni një kanal"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Zgjidhni një kioskë"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Zgjidhni një listë luajtjeje"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Ju mund të zgjidhni temën tuaj të preferuar të natës më poshtë"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Vendose si pamjen statike të listës së luajtjes"
+    },
+    {
+      "name": "settings",
+      "value": "Cilësimet"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Pamja"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Fshij të dhënat"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Rregullo"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Shkarko"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Lista"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Historia dhe depoja"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Sjellja"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Luajtësi"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Përditësimet"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Video dhe audio"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Karakteret e lejuara në emrat e skedarëve"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Karakteret e palejuara zëvendësohen me këtë vlerë"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Karakteri zëvendësues"
+    },
+    {
+      "name": "share",
+      "value": "Shpërndaje"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Shpërndaje me"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Shfaq përmbajtje ndoshta të papërshtatshme për fëmijë sepse ka një kufi moshe (si 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Shfaq përmbajtjet me moshë të kufizuar"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Shfaq detajet e kanalit"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Fikeni për të fshehur komentet"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Shfaq komentet"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Ç'aktivizoje për të fshehur përshkrimin e videos dhe informacione shtesë"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Shfaq përshkrimin"
+    },
+    {
+      "name": "show_error",
+      "value": "Shfaq problemin"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Vetëm disa pajisje mund të luajnë video 2K/4K"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Shfaq rezolucione më të larta"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Trego ndihmën kur shtypet sfondi ose butoni i popup në \"Detajet:\" e videos"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Trego ndihmën \"Mbaje shtypur për ta shtuar në listë\""
+    },
+    {
+      "name": "show_info",
+      "value": "Shfaq informatat"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Shfaq rrjedhjet e memories"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Fikeni për të fshehur kutitë e të dhënave meta me information ekstra rreth krijuesit të stream, përmbajtjen e stream dhe kërkimit"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Shfaq të dhënat meta"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Trego 'Tjetra' dhe videot 'E ngjashme'"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Tekstet origjinale nga shërbimet do shihen në produktet e luajtshme"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Shfaq titullin origjinal \"kohë më parë\" në objekte"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Shfaq një opsion për të luajtur videot përmes Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Shfaq opsionin \"Luaj me Kodi\""
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Shfaq sugjerime kur jeni duke kërkuar"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Sugjerimet e kërkimit"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Përdor pamje statike për sfondin e ekranit të kyçur si dhe për njoftimet"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Shfaq pamjen miniaturë"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Shtyje përpara gjatë momenteve të heshtura"
+    },
+    {
+      "name": "songs",
+      "value": "Këngët"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Na vjen keq, kjo nuk duhej të ndodhte."
+    },
+    {
+      "name": "sort",
+      "value": "Rradhit"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Ky është një skedar SoundCloud Go+, të paktën në shtetin tuaj, kështu që nuk mund të luhet apo shkarkohet nga NewPipe."
+    },
+    {
+      "name": "start",
+      "value": "Nis"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Për të qenë në përputhje me Rregulloren e Përgjithshme Evropiane për Mbrojtjen e të Dhënave (GDPR), ne ju tërheqim vëmendjen tek politika e privatësisë së NewPipe. Ju lutemi lexojeni me kujdes.\n\nJu duhet ta pranoni atë për të na dërguar raportin e problemit."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Nis shkarkimet"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Nis luajtjen në sfond"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Nis luajtjen në një popup të ri"
+    },
+    {
+      "name": "stop",
+      "value": "Ndalo"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Abonohu"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "I abonuar"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Numri i abonentëve është i padisponueshëm"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Nuk mund të ndryshohej abonimi"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Nuk mund të përditësohej abonimi"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Nuk arritën të eksportohen abonimet"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Nuk arritën të importohen abonimet"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Shtyp \"U bë\" kur ta zgjidhni"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Kaloje në Sfond"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Kaloje në Qendrore"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Kaloje në Popup"
+    },
+    {
+      "name": "systems_language",
+      "value": "E parazgjedhura e sistemit"
+    },
+    {
+      "name": "tab_about",
+      "value": "Rreth"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Listat e Ruajtura"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Zgjidh Tabin"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Licensat"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Abonimet"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Modaliteti tablet"
+    },
+    {
+      "name": "theme_title",
+      "value": "Tema"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Depoja e imazheve u boshatis"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Rreth NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Historiku"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Lista e luajtjes"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "sfida reCAPTCHA"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Luajtur së Fundmi"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Licensat e palëve të treta"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Më të Luajturat"
+    },
+    {
+      "name": "top_50",
+      "value": "Top 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Pistë"
+    },
+    {
+      "name": "trending",
+      "value": "E trendit"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Hiq Shenjuesin"
+    },
+    {
+      "name": "undo",
+      "value": "Zhbëj"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Ç'lidhe (mund të shkaktojë shtrembërim)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Panjohur"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[E panjohur]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Format i panjohur"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Qualitet i panjohur"
+    },
+    {
+      "name": "unmute",
+      "value": "Me zë"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Ç'abonohu"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "URL e pambështetur"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Nuk u njoh URL. Të hapet me një aplikacion tjetër?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Shfaq një njoftim për të përditësuar menjëherë aplikacionin kur një version i ri është i disponueshëm"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Përditësimet"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Publikuar më %1$s"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Përdor lexues të jashtëm audio"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Heq audio për disa rezolucione"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Përdorni lexues video të jashtëm"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Kërkuesi i pasaktë e lejon luajtësin që të kërkojë pozicionet më shpejt më saktësi të reduktuar. Kërkimi për 5, 15 ose 25 sekonda nuk punon me këtë"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Përdor kërkuesin e pasaktë por të shpejtë"
+    },
+    {
+      "name": "users",
+      "value": "Përdoruesit"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Nga %s"
+    },
+    {
+      "name": "video_player",
+      "value": "Luajtësi video"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Nuk u gjendën stream për video"
+    },
+    {
+      "name": "videos_string",
+      "value": "Videot"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Shikoje në GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "Volumi"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Historiku i videove të luajtura u fshi"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Pozicionet e luajtjeve u fshinë"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Shfletoni faqen e internetit të NewPipe për më tepër informacion dhe lajme."
+    },
+    {
+      "name": "website_title",
+      "value": "Faqja e internetit"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Informacion:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Çfarë ndodhi:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Vetëm në Wi-Fi"
+    },
+    {
+      "name": "yes",
+      "value": "Po"
+    },
+    {
+      "name": "your_comment",
+      "value": "Komenti juaj (në Anglisht):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Kjo video është e disponueshme vetëm për anëtarët e YouTube Music Premium, kështu që nuk mund të luhet apo shkarkohet nga NewPipe."
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube ofron një \"Modalitet të Kufizuar\" që fsheh përmbajtje vetëm për të rritur"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Aktivizo modalitetin e kufizuar të YouTube"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

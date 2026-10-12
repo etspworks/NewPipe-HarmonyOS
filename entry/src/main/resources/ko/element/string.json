@@ -1,0 +1,3092 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "동의"
+    },
+    {
+      "name": "account_terminated",
+      "value": "계정이 해지됨"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "계정 정지됨\n\n%1$s에서 제공한 이유: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "기록"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "재생목록에 추가"
+    },
+    {
+      "name": "albums",
+      "value": "앨범"
+    },
+    {
+      "name": "all",
+      "value": "전부"
+    },
+    {
+      "name": "always",
+      "value": "항상"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "항상 묻기"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "이 해결 방법은 인터페이스가 변경될 때 인터페이스를 코덱으로 직접 설정하는 대신 비디오 코덱을 해제하고 다시 인스턴스화합니다. 이 문제가 있는 일부 기기에서 ExoPlayer가 이미 사용 중인 이 설정은 안드로이드 6 이상에서만 적용\n\n\n\n이 옵션을 활성화하면 현재 동영상 플레이어를 전환하거나 전체 화면으로 전환할 때 재생 오류를 방지할 수 있음"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "항상 AVPlayer의 비디오 출력 표면 설정 해결 방법 사용"
+    },
+    {
+      "name": "any_network",
+      "value": "모든 네트워크"
+    },
+    {
+      "name": "api23_requirement_dialog_blogpost",
+      "value": "블로그 게시글"
+    },
+    {
+      "name": "api23_requirement_dialog_message",
+      "value": "NewPipe는 Android 5.0 및 5.1 지원을 중단한 몇 라이브러리에 의존합니다. 따라서 유감스럽게도 다음NewPipe 버전은 Android 6 이상 기기에서만 작동할 예정입니다. 자세한 내용은 블로그 게시글을 참조하세요."
+    },
+    {
+      "name": "api23_requirement_dialog_title",
+      "value": "NewPipe가 Android 5 지원을 중단합니다"
+    },
+    {
+      "name": "app_description",
+      "value": "가볍고 빠른 자유 HarmonyOS 스트리밍 앱입니다."
+    },
+    {
+      "name": "app_language_title",
+      "value": "앱 언어"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe는 카피레프트 자유 소프트웨어입니다: 마음대로 사용하고, 연구하고, 공유하고, 개선할 수 있습니다. 특히 자유 소프트웨어 재단에서 발행한 GNU 일반 공중 사용 라이센스의 조건에 따라 라이센스 버전 3 또는 (귀하의 선택에 따라) 이후 버전을 재배포 및/또는 수정할 수 있습니다."
+    },
+    {
+      "name": "app_license_title",
+      "value": "NewPipe의 라이선스"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "앱/UI 충돌"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "%s를 다운로드하려면 탭하세요"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "NewPipe 업데이트를 사용할 수 있습니다!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "새 NewPipe 버전 알림"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "앱 업데이트 알림"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "최신 버전의 NewPipe를 실행 중입니다"
+    },
+    {
+      "name": "artists",
+      "value": "아티스트"
+    },
+    {
+      "name": "audio",
+      "value": "오디오"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "발견된 오디오 스트림 없음"
+    },
+    {
+      "name": "audio_track",
+      "value": "오디오 트랙"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "이 스트림에 오디오 트랙이 이미 존재해야 함"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "설명"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "더빙됨"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "원본"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "보조"
+    },
+    {
+      "name": "auto",
+      "value": "자동"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "자동 (장치 테마)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "관련 스트림을 추가하여 (반복되지 않는) 재생 대기열을 계속 종료"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "다음 스트림을 자동으로 대기열에 추가"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "자동 대기열에 추가"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe에서 자동으로 새 버전을 확인하고 업데이트가 있으면 알려줍니다.\n\n이 기능을 켜시겠습니까?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "자동으로 재생 시작 — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "자동 재생"
+    },
+    {
+      "name": "background_player",
+      "value": "백그라운드 플레이어"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "백그라운드에서 재생 중"
+    },
+    {
+      "name": "best_resolution",
+      "value": "최대 해상도"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "블랙 테마"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "빈 페이지"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "재생목록 북마크하기"
+    },
+    {
+      "name": "brightness",
+      "value": "밝기"
+    },
+    {
+      "name": "cancel",
+      "value": "취소"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "자동 생성됨"
+    },
+    {
+      "name": "caption_none",
+      "value": "자막 없음"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "플레이어 자막 글자 크기와 배경 스타일을 수정합니다. 적용하려면 앱을 다시 시작해야 합니다"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "자막"
+    },
+    {
+      "name": "card",
+      "value": "카드"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "%s에 의해 제작"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "채널 페이지"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "정보"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "앨범"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "채널"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "좋아요"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "실시간"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "재생목록"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "쇼츠"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "트랙"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "동영상"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "구독 취소됨"
+    },
+    {
+      "name": "channels",
+      "value": "채널"
+    },
+    {
+      "name": "chapters",
+      "value": "챕터"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "문자 및 숫자"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "가장 특수한 문자"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "업데이트 확인"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "새로운 스트림 확인 실행"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "업데이트 확인 중…"
+    },
+    {
+      "name": "checksum",
+      "value": "체크섬"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "인스턴스를 선택하세요"
+    },
+    {
+      "name": "clear",
+      "value": "지우기"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "reCAPTCHA를 해결할 때 NewPipe가 저장하는 쿠키 지우기"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "reCAPTCHA 쿠키 비우기"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "다운로드 기록 삭제"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "모든 재생 위치를 삭제"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "재생 위치 삭제"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "활성 플레이어 대기열 교체"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "한 플레이어에서 다른 플레이어로 전환하면 대기열이 대체될 수 있습니다"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "대기열을 지우기 전에 확인 요청"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "검색 기록을 모두 삭제합니다"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "검색 기록 삭제"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "동영상 시청 기록과 저장된 재생 위치를 삭제합니다"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "시청 기록 삭제하기"
+    },
+    {
+      "name": "close",
+      "value": "닫기"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "댓글이 비활성화되었습니다"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "댓글"
+    },
+    {
+      "name": "conferences",
+      "value": "컨퍼런스"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "모든 다운로드 기록과 파일을 삭제합니다.확실합니까?"
+    },
+    {
+      "name": "content",
+      "value": "콘텐츠"
+    },
+    {
+      "name": "content_language_title",
+      "value": "기본 콘텐츠 언어"
+    },
+    {
+      "name": "content_not_available",
+      "value": "콘텐츠를 사용할 수 없습니다"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "이 기능은 아직 NewPipe에서 지원하지 않습니다.\n\n\n\n이후 버전에서 지원될 예정입니다."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "번역, 디자인, 코딩 등 다양한 기여를 언제나 환영합니다. 더 나아지도록 도와주세요!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "기여"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "이곳에 추가"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "백그라운드"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "스트림 파일 다운로드하기"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "팝업"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "서식이 지정된 보고서 복사"
+    },
+    {
+      "name": "copyright",
+      "value": "© %3$s 하에서 %2$s 에 의한 %1$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "경고: 파일을 전부 가져오지 못했습니다."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "모든 썸네일을 불러올 수 없습니다"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "다운로드 메뉴를 설정할 수 없습니다"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "앱 충돌"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "플레이어 크래시 발생"
+    },
+    {
+      "name": "create",
+      "value": "만들기"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "오류 알림 생성"
+    },
+    {
+      "name": "create_playlist",
+      "value": "새로운 재생목록"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "다크 테마"
+    },
+    {
+      "name": "decline",
+      "value": "동의하지 않음"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "기본 오디오 형식"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "기본 콘텐츠 국가"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "기본 키오스크"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "기본 팝업 해상도"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "기본 해상도"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "기본 비디오 형식"
+    },
+    {
+      "name": "delete",
+      "value": "삭제"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "다운로드된 파일 삭제"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "디스크에서 다운로드한 모든 파일을 지우겠습니까?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "항목 삭제"
+    },
+    {
+      "name": "delete_file",
+      "value": "파일 삭제"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "이 항목을 검색 기록에서 삭제할까요?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "모든 재생 위치를 삭제하시겠습니까?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "이 재생목록을 삭제하시겠습니까?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "모든 검색 기록을 삭제하시겠습니까?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "모든 시청 기록을 삭제하시겠습니까?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "설명에서 텍스트 선택 비활성화"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "설명에서 텍스트 선택 활성화"
+    },
+    {
+      "name": "description_select_note",
+      "value": "이제 설명 내에서 텍스트를 선택할 수 있습니다. 선택 모드에서는 페이지가 깜박이고 링크를 클릭할 수 없는 경우가 있습니다."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "설명"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "싫어요"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "드래그하여 재배열"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "창작자의 마음"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "좋아요"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "고정된 댓글"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "채널의 아바타 썸네일"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "비디오 재생, 구간:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "업로더 썸네일"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "\"%1$s\"를 찾으셨나요?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "장치 모델에서 미디어 터널링을 지원하지 않는 것으로 알려져 있기 때문에 장치에서 기본적으로 미디어 터널링이 비활성화되었습니다."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "동영상 재생 시 검은 화면이 나타나거나 끊김 현상이 발생하면 미디어 터널링을 비활성화하세요."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "미디어 터널링 비활성화"
+    },
+    {
+      "name": "disabled",
+      "value": "해제됨"
+    },
+    {
+      "name": "dismiss",
+      "value": "취소"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "여러분들의 더 나은 경험을 위해 많은 사람들이 NewPipe를 개발하는데 노력을 기울이고 있습니다. NewPipe에 참여하는 개발자들이 커피 한 잔을 즐길 수 있도록 기부해주세요."
+    },
+    {
+      "name": "donation_title",
+      "value": "후원"
+    },
+    {
+      "name": "done",
+      "value": "완료"
+    },
+    {
+      "name": "dont_show",
+      "value": "표시하지 않음"
+    },
+    {
+      "name": "download",
+      "value": "다운로드"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "해당 이름으로 대기된 다운로드가 있습니다"
+    },
+    {
+      "name": "download_already_running",
+      "value": "해당 이름을 가진 다운로드가 이미 진행중입니다"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "다운로드"
+    },
+    {
+      "name": "download_failed",
+      "value": "다운로드 실패"
+    },
+    {
+      "name": "download_has_started",
+      "value": "다운로드가 시작되었습니다"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "오디오 파일이 다운로드 될 폴더를 선택하세요"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "다운로드된 오디오 파일이 이 곳에 저장됩니다"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "오디오 다운로드 폴더"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "비디오 파일이 다운로드 될 폴더를 선택하세요"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "다운로드된 비디오 파일이 이 곳에 저장됩니다"
+    },
+    {
+      "name": "download_path_title",
+      "value": "비디오 다운로드 폴더"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "SD 카드로 다운로드 할 수 없습니다. 다운로드 폴더 경로를 초기화 하시겠습니까?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "외부 저장소 없음"
+    },
+    {
+      "name": "downloads",
+      "value": "다운로드"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "각 다운로드를 저장할 위치를 묻는 메시지가 표시됩니다.\n\n외부 SD 카드에 다운로드하려면 시스템 폴더 선택기(SAF) 활성화"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "각 다운로드를 저장할 위치를 묻는 메시지가 표시됩니다"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "다운로드 위치를 묻기"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "'저장영역 접속 프레임워크'를 통해 외부 SD 카드로 다운로드 가능"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "안드로이드 10부터 '저장영역 접속 프레임워크'만 지원됩니다"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "시스템 폴더 선택기(SAF) 사용"
+    },
+    {
+      "name": "downloads_title",
+      "value": "다운로드"
+    },
+    {
+      "name": "drawer_close",
+      "value": "드로어 닫기"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "서비스 토글, 현재 선택된 서비스:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "드로어 열기"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "회색으로 표시된 재생 목록에 이미 이 항목이 포함되어 있습니다."
+    },
+    {
+      "name": "duration",
+      "value": "지속"
+    },
+    {
+      "name": "duration_live",
+      "value": "라이브"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "구독할 항목을 추가하세요"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "프래그먼트 또는 버려진 액티비티 주기 밖에서 일어나는 전달할 수 없는 Rx 예외를 강제적으로 보고하기"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "out-of-lifecycle 오류 보고"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "메모리 누수 감시를 사용할 시 힙 덤프로 인해 앱이 반응하지 않을 수 있습니다"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "마지막 재생 위치부터 재생"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "재생 위치 기억"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "리스트에서 재생 위치를 표시합니다"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "리스트 내 위치 표시"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "다운로드 대기 제한"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "한 번에 하나씩 다운로드 합니다"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "검색 기록을 기기에 저장합니다"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "검색 기록"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "구독에서 새로운 스트림에 대해 알림"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "새로운 스트림 알림"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "시청했던 비디오 기록을 저장합니다"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "기록 보기"
+    },
+    {
+      "name": "enqueue",
+      "value": "대기열"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "다음 대기열에 넣기"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "대기열에 넣기"
+    },
+    {
+      "name": "enqueued",
+      "value": "대기열에 추가됨"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "다음에 대기열에 추가됨"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "항목 삭제됨"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "서버에 연결할 수 없습니다"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "자세한 사항:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "이 다운로드를 복구할 수 없습니다"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "파일을 생성할 수 없습니다"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "서버가 데이터를 전송하지 않고 있습니다"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "찾을 수 없음"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "서버가 다중 스레드 다운로드를 받아들이지 않습니다, @string/msg_threads = 1 를 사용해 다시 시도해보세요"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "기기에 저장공간이 충분하지 않습니다"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "남은 저장공간이 없습니다"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "오류 발생: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "대상 폴더를 만들 수 없습니다"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "후처리 작업이 실패하였습니다"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "파일 작업 중에 Newpipe가 종료되었습니다"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "파일이 삭제되어 진행이 중지되었습니다"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "이메일을 통해 보고"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "오류 보고 알림"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "오류 보고 알림"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe에 오류가 발생했습니다. 보고하려면 탭하세요"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "오류가 발생했습니다. 알림을 참조하세요"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "충돌에 대해 논의하는 문제가 이미 존재하는지 확인하세요. 중복 티켓을 생성할 때 실제 버그를 수정하는 데 시간을 할애할 수 있습니다."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "GitHub에 보고"
+    },
+    {
+      "name": "error_report_title",
+      "value": "오류 보고"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "보고"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "죄송합니다. 문제가 발생했습니다."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "보안 연결을 설정할 수 없음"
+    },
+    {
+      "name": "error_timeout",
+      "value": "연결시간 초과"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "댓글을 불러올 수 없음"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "서버를 찾을 수 없습니다"
+    },
+    {
+      "name": "events",
+      "value": "이벤트"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "내보내기 완료"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "시청 기록과 구독 목록, 재생 목록, 설정을 내보냅니다"
+    },
+    {
+      "name": "export_data_title",
+      "value": "데이터베이스 내보내기"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "내보내는 중…"
+    },
+    {
+      "name": "export_subscriptions_summary",
+      "value": "구독 현황을 .json 파일로 내보냅니다"
+    },
+    {
+      "name": "export_subscriptions_title",
+      "value": "구독 내보내기"
+    },
+    {
+      "name": "export_to",
+      "value": "이곳으로 내보내기"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "외부 플레이어는 이러한 종류의 링크를 지원하지 않습니다"
+    },
+    {
+      "name": "faq",
+      "value": "웹사이트에서 보기"
+    },
+    {
+      "name": "faq_description",
+      "value": "앱 사용에 문제가 있는 경우, 일반적인 질문에 대한 다음 답변을 확인하세요!"
+    },
+    {
+      "name": "faq_title",
+      "value": "자주 묻는 질문"
+    },
+    {
+      "name": "fast_mode",
+      "value": "빠른 모드"
+    },
+    {
+      "name": "featured",
+      "value": "추천"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "새로운"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "채널 탭 가져오기"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "피드를 업데이트할 때 가져올 탭입니다. 빠른 모드를 사용하여 채널을 업데이트하는 경우 이 옵션은 효과가 없습니다."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "이 그룹을 삭제하시겠어요?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "그룹 이름이 없음"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "선택한 구독이 없습니다"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "구독 선택"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "채널 그룹 페이지"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "그룹화되지 않은 구독만 표시"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "채널 그룹"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "다음 스트림 표시"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "피드를 불러오는 중 오류"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "'%s'에 대한 피드를 불러올 수 없습니다."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "빠른 공급 모드는 이에 대한 자세한 정보를 제공하지 않습니다."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "제작자의 계정이 해지되었습니다.\n\nNewPipe는 앞으로 이 피드를 불러올 수 없습니다.\n\n이 채널의 구독을 취소하겠습니까?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "새로운 피드 항목"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "피드를 로딩하고 있습니다…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "마지막으로 업데이트 된 피드; %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "피드를 프로세싱합니다…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "스트림 보이기/숨기기"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "부분적 시청"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "예정"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "완전 시청"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "로드 실패: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "항상 업데이트"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "마지막 업데이트 후 구독이 오래된 것으로 간주되기 전의 시간 — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "피드 업데이트 임계값"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "빠른 모드 비활성화"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "빠른 모드 활성화"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "피드 로딩이 너무 느리다고 생각하시나요? 그렇다면 빠른 로딩을 활성화해 보세요. (설정에서 변경하거나 아래 버튼을 눌러 변경할 수 있습니다)\n\nNewPipe는 두 가지 피드 로딩 전략을 제공합니다:\n• 전체 구독 채널 가져오기: 느리지만 완전합니다.\n• 전용 서비스 엔드포인트 사용: 빠르지만 일반적으로 완전하지 않습니다.\n\n이 두 가지의 차이점은 빠른 방식이 일반적으로 항목의 길이나 유형(실시간 동영상과 일반 동영상을 구분할 수 없음)과 같은 일부 정보가 부족하고 더 적은 항목을 반환할 수 있다는 점입니다.\n\nYouTube는 RSS 피드를 통해 이 빠른 방법을 제공하는 서비스의 예입니다.\n\n따라서 선택은 속도와 정확한 정보 중 무엇을 선호하느냐에 달려 있습니다."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "일부 서비스에서 사용할 수 있으며 일반적으로 훨씬 빠르지만 제한된 양의 항목과 종종 불완전한 정보를 반환할 수 있습니다 (예: 기간 없음, 항목 유형, 라이브 상태 없음)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "사용 가능한 경우 전용 피드에서 가져오기"
+    },
+    {
+      "name": "file",
+      "value": "파일"
+    },
+    {
+      "name": "file_deleted",
+      "value": "파일 삭제됨"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "파일명이 비어 있으면 안됩니다"
+    },
+    {
+      "name": "forward",
+      "value": "앞으로"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "새로운 영상"
+    },
+    {
+      "name": "general_error",
+      "value": "오류"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "별개의 이름 생성"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "이 콘텐츠는 귀하의 국가에서 사용할 수 없습니다."
+    },
+    {
+      "name": "get_notified",
+      "value": "알림 받기"
+    },
+    {
+      "name": "give_back",
+      "value": "보답하기"
+    },
+    {
+      "name": "grid",
+      "value": "격자"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "비디오 해싱 진행 알림"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "비디오 해시 알림"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "고품질 (크게)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "눌러서 대기열에 추가"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "예를 들어, 물리적 버튼이 망가진 헤드셋을 사용하는 경우 유용합니다"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "하드웨어 미디어 버튼 이벤트 무시"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "높은 품질"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "낮은 품질"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "중간 품질"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "이미지를 불러오지 마세요"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "데이터 및 메모리 사용량을 줄이기 위해 이미지 품질과 이미지 불러오기 여부를 선택하세요. 변경 사항이 메모리 내 및 디스크 내 이미지 캐시를 모두 지움 — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "이미지 품질"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "가져오기 완료"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "현재 시청 기록, 구독, 재생 목록, (선택 사항) 설정 재정의"
+    },
+    {
+      "name": "import_data_title",
+      "value": "데이터베이스 가져오기"
+    },
+    {
+      "name": "import_file_title",
+      "value": "파일 가져오기"
+    },
+    {
+      "name": "import_from",
+      "value": "이곳으로부터 가져오기"
+    },
+    {
+      "name": "import_from_previous_export",
+      "value": "이전 내보내기에서 가져오기"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "경고: 데이터가 많이 소모될 수 있습니다. \n\n \n\n계속하시겠습니까?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "가져오는 중.…"
+    },
+    {
+      "name": "import_settings",
+      "value": "설정도 가져오시겠습니까?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "가져오려는 설정 파일이 NewPipe 0.27.0 이상에서는 권장하지 않는 취약한 형식으로 작성되어 있습니다. 설정 파일의 출처를 신뢰할 수 있는지 꼭 확인하시기 바라며, 다음부터는 가급적 NewPipe 0.27.0 이후의 설정 파일만 이용하시기 바랍니다. 이 취약한 형식의 설정 파일은 곧 더 이상 지원되지 않으며, 오래된 버전의 NewPipe에서 새 버전의 설정 파일을 가져오는 것도 불가능해질 예정입니다."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "URL 또는 ID를 입력하여 SoundCloud 프로필을 가져옵니다:\n\n \n\n1. 웹 브라우저에서 \"데스크톱 모드\"를 활성화합니다(모바일 장치에서는 사이트를 사용할 수 없습니다)\n\n2. 다음 URL로 이동: %1$s\n\n3. 요청 시 로그인\n\n4. 리디렉션된 프로필 URL을 복사합니다."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "프로필ID, soundcloud.com/프로필ID"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "점 3개 메뉴에서 구독 가져오기 또는 내보내기"
+    },
+    {
+      "name": "import_subscriptions_summary",
+      "value": "이전에 내보낸 .json에서 구독을 가져옵니다"
+    },
+    {
+      "name": "import_subscriptions_title",
+      "value": "구독 가져오기"
+    },
+    {
+      "name": "import_title",
+      "value": "가져오기"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Google 테이크아웃에서 YouTube 구독목록 가져오기:\n\n\n\n1. 이 URL로 이동합니다: %1$s\n\n2. 요청에 따라 로그인 합니다\n\n3. \"모든 데이터 포함됨\"을 클릭한 뒤, \"모두 선택 해제\"를 클릭한 후 \"구독정보\"만 선택하고 \"확인\"을 클릭합니다\n\n4. \"다음 단계\"를 클릭한 다음 \"내보내기 생성\"을 클릭합니다\n\n5. \"다운로드\" 버튼이 나타나면 클릭합니다\n\n6. 아래의 \"파일 가져오기\"를 클릭하고 다운로드한 .zip 파일을 선택합니다\n\n7. [.zip 파일 가져오기를 실패한 경우] .csv 파일(일반적으로 \"YouTube 및 YouTube Music/구독정보/구독정보.csv\")을 압축해제한 다음, 아래의 \"파일 가져오기\"를 클릭한 후 압축해제한 csv 파일을 선택합니다"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ 비디오"
+    },
+    {
+      "name": "info_labels",
+      "value": "무엇:\n요청:\n콘텐츠 언어:\n콘텐츠 국가:\n앱 언어:\n서비스:\nGMT 시간:\n패키지:\n버전:\nOS 버전:"
+    },
+    {
+      "name": "install",
+      "value": "설치"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "폴더가 존재하지 않습니다"
+    },
+    {
+      "name": "invalid_file",
+      "value": "파일이 존재하지 않거나 읽기/쓰기 권한이 없습니다"
+    },
+    {
+      "name": "invalid_source",
+      "value": "잘못된 파일/콘텐츠 소스"
+    },
+    {
+      "name": "just_once",
+      "value": "한번만"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "자세히"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "2025년 8월, Google은 2026년 9월부터 인증된 기기에 앱을 설치하려면 Play 스토어 외 앱을 포함한 모든 Android 앱에 대해 개발자 인증을 받아야 한다고 발표했습니다. NewPipe 개발자는 이 요구 사항에 동의하지 않으므로, 이 이후 NewPipe는 더 이상 인증된 Android 기기에서 동작하지 않을 것입니다."
+    },
+    {
+      "name": "kao_solution",
+      "value": "해결책"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "키오스크 페이지"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "누락된 Kore 앱을 설치하겠습니까?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary를 사용할 수 없습니다"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "플레이어 화면 왼쪽 절반에 대한 제스처 선택"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "왼쪽 제스처 동작"
+    },
+    {
+      "name": "license",
+      "value": "%1$s 제작 %2$s 하 배포"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "라이트 테마"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "데이터 제한 없음"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "모바일 데이터 사용 시 화질 제한"
+    },
+    {
+      "name": "list",
+      "value": "목록"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "'목록으로 보기' 모드"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "메타데이터 불러오기 중…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "스트림 세부정보 불러오는 중…"
+    },
+    {
+      "name": "local",
+      "value": "로컬"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "지역 검색 제안"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "저품질 (작게)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "돋보기를 탭하여 시작합니다."
+    },
+    {
+      "name": "main_page_content",
+      "value": "메인 화면의 내용"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "메인 화면에 표시할 탭을 설정합니다"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "항목을 스와이프하여 제거"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "메인 탭 선택기를 하단으로 이동"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "메인 탭 위치"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "새로운 버전을 수동으로 확인"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "시청한 것으로 처리"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "다운로드를 취소하기 전까지 다시 시도할 최대 횟수"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "최대 재시도 횟수"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "연령 제한"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "아바타"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "배너"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "메타데이터 캐시 지워짐"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "캐시된 모든 웹페이지 데이터 지우기"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "캐시된 메타데이터 지우기"
+    },
+    {
+      "name": "metadata_category",
+      "value": "카테고리"
+    },
+    {
+      "name": "metadata_host",
+      "value": "호스트"
+    },
+    {
+      "name": "metadata_language",
+      "value": "언어"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "라이센스"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "공개상태"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "내부"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "비공개"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "공식"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "비공개"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "하위 채널 아바타"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "구독자"
+    },
+    {
+      "name": "metadata_support",
+      "value": "지원"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "태그"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "썸네일"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "업로더 아바타"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud에서 더 이상 기존 Top 50 차트를 제공하지 않습니다. 해당하는 탭이 메인 페이지에서 제거되었습니다."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "SoundCloud Top 50 페이지가 삭제되었습니다"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube에서 2025년 7월 21일부로 더 이상 통합 인기 급상승 동영상을 제공하지 않습니다. NewPipe에서는 기본 인기 급상승 페이지를 인기 급상승 실시간 페이지로 교체했습니다.\n\n\"설정 > 콘텐츠 > 메인 화면의 내용\"에서 다른 인기 급상승 페이지를 선택할 수 있습니다."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "YouTube 통합 인기 급상승 동영상이 삭제되었습니다"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "백그라운드 플레이어로 최소화"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "없음"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "팝업 플레이어로 최소화"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "비디오 플레이어에서 다른 앱으로 전환 시 다음과 같은 동작 실행 — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "앱 전환시 최소화"
+    },
+    {
+      "name": "missing_file",
+      "value": "파일이 이동되거나 삭제되었습니다"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "완료됨"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "대기열에 있음"
+    },
+    {
+      "name": "more_options",
+      "value": "추가 옵션"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ 비디오"
+    },
+    {
+      "name": "most_liked",
+      "value": "가장 선호하는"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "해시 계산"
+    },
+    {
+      "name": "msg_copied",
+      "value": "클립보드에 복사됨"
+    },
+    {
+      "name": "msg_error",
+      "value": "오류"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "클립보드 복사 실패"
+    },
+    {
+      "name": "msg_name",
+      "value": "파일명"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "이 권한은 팝업 모드에서\n\n열기 위해 필요합니다"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe 다운로드 중"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "터치해서 상세 정보 확인"
+    },
+    {
+      "name": "msg_threads",
+      "value": "스레드"
+    },
+    {
+      "name": "msg_wait",
+      "value": "잠시만 기다리세요…"
+    },
+    {
+      "name": "mute",
+      "value": "무음"
+    },
+    {
+      "name": "name",
+      "value": "이름"
+    },
+    {
+      "name": "navigate_back",
+      "value": "뒤로"
+    },
+    {
+      "name": "network_error",
+      "value": "네트워크 오류"
+    },
+    {
+      "name": "never",
+      "value": "사용하지 않음"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "신작 및 인기 동영상"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "AVPlayer 제약으로 인해 탐색 시간이 %d초로 설정되었습니다"
+    },
+    {
+      "name": "next_stream",
+      "value": "다음 스트림"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "이 옵션은 %s가 테마로 선택되었을 경우에만 사용할 수 있습니다"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "선호하는 어두운 테마 선택 — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "어두운 테마"
+    },
+    {
+      "name": "no",
+      "value": "아니오"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "장치에서 열 수 있는 앱이 없습니다"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "이 작업에 적합한 파일 관리자를 찾을 수 없습니다.\n\n파일 관리자를 설치하거나 다운로드 설정에서 '%s'을(를) 비활성화하십시오"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "이 작업에 적합한 파일 관리자를 찾을 수 없습니다.\n\n저장영역 접속 프레임워크 호환 파일 관리자를 설치하십시오"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "외부 플레이어에서 사용할 수 있는 오디오 스트림이 없음"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "다운로드 할 폴더를 설정에서 지정하세요"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "구독중인 채널이 없습니다"
+    },
+    {
+      "name": "no_comments",
+      "value": "댓글 없음"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "다운로드 폴더가 아직 설정되지 않았습니다. 지금 기본 다운로드 폴더를 선택하세요"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "피드 그룹을 생성하지 않았습니다"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "실시간 스트림 없음"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "청취자 없음"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "시청자 없음"
+    },
+    {
+      "name": "no_player_found",
+      "value": "스트림 플레이어가 발견되지 않았습니다. VLC를 설치할까요?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "스트림 플레이어를 찾을 수 없습니다 (VLC를 설치하여 동영상을 재생할 수 있습니다)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "아직 재생목록 책갈피가 없습니다"
+    },
+    {
+      "name": "no_streams",
+      "value": "스트림 없음"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "다운로드 가능한 스트림이 없습니다"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "구독자 없음"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "유효한 ZIP 파일 없음"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "외부 플레이어에 사용할 수 있는 비디오 스트림이 없음"
+    },
+    {
+      "name": "no_videos",
+      "value": "비디오 없음"
+    },
+    {
+      "name": "no_views",
+      "value": "조회수 없음"
+    },
+    {
+      "name": "none",
+      "value": "없음"
+    },
+    {
+      "name": "not_available",
+      "value": "이용 불가"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "첫번째 버튼"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "두번째 버튼"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "세번째 버튼"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "네번째 버튼"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "다섯번째 버튼"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "버퍼링"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "존재하지 않음"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "연속 재생"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "셔플"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "축소된 알림에서 최대 3개까지 표시될 항목을 고를 수 있습니다!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "아래의 각 알림 동작을 탭하여 편집합니다. 오른쪽의 체크박스를 사용하여 최대 3개까지 선택하여 압축 알림에 표시합니다."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "아래의 각 알림 작업을 탭하여 편집하세요. 처음 세 가지 작업(재생/일시 중지, 이전 및 다음)은 시스템에 의해 설정되며 사용자 정의할 수 없습니다."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "NewPipe 플레이어 알림"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe 알림"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "안드로이드에서 썸네일 이미지의 기본 색상에 따라 알림 색상을 사용자 지정 (일부 기기에서는 사용할 수 없음)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "색상화된 알림"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "알림에 표시된 비디오 썸네일을 16:9에서 1:1 화면비로 자릅니다"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "1:1 화면비로 썸네일 자르기"
+    },
+    {
+      "name": "notifications",
+      "value": "알림"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "알림이 비활성화되었습니다"
+    },
+    {
+      "name": "off",
+      "value": "끔"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "on",
+      "value": "켬"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1개의 항목이 삭제되었습니다."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "브라우저에서 열기"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "팝업 모드로 열기"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "재생 대기열 열기"
+    },
+    {
+      "name": "open_website_license",
+      "value": "웹사이트 열기"
+    },
+    {
+      "name": "open_with",
+      "value": "다음으로 열기"
+    },
+    {
+      "name": "override_current_data",
+      "value": "이것은 현재 설정을 덮어쓸 것입니다."
+    },
+    {
+      "name": "overwrite",
+      "value": "덮어쓰기"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "파일을 덮어쓰기할 수 없습니다"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "이 이름을 가진 다운로드 된 파일이 이미 있습니다"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "이 이름을 가진 파일이 이미 있습니다"
+    },
+    {
+      "name": "paid_content",
+      "value": "이 콘텐츠는 유료 사용자만 사용할 수 있으므로 NewPipe에서 스트리밍 또는 다운로드할 수 없습니다."
+    },
+    {
+      "name": "parsing_error",
+      "value": "웹사이트를 가져올 수 없습니다"
+    },
+    {
+      "name": "pause",
+      "value": "일시정지"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "다운로드 일시정지"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "종량제 네트워크에서 일시정지"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "모바일 데이터로 전환될 때, 일부 다운로드는 정지되지 않습니다"
+    },
+    {
+      "name": "paused",
+      "value": "일시중지됨"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "인스턴스가 이미 존재"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "인스턴스를 확인할 수 없음"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "인스턴스 URL 입력"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "HTTPS URL만 지원"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "인스턴스 추가하기"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "%s에서 원하는 인스턴스 찾기"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "선호하는 PeerTube 인스턴스 선택"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "피어튜브 인스턴스"
+    },
+    {
+      "name": "percent",
+      "value": "퍼센트"
+    },
+    {
+      "name": "permission_denied",
+      "value": "시스템에 의해 실행이 거부되었습니다"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "다른 앱 위에 표시할 수 있는 권한 부여"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "팝업 플레이어를 사용하려면, 이후 Android 설정에서 %1$s 선택 후 %2$s 설정을 켜 주십시오."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "다른 앱 위에 표시 허용"
+    },
+    {
+      "name": "play",
+      "value": "재생"
+    },
+    {
+      "name": "play_all",
+      "value": "전부 재생"
+    },
+    {
+      "name": "play_audio",
+      "value": "오디오"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "오디오 설정"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "오디오: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "제거"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "상세 정보"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Kodi로 재생"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "피치"
+    },
+    {
+      "name": "playback_reset",
+      "value": "초기화"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "재생 속도 조절"
+    },
+    {
+      "name": "playback_step",
+      "value": "단계"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "템포"
+    },
+    {
+      "name": "player_http_403",
+      "value": "재생 중 서버에서 HTTP 403 오류를 수신했으며, 스트리밍 URL이 만료되었거나 IP 차단으로 인해 발생했을 수 있습니다"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "재생 중 서버에서 HTTP %1$s 오류를 수신했습니다"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "플레이어 오류로부터 복구 중"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "이 스트림을 재생할 수 없습니다"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "복구할 수 없는 플레이어 오류가 발생했습니다"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "재생목록에 추가됨"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "중복 추가 %d 번"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "재생목록 생성 완료"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "자동생성된(업로더를 찾지못함)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "재생목록 페이지"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "재생목록 썸네일 변경 완료."
+    },
+    {
+      "name": "playlists",
+      "value": "재생목록"
+    },
+    {
+      "name": "popup_player",
+      "value": "팝업 플레이어"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "팝업 모드에서 재생 중"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "마지막으로 사용한 팝업 위치 및 크기를 기억합니다"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "팝업 크기 및 위치 기억"
+    },
+    {
+      "name": "post_processing",
+      "value": "후처리 실행 중"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "가능한 경우 시각 장애인을 위한 설명이 포함된 오디오 트랙 선택"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "설명이 포함된 오디오 선호"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "언어에 관계없이 원본 오디오 트랙 선택"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "원본 오디오 선호"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "콘텐츠를 열 때 사용할 기본 동작 — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "선호하는 열기 동작"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "요청한 콘텐츠를 로드 중입니다"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "정보 가져오는 중…"
+    },
+    {
+      "name": "previous_export",
+      "value": "이전 내보내기"
+    },
+    {
+      "name": "previous_stream",
+      "value": "이전 스트림"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "NewPipe 프로젝트는 사용자의 개인 정보 보호를 최우선으로 생각하며, 동의 없이 어떠한 정보도 수집하지 않습니다. \n\nNewPipe 개인정보 보호 정책에서는 오류 보고 시 어떠한 정보가 수집되고 저장되는지 자세히 명시되어 있습니다."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "NewPipe의 개인정보취급방침"
+    },
+    {
+      "name": "private_content",
+      "value": "이 콘텐츠는 비공개이므로 NewPipe에서 스트리밍하거나 다운로드할 수 없습니다."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "처리 중... 시간이 걸릴 수 있습니다"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer 기본"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "프로그레시브 콘텐츠의 불러오기 간격 크기를 변경합니다 (현재 %s). 값이 낮을수록 초기 로딩 속도가 빨라질 수 있음"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "재생 로드 간격 크기"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "대기열에 추가됨"
+    },
+    {
+      "name": "radio",
+      "value": "라디오"
+    },
+    {
+      "name": "read_full_license",
+      "value": "라이선스 읽기"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "개인정보취급방침 읽기"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA 쿠키를 비웠습니다"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "reCAPTCHA 확인 요청됨"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "해결"
+    },
+    {
+      "name": "recent",
+      "value": "최근"
+    },
+    {
+      "name": "recently_added",
+      "value": "최근에 추가됨"
+    },
+    {
+      "name": "recovering",
+      "value": "복구하기"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "관련 항목"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "원격 검색 제안"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "복제 삭제"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "이 재생목록의 모든 스트림 복사본을 삭제하겠습니까?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "복제를 삭제하시겠습니까?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "시청 기록 지우기"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "예, 부분적으로 본 비디오"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "시청 기록을 지우겠습니까?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "재생목록에 추가하기 전후로 시청한 스트림이 제거됩니다. \n정말 계속합니까?"
+    },
+    {
+      "name": "rename",
+      "value": "이름 바꾸기"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "이름 바꾸기"
+    },
+    {
+      "name": "replay",
+      "value": "다시 재생"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "모든 설정을 초기화하면 설정해둔 사항이 모두 삭제되며 앱을 다시 시작합니다.\n\n\n\n정말 계속하시겠습니까?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "모든 설정을 기본값으로 초기화"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "설정 초기화"
+    },
+    {
+      "name": "resize_fill",
+      "value": "채우기"
+    },
+    {
+      "name": "resize_fit",
+      "value": "꼭 맞게 하기"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "확대"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "기본설정으로 되돌리기"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "초기 설정으로 복원하시겠습니까?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "이 비디오는 연령제한이 있습니다.\n\n\n\n만약, 시청을 원한다면 설정에 \"%1$s\"를 활성화 하세요."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "이 동영상은 연령 제한이 있습니다.\n\n연령 제한 동영상에 대한 새로운 YouTube 정책으로 인해 NewPipe는 동영상 스트림에 접속할 수 없으므로 재생할 수 없습니다."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "중단 후 계속 재생(예: 전화 통화)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "이어서 재생"
+    },
+    {
+      "name": "retry",
+      "value": "재시도"
+    },
+    {
+      "name": "rewind",
+      "value": "되감기"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "플레이어 화면 오른쪽 절반에 대한 제스처 선택"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "오른쪽 제스처 동작"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "저장된 탭을 불러올 수 없었으므로, 기본 탭을 사용합니다"
+    },
+    {
+      "name": "search",
+      "value": "검색"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "검색 기록이 삭제되었습니다"
+    },
+    {
+      "name": "search_no_results",
+      "value": "결과 없음"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "검색된 개수: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "%1$s 검색"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "%1$s 검색 (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "빠른-감기/되감기 찾는 시간"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "탐색막대 썸네일 미리보기"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "채널 선택"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "피드 그룹 선택"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "키오스크 선택"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "재생목록 선택"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "외부 플레이어용 오디오 트랙 선택"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "아래에서 선호하는 어두운 테마를 선택할 수 있습니다"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "외부 플레이어의 품질 선택"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "선택한 스트림은 외부 플레이어가 지원하지 않습니다"
+    },
+    {
+      "name": "semitone",
+      "value": "반음"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "재생목록 썸네일로 설정"
+    },
+    {
+      "name": "settings",
+      "value": "설정"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "외관"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "백업 및 복원"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "데이터 삭제"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "디버그"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "다운로드"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "AVPlayer 설정을 관리합니다. 이러한 변경 사항을 적용하려면 플레이어를 다시 시작해야 함"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "AVPlayer 설정"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "피드"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "기록 및 캐시"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "동작"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "현재 재생 중인 스트림 알림 구성"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "플레이어 알림"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "플레이어"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "업데이트"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "비디오 및 오디오"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "파일명에 허용되는 문자"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "올바르지 않은 문자는 다음 문자로 대체됩니다"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "대체 문자"
+    },
+    {
+      "name": "share",
+      "value": "공유"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "다음으로 공유"
+    },
+    {
+      "name": "share_playlist",
+      "value": "재생목록 공유"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "YouTube 임시 재생목록으로 공유"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "URL 목록 공유"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "타이틀로 공유"
+    },
+    {
+      "name": "short_billion",
+      "value": "%s십억"
+    },
+    {
+      "name": "short_million",
+      "value": "%s백만"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%s천"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "연령 제한(예: 18세 이상)이 있어 어린이에게 적합하지 않을 수 있는 콘텐츠 표시"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "연령 제한 콘텐츠 보여주기"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "채널 세부정보 표시"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "채널 탭"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "채널 페이지에 표시되는 탭"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "댓글 숨기기"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "댓글 보기"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "플레이어를 사용할 때 충돌 옵션을 표시합니다"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "\"플레이어 충돌\" 표시"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "비활성화하면 비디오 설명과 추가 정보를 표시하지 않습니다"
+    },
+    {
+      "name": "show_description_title",
+      "value": "설명 표시하기"
+    },
+    {
+      "name": "show_error",
+      "value": "오류 표시"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "오류 스낵바 표시"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "일부 기기에서만 2K/4K 해상도 재생이 지원됩니다"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "높은 해상도 표시"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "비디오 \"세부사항:\"에서 배경 또는 팝업 버튼을 누를 때 팁 표시"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "\"길게 눌러 대기열에 추가하기\" 팁 표시"
+    },
+    {
+      "name": "show_info",
+      "value": "정보 보기"
+    },
+    {
+      "name": "show_less",
+      "value": "덜보기"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "메모리 누수 표시"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "스트림 작성자, 스트림 콘텐츠 또는 검색 요청에 대한 추가 정보가 있는 메타 정보 상자를 숨기려면 끄세요"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "메타 정보 표시"
+    },
+    {
+      "name": "show_more",
+      "value": "더보기"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "다음/유사한 비디오 표시"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "서비스의 원본 텍스트가 스트림 항목에 표시됩니다"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "항목에 원래 시간 전 표시"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "비디오를 Kodi 미디어 센터를 사용해 재생하는 옵션을 표시합니다"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "\"Kodi로 재생\" 옵션 표시"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "검색할 때 표시할 제안 선택"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "검색 제안"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "잠금 화면 배경과 알림 모두에 썸네일 사용"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "썸네일 보기"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s에서 데이터 제공을 거부하고, 요청자가 봇이 아닌지 확인하기 위해 로그인을 요청하고 있습니다.\n\n아마 IP가 %1$s에서 임시 차단되었을 것이며, 잠시 기다리거나 다른 IP로 전환할 수 있습니다 (예를 들어 VPN을 켜/끄거나, WiFi를 모바일 데이터로 바꿔 보세요).\n\n자세한 정보는 <a href=\"%2$s\">여기 FAQ</a>를 확인하세요."
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "무음 구간 빨리 감기"
+    },
+    {
+      "name": "songs",
+      "value": "노래"
+    },
+    {
+      "name": "sorry_string",
+      "value": "죄송합니다. 오류가 발생했습니다."
+    },
+    {
+      "name": "sort",
+      "value": "정렬"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "이것은 적어도 귀하의 국가에서 SoundCloud Go+ 트랙이므로 NewPipe에서 스트리밍하거나 다운로드할 수 없습니다."
+    },
+    {
+      "name": "start",
+      "value": "시작"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "유럽 연합 일반 데이터 보호 규정(GDPR)을 준수하기 위해 NewPipe의 개인 정보 보호 정책에 주의를 기울입니다. 주의 깊게 읽으십시오.\n\n버그 보고서를 보내려면 수락해야 합니다."
+    },
+    {
+      "name": "start_downloads",
+      "value": "다운로드 시작"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "백그라운드에서 재생"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "팝업으로 재생"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "화면 자동 회전이 잠겨 있는 경우 미니 플레이어에서 동영상을 시작하지 말고 바로 전체 화면 모드로 재생하세요. 전체 화면을 종료해서 미니 플레이어를 이용할 수도 있습니다"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "전체화면으로 주 플레이어 시작"
+    },
+    {
+      "name": "stop",
+      "value": "멈추기"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "다운로더에서 아직 지원하지 않는 스트림은 표시되지 않습니다"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "구독에서 새 스트림이 있을 때 알림"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "새로운 스트림"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "확인 빈도"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "필요한 네트워크 연결"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "구독"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "구독중"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "구독자 수를 가져올 수 없습니다"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "구독을 변경할 수 없음"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "구독을 업데이트할 수 없음"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "구독 목록 내보내기 실패"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "구독 목록 가져오기 실패"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "해결 되었다면 “완료”를 누르세요"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "백그라운드로 전환"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "기본으로 전환"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "팝업으로 전환"
+    },
+    {
+      "name": "systems_language",
+      "value": "시스템 기본값"
+    },
+    {
+      "name": "tab_about",
+      "value": "정보 및 FAQ"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "재생목록 북마크"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "재생목록"
+    },
+    {
+      "name": "tab_choose",
+      "value": "탭 선택"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "라이선스"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "구독목록"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "태블릿 모드"
+    },
+    {
+      "name": "theme_title",
+      "value": "테마"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "이미지 캐시 지워짐"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "NewPipe 정보"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "기록"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "재생목록 실행"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA 확인"
+    },
+    {
+      "name": "title_last_played",
+      "value": "마지막으로 재생"
+    },
+    {
+      "name": "title_licenses",
+      "value": "서드파티 라이선스"
+    },
+    {
+      "name": "title_most_played",
+      "value": "가장 많이 재생"
+    },
+    {
+      "name": "toggle_all",
+      "value": "모두 토글"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "전체화면 전환"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "화면 방향 전환"
+    },
+    {
+      "name": "top_50",
+      "value": "탑 50"
+    },
+    {
+      "name": "tracks",
+      "value": "트랙"
+    },
+    {
+      "name": "trending",
+      "value": "인기 급상승"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "인기 급상승 게임"
+    },
+    {
+      "name": "trending_movies",
+      "value": "인기 급상승 영화 및 쇼"
+    },
+    {
+      "name": "trending_music",
+      "value": "인기 급상승 음악"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "인기 급상승 팟캐스트"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "북마크 제거하기"
+    },
+    {
+      "name": "undo",
+      "value": "되돌리기"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "영상과 소리 분리 (왜곡이 발생할 수 있음)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "알 수 없음"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[알 수 없음]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "알 수 없는 형식"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "알 수 없는 품질"
+    },
+    {
+      "name": "unmute",
+      "value": "무음해제"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "영구 썸네일 설정 해제"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "구독 취소"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "이 콘텐츠는 현재 선택한 콘텐츠 지역에서 이용할 수 없습니다.\n\n\"설정 > 콘텐츠 > 기본 콘텐츠 국가\"에서 지역을 바꾸세요."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "지원하지 않는 URL입니다"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "URL을 인식할 수 없습니다. 다른 앱으로 여시겠습니까?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "새 버전이 있을 경우 앱을 업데이트하도록 알림 표시"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "업데이트"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "%1$s에 업로드됨"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "디코더 초기화 문제가 있는 경우 이 옵션을 활성화하면 기본 디코더 초기화에 실패할 경우 우선순위가 낮은 디코더로 되돌아갑니다. 이 경우 기본 디코더를 사용할 때보다 재생 성능이 저하될 수 있음"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "AVPlayer의 디코더 폴백 기능 사용"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "외부 오디오 플레이어 사용"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "일부 해상도에서 소리가 나지 않을 수 있습니다"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "외부 비디오 플레이어 사용"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "정확하지 않은 탐색을 사용하면 정확도가 떨어지는 대신 더 빠르게 위치를 탐색할 수 있습니다. 5초, 15초 또는 25초 탐색 기능은 이 기능과 같이 동작하지 않습니다"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "정확하지 않은 빠른 탐색 사용"
+    },
+    {
+      "name": "users",
+      "value": "사용자"
+    },
+    {
+      "name": "video",
+      "value": "비디오"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "%s에 의해"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "비디오 플레이어"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "발견된 비디오 스트림 없음"
+    },
+    {
+      "name": "videos_string",
+      "value": "비디오"
+    },
+    {
+      "name": "view_on_github",
+      "value": "GitHub에서 보기"
+    },
+    {
+      "name": "volume",
+      "value": "볼륨"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "동영상 시청 기록이 삭제되었습니다"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "재생위치 삭제완료"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "더 많은 정보와 뉴스를 확인하려면 NewPipe 웹사이트에 방문하세요."
+    },
+    {
+      "name": "website_title",
+      "value": "웹사이트"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "정보:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "다음이 발생함:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Wi-Fi에서만"
+    },
+    {
+      "name": "yes",
+      "value": "네"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "이제 이 채널을 구독했습니다"
+    },
+    {
+      "name": "your_comment",
+      "value": "내용 (영어로 작성):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "이 영상은 YouTube Music Premium 회원만 볼 수 있기 때문에 NewPipe에서 스트리밍이나 다운로드가 불가능합니다."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "재생 중 서버에서 HTTP 403 오류를 수신했으며, 스트리밍 URL 역난독화 문제나 IP 차단 때문일 수 있습니다"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube는 잠재적으로 성인용 콘텐츠를 숨기는 '제한 모드'를 제공합니다"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "YouTube의 '제한 모드' 켜기"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

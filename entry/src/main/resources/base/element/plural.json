@@ -1,0 +1,225 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d day"
+        },
+        {
+          "quantity": "other",
+          "value": "%d days"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Deleted %1$s download"
+        },
+        {
+          "quantity": "other",
+          "value": "Deleted %1$s downloads"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Download finished"
+        },
+        {
+          "quantity": "other",
+          "value": "%s downloads finished"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Exporting %d subscription…"
+        },
+        {
+          "quantity": "other",
+          "value": "Exporting %d subscriptions…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d selected"
+        },
+        {
+          "quantity": "other",
+          "value": "%d selected"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d hour"
+        },
+        {
+          "quantity": "other",
+          "value": "%d hours"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Importing %d subscription…"
+        },
+        {
+          "quantity": "other",
+          "value": "Importing %d subscriptions…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s listener"
+        },
+        {
+          "quantity": "other",
+          "value": "%s listeners"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Loading %d subscription…"
+        },
+        {
+          "quantity": "other",
+          "value": "Loading %d subscriptions…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minute"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minutes"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s new stream"
+        },
+        {
+          "quantity": "other",
+          "value": "%s new streams"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s reply"
+        },
+        {
+          "quantity": "other",
+          "value": "%s replies"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d second"
+        },
+        {
+          "quantity": "other",
+          "value": "%d seconds"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s subscriber"
+        },
+        {
+          "quantity": "other",
+          "value": "%s subscribers"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s video"
+        },
+        {
+          "quantity": "other",
+          "value": "%s videos"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s view"
+        },
+        {
+          "quantity": "other",
+          "value": "%s views"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s watching"
+        },
+        {
+          "quantity": "other",
+          "value": "%s watching"
+        }
+      ]
+    }
+  ]
+}

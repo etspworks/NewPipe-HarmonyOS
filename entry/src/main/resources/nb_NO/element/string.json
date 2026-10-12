@@ -1,0 +1,2828 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Godta"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Konto terminert"
+    },
+    {
+      "name": "action_history",
+      "value": "Historikk"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Legg til i spilleliste"
+    },
+    {
+      "name": "albums",
+      "value": "Album"
+    },
+    {
+      "name": "all",
+      "value": "Alle"
+    },
+    {
+      "name": "always",
+      "value": "Alltid"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Alltid spør"
+    },
+    {
+      "name": "any_network",
+      "value": "Et hvilket som helst nettverk"
+    },
+    {
+      "name": "app_description",
+      "value": "Fri lett strømming på HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Programspråk"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe er copyleft fri programvare: Du kan bruke, studere og forbedre den etter egen vilje. Spesifikt kan du redistribuere og/eller modifisere den i henhold til vilkårene gitt i GNU General Public-lisensen, som er publisert av Free Software Foundation, enten versjon 3 av lisensen, eller (etter eget ønske) enhver senere versjon."
+    },
+    {
+      "name": "app_license_title",
+      "value": "NewPipe sin lisens"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "App/brukergrensesnitt krasjet"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Trykk for å laste ned %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Ny NewPipe-versjon er tilgjengelig!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Merknader for nye NewPipe-versjoner"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Varsel om appoppdatering"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Du bruker den nyeste versjonen av NewPipe"
+    },
+    {
+      "name": "artists",
+      "value": "Artister"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Fant ingen lydstrømmer"
+    },
+    {
+      "name": "audio_track",
+      "value": "Lydspor"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "beskrivende"
+    },
+    {
+      "name": "auto",
+      "value": "Automatisk"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Automatisk (enhetstema)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Fortsett fullendt (ikke-repeterende) avspillingskø ved å legge til en relatert strøm"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Sett neste strøm i kø automatisk"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Automatisk køstilling"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Start avspilling automatisk — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Spill av automatisk"
+    },
+    {
+      "name": "background_player",
+      "value": "Bakgrunnsavspiller"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Spiller i bakgrunnen"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Beste oppløsning"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Svart"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Blank side"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Bokmerk spilleliste"
+    },
+    {
+      "name": "brightness",
+      "value": "Lysstyrke"
+    },
+    {
+      "name": "cancel",
+      "value": "Avbryt"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Autogenerert"
+    },
+    {
+      "name": "caption_none",
+      "value": "Ingen bildetekster"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Endre spillerens undertekststørrelse og bakgrunnsstiler. Krever omstart av appen for å tre i kraft"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Undertekster"
+    },
+    {
+      "name": "card",
+      "value": "Kort"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Opprettet av %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Kanalside"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Om"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Album"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Kanaler"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Direkte"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Spillelister"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Spor"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Videoer"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Kanalabonnent oppsagt"
+    },
+    {
+      "name": "channels",
+      "value": "Kanaler"
+    },
+    {
+      "name": "chapters",
+      "value": "Kapitler"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Bokstaver og tall"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "De fleste spesialtegn"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Se etter oppdateringer"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Start sjekk etter nye strømmer"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Ser etter oppdateringer…"
+    },
+    {
+      "name": "checksum",
+      "value": "Sjekksum"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Velg en instans"
+    },
+    {
+      "name": "clear",
+      "value": "Tøm"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Tøm kaker som NewPipe lagrer når du løser en reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Tøm reCAPTCHA-kaker"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Tøm nedlastingshistorikk"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Sletter alle avspillingsposisjoner"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Slett avspillingsposisjoner"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Den aktive spillerkøen blir erstattet"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Bytte fra en spiller til en annen kan erstatte køen din"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Be om bekreftelse før du tømmer køen"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Sletter historikken for søkte nøkkelord"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Tøm søkehistorikk"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Slett historikken og posisjon for avspilte strømmer"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Tøm avspillingshistorikk"
+    },
+    {
+      "name": "close",
+      "value": "Lukk"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Kommentarer er avskrudd"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Kommentarer"
+    },
+    {
+      "name": "conferences",
+      "value": "Konferanser"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Ønsker du å slette din nedlastingshistorikk eller slette alle nedlastede filer?"
+    },
+    {
+      "name": "content",
+      "value": "Innhold"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Forvalgt innholdsspråk"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Innholdet er utilgjengelig"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Innholdet støttes ikke enda av NewPipe.\n\n\n\nStøtte vil forhåpentligvis komme til i en senere versjon."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Hvorvidt du har idéer vedrørende oversettelser, designendringer, koderenskning, eller tunge kodeendringer—hjelp er alltids kjærkommen. Desto mer som gjøres, desto bedre blir det!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Bidra"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Legg til i"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Bakgrunn"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Last ned strøm-fil"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Oppsprett"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Kopier formatert rapport"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s av %2$s lisensiert %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "ADVARSEL: Kunne ikke importere alle filer."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Kunne ikke laste inn alle miniatyrbilder"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Kunne ikke sette opp nedlastingsmeny"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Krasj programmet"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Krasj avspilleren"
+    },
+    {
+      "name": "create",
+      "value": "Opprett"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Opprett en feilmerknad"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Ny spilleliste"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Mørk"
+    },
+    {
+      "name": "decline",
+      "value": "Avslå"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Forvalgt lydformat"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Forvalgt innholdsland"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Standard kiosk"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Forvalgt oppsprettsoppløsning"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Forvalgt oppløsning"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Forvalgt videoformat"
+    },
+    {
+      "name": "delete",
+      "value": "Slett"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Slett nedlastede filer"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Slett alle nedlastede filer fra harddisken?"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Ønsker du å slette dette elementet fra søkehistorikken?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Slett alle avspillingsposisjoner?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Slett denne spillelisten?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Slett hele søkehistorikken?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Slett hele visningshistorikken?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Skru av merking av tekst i beskrivelsen"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Skru på merking av tekst i beskrivelsen"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Du kan nå velge tekst inne i beskrivelsen. Merk at siden kan flimre og lenker er kanskje ikke klikkbare i utvalgsmodus."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Beskrivelse"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Nesetrekk"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Dra for å omorganisere"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Hjertemerket av skaperen"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Nikk"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Festet kommentar"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Kanalens avatar-miniatyrbilde"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Spill av video, varighet:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Opplasterens avatar"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Mente du «%1$s»?"
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Skru av media-tunnelering hvis du opplever svart skjerm eller videohakking"
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Skru av media-tunnelering"
+    },
+    {
+      "name": "disabled",
+      "value": "Avskrudd"
+    },
+    {
+      "name": "dismiss",
+      "value": "Forkast"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe utvikles av frivillige som bruker sin fritid til å gi deg den beste brukeropplevelsen. Gi tilbake for å hjelpe utviklere å gjøre NewPipe enda bedre, mens de nyter en varm kopp kaffe."
+    },
+    {
+      "name": "donation_title",
+      "value": "Doner"
+    },
+    {
+      "name": "done",
+      "value": "Ferdig"
+    },
+    {
+      "name": "dont_show",
+      "value": "Ikke vis"
+    },
+    {
+      "name": "download",
+      "value": "Last ned"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Det finnes en ventende nedlasting ved dette navnet"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Nedlasting med dette navnet underveis allerede"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Last ned"
+    },
+    {
+      "name": "download_failed",
+      "value": "Nedlasting mislyktes"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Nedlastingen har startet"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Velg nedlastingsmappe for lydfiler"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Nedlastede lydfiler lagres her"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Nedlastingsmappe for lyd"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Velg nedlastingsmappe for videofiler"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Nedlastede videofiler lagres her"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Video nedlasting mappe"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Nedlasting til eksternt SD-kort er ikke mulig. Tilbakestill plassering av nedlastingsmappe?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Ekstern lagring utilgjengelig"
+    },
+    {
+      "name": "downloads",
+      "value": "Nedlastinger"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Du vil bli spurt om hvor hver nedlasting skal plasseres\n\nAktiver system mappe velgeren (SAF) dersom du vil laste ned til et eksternt SD kort"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Du vil bli spurt om hvor du vil lagre hver nedlastning"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Spør om hvor ting skal lastes ned til"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "'Lagringstilgangsrammeverk' (SAF) tillater nedlasting til et eksternt SD-kort"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Fra Android 10 er kun «lagringstilgangsrammeverk» støttet"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Bruk systemmappevelger (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Nedlastinger"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Lukk skuff"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Skru tjeneste av/på, for tiden er dette status:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Åpne skuff"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Spillelistene som er utgrået inneholder allerede dette elementet."
+    },
+    {
+      "name": "duration",
+      "value": "Varighet"
+    },
+    {
+      "name": "duration_live",
+      "value": "Direkte"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Bare ufisk her"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Tving rapportering av uleverbare Rx-unntak utenom fragment eller aktivitetslevetid etter forkastelse"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Rapporter feil utenfor livssyklusen"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Overvåkning av minnelekkasjer kan forårsake at appen ikke svarer under heap dumping"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Fortsett der du slapp"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Gjenoppta avspilling"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Vis avspillingsposisjonsindikator i lister"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Posisjon i lister"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Begrens nedlastingskø"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Én nedlasting av gangen"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Lagre søkemønster lokalt"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Søkehistorikk"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Varsle om nye strømmer fra abonnementer"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Varsel om nye strømmer"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Lagre visningshistorikk"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Visningshistorikk"
+    },
+    {
+      "name": "enqueue",
+      "value": "Legg i kø"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Still i kø neste"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Sett i kø"
+    },
+    {
+      "name": "enqueued",
+      "value": "Satt i kø"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "I kø neste"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Kan ikke koble til tjeneren"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Detaljer:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Kan ikke gjenopprette denne nedlastingen"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Filen kan ikke opprettes"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Tjeneren sender ikke data"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Ikke funnet"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Tjeneren godtar ikke flertrådede nedlastinger, prøv igjen med @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Ingen ledig plass på enheten"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "En feil inntraff: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Målmappen kan ikke opprettes"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Etterbehandling mislyktes"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe ble lukket under arbeid med filen"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Framdrift gikk tapt, fordi filen ble slettet"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Rapporter via e-post"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Merknader for innrapportering av feil"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Feilrapport-merknad"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe oppdaget en feil, trykk for å rapportere"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Det oppsto en feil, se varselet"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Sjekk om det allerede eksisterer et problem som diskuterer ditt krasj. Når du oppretter duplikatbilletter, tar du tid fra oss som vi kan bruke på å fikse den faktiske feilen."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Innrapporter på GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Feilrapport"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Rapporter"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Beklager, noe gikk galt."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Kunne ikke etablere sikker tilkobling"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Tilkoblingsavbrudd"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Kunne ikke laste inn kommentarer"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Fant ikke tjeneren"
+    },
+    {
+      "name": "events",
+      "value": "Hendelser"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Eksportert"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Eksporter historikk, abonnementer, spillelister og innstillinger"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Eksporter database"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Eksporterer…"
+    },
+    {
+      "name": "export_to",
+      "value": "Eksporter til"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Eksterne avspillere kan ikke spille lenker av disse typene"
+    },
+    {
+      "name": "faq",
+      "value": "Vis på nettsiden"
+    },
+    {
+      "name": "faq_description",
+      "value": "Hvis du har problemer med å bruke appen, så bør du sjekke ut disse svarene fra generelle spørsmål!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Ofte stilte spørsmål"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Hurtigmodus"
+    },
+    {
+      "name": "featured",
+      "value": "Framhevet"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Ny"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Hent kanalfaner"
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Ønsker du å slette denne gruppen?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Tomt gruppenavn"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Ingen abonnement valgt"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Velg abonnementer"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Vis kun ugrupperte abonnementer"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Kanalgrupper"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Vis følgende strømmer"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Kunne ikke laste inn informasjonskanal"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Kunne ikke laste inn informasjonskanal for «%s»."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Hurtigmodus for informasjonskanal tilbyr ikke mer info om dette."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Skaperens konto har blitt terminert.\n\nNewPipe vil ikke kunne laste inn denne informasjonskanalen i fremtiden.\n\nØnsker du å oppheve ditt abonnement på denne kanalen?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Nye informasjonskanalelementer"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Laster inn strøm…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Strøm sist oppdatert: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Behandler strøm…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Vis/skjul strømmer"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Delvis sett"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Kommende"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Fullført"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Ikke innlastet: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Alltid oppdater"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Tid siden siste oppdatering før et abonnement vurderes utdatert — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Strømoppdateringsterskel"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Skru av hurtigmodus"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Skru på hurtigmodus"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Synes du at strøminnlastingen er for treg? Prøv å skru på rask innlasting (du kan endre det i innstillingene, eller ved å trykke på knappen nedenfor).\n\nNewPipe tilbyr to strøminnlastingsstrategier:\n• Hent hele abonnementskanalen, noe som er tregt, men fullstendig.\n• Bruk av et dedikert tjenesteendepunkt, noe som er raskt men vanligvis ikke fullstendig.\n\nForskjellen mellom dem er at den raske vanligvis mangler info, som elementers varighet eller type (kan ikke skille mellom direktesendinger og normale videoer) og det kan gi færre elementer.\n\nYouTube er et eksempel på en tjeneste som tilbyr denne raske metoden med sin RSS-informasjonskanal.\n\nValget koker ned til det du foretrekker: hastighet eller presis info."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Tilgjengelig i noen tjenester, det er vanligvis mye raskere, men kan gi et begrenset antall elementer, og ofte ufullstendig informasjon (f.eks. ingen varighet, elementtype, eller sanntidsstatus)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Hent fra dedikert strøm når tilgjengelig"
+    },
+    {
+      "name": "file",
+      "value": "Fil"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Fil slettet"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Filnavn kan ikke være tomt"
+    },
+    {
+      "name": "forward",
+      "value": "Spol forover"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Hva er nytt"
+    },
+    {
+      "name": "general_error",
+      "value": "Feil"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Generer unikt navn"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Innholdet er ikke tilgjengelig i din region."
+    },
+    {
+      "name": "get_notified",
+      "value": "Bli varslet"
+    },
+    {
+      "name": "give_back",
+      "value": "Bidra"
+    },
+    {
+      "name": "grid",
+      "value": "Rutenett"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Merknad for videosjekksummeringsframdrift"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Videosjekksumsmerknad"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Høy kvalitet (større)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Hold for å legge i kø"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Nyttig hvis hodsettet ditt har knapper som fungerer dårlig"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Ignorer enhetens fysiske knapper"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Høy kvalitet"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Lav kvalitet"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Middels kvalitet"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Ikke last inn bilder"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Bildekvalitet"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Importert"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Overstyrer din nåværende historikk, abonnementsliste, spillelister og (alternativt) innstillinger"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Importer database"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Importer fil"
+    },
+    {
+      "name": "import_from",
+      "value": "Importer fra"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Husk at denne handlingen kan belaste nettverket tungt.\n\n\n\nØnsker du å fortsette?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Importerer…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Ønsker du også å importere innstillinger?"
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Importer en SoundCloud-profil ved å skrive enten nettadressen eller din ID:\n\n\n\n1. Skru på \"skrivebordsmodus\" i en nettleser ( siden er ikke tilgjengelig for mobile enheter)\n\n2. Gå til denne nettadressen: %1$s\n\n3. Logg inn når forespurt\n\n4. Kopier profil-nettadressen du ble videresendt til."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "din-ID, soundcloud.com/dinid"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Importer eller eksporter fra trepunktsmenyen"
+    },
+    {
+      "name": "import_title",
+      "value": "Importer"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Importer YoutTube-abonnementer fra Google takeout:\n\n\n\n1. Gå til denne nettadressen: %1$s\n\n2. Logg inn når forespurt\n\n3. Klikk på \"All data inkludert\", så på \"Fjern merket for alle\", så på kun \"Abonnementer\", og klikk så \"OK\"\n\n4. Klikk på \"Neste steg\" og så på \"Opprett eksport\"\n\n5. Klikk på \"Last ned\"-knappen etter den vises\n\n6. Klikk på IMPORTER FIL under og velg den nedlastede .zip filen\n\n7. [Dersom .zip importen feiler] Pakk ut .csv filen (vanligvis under \"YouTube og YouTube Music/subscriptions/subscriptions.csv\"), klikk på IMPORTER FIL under og velg den utpakkede csv filen"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ videoer"
+    },
+    {
+      "name": "info_labels",
+      "value": "Hva:\nForespørsel:\nInnholdsspråk:\nInnholdsland:\nAppspråk:\nTjeneste:\nGMT-tid:\nPakke:\nVersjon:\nOS-versjon:"
+    },
+    {
+      "name": "install",
+      "value": "Installer"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Ingen slik mappe"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Filen finnes ikke eller så har du ikke tilgang til å lese eller skrive til den"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Ingen slik fil/innholdskilde"
+    },
+    {
+      "name": "just_once",
+      "value": "Kun én gang"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Kiosk-side"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Installer manglende Kode-app?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary er ikke tilgjengelig"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Velg håndvending for venstre halvdel av avspillerskjermen"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Venstre håndvendingshandling"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Lys"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Ubegrenset"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Begrens oppløsning når mobildata brukes"
+    },
+    {
+      "name": "list",
+      "value": "Liste"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Listevisningsmodus"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Laster inn metadata …"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Laster inn strømdetaljer…"
+    },
+    {
+      "name": "local",
+      "value": "Lokal"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Lokale søkeforslag"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Lav kvalitet (mindre)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Trykk på forstørrelsesglasset for å komme i gang."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Hovedsidens innhold"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Hvilke faner vises på hovedsiden"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Dra elementer for å fjerne dem"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Flytt hovedfanevelgeren til bunnen"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Hovedfaneposisjon"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Se etter nye versjoner manuelt"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Marker som sett"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Maksimalt antall tilkoblingsforsøk før nedlastingen avblåses"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Maksimalt antall forsøk"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Aldersgrense"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Avatarer"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Metadatahurtiglager tømt"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Fjern all hurtiglagret nettsidedata"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Tøm hurtiglagret metadata"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Kategori"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Tjener"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Språk"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Lisens"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Personvern"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Intern"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Privat"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Offentlig"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Ulistet"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Underkanalavatarer"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Abonnenter"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Støtte"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Etiketter"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Miniatyrbilder"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Opplasteravatarer"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Minimer til bakgrunnsspiller"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Ingen"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Minimer til oppsprettsspiller"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Handling ved bytting til annen app fra hovedspiller — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Minimer ved appbytte"
+    },
+    {
+      "name": "missing_file",
+      "value": "Fil flyttet eller slettet"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Fullført"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Venter"
+    },
+    {
+      "name": "more_options",
+      "value": "Flere alternativer"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ videoer"
+    },
+    {
+      "name": "most_liked",
+      "value": "Mest likt"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Regner ut sjekksum"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Kopiert til utklippstavle"
+    },
+    {
+      "name": "msg_error",
+      "value": "Feil"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Klarte ikke å kopiere til utklippstavlen"
+    },
+    {
+      "name": "msg_name",
+      "value": "Filnavn"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Denne tilgangen trengs for\n\nåpning i oppsprettsmodus"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe laster ned"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Trykk for detaljer"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Tråder"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Vent…"
+    },
+    {
+      "name": "mute",
+      "value": "Forstum"
+    },
+    {
+      "name": "name",
+      "value": "Navn"
+    },
+    {
+      "name": "network_error",
+      "value": "Nettverksfeil"
+    },
+    {
+      "name": "never",
+      "value": "Aldri"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Nytt og hett"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Som følge av begrensninger i AVPlayer er blafringsdistansen kun %d sekunder"
+    },
+    {
+      "name": "next_stream",
+      "value": "Neste strøm"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Dette valget er kun tilgjengelig dersom %s er valgt som tema"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Velg ditt favorittnattema — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Nattdrakt"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Ingen programmer på enheten din kan åpne dette"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Ingen passende filbehandler ble funnet for denne handlingen.\n\nVennligst installer en filbehandler, eller prøv å skru av '%s' i nedlastingsinnstillingene"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Ingen passende filbehandler ble funnet for denne handlingen.\n\nVennligst installer en Storage Access Framework kompatibel filbehandler"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Ingen lydstrømmer er tilgjengelige for eksterne spillere"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Definer en nedlastingsmappe senere i innstillingene"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Abonnerer ikke på noen kanaler enda"
+    },
+    {
+      "name": "no_comments",
+      "value": "Ingen kommentarer"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Ingen nedlastingsmappe er satt ennå, velg en standard nedlastingsmappe nå"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Ingen direktestrømmer"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Ingen lytter"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Ingen ser på"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Fant ingen videostrøm. Installer VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Ingen strømmespiller installert (du kan installere VLC for å spille den)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Ingen spillelistebokmerker enda"
+    },
+    {
+      "name": "no_streams",
+      "value": "Ingen strømmer"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Ingen strømmer tilgjengelige for nedlasting"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Ingen abonnenter"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Ingen gyldig ZIP-fil"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Ingen videostrømmer er tilgjengelige for eksterne spillere"
+    },
+    {
+      "name": "no_videos",
+      "value": "Ingen videoer"
+    },
+    {
+      "name": "no_views",
+      "value": "Ingen visninger"
+    },
+    {
+      "name": "none",
+      "value": "Ingen"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Første handlingstast"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Andre handlingstast"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Tredje handlingstast"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Fjerde handlingstast"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Femte handlingstast"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Bygger mellomlager"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Ingenting"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Gjenta"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Tilfeldig rekkefølge"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Du kan maksimalt velge tre handlinger som skal vises i kompaktvarselet!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Rediger hver varslingshandling nedenfor ved å trykke på den. Velg opptil tre av dem som skal vises i det kompakte varselet ved å bruke avmerkingsboksene til høyre"
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Rediger hver merknadshandling nedenfor ved å trykke på den. De første tre (spill av/pause, forrige, og neste) kan ikke tilpasses."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Merknad for NewPipe sin avspiller"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe-merknad"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "La Android tilpasse varselets farge i henhold til hovedfargen i miniatyrbildet (merk at dette ikke er tilgjengelig på alle enheter)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Fargelegg merknad"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Beskjær videominiatyrbildet som vises i varselet fra 16:9 til 1:1 sideforhold (kan føre til forvrengninger)"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Beskjær miniatyrbildet til sideforholdet 1:1"
+    },
+    {
+      "name": "notifications",
+      "value": "Varsler"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Varsler er deaktivert"
+    },
+    {
+      "name": "off",
+      "value": "Av"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "on",
+      "value": "På"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "Ett element slettet."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Åpne i nettleser"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Åpne i oppsprettsmodus"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Åpne avspillingskø"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Åpne nettside"
+    },
+    {
+      "name": "open_with",
+      "value": "Åpne med"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Dette vil overskrive ditt nåværende oppsett."
+    },
+    {
+      "name": "overwrite",
+      "value": "Overskriv"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "Kan ikke overskrive filen"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Nedlastet fil ved dette navnet finnes allerede"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "En fil ved dette navnet finnes allerede"
+    },
+    {
+      "name": "paid_content",
+      "value": "Innholdet er kun tilgjengelig for brukere som har betalt, så det kan ikke strømmes eller lastes ned av NewPipe."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Kunne ikke tolke nettside"
+    },
+    {
+      "name": "pause",
+      "value": "Pause"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Sett nedlastinger på pause"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Pause ved veksling til kvotebasert nett"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Nyttig ved veksling til mobildata, selv om noen nedlastinger ikke kan settes på pause"
+    },
+    {
+      "name": "paused",
+      "value": "pauset"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Instansen finnes allerede"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Kunne ikke bekrefte instans"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Skriv inn nettadresse til instans"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Kun HTTPS-nettadresser støttes"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Legg til instans"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Finn instansene du liker på %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Velg dine favoritter blant PeerTube-instansene"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube-instanser"
+    },
+    {
+      "name": "percent",
+      "value": "Prosent"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Handling avvist av systemet"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Gi tillatelse til å vise over andre apper"
+    },
+    {
+      "name": "play",
+      "value": "Spill av"
+    },
+    {
+      "name": "play_all",
+      "value": "Spill av alle"
+    },
+    {
+      "name": "play_audio",
+      "value": "Lyd"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Lydinnstillinger"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Lyd: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Fjern"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Detaljer"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Spill av med Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Tonehøyde"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Tilbakestill"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Fartskontroller for avspilling"
+    },
+    {
+      "name": "playback_step",
+      "value": "Steg"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Hastighet"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Gjenoppretter fra spillerfeil"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Kunne ikke spille av denne strømmen"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Uopprettelig avspillerfeil oppstod"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Lagt til i spilleliste"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Duplikat lagt til %d gang(er)"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Spilleliste opprettet"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Autogenerert (fant ingen opplaster)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Spillelisteside"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Miniatyrbilde for spilleliste endret."
+    },
+    {
+      "name": "playlists",
+      "value": "Spillelister"
+    },
+    {
+      "name": "popup_player",
+      "value": "Oppsprettsavspiller"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Spiller av i oppsprettsmodus"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Husk siste størrelse og posisjon for oppsprettsvinduet"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Husk oppsprettsegenskaper"
+    },
+    {
+      "name": "post_processing",
+      "value": "etterbehandling"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Velg et lydspor med beskrivelser for synshemmede hvis tilgjengelig"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Foretrekk beskrivende lyd"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Velg opprinnelig lydspor uavhengig av språk"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Foretrekk opprinnelig lyd"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Forvalgt handling ved åpning av innhold — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Foretrukket åpningshandling"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Laster forespurt innhold"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Henter informasjon…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Forrige eksport"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Forrige strøm"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "NewPipe-prosjektet tar ditt personvern veldig alvorlig. Derfor samler ikke appen inn data uten ditt samtykke.\n\nNewPipes personvernspraksis forklarer i detalj hvilken data som sendes og lagres når du sender en krasjrapport."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "NewPipes personvernspraksis"
+    },
+    {
+      "name": "private_content",
+      "value": "Innholdet er privat, så det kan ikke strømmes eller lastes ned av NewPipe."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Behandler … Kan ta sin tid"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer-forvalg"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Endre størrelsen på lasteintervallet på progressivt innhold (for øyeblikket %s). En lavere verdi kan øke hastigheten på den første videoinnlastingen. Endringer krever omstart av spilleren"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Intervallstørrelse for avspillingsinnlasting"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "I kø"
+    },
+    {
+      "name": "radio",
+      "value": "Radio"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Les lisensen"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Les personvernspraksis"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA-kaker har blitt slettet"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "reCAPTCHA-oppgave forespurt"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Løs"
+    },
+    {
+      "name": "recent",
+      "value": "Nylige"
+    },
+    {
+      "name": "recently_added",
+      "value": "Nylig lagt til"
+    },
+    {
+      "name": "recovering",
+      "value": "gjenoppretter"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Relaterte strømmer"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Søkeforslag annensteds fra"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Fjern duplikater"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Fjern alle duplikatstrømmer i denne spillelisten?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Fjern duplikater?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Fjern sette"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Ja, og delvist sette videoer"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Fjern sette videoer?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Videoer som har blitt sett før og etter at de er lagt til spillelisten, vil bli fjernet. \nEr du sikker? Dette kan ikke angres!"
+    },
+    {
+      "name": "rename",
+      "value": "Gi nytt navn"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Gi nytt navn"
+    },
+    {
+      "name": "replay",
+      "value": "Gjenta"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Fyll"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Tilpass"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Forstørr"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Gjenopprett forvalg"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Ønsker du å gjenopprette forvalg?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Denne videoen er aldersbegrenset.\n\n\n\nSkru på «%1$s» i innstillingene hvis du vil se den."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Denne videoen er aldersbegrenset.\n\nSom følge av YouTube sin praksis med slike har ikke NewPipe tilgang til videostrømmene, og kan derfor ikke spille den."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Fortsett å spille etter avbrytelser (f.eks. telefonsamtaler)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Fortsett avspilling"
+    },
+    {
+      "name": "retry",
+      "value": "Prøv igjen"
+    },
+    {
+      "name": "rewind",
+      "value": "Spol tilbake"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Velg håndvending for høyre halvdel av avspillerskjermen"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Høyre håndvendingshandling"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Kunne ikke leste lagrede faner, så bruker forvalgte"
+    },
+    {
+      "name": "search",
+      "value": "Søk"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Søkehistorikken er slettet"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Ingen resultater"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Viser resultater for: %s"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Hurtigframoverspoling/-tilbakespolingsvarighet"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Forhåndsvisning av miniatyrbilde på spolelinjen"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Velg en kanal"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Velg en kiosk"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Velg en spilleliste"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Du kan velge ditt favorittnattema nedenfor"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Velg kvalitet for eksterne spillere"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Den valgte strømmen støttes ikke av eksterne spillere"
+    },
+    {
+      "name": "semitone",
+      "value": "Halvtone"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Sett som miniatyrbilde for spilleliste"
+    },
+    {
+      "name": "settings",
+      "value": "Innstillinger"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Utseende"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Tøm data"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Feilsøking"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Last ned"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Håndter noen AVPlayer-innstillinger. Disse endringeren krever omstart av avspilleren."
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "AVPlayer-innstillinger"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Strøm"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Historikk og mellomlagring"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Oppførsel"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Konfigurer varsling for gjeldende avspillingsstrøm"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Spillervarsel"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Avspiller"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Oppdateringer"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Video og lyd"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Tillate tegn i filnavn"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Ugyldige tegn erstattes av denne verdien"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Erstatningstegn"
+    },
+    {
+      "name": "share",
+      "value": "Del"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Del med"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Del spilleliste"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Del nettadresse først"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Del med titler"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Vis innhold som muligens er uegnet for barn fordi det har en aldersgrense (som 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Vis aldersbegrenset innhold"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Vis kanaldetaljer"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Kanalfaner"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Hvilke faner som vises på kanalsidene"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Skru av for å skjule kommentarer"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Vis kommentarer"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Viser et krasjalternativ ved bruk av avspilleren"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Vis \"Krasj spilleren\""
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Skru av for å skjule videobeskrivelse og ytterligere info"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Vis beskrivelse"
+    },
+    {
+      "name": "show_error",
+      "value": "Vis feil"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Vis en feil hurtigbar"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Det er bare noen enheter som kan spille 2K-/4K-videoer"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Vis høyere oppløsninger"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Vis tips når det trykkes på bakgrunnen eller oppsprettsknappen i videoens «Detaljer:»"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Vis \"Hold for å legge til\" -tips"
+    },
+    {
+      "name": "show_info",
+      "value": "Vis info"
+    },
+    {
+      "name": "show_less",
+      "value": "Vis mindre"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Vis minnelekkasjer"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Slå av for å skjule metainformasjonsbokser med tilleggsinformasjon om strømskaperen, strøminnhold eller en søkeforespørsel"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Vis metainfo"
+    },
+    {
+      "name": "show_more",
+      "value": "Vis mer"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Vis «Neste» og «Lignende» -videoer"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Originaltekster fra tjenester vil vises for elementer i strømmen"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Vis opprinnelig tidsforskjell for elementer"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Vis valg for avspilling via Kodi mediasenter"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Vis \"Spill av med Kodi\"-valg"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Vis søkeforslag ved søk"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Søkeforslag"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Bruk miniatyrbilde som bakgrunn for både låseskjerm og merknader"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Vis miniatyrbilde"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Hurtig foroverspoling ved stillhet"
+    },
+    {
+      "name": "songs",
+      "value": "Sanger"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Beklager, dette skal ikke skje."
+    },
+    {
+      "name": "sort",
+      "value": "Sorter"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Dette er et spor fra SoundCloud Go+, ihvertfall i ditt land, så det kan ikke strømmes eller lastes ned av NewPipe."
+    },
+    {
+      "name": "start",
+      "value": "Start"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "For å overholde EUs personvernforordning (GDPR), vil vi rette oppmerksomheten din mot NewPipe sin personvernerklæring. Vennligst les den nøye.\n\nDu må godta den, for å sende oss feilrapporten."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Start nedlastinger"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Start avspilling i bakgrunnen"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Start avspilling i et oppsprett"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Ikke start videoer i minispilleren, men bytt til fullskjermsmodus direkte dersom auto-rotering er låst. Du har fremdeles tilgang til minispilleren ved å avslutte fullskjermsvisningen"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Start hovedspiller i fullskjerm"
+    },
+    {
+      "name": "stop",
+      "value": "Stopp"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Strømmer som ennå ikke er støttet av nedlasteren, vises ikke"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Varsler om nye strømmer for abonnementer"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Nye strømmer"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Hyppighet for sjekk"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Nødvendig nettverkstilkobling"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Abonner"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Abonnert"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Abonnementsantall utilgjengelig"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Klarte ikke å endre abonnement"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Klarte ikke å oppdatere abonnement"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Kunne ikke eksportere abonnementer"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Kunne ikke importere abonnementer"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Trykk \"Ferdig\" når den er løst"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Bytt til bakgrunnsmodus"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Bytt til hovedmodus"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Bytt til oppsprettsmodus"
+    },
+    {
+      "name": "systems_language",
+      "value": "Systemforvalg"
+    },
+    {
+      "name": "tab_about",
+      "value": "Om og Ofte stilte spørsmål"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Bokmerkede spillelister"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Velg fane"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Lisenser"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Abonnementer"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Nettbrett-modus"
+    },
+    {
+      "name": "theme_title",
+      "value": "Tema"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Bildehurtiglager tømt"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Om NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Historikk"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Spill kø"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA-oppgave"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Sist spilt"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Tredjepartslisenser"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Mest spilt"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Velg alle"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Veksle fullskjermsvising"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Bytt skjermretning"
+    },
+    {
+      "name": "top_50",
+      "value": "Topp 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Spor"
+    },
+    {
+      "name": "trending",
+      "value": "På vei opp"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Fjern bokmerke"
+    },
+    {
+      "name": "undo",
+      "value": "Angre"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Avhekt (kan forårsake forvrenging)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Ukjent"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Ukjent]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Ukjent format"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Ukjent kvalitet"
+    },
+    {
+      "name": "unmute",
+      "value": "Opphev forstumming"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Skru av vedvarende miniatyrbilde"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Opphev abonnement"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Nettadressen støttes ikke"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Kunne ikke gjenkjenne angitt nettadresse. Åpne den med et annet program?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Vis varsel om appoppdatering når en ny versjon er tilgjengelig"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Oppdatering"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Publisert den %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Bruk AVPlayers dekodings-tilbakefall"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Bruk ekstern lydavspiller"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Fjerner lyd ved noen oppløsninger"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Bruk ekstern videoavspiller"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Unøyaktig spoling lar spilleren søke posisjoner raskere med redusert presisjon. Å søke i 5, 15 eller 25 sekunder fungerer ikke med dette"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Bruk rask unøyaktig spoling"
+    },
+    {
+      "name": "users",
+      "value": "Brukere"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Av %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Videoavspiller"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Fant ingen videostrømmer"
+    },
+    {
+      "name": "videos_string",
+      "value": "Videoer"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Vis på GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "Lydstyrke"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Visningshistorikken er slettet"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Avspillingsposisjoner er slettet"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Besøk NewPipe-nettsiden for mer info og nyheter."
+    },
+    {
+      "name": "website_title",
+      "value": "Nettside"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Info:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Hva skjedde:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Kun på Wi-Fi"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Du abonnerer nå på denne kanalen"
+    },
+    {
+      "name": "your_comment",
+      "value": "Din kommentar (på Engelsk):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Videoen er kun tilgjengelig for YouTube Music Premium-medlemmer, så den kan ikke strømmes eller lastes ned av NewPipe."
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube tilbyr «Begrenset modus» som skjuler innhold antatt å være for voksne"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Slå på YouTubes \"Begrenset modus\""
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

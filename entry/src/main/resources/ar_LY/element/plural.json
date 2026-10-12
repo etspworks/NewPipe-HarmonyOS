@@ -1,0 +1,381 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "اليوم"
+        },
+        {
+          "quantity": "one",
+          "value": "منذ يوم واحد"
+        },
+        {
+          "quantity": "two",
+          "value": "منذ يومَين"
+        },
+        {
+          "quantity": "few",
+          "value": "منذ %d أيام"
+        },
+        {
+          "quantity": "many",
+          "value": "منذ %d يومًا"
+        },
+        {
+          "quantity": "other",
+          "value": "منذ %d يوم"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "لم يتم حذف أي تنزيل"
+        },
+        {
+          "quantity": "one",
+          "value": "تم حذف تنزيل واحد"
+        },
+        {
+          "quantity": "two",
+          "value": "تم حذف تنزيلَيْن"
+        },
+        {
+          "quantity": "few",
+          "value": "تم حذف %1$s تنزيلات"
+        },
+        {
+          "quantity": "many",
+          "value": "تم حذف %1$s تنزيلاً"
+        },
+        {
+          "quantity": "other",
+          "value": "تم حذف %1$s تنزيل"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "لا تنزيل اكتَمَل"
+        },
+        {
+          "quantity": "one",
+          "value": "اكتَمَل تنزيل واحد"
+        },
+        {
+          "quantity": "two",
+          "value": "تنزيلان اكتَمَلَا"
+        },
+        {
+          "quantity": "few",
+          "value": "%s تنزيلات اكتَمَلت"
+        },
+        {
+          "quantity": "many",
+          "value": "%s تنزيلًا اكتَمَل"
+        },
+        {
+          "quantity": "other",
+          "value": "%s تنزيل اكتَمَل"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "لاشيء مُحدّد"
+        },
+        {
+          "quantity": "one",
+          "value": "واحدة محددة"
+        },
+        {
+          "quantity": "two",
+          "value": "إثنتان محدَّدتان"
+        },
+        {
+          "quantity": "few",
+          "value": "%d محددة"
+        },
+        {
+          "quantity": "many",
+          "value": "%d محددة"
+        },
+        {
+          "quantity": "other",
+          "value": "%d محددة"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "لا ساعة"
+        },
+        {
+          "quantity": "one",
+          "value": "ساعة واحدة"
+        },
+        {
+          "quantity": "two",
+          "value": "ساعتان"
+        },
+        {
+          "quantity": "few",
+          "value": "%d ساعات"
+        },
+        {
+          "quantity": "many",
+          "value": "%d ساعة"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ساعة"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "لا مُستمِع"
+        },
+        {
+          "quantity": "one",
+          "value": "مُستَمِع واحد"
+        },
+        {
+          "quantity": "two",
+          "value": "مُستمِعان"
+        },
+        {
+          "quantity": "few",
+          "value": "%s مُستَمِعين"
+        },
+        {
+          "quantity": "many",
+          "value": "%s مُستَمِعًا"
+        },
+        {
+          "quantity": "other",
+          "value": "%s مستمع"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "لا دقيقة"
+        },
+        {
+          "quantity": "one",
+          "value": "دقيقة واحدة"
+        },
+        {
+          "quantity": "two",
+          "value": "دقيقتان"
+        },
+        {
+          "quantity": "few",
+          "value": "%d دقائق"
+        },
+        {
+          "quantity": "many",
+          "value": "%d دقيقة"
+        },
+        {
+          "quantity": "other",
+          "value": "%d دقيقة"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "لا موجَزات"
+        },
+        {
+          "quantity": "one",
+          "value": "موجَز واحد"
+        },
+        {
+          "quantity": "two",
+          "value": "موجَزان"
+        },
+        {
+          "quantity": "few",
+          "value": "%s موجَزات"
+        },
+        {
+          "quantity": "many",
+          "value": "%s موجَزًا"
+        },
+        {
+          "quantity": "other",
+          "value": "%s موجز"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "صفر ثانية"
+        },
+        {
+          "quantity": "one",
+          "value": "ثانية واحدة"
+        },
+        {
+          "quantity": "two",
+          "value": "ثانيتان"
+        },
+        {
+          "quantity": "few",
+          "value": "%d ثوانٍ"
+        },
+        {
+          "quantity": "many",
+          "value": "%d ثانية"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ثانية"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "لا مشارك"
+        },
+        {
+          "quantity": "one",
+          "value": "مٌشارِك واحد"
+        },
+        {
+          "quantity": "two",
+          "value": "مُشارِكان"
+        },
+        {
+          "quantity": "few",
+          "value": "%s مشارِكين"
+        },
+        {
+          "quantity": "many",
+          "value": "%s مشارِكون"
+        },
+        {
+          "quantity": "other",
+          "value": "%s مشارك"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "لا فيديو"
+        },
+        {
+          "quantity": "one",
+          "value": "فيديو واحد"
+        },
+        {
+          "quantity": "two",
+          "value": "فيديوهاتان"
+        },
+        {
+          "quantity": "few",
+          "value": "%s فيديوهات"
+        },
+        {
+          "quantity": "many",
+          "value": "%s فيديوهات"
+        },
+        {
+          "quantity": "other",
+          "value": "%s فيديو"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "لا مشاهدة"
+        },
+        {
+          "quantity": "one",
+          "value": "مشاهدة واحدة"
+        },
+        {
+          "quantity": "two",
+          "value": "مُشاهَدتان"
+        },
+        {
+          "quantity": "few",
+          "value": "%s مُشاهَدات"
+        },
+        {
+          "quantity": "many",
+          "value": "%s مُشاهَدةً"
+        },
+        {
+          "quantity": "other",
+          "value": "%s مُشاهَدة"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "لا مُشاهِد"
+        },
+        {
+          "quantity": "one",
+          "value": "مُشاهِد واحد"
+        },
+        {
+          "quantity": "two",
+          "value": "مُشاهِدان"
+        },
+        {
+          "quantity": "few",
+          "value": "%s مُشاهِدين"
+        },
+        {
+          "quantity": "many",
+          "value": "%s مُشاهِدًا"
+        },
+        {
+          "quantity": "other",
+          "value": "%s مُشاهِد"
+        }
+      ]
+    }
+  ]
+}

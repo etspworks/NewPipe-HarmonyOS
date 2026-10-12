@@ -1,0 +1,186 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ден"
+        },
+        {
+          "quantity": "other",
+          "value": "%d дена"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Избришано е %1$s преземање"
+        },
+        {
+          "quantity": "other",
+          "value": "Избришани се %1$s преземања"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Преземањето заврши"
+        },
+        {
+          "quantity": "other",
+          "value": "%s преземања се готови"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d избран"
+        },
+        {
+          "quantity": "other",
+          "value": "%d избрани"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d час"
+        },
+        {
+          "quantity": "other",
+          "value": "%d часа"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s слушател"
+        },
+        {
+          "quantity": "other",
+          "value": "%s слушатели"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d минута"
+        },
+        {
+          "quantity": "other",
+          "value": "%d минути"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s нов стрим"
+        },
+        {
+          "quantity": "other",
+          "value": "%s нови стримови"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s одговор"
+        },
+        {
+          "quantity": "other",
+          "value": "%s одговори"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d секунда"
+        },
+        {
+          "quantity": "other",
+          "value": "%d секунди"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s зачленет"
+        },
+        {
+          "quantity": "other",
+          "value": "%s зачленети"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s видео"
+        },
+        {
+          "quantity": "other",
+          "value": "%s видеа"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s преглед"
+        },
+        {
+          "quantity": "other",
+          "value": "%s прегледи"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s гледач"
+        },
+        {
+          "quantity": "other",
+          "value": "%s гледачи"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2252 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Akcepti"
+    },
+    {
+      "name": "action_history",
+      "value": "Historio"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Aldoni al la ludlisto"
+    },
+    {
+      "name": "albums",
+      "value": "Albumoj"
+    },
+    {
+      "name": "all",
+      "value": "Ĉiuj"
+    },
+    {
+      "name": "always",
+      "value": "Ĉiam"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Ĉiam peti"
+    },
+    {
+      "name": "app_description",
+      "value": "Libera malpeza torentado ĉe HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Preferata aplingvo"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe estas programaro sub rajtoceda permesilo: Vi povas uzi, studi, komuniki kaj plibonigi ĝin kiel vi volas. Precize, vi povas redistribui kaj/aŭ modifi ĝin sub la kondiĉoj de la Ĝenerala Publika Permesilo de GNU, kiel publikigita per la Free Software Foundation, ĉu en la versio 3, ĉu (se vi volas) ajna posta versio."
+    },
+    {
+      "name": "app_license_title",
+      "value": "Permesilo de NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Apo kraŝis"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Ĝisdatigo de NewPipe havebla!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Sciigo por novaj versioj de NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Sciigo por ĝisdatigo de apo"
+    },
+    {
+      "name": "artists",
+      "value": "Artistoj"
+    },
+    {
+      "name": "audio",
+      "value": "Aŭdio"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Neniuj sonaj torentoj trovis"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Sono devus jam esti en ĉi tiu fluo"
+    },
+    {
+      "name": "auto",
+      "value": "Aŭto"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Daŭrigi finanta (malripetanta) atendovico aldonante rilata enhavo"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Memenvici sekvan fluon"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Memaga vicigado"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Aŭtoludo"
+    },
+    {
+      "name": "background_player",
+      "value": "Fona ludilo"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Ludanta fone"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Plej bona distingumo"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Nigra"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Malplena Paĝo"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Legosigno Ludlisto"
+    },
+    {
+      "name": "brightness",
+      "value": "Heleco"
+    },
+    {
+      "name": "cancel",
+      "value": "Nuligi"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Aŭtomate generita"
+    },
+    {
+      "name": "caption_none",
+      "value": "Neniuj Subtitoloj"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Modifi la dimension de la teksto kaj la fonajn stilojn de la subtitoloj de la ludilo. Ĝi bezonas restarto de la apo por efektiviĝi."
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Subtitoloj"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Kreita de %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Kanala Paĝo"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Filmetoj"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Kanalo malabonita"
+    },
+    {
+      "name": "channels",
+      "value": "Kanaloj"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Leteroj kaj ciferoj"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Plej specialaj karakteroj"
+    },
+    {
+      "name": "checksum",
+      "value": "Kontrolsumo"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Elektu instancon"
+    },
+    {
+      "name": "clear",
+      "value": "Forviŝi"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Forigi kuketojn, kiujn NewPipe konservas, kiam vi solvas reCAPTCHA-taskojn"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Forigi kuketojn de reCAPTCHA"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Forviŝi la historion de elŝutoj"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Forviŝi la totalon de ludaj pozicioj"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Forviŝi ludajn poziciojn"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "La aktiva ludila atendvico anstataŭigos"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Via atendvico povas anstataŭigi se vi ŝanĝi al malsama ludilo"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Peti por konfirmo antaŭ vakigado atendvico"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Forviŝi la serĉajn ŝlosilvortojn"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Forviŝi la historion de serĉoj"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Forviŝi la historion de viditaj filmetojn kaj ludajn poziciojn"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Forviŝi vidohistorion"
+    },
+    {
+      "name": "close",
+      "value": "Fermi"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Komentoj malŝaltitas"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Komentoj"
+    },
+    {
+      "name": "conferences",
+      "value": "Konferencoj"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Ĉu vi volas forviŝi vian historion de elŝutoj aŭ forviŝi la tutajn elŝutitajn dosierojn?"
+    },
+    {
+      "name": "content",
+      "value": "Enhavo"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Preferata enhavlingvo"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Enhavo malhavebla"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Tio enhavo ne estas ankoraŭ subtenata per NewPipe.\n\nĜi espereble estos en sekvanta versio."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Ĉu vi havas ideojn pri; traduko, desegnaĵoj ŝanĝoj, purigado de kodo, aŭ realaj masivaj ŝanĝoj—helpo ĉiam estas bonvena. Ju pli oni faras, des pli bonas!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Kontribui"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Aldonu al"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Fono"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Elŝutu dosieron"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Ŝprucfenestro"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Kopii formatitan raporton"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s de %2$s sub %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Averto: Ne povis importi ĉiujn dosierojn."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Ĉiuj bildetoj ne ŝargeblas"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Ne povis konstrui la dosierujon de elŝuto"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Kraŝi la ludilo"
+    },
+    {
+      "name": "create",
+      "value": "Krei"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Nova ludlisto"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Malhela"
+    },
+    {
+      "name": "decline",
+      "value": "Rifuzi"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Preferata sona dosierformo"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Preferata enhavlando"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Implicita Kiosko"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Komenca distingumo de la ŝprucfenestra ludilo"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Preferata distingumo"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Preferata filma dosierformo"
+    },
+    {
+      "name": "delete",
+      "value": "Forviŝi"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Forviŝi elŝutitajn dosierojn"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Ĉu vi volas forviŝi tion eron el la historio de serĉo ?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Ĉu vi volas forviŝi ĉiujn ludajn poziciojn ?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Ĉu forviŝi ĉi tiun ludliston ?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Ĉu vi volas forviŝi la totalon de la historio de serĉo ?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Ĉu vi volas forviŝi la tutan historion ?"
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Priskribo"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Malŝatoj"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Trenu por reorgidi"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Ŝatoj"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Ludi filmeton, daŭro:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Bildeto de la alŝutinto"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Ĉu vi signifis \"%1$s\"?"
+    },
+    {
+      "name": "disabled",
+      "value": "Malŝatitaj"
+    },
+    {
+      "name": "dismiss",
+      "value": "Rezigni"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe estas programadita par volontuoj, elspezante lia tempo por alporti vin la plej bona uzanta sperto. Redoni por helpi programistojn plibonigi NewPipe dum ili ĝuas tason da kafo."
+    },
+    {
+      "name": "donation_title",
+      "value": "Donaci"
+    },
+    {
+      "name": "done",
+      "value": "Finita"
+    },
+    {
+      "name": "dont_show",
+      "value": "Ne montri"
+    },
+    {
+      "name": "download",
+      "value": "Elŝuti"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Estas pritraktata elŝuto kun ĉi tiu nomo"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Estas elŝuto en progreso kun ĉi tiu nomo"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Elŝuti"
+    },
+    {
+      "name": "download_failed",
+      "value": "Elŝuto fiaskis!"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Elŝutado komenciĝis"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Elektu lokon por konservi elŝutitajn muzikojn"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Dosierujo por konservi elŝutitajn muzikojn"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Elŝutujo por aŭdio"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Elektu lokon por konservi elŝutitajn filmetojn"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Elŝutitaj filmetoj konserviĝas ĉi tie"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Elŝutujo por filmetoj"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Elŝuti al ekstera SD-karto ne eblas. Ĉu vi volas restarigi la elŝutan dosierujon ?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Ekstera konservejo malhavebla"
+    },
+    {
+      "name": "downloads",
+      "value": "Elŝutoj"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Oni petos vin kie konservi ĉion elŝuton"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Oni petos al vi kien salvi ĉiujn elŝutojn"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Peti kie elŝuti"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "La \"Atinga Framo al la Memoro\" ebligas elŝuti al ekstera SD-karto"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Uzu AFM"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Elŝutoj"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Fermi la tirtekston"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Ŝangi la servon, nuntempe elektita:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Malfermi la tirkeston"
+    },
+    {
+      "name": "duration_live",
+      "value": "Nuna"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Neniu enhavo"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Perforti signalante neenretigaj Rx esceptoj eksere la fragmento aŭ aktiveco vivciklo post dispono"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Signali ekster-vivciklajn erarojn"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "La monitorado de la memorlikadoj povas frostigi la apon dum la hejta dumpingo"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Restaŭri la lastan ludan pozicion"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Repreni la ludon"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Montri la indikilojn de pozicioj de ludoj en listoj"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Pozicioj en listoj"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Limigi la elŝutan atendovicon"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Unu elŝuto ruliĝos en la sama tempo"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Konservi la historio de serĉo lokale"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Serĉa historio"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Protokoli spektitajn filmetojn"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Rigardu historion"
+    },
+    {
+      "name": "enqueue",
+      "value": "Envicigi"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Envicigi"
+    },
+    {
+      "name": "enqueued",
+      "value": "Envicigita"
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Ne povas konektiĝi al la servilo"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Detaloj:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Ne povas reakiri tion elŝuton"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "La dosiero ne povas esti kreita"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "La servilo ne sendas datumojn"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Ne trovita"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "La servilo ne akceptas plurfadenajn elŝutojn, reprovu kun @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Neniu spaco havebla sur la aparato"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Eraro okazis: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "La celloko-dosierujo ne povas esti kreita"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Postprocesado malsukcesis"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe estis fermita dum laborante sur la dosiero"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Progreso perdita, ĉar la dosiero estis forviŝita"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Signali tion eraron retpoŝte"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Sciigoj por raporti erarojn"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Sciigo por erar-raportoj"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe renkontis eraron, tuŝi por raporti"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Eraro okazis, vidu sciigon"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Bonvolu certigi, ĉu erarraporto, kiu diskutas pri via eraro, jam ekzistas. Kreado de duoblaĵaj erarraportoj forprenas tempon el ni, kiun ni povus uzi por ripari la veran eraron."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Raporti per GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Erarosignalo"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Signali"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Pardonon, io mizokasis."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Ne povis establi sekuran konekton"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Eltempiĝo de Konekto"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Ne povis ŝarĝi komentojn"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Ne povis trovi la servilon"
+    },
+    {
+      "name": "events",
+      "value": "Eventoj"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Eksportita"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Eksporti historion, abonojn kaj ludlistoj"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Eksporti la datumbazon"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Eksportante…"
+    },
+    {
+      "name": "export_to",
+      "value": "Eksporti al"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Ekstaraj ludantoj ne suportas tiajn ligilojn"
+    },
+    {
+      "name": "faq_title",
+      "value": "Oftaj demandoj"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Rapida reĝimo"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Nova"
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Ĉu vi volas forviŝi tion grupon?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Malplena grupa nomo"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "No subscription selected"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Seletkti abonojn"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Abonfluoj grupoj"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Ŝarĝante abonfluon…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Lasta ĝisdatigo: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Procesante abonfluon…"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Ne ŝarĝitaj: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Ĉiam ĝisdatigi"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Tempo post lasta ĝisdatigo antaŭ abono estas konsiderita malĝisdatigita — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Abonflua ĝisdatiga sojlo"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Malŝati rapidan modon"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Ŝalti rapidan modon"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Havebla en kelkaj servoj, ĝi estas ĝenerale multe pli rapida, sed povas doni limigita kvanto da aĵoj kaj ofte malpreciza informoj (ekzemple: neniu duracio, ajâ tipo, neniu « nuna » statuso)."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Ŝarĝi el dediĉita abonfluo kiam ĝi haveblas"
+    },
+    {
+      "name": "file",
+      "value": "Dosiero"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Dosiero forviŝita"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Dosiernomo ne povas esti malplena"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Kio novas"
+    },
+    {
+      "name": "general_error",
+      "value": "Eraro"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Generu unikan nomon"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Tiu enaĵo ne disponeblas en via lando."
+    },
+    {
+      "name": "give_back",
+      "value": "Redoni"
+    },
+    {
+      "name": "grid",
+      "value": "Krado"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Sciigo por kreado de haketaĵoj de filmetoj"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Sciigo por haketado de filmetoj"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Alta kvalito (pli larĝa)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Teni por viciĝi"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Utila, ekzemple, se vi uzas kaptelefonon, kiu havas difektajn fizikajn butonojn"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Ignori eventoj de aparataroj plurmediaj butonoj"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Importita"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Anstataŭigas vian aktualan historion kaj abonojn"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Importi la datumbazon"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Importi la dosieron"
+    },
+    {
+      "name": "import_from",
+      "value": "Importi el"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Memoru, ke ĉi tiu operacio povas esti multekosta en la reto.\n\n\n\nĈu vi volas daŭrigi?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Importante …"
+    },
+    {
+      "name": "import_settings",
+      "value": "Ĉu vi volas ankaŭ importi agordojn?"
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Importu Soundcloud-n profilon tajpante ĉu la ligilon, ĉu vian ID :\n\n \n\n1. Ebligu komputilon modon en retumilon (la retejo malhaveblas por poŝtelefonoj)\n\n2. Iru tien: %1$s\n\n3. Ensalutu kiam oni petas vin \n\n4. Kopiu la ligilon de profilo ke oni kondikis vin."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "via salutnomo, soundcloud.com/salutnomo"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Importi aŭ eksporti abonojn per la tri-punkta menuo"
+    },
+    {
+      "name": "import_title",
+      "value": "Importi"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Importu Jutubajn abonaĵojn per elŝuti la dosieron de eksporto :\n\n\n\n1. Iru ĉe tiu retpaĝo: %1$s\n\n2. Ensalutu kiam oni petas vin\n\n3. Click on \"All data included\", then on \"Deselect all\", then select only \"subscriptions\" and click \"OK\"\n\n4. Click on \"Next step\" and then on \"Create export\"\n\n5. Click on the \"Download\" button after it appears and\n\n6. From the downloaded takeout zip extract the .json file (usually under \"YouTube and YouTube Music/subscriptions/subscriptions.json\") and import it here."
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ filmetoj"
+    },
+    {
+      "name": "info_labels",
+      "value": "Kio:\nPeto:\nEnhavlingvo:\nEnhavlando:\nAplingvo:\nServo:\nGMT Horo:\nPako:\nVersio:\nOperaciumo versio:"
+    },
+    {
+      "name": "install",
+      "value": "Instali"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Tia dosierujo ne ekzistas"
+    },
+    {
+      "name": "invalid_file",
+      "value": "La dosiero ne ekzistas aŭ la ludopermeso mankas"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Tia dosiero/enhavo ne ekzistas"
+    },
+    {
+      "name": "just_once",
+      "value": "Nur unufoje"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Kioska Paĝo"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Ĉu instalu la mankatan programon Kore?"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Elekti geston por maldekstra duono de ludil-ekrano"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Ago de maldekstra gesto"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Hela"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Neniu limo"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Limigi distingumon uzante telefonan retkonekton"
+    },
+    {
+      "name": "list",
+      "value": "Listo"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Lista vido maniero"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Ŝargante metadatumoj…"
+    },
+    {
+      "name": "local",
+      "value": "Lokaj"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Lokaj serĉsugestoj"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Malalta kvalito (malpli larĝa)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Premi \"Serĉi\" por komenci."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Enhavo de la ĉefpaĝo"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Kioj ongletoj estas montritaj en la ĉefpaĝo"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Transloki la ĉefan langet-elektilon al la malsupro"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Pozicio de la ĉefaj langetoj"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Marki spektita"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Maksimuma nombro de provoj antaŭ fordecidi la elŝuton"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Maksimuma nombro de provoj"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Limo de aĝo"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Kaŝmemorojn de metadatumojn vakigis"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Vakigi tutajn kaŝmemorigitajn retpaĝajn datumojn"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Vakigi kaŝmemorigitajn metadatumojn"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Kategorio"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Lingvo"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Interna"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Privata"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Publika"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Nelistita"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Etikedoj"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Minimumigi por ludi fone"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Neniu"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Minimumigi al ŝprucfenestra ludilo"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Ago dum ŝanĝante al alia apo el la ĉefa filmetludilo — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Minimumigi dum la apo ŝanĝo"
+    },
+    {
+      "name": "missing_file",
+      "value": "Dosiero movita aŭ forviŝita"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Finita"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Pritraktata"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ filmetoj"
+    },
+    {
+      "name": "most_liked",
+      "value": "La plej ŝatitaj"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Kalkulado de haketaĵo"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Enpoŝigita"
+    },
+    {
+      "name": "msg_error",
+      "value": "Eraro"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Malsukcesis kopii al la tondujo"
+    },
+    {
+      "name": "msg_name",
+      "value": "Dosiernomo"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Tiu permeso estas necesa por\n\nmalfermi en ŝprucfenestra modo"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe estas elŝutanta"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Premu por detaladoj"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Fadenoj"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Bonvolu atendi…"
+    },
+    {
+      "name": "mute",
+      "value": "Mutigi"
+    },
+    {
+      "name": "name",
+      "value": "Nomo"
+    },
+    {
+      "name": "network_error",
+      "value": "Reteraro"
+    },
+    {
+      "name": "never",
+      "value": "Neniam"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Nova kaj varma"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Pro AVPlayer limoj, la serĉa daŭro estas metita %d sekundojn"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Malhela etoso"
+    },
+    {
+      "name": "no",
+      "value": "Ne"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Bonvolu difini elŝutan dosierujon poste en agordoj"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Neniuj kanalaj abonoj ankoraŭ"
+    },
+    {
+      "name": "no_comments",
+      "value": "Neniu komento"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Neniu dosierujo por elŝutoj agordita, bonvolu elekti la preferatan elŝuto-dosierujon nun"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Neniuj tujelsendoj"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Neniu aŭskultas"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Neniu spektas"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Neniu ludilo de elsendoj trovita. Ĉu instalu la programon VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Neniu elsendlflua ludilo trovita (instalu VLC por ludi ĝin)."
+    },
+    {
+      "name": "no_streams",
+      "value": "Neniuj fluoj"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Neniuj torentoj haveblaj por elŝuti"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Neniuj abonantoj"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Neniu valida ZIP-dosiero"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Neniu filmofluo ludeblas por ekstera ludilo"
+    },
+    {
+      "name": "no_videos",
+      "value": "Neniu filmeto"
+    },
+    {
+      "name": "no_views",
+      "value": "Neniuj spektoj"
+    },
+    {
+      "name": "none",
+      "value": "Neniu"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Unua agobutono"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Dua agobutono"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Tria agobutono"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Kvara agobutono"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Kvina agobutono"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Alŝuto"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Nenio"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Ripeti"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Miksi"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Vi povas elekti maksimume tri agoj por montri en la kompakta sciigo!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Redakti ĉiun agon de sciigo per tuŝi gin. Elekti maksimume tri agon por montri en la kompakta sciigo per markobutonoj dekstre."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Sciigoj por ludilo de NewPipe"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "Sciigo de NewPipe"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Permesi al Android agordi koloron de sciigo laŭ la precipa koloro de videaĵminiaturo (noti, ke ĉi tio ne disponeblas en ĉiuj iloj)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "farbi sciigon"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Stuci la antaŭvidan bildeton de la filmo en la sciigo de proporcio 16:9 al 1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Stuci bildeton ĝis 1:1 proportio"
+    },
+    {
+      "name": "notifications",
+      "value": "Sciigoj"
+    },
+    {
+      "name": "off",
+      "value": "Malŝatita"
+    },
+    {
+      "name": "ok",
+      "value": "Bone"
+    },
+    {
+      "name": "on",
+      "value": "Ŝaltita"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 ero forviŝita."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Malfermi en retumilo"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Malfermi en ŝprucfenestran modon"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Malfermi retejon"
+    },
+    {
+      "name": "open_with",
+      "value": "Malfermi per"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Ĉi tio nuligos vian nunan aranĝon."
+    },
+    {
+      "name": "overwrite",
+      "value": "Anstataŭigi"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "ne povas dispremi la dosieron"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Elŝutita dosieron kun ĉi tiu nomo jam ekzistas"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Dosiero kun ĉi tiu nomo jam ekzistas"
+    },
+    {
+      "name": "parsing_error",
+      "value": "La retejo ne analizeblas"
+    },
+    {
+      "name": "pause",
+      "value": "Paŭzigi"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Paŭzigi elŝutojn"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "interrompi ĉe limigitaj komputilaj retoj"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Utila dum la ŝanĝo al poŝdatumoj, kvankam kelkaj elŝutoj ne povas esti interrompitaj"
+    },
+    {
+      "name": "paused",
+      "value": "Paŭzigita"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "La instanco jam ekzistas"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Ne povis validigi instanco"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Eniri la ligilon de la instanco"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Nur HTTPS ligiloj estas subtenitaj"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Aldoni instanco"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Trovu la instancojn ke vi ŝatas ĉe %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Elekti viajn preferitajn instancojn de PeerTube"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "Instancoj de PeerTube"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Ago rifuzita kaŭze de la sistemon"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Doni la permeson por afiŝiĝi supre aliaj apoj"
+    },
+    {
+      "name": "play_all",
+      "value": "Ludi ĉiujn"
+    },
+    {
+      "name": "play_audio",
+      "value": "Sono"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Sonaj parametroj"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Retiri"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Detalado"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Ludi per Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Ludkampo"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Restarigi"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Kontroloj de rapideco de ludo"
+    },
+    {
+      "name": "playback_step",
+      "value": "Paŝo"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Tempoindiko"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Reakiri el eraro de la ludilo"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Ne povis ludi tion torenton"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Neatendebla eraro de ludilo okazis"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Ludlistita"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Ludlisto kreita"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Aŭtomate generita (neniu alŝutilo trovita)"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Bildeto de ludlisto ŝanĝiĝita."
+    },
+    {
+      "name": "playlists",
+      "value": "Ludlistoj"
+    },
+    {
+      "name": "popup_player",
+      "value": "Ŝprucfenestra ludilo"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Ludante en ŝprucfenestra modo"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Memori lastan grandon kaj pozicion de ŝprucfenestro"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Memori ecojn de ŝprucfenestro"
+    },
+    {
+      "name": "post_processing",
+      "value": "postprocesado"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Elekti aŭdiotrakon kun priskriboj por vidmalkapabluloj kiam ebla"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Preferi priskribajn aŭdiotrakojn"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Elekti la originalan aŭdiotrakon malgraŭ lingvo"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Preferi originalan aŭdaĵon"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Implicita ago malfermante vidaŭdaĵon — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Preferita 'malfermi' ago"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Ŝarĝante petita enhavo"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Akiranta informoj…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Antaŭa eksportaĵo"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "La NewPipe projekto serioze respektas vian privatecon. Konsekvence, la apo ne kolektas ajnan datumon sen via konsento.\n\nLa privateco politiko de NewPipe detale eksplikas kion datumon estas sendita kaj stokita kiam vi sendas falegosignalon."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Privateca politiko de NewPipe"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Ŝangi la grandecon de elŝuta intervalo por progresiva enhavo (aktuale %s). Malplia valoro eble povas rapidigi ĝian komencan ŝargadon"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Grandeco de intervalo de legada elŝuto"
+    },
+    {
+      "name": "queued",
+      "value": "viciĝita"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Legi permesilon"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Legi la privatecan politikon"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "Kuketojn de reCAPTCHA estis forigita"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "reCAPTCHA defio petita"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Solvi"
+    },
+    {
+      "name": "recent",
+      "value": "Freŝaj"
+    },
+    {
+      "name": "recently_added",
+      "value": "Freŝe aldonitaj"
+    },
+    {
+      "name": "recovering",
+      "value": "Reakiranta"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Rilatajn erojn"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Foraj serĉsugestoj"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Jes, kaj ankaŭ parte spektitajn filmetojn"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Ĉu forigu spektitajn filmetojn?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Filmetoj kiuj spektiĝis antaŭ aŭ post sia aldoniĝo al la ludlisto foriĝus.. \nĈu vi certas? Ĉi tio nemalfareblus!"
+    },
+    {
+      "name": "rename",
+      "value": "Alinomi"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Alinomi"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Restarigi implicitajn agordojn"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Plenigi"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Alĝustigi"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Zomi"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Restarigi implicitajn valorojn"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Ĉu vi volas restarigi la implicitajn valorojn?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Tiu ĉi filmeto havas aĝminimumon. \n \nŜaltu «%1$s» en la agordoj, se vi volus vidi ĝin."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Ĉi tiu filmeto havas aĝminimumon. \nPro novaj reguloj de YouTube, kiuj rilatas filmojn kun minimuma aĝo, NewPipe ne povas atingi ajnan fluon de ĉi tiu filmo kaj tial ne povas ludi ĝin."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Daŭrigi la ludon post la interrompaĵoj (ekzemple telefonadoj)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Ludrekomenci"
+    },
+    {
+      "name": "retry",
+      "value": "Reprovi"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Elekti geston por dekstra duono de ludil-ekrano"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Ago de dekstra gesto"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Ne povis legi agorditajn langetojn, do uzos la implicitajn"
+    },
+    {
+      "name": "search",
+      "value": "Serĉi"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Historio de serĉo forviŝita"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Neniuj rezultoj"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Montrante rezultojn pri: %s"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Daŭro de rapidpluiga/revolva serĉo"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Elekti kanalon"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Elekti kioskon"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Meti kiel bildeto de ludlisto"
+    },
+    {
+      "name": "settings",
+      "value": "Agordoj"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Apero"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Forviŝi datumojn"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Malcimigi"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Elŝuti"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Abonfluo"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Historio kaj kaŝmemoro"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Konduto"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Agordi la sciigon por ĉi-momente ludantaj datumtorentoj"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Ludila sciigo"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Ludilo"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Ĝisdatigoj"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Filmo kaj sono"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Permesitaj karakteroj en dosiernomoj"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Nevalidaj karakteroj estas anstataŭigita kun ĉi tiu valoro"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Anstataŭa karaktero"
+    },
+    {
+      "name": "share",
+      "value": "Konigi"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Konigi kun"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Montri enhavon, kiu eble maltaŭgas por infanoj, ĉar ĝi havas aĝo-limon (kiel \"18+\")"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Enhavo limigita al aĝo"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Malŝatu por kaŝi komentojn"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Montri komentojn"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Malŝaltu por kaŝi priskribojn kaj aldonajn informojn de filmetoj"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Montri priskribon"
+    },
+    {
+      "name": "show_error",
+      "value": "Montri la eraron"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Nur kelkaj aparatoj povas ludi filmetojn je distingumoj 2K / 4K"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Montri pli altajn distingumojn"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Montri indikon premante la fonon aŭ la ŝprucfenestran butonon en filmeta «Detaloj:»"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Montri la indiko « Tenu por aldoni »"
+    },
+    {
+      "name": "show_info",
+      "value": "Montri informojn"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Malŝatu por kaŝi metadatumujojn kio havas aldonajn informojn pri la elsendfluisto, enhavo de la fluo, aŭ serĉpto"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Montri metadatumojn"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Montri ‹Sekvajn› kaj ‹Similajn› filmetojn"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Montri opcion por ludi filmeton per la programo Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Montri \"Ludi per Kodi\"-opcion"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Montri sugestojn kiam serĉanto"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Serĉi sugestojn"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Plirapidigi dum silentoj"
+    },
+    {
+      "name": "songs",
+      "value": "Kantoj"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Pardonu, eraro okazis."
+    },
+    {
+      "name": "start",
+      "value": "Komenci"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Por konformiĝi al la Ĝenerala Datum-Protekta Regularon (GDPR), ni allogas vian atenton al la privateca politiko de NewPipe. Bonvolu atentive legi ĝin.\n\nVi devas akcepti ĝin por sendi la cimsignalon al ni."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Komenci elŝutojn"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Komenci ludi fone"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Komenci ludi en nova ŝprucfenestro"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Ne ekludu filmojn en la etludilo, sed ŝalti plenekranan reĝimon rekte, se memaga turniĝo estas ŝaltita. Vi ankoraŭ povus aliri la etludilon elirinte la plenekranan reĝimon."
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Ŝalti ĉefan ludilon plenekrane"
+    },
+    {
+      "name": "stop",
+      "value": "Halti"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Sciigo por novaj fluoj de abonoj"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Novaj fluoj"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Aboni"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Abonita"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Abonantoj kalkulo malhaveblas"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Ne povis ŝanĝi abonon"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Ne povis ĝisdatigi abonon"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Ne povis eksporti abonojn"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Ne povis importi abonojn"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Premu “Finita” kiam solvita"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Ŝanĝi al Fono"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Ŝangi al Ĉefa"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Ŝanĝi al ŝprucfenestro"
+    },
+    {
+      "name": "systems_language",
+      "value": "Sistema"
+    },
+    {
+      "name": "tab_about",
+      "value": "Pri"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Konservitaj ludlistoj"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Elektu ongleton"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Permesiloj"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Abonoj"
+    },
+    {
+      "name": "theme_title",
+      "value": "Etoso"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Bildokaŝmemoro vakigis"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Pri NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Historio"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA defio"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Lasta Ludado"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Eksteraj permesiloj"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Plej ludataj filmetoj"
+    },
+    {
+      "name": "top_50",
+      "value": "Supro 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Spuroj"
+    },
+    {
+      "name": "trending",
+      "value": "Tendencoj"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Forviŝi Legosignon"
+    },
+    {
+      "name": "undo",
+      "value": "Malfari"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Malligi (povas kaŭzi distordon)"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Nekonata]"
+    },
+    {
+      "name": "unmute",
+      "value": "Malmutigi"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Malaboni"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Ligilo ne subtenita"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Ne eblas rekoni la ligilon. Ĉu malfermi per alia apo?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Montri sciigon por proponi ĝisdatigon de la apo kiam nova versio estas havebla"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Ĝisdatigoj"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Eldonita je %1$s"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Uzi eksteran sonludilon"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Forigas aŭdon ĉe kelkaj distingumoj"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Uzi eksteran filmetoludilon"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Malekzakta serĉo permesas ke, la ludilo serĉi poziciojn pli rapide sed kun malpli ekzakto. Serĉi por 5, 15 aŭ 25 sekundoj ne funckias kun ĉi tio opcio"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Uzi rapidan malekzaktan serĉon"
+    },
+    {
+      "name": "users",
+      "value": "Uzantoj"
+    },
+    {
+      "name": "video",
+      "value": "Filmeto"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "De %s"
+    },
+    {
+      "name": "video_player",
+      "value": "Filmludilo"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Neniu filmofluo trovita"
+    },
+    {
+      "name": "videos_string",
+      "value": "Filmetoj"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Rigardu ĉe GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "Laŭteco"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Historio forviŝita"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Ludaj pozicioj forviŝitaj"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Viziti la retejon de NewPipe por pli da informoj kaj novaĵoj."
+    },
+    {
+      "name": "website_title",
+      "value": "Retejo"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Informoj:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Kio okazis:"
+    },
+    {
+      "name": "yes",
+      "value": "Jes"
+    },
+    {
+      "name": "your_comment",
+      "value": "Vian komenton (angle):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Ĉu tiu filmeto sole haveblas al abonantoj de YouTube Music Premium, do ĝi ne spekteblas nek elŝuteblas de NewPipe."
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube provizas \"Limigitan Reĝimon\", kiu kaŝas enhavon, kiu potence maltaŭgas por infanoj"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Ŝalti \"Limigitan Reĝimon\" de YouTube"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

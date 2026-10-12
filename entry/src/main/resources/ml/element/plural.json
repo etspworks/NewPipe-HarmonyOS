@@ -1,0 +1,134 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ദിവസം"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ദിവസങ്ങൾ"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d തിരഞ്ഞെടുത്തു"
+        },
+        {
+          "quantity": "other",
+          "value": "%d തെരഞ്ഞെടുത്തു"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d മണിക്കൂർ"
+        },
+        {
+          "quantity": "other",
+          "value": "%d മണിക്കൂറുകൾ"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s കേൾവിക്കാരൻ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s കേൾവിക്കാർ"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d മിനിറ്റ്"
+        },
+        {
+          "quantity": "other",
+          "value": "%d മിനിറ്റുകൾ"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d സെക്കൻഡ്"
+        },
+        {
+          "quantity": "other",
+          "value": "%d സെക്കൻഡുകൾ"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s സബ്ക്രൈബർ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s സബ്ക്രൈബറുകൾ"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s വീഡിയോ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s വീഡിയോകൾ"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s കാഴ്ച"
+        },
+        {
+          "quantity": "other",
+          "value": "%s കാഴ്ചകൾ"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s കാണുന്നു"
+        },
+        {
+          "quantity": "other",
+          "value": "%s പേർ കാണുന്നു"
+        }
+      ]
+    }
+  ]
+}

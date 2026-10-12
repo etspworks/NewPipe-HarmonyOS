@@ -1,0 +1,516 @@
+{
+  "string": [
+    {
+      "name": "albums",
+      "value": "Albomoù"
+    },
+    {
+      "name": "all",
+      "value": "Pep tra"
+    },
+    {
+      "name": "always",
+      "value": "Atav"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Rebuzadurioù evit handelvoù nevez NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Rebuzadur hizivadur an arload"
+    },
+    {
+      "name": "artists",
+      "value": "Arzourien"
+    },
+    {
+      "name": "audio",
+      "value": "Aodio"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Lenn emgefreek"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Diarunusted wellañ"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Du"
+    },
+    {
+      "name": "brightness",
+      "value": "Lintr"
+    },
+    {
+      "name": "cancel",
+      "value": "Nullañ"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Digoumanantet oc'h bet d'ar chadenn"
+    },
+    {
+      "name": "channels",
+      "value": "Chadennoù"
+    },
+    {
+      "name": "clear",
+      "value": "Skarzhañ"
+    },
+    {
+      "name": "content",
+      "value": "Endalc'had"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Yezh an endalc'had dre ziouer"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Ouzhpennañ da"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Drekleur"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Pellgargañ restr al lanv"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Diflugell"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Teñval"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Mentrezh aodio dre ziouer"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Bro an endalc'had dre ziouer"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Diarunusted dre ziouer"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Mentrezh video dre ziouer"
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Deskrivadur"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Lenn ar video, pad:"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Klask a raec'h \"%1$s\"?"
+    },
+    {
+      "name": "disabled",
+      "value": "Diweredekaet"
+    },
+    {
+      "name": "download",
+      "value": "Pellgargañ"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Pellgargañ"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Amañ e vez kadavet ar restroù aodio pellgarget"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Teuliad pellgargañ ar restroù aodio"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Amañ e vez kadavet ar restroù video pellgarget"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Teuliad pellgargañ ar videoioù"
+    },
+    {
+      "name": "downloads",
+      "value": "Pellgargadurioù"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Pellgargadurioù"
+    },
+    {
+      "name": "duration_live",
+      "value": "War-eeun"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Endalc’had ebet"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Roll istor enklask"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Sellet ouzh ar roll istor"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Munudoù:"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Sevel un danevell"
+    },
+    {
+      "name": "events",
+      "value": "Degouezhioù"
+    },
+    {
+      "name": "file",
+      "value": "Restr"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Dilamet eo bet ar restr"
+    },
+    {
+      "name": "general_error",
+      "value": "Fazi"
+    },
+    {
+      "name": "install",
+      "value": "Staliañ"
+    },
+    {
+      "name": "just_once",
+      "value": "Ur wech nemetken"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Sklaer"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Dodenn noz"
+    },
+    {
+      "name": "no",
+      "value": "Ket"
+    },
+    {
+      "name": "none",
+      "value": "Tra ebet"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "O kargañ"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Netra"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Lenn mell-divell"
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Rebuzadurioù evit al lenner NewPipe"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "Rebuzadur NewPipe"
+    },
+    {
+      "name": "notifications",
+      "value": "Rebuzadurioù"
+    },
+    {
+      "name": "ok",
+      "value": "Mat eo"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Digeriñ e-barzh ar merdeer"
+    },
+    {
+      "name": "open_with",
+      "value": "Digeriñ gant"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Ouzhpennañ un eriol"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Kavit an erioloù a blij deoc'h war %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Diuzit hoc'h erioloù PeerTube gwell ganeoc'h"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "Erioloù PeerTube"
+    },
+    {
+      "name": "play_all",
+      "value": "Lenn pep tra"
+    },
+    {
+      "name": "play_audio",
+      "value": "Aodio"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Lenn gant Kodi"
+    },
+    {
+      "name": "playlists",
+      "value": "Rolloù-lenn"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Kenderc'hel al lenn"
+    },
+    {
+      "name": "retry",
+      "value": "Klask en-dro"
+    },
+    {
+      "name": "search",
+      "value": "Klask"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Disoc'h ebet"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Setu an disoc'hoù evit: %s"
+    },
+    {
+      "name": "settings",
+      "value": "Arventennoù"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Neuz"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Assav ha gwarediñ"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Skarzhañ ar roadennoù"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Diveugañ"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Roll istor ha krubuilh"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Emzalc'h"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Rebuzadur al lenner"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Lenner"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Hizivadurioù"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Video hag aodio"
+    },
+    {
+      "name": "share",
+      "value": "Rannañ"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Rannañ gant"
+    },
+    {
+      "name": "show_info",
+      "value": "Diskouez an titouroù"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Kinnigoù enklask"
+    },
+    {
+      "name": "songs",
+      "value": "Tonioù"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Lañsañ al lenner pennañ e mod skramm a-bezh"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Lanvioù nevez"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Koumanantiñ"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Koumanantet"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "N'haller ket kemmañ ar c'houmanant"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "N'haller ket hizivaat ar c'houmanant"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Rolloù-lenn enrollet"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Rolloù-lenn"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Dibab un ivinell"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Koumanantoù"
+    },
+    {
+      "name": "theme_title",
+      "value": "Dodenn"
+    },
+    {
+      "name": "tracks",
+      "value": "Loabroù"
+    },
+    {
+      "name": "undo",
+      "value": "Dizober"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Digoumanantiñ"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "URL anskor"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Arverañ ul lenner aodio diavaez"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Lamet e vez an aodio gant diarunustedoù 'zo"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Arverañ ul lenner video diavaez"
+    },
+    {
+      "name": "users",
+      "value": "Arveriaded"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "videos_string",
+      "value": "Videoioù"
+    },
+    {
+      "name": "volume",
+      "value": "Tregern"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Titouroù:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Petra zo c'hoarvezet:"
+    },
+    {
+      "name": "yes",
+      "value": "Ya"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

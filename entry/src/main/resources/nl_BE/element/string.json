@@ -1,0 +1,2276 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Aanvaarden"
+    },
+    {
+      "name": "action_history",
+      "value": "Geschiedenis"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Toevoegen aan afspeellijst"
+    },
+    {
+      "name": "albums",
+      "value": "Albums"
+    },
+    {
+      "name": "all",
+      "value": "Alles"
+    },
+    {
+      "name": "always",
+      "value": "Altijd"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Altijd vragen"
+    },
+    {
+      "name": "app_description",
+      "value": "Vrij en licht streamen voor HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "App taal"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe is vrije software: u kan het gebruiken, bestuderen, delen en verbeteren zoveel u maar wil. U kan het opnieuw uitgeven en/of aanpassen volgens de voorwaarden van de GNU General Public License, gepubliceerd door de Free Software Foundation, versie 3 van de licentie, of (indien gewenst) om het even welke latere versie."
+    },
+    {
+      "name": "app_license_title",
+      "value": "Licentie van NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "App/UI gecrasht"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "NewPipe update is beschikbaar!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Meldingen voor nieuwe versies van NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Appupdatemelding"
+    },
+    {
+      "name": "artists",
+      "value": "Artiesten"
+    },
+    {
+      "name": "audio",
+      "value": "Geluid"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Geen audiostreams gevonden"
+    },
+    {
+      "name": "auto",
+      "value": "Auto"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Automatisch (thema van de telefoon)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Automatisch een gerelateerde stream toekennen bij het afspelen van de laatste stream in een niet-herhalende afspeelwachtlijst"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Volgende stream automatisch in wachtrij plaatsen"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Volgende stream automatisch in wachtrij plaatsen"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Automatisch afspelen — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Automatisch afspelen"
+    },
+    {
+      "name": "background_player",
+      "value": "Achtergrondspeler"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Speelt af in achtergrond"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Beste resolutie"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Zwart"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Blanco pagina"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Afspeellijst toevoegen aan bladwijzers"
+    },
+    {
+      "name": "cancel",
+      "value": "Annuleren"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Automatisch gegenereerd"
+    },
+    {
+      "name": "caption_none",
+      "value": "Geen bijschriften"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Bijschrift grootte en achtergrond stijlen wijzigen. Vereist herstart van de app"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Bijschriften"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Gemaakt door %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Kanaalpagina"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Abonnement opgezegd"
+    },
+    {
+      "name": "channels",
+      "value": "Kanalen"
+    },
+    {
+      "name": "chapters",
+      "value": "Hoofdstukken"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Letters en cijfers"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Meeste speciale tekens"
+    },
+    {
+      "name": "checksum",
+      "value": "Controlesom"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Kies een instantie"
+    },
+    {
+      "name": "clear",
+      "value": "Wissen"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Verwijder cookies die NewPipe opslaat wanneer u een reCAPTCHA oplost"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Verwijder reCAPTCHA cookies"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Download geschiedenis verwijderen"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Verwijdert alle geschiedenis van afspeelposities"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Verwijder geschiedenis afspeelposities"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "De actieve wachtrij wordt vervangen"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Veranderen van één speler naar een andere kan jouw wachtrij vervangen"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Vraag bevestiging om wachtrij te wissen"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Verwijdert de gebruikte zoektermen"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Zoekgeschiedenis wissen"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Verwijdert de geschiedenis van bekeken video's en afspeelposities"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Wissen afspeel geschiedenis"
+    },
+    {
+      "name": "close",
+      "value": "Sluiten"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Reacties zijn uitgeschakeld"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Reacties"
+    },
+    {
+      "name": "conferences",
+      "value": "Conferenties"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Wilt u de downloadgeschiedenis of alle gedownloade bestanden verwijderen?"
+    },
+    {
+      "name": "content",
+      "value": "Inhoud"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Standaard taal voor inhoud"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Inhoud niet beschikbaar"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Deze inhoud wordt nog niet ondersteund door NewPipe.\n\n\n\nHopelijk zal dit bij een toekomstige versie ondersteund worden."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Hulp is altijd welkom, of u nu nieuwe ideeën hebt, vertalingen kunt bijdragen, wijzigingen hebt voor het ontwerp, de code kunt opkuisen of er zelfs grote wijzigingen in wilt maken. Hoe meer hulp, hoe beter dat het wordt!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Bijdragen"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Toevoegen aan"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Achtergrond"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Stream bestand downloaden"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Pop-up"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Kopieer opgemaakt rapport"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s door %2$s, uitgebracht onder de %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Opgelet: kon niet alle bestanden importeren."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Kon niet alle miniaturen laden"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Kon downloadmenu niet instellen"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Laat de app crashen"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Crash de speler"
+    },
+    {
+      "name": "create",
+      "value": "Aanmaken"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Nieuwe afspeellijst"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Donker"
+    },
+    {
+      "name": "decline",
+      "value": "Weigeren"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Standaard audio formaat"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Standaard land"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Standaard kiosk"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Standaard resolutie voor pop-up"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Standaard resolutie"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Standaard video formaat"
+    },
+    {
+      "name": "delete",
+      "value": "Verwijderen"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Verwijder gedownloade bestanden"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Wilt u dit item verwijderen uit uw zoekgeschiedenis?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Alle afspeelposities verwijderen?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Deze afspeellijst verwijderen?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "De hele zoekgeschiedenis verwijderen?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Alle afspeel geschiedenis verwijderen?"
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Beschrijving"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Duimen omlaag"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Versleep om de volgorde te wijzigen"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Duimen"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Kanaal avatar afbeelding"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Speel video, tijd:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Avatarminiatuur van uploader"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Bedoelde je \"%1$s\"?"
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Schakel media tunneling uit indien u een zwart scherm of haperingen vaststelt bij het afspelen van video's"
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Media vertunneling uitschakelen"
+    },
+    {
+      "name": "disabled",
+      "value": "Uitgeschakeld"
+    },
+    {
+      "name": "dismiss",
+      "value": "Sluiten"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe wordt door vrijwilligers in hun vrije tijd ontwikkeld om jou de beste ervaring te brengen. Geef wat terug zodat onze ontwikkelaars NewPipe nóg beter kunnen maken terwijl ze van hun kopje koffie genieten."
+    },
+    {
+      "name": "donation_title",
+      "value": "Doneren"
+    },
+    {
+      "name": "done",
+      "value": "Klaar"
+    },
+    {
+      "name": "dont_show",
+      "value": "Niet tonen"
+    },
+    {
+      "name": "download",
+      "value": "Downloaden"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Er staat al een download met deze naam in wacht"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Er is al een download met deze naam bezig"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Downloaden"
+    },
+    {
+      "name": "download_failed",
+      "value": "Download mislukt"
+    },
+    {
+      "name": "download_has_started",
+      "value": "De download is begonnen"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Kies de downloadlocatie voor audiobestanden"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Gedownloade audiobestanden worden hier opgeslagen"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Audio download map"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Kies de downloadlocatie voor videobestanden"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Gedownloade videobestanden worden hier opgeslagen"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Download locatie voor video’s"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Downloaden naar externe SD-kaart is niet mogelijk. Download map opnieuw instellen?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Externe opslag niet beschikbaar"
+    },
+    {
+      "name": "downloads",
+      "value": "Downloads"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "U wordt gevraagd waar elk bestand wordt opgeslagen"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Vraag waar te downloaden"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "Het 'Storage Access Framework' laat downloads naar een externe SD kaart toe.\n\nNiet alle toestellen zijn compatibel"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Gebruik SAF"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Downloads"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Menu sluiten"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Toggle service, momenteel geselecteerd:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Menu openen"
+    },
+    {
+      "name": "duration_live",
+      "value": "Live"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Helemaal niets hier te zien"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Forceer het melden van niet-bezorgbare Rx-uitzonderingen buiten fragment of activiteitscyclus"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Out-of-lifecycle-fouten melden"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Het monitoren van geheugenlekken kan ervoor zorgen dat de app niet goed meer reageert"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Verder afspelen vanaf laatste positie"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Afspelen hervatten"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Laat afspeeltijd in afspeellijst zien"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Posities in lijst"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Limiteer de download wachtrij"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Maximaal 1 bestand tegelijk zal worden gedownload"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Sla zoekopdrachten lokaal op"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Zoekgeschiedenis"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Geschiedenis bekeken video's bijhouden"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Geschiedenis bekijken"
+    },
+    {
+      "name": "enqueue",
+      "value": "Wachtrij"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Volgende in de wachtrij"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "In wachtrij plaatsen"
+    },
+    {
+      "name": "enqueued",
+      "value": "In wachtrij geplaatst"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Volgende in de wachtrij"
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Kan geen verbinding maken met de server"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Details:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Kan deze download niet herstellen"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Het bestand kan niet aangemaakt worden"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "De server verzendt geen gegevens"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Niet gevonden"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "De server aanvaardt geen multi-threaded downloads, probeer het opnieuw met @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Geen vrije ruimte meer op het apparaat"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Er is een fout opgetreden: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "De doelmap kan niet aangemaakt worden"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Nabewerking mislukt"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe werd gesloten terwijl het bezig was met het bestand"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Vooruitgang verloren, omdat het bestand gedeletet werd"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Meld deze fout via e-mail"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Meldingen om fouten te rapporteren"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Foutrapport melding"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe meldt een fout, tik om te rapporteren"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Een fout is opgetreden, zie melding"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Controleer aub of er al een probleem bestaat dat uw crash beschrijft. Wanneer u dubbele tickets aanmaakt, neemt dit tijd van ons in beslag die we beter kunnen besteden aan het oplossen van het daadwerkelijke probleem."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "In GitHub rapporteren"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Foutrapport"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Melden"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Sorry, er is iets fout gegaan."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Kon geen beveiligde verbinding opzetten"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Verbinding time-out"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Kan commentaren niet laden"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Kon de server niet vinden"
+    },
+    {
+      "name": "events",
+      "value": "Gebeurtenissen"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Geëxporteerd"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Exporteert geschiedenis, abonnementen, speellijsten en instellingen"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Databank exporteren"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Bezig met exporteren…"
+    },
+    {
+      "name": "export_to",
+      "value": "Exporteren naar"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Externe spelers ondersteunen deze soorten koppelingen niet"
+    },
+    {
+      "name": "featured",
+      "value": "Featured"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Nieuw"
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Wilt u deze groep verwijderen?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Lege groepsnaam"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Geen abonnement geselecteerd"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Selecteer abonnementen"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Toon enkel niet gegroepeerde abonnementen"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Kanaalgroepen"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Feed aan het laden…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Laatste update nieuws­feed: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Feed aan het verwerken…"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Niet geladen: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Altijd updaten"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Tijd na de laatste update voordat een abonnement als verouderd wordt beschouwd — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Drempel voor feed update"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Snelle modus uitschakelen"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Snelle modus inschakelen"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Denk je dat het laden van de feed te sloom is? Zo ja, probeer snel laden in te schakelen (in de instellingen of door op onderstaande knop te drukken).\n\nNewPipe biedt twee strategieën aan voor het laden van de feed:\n• Het hele abonnementskanaal ophalen, wat sloom maar compleet is.\n• Een speciale feed ophalen, wat snel maar meestal incompleet is.\n\nHet verschil tussen de twee is dat de snelle meestal wat informatie mist, zoals de duur of type (live of een normale video) van het item en dat er mogelijk minder items zijn.\n\nYouTube is een voorbeeld van een service die deze snelle methode aanbiedt door zijn RSS-feed.\n\nDe keuze komt dus neer op wat je liever hebt: snelheid of precieze informatie."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Beschikbaar in sommige services, het is meestal veel sneller, maar kan een beperkte hoeveelheid items en vaak onvolledige informatie (bijv. geen duur, item type, of live status) bevatten."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Uit speciale feed ophalen indien beschikbaar"
+    },
+    {
+      "name": "file",
+      "value": "Bestand"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Bestand verwijderd"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "De bestandsnaam mag niet blanco zijn"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Nieuw"
+    },
+    {
+      "name": "general_error",
+      "value": "Fout"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Unieke naam genereren"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Deze inhoud is niet toegankelijk in uw land."
+    },
+    {
+      "name": "give_back",
+      "value": "Teruggeven"
+    },
+    {
+      "name": "grid",
+      "value": "Raster"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Meldingen van vooruitgang video hashing"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Video Hash Melding"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Hoge kwaliteit (groter)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Houd ingedrukt om toe te voegen aan wachtrij"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Handig, bijvoorbeeld, als je een hoofdtelefoon gebruikte met kapotte fysieke knoppen"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Geïmporteerd"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Dit overschrijft uw huidige geschiedenis, abonnementen, speellijsten en optioneel uw instellingen"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Databank importeren"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Bestand importeren"
+    },
+    {
+      "name": "import_from",
+      "value": "Importeren uit"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Let op: deze actie kan veel MB’s van uw netwerk gebruiken.\n\n\n\nWilt u doorgaan?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Bezig met importeren…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Wilt u ook de instellingen importeren?"
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Importeer een SoundCloud-profiel door de URL of het ID ervan in te voeren:\n\n\n\n1. Kies een webbrowser en schakel bureaubladmodus in (de website is niet beschikbaar voor mobiele apparaten)\n\n2. Ga naar dit adres: %1$s\n\n3. Log in op uw account\n\n4. Kopieer de koppeling van de pagina waar u op terechtkomt (dat is uw profiel-URL)."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "uwID, soundbutt.com/uwid"
+    },
+    {
+      "name": "import_title",
+      "value": "Importeren"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Importeer je YouTube-abonnementen vanaf Google Takeout:\n\n\n\n1. Ga naar dit adres: %1$s\n\n2. Log in op je account\n\n3. Klik op \"Alle YouTube-gegevens inbegrepen\", dan op \"Selectie van alle items ongedaan maken\", dan selecteer alleen \"abonnementen\" en klik op \"OK\"\n\n4. Klik op \"Volgende stap\", dan op \"Export maken\"\n\n5. Klik op de knop \"Downloaden\" nadat deze verschijnt\n\n6. Klik op IMPORTEER BESTAND hieronder en selecteer het gedownloade zip-bestand\n\n7. [Als de zip import faalt] Pak het .csv bestand uit (gebruikelijk in de folder \"YouTube en YouTube Music/abonnementen/abonnementen.csv), klik op IMPORTEER BESTAND hieronder en selecteer het uitgepakt csv bestand"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ video's"
+    },
+    {
+      "name": "info_labels",
+      "value": "Wat:\nVerzoek:\nTaal van inhoud:\nLand:\nTaal van applicatie:\nDienst:\nGMT tijd:\nPakket:\nVersie:\nVersie van besturingssysteem:"
+    },
+    {
+      "name": "install",
+      "value": "Installeren"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Deze map bestaat niet"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Het bestand bestaat niet of u bent onvoldoende gemachtigd om het te lezen of ernaar te schrijven"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Bestand/inhoudsbron bestaat niet"
+    },
+    {
+      "name": "just_once",
+      "value": "Eenmalig"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Kioskpagina"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Wilt u de missende Kore-app installeren?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary is niet beschikbaar"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Licht"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Onbeperkt"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Resolutie beperken bij gebruik van mobiele gegevens"
+    },
+    {
+      "name": "list",
+      "value": "Lijst"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Lijstweergave modus"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Stream details aan het laden…"
+    },
+    {
+      "name": "local",
+      "value": "Lokaal"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Lokale zoeksuggesties"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Lage kwaliteit (kleiner)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Tik op het loepje om te beginnen."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Inhoud van hoofdpagina"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Welke tabbladen er worden weergegeven op de hoofdpagina"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Veeg items om ze te verwijderen"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Markeer als bekeken"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Maximaal aantal pogingen vooraleer dat de download wordt geannuleerd"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Maximaal aantal pogingen"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Metagegevens-cache gewist"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Alle gecachete webpagina-gegevens wissen"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Gecachete metagegevens wissen"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Afspelen in achtergrond"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Geen"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Afspelen in pop-up"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Actie bij overschakelen van videospeler naar andere app — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Minimaliseren bij overschakelen naar andere app"
+    },
+    {
+      "name": "missing_file",
+      "value": "Stream bestand downloaden"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Voltooid"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "In afwachting"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ video's"
+    },
+    {
+      "name": "most_liked",
+      "value": "Meest leuk gevonden"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Hash aan het berekenen"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Gekopieerd naar klembord"
+    },
+    {
+      "name": "msg_error",
+      "value": "Fout"
+    },
+    {
+      "name": "msg_name",
+      "value": "Bestandsnaam"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Deze toestemming is vereist om\n\nte openen in pop-up modus"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe is aan het downloaden"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Tik voor meer informatie"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Threads"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Even geduld…"
+    },
+    {
+      "name": "mute",
+      "value": "Dempen"
+    },
+    {
+      "name": "name",
+      "value": "Naam"
+    },
+    {
+      "name": "network_error",
+      "value": "Netwerkfout"
+    },
+    {
+      "name": "never",
+      "value": "Nooit"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Nieuw en populair"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Door beperkingen van AVPlayer is de zoekduur ingesteld op %d seconden"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Kies uw favoriete nachtthema - %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Nacht thema"
+    },
+    {
+      "name": "no",
+      "value": "Nee"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Geen app beschikbaar om dit te openen"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Kies een beschikbare download map"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Nog niet geabonneerd op een kanaal"
+    },
+    {
+      "name": "no_comments",
+      "value": "Geen commentaren"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Geen download map ingesteld, kies nu de standaard download map"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Niemand is aan het luisteren"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Niemand is aan het kijken"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Er is geen stream videospeler gevonden. Wilt u VLC installeren?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Geen speler met stream ondersteuning gevonden (je kan VLC installeren om af te spelen)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Geen afspeellijst bladwijzers"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Geen streams beschikbaar voor downloaden"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Geen abonnees"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Geen geldig ZIP-bestand"
+    },
+    {
+      "name": "no_videos",
+      "value": "Geen video’s"
+    },
+    {
+      "name": "no_views",
+      "value": "Geen weergaven"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Eerste actie knop"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Tweede actie knop"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Derde actie knop"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Vierde actie knop"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Vijfde actie knop"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Aan het bufferen"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Niets"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Herhaal"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Shuffle"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Je kan maximaal drie acties selecteren om te tonen in de compacte notificatie!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Pas elke notificatie actie hieronder aan door er op te tikken. Selecteer tot drie acties die getoond worden in de compacte notificatie door gebruik te maken van de selectie vakjes aan de rechterkant."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Bewerk elke meldingsactie hieronder door erop te tikken. De eerste drie acties (afspelen/pauzeren, vorige en volgende) zijn ingesteld door het systeem en kunnen niet worden aangepast."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Meldingen voor NewPipe-achtergrond- en pop-upspelers"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe-melding"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Laat Android de kleur van de notificatie aanpassen, op basis van de meest voorkomende kleur in de thumbnail (let op: niet beschikbaar op elk apparaat)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Notificatie kleur aanpassen"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Snij de miniatuurafbeelding van de video die getoond wordt in de notificatie bij van 16:9 naar een 1:1 verhouding"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Miniatuurafbeelding naar verhouding 1:1 bijknippen"
+    },
+    {
+      "name": "notifications",
+      "value": "Meldingen"
+    },
+    {
+      "name": "ok",
+      "value": "Oké"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 item verwijderd."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "In browser openen"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Openen in pop-up modus"
+    },
+    {
+      "name": "open_with",
+      "value": "Open met"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Dit zal uw huidige configuratie overschrijven."
+    },
+    {
+      "name": "overwrite",
+      "value": "Overschrijven"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "Kan bestand niet overschrijven"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Er bestaat al een gedownload bestand met deze naam"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Er bestaat al een bestand met deze naam"
+    },
+    {
+      "name": "paid_content",
+      "value": "Deze inhoud is enkel toegankelijk voor betalende gebruikers, waardoor het niet kan worden gestreamd of gedownload door NewPipe."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Kon website niet verwerken"
+    },
+    {
+      "name": "pause",
+      "value": "Pauzeren"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Pauzeer downloads"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Pauzeren bij mobiele data verbinding"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Nuttig bij het gebruik van mobiele data, hoewel sommige downloads niet uitgesteld kunnen worden"
+    },
+    {
+      "name": "paused",
+      "value": "gepauzeerd"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Kanaal bestaat al"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Kon kanaal niet valideren"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Kanaal URL invoeren"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Alleen HTTPS URL's worden ondersteund"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Kanaal toevoegen"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Vind het kanaal dat u leuk vindt op %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Selecteer je favoriete PeerTube kanaal"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube kanaal"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Actie geweigerd door het systeem"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Geef toestemming voor weergave over andere apps"
+    },
+    {
+      "name": "play_all",
+      "value": "Alles afspelen"
+    },
+    {
+      "name": "play_audio",
+      "value": "Audio"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Audio-instellingen"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Verwijderen"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Details"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Afspelen met Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Toon"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Resetten"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Afspeelsnelheidsbesturing"
+    },
+    {
+      "name": "playback_step",
+      "value": "Stap"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Tempo"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Bezig met herstellen van spelerfout"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Kon deze stream niet afspelen"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Onherstelbare spelerfout opgetreden"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Toegevoegd aan afspeellijst"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Afspeellijst aangemaakt"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Automatisch gegenereerd (geen uploader gevonden)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Afspeellijst pagina"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Miniatuur voor afspeellijst gewijzigd."
+    },
+    {
+      "name": "playlists",
+      "value": "Afspeellijsten"
+    },
+    {
+      "name": "popup_player",
+      "value": "Pop-upspeler"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Speelt af in pop-upmodus"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Onthoud laatste grootte en positie van pop-up"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Onthoud grootte en positie van pop-up"
+    },
+    {
+      "name": "post_processing",
+      "value": "nabewerking"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Verkies beschrijvende audio"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Selecteer het oorspronkelijke audiospoor, ongeacht de taal"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Verkies originele audio"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Standaard actie bij openen van inhoud — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Voorkeursactie voor openen"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Bezig met laden van gevraagde inhoud"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Info ophalen…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Vorige exportering"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "Het NewPipe-project neemt privacy serieus. Daarom verzamelt de app geen gegevens zonder uw toestemming.\n\nNewPipe's privacybeleid legt gedetailleerd uit welke gegevens verstuurd en opgeslagen worden als u een crashrapport verstuurt."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Privacybeleid van NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "Deze inhoud is privé, waardoor het niet kan worden gestreamd of gedownload door NewPipe."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Verwerken... Dit kan even duren"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Verander de intervalgrootte voor het laden van progressieve inhoud (momenteel %s). Een lagere waarde kan het initiële laden versnellen"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Intervalgrootte voor afspelen laden"
+    },
+    {
+      "name": "queued",
+      "value": "toegevoegd aan wachtrij"
+    },
+    {
+      "name": "radio",
+      "value": "Radio"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Licentie lezen"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Privacybeleid lezen"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA cookies zijn verwijderd"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "reCAPTCHA-uitdaging gevraagd"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Los op"
+    },
+    {
+      "name": "recent",
+      "value": "Recent"
+    },
+    {
+      "name": "recently_added",
+      "value": "Recent toegevoegd"
+    },
+    {
+      "name": "recovering",
+      "value": "aan het herstellen"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Gerelateerde items"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Suggesties voor zoeken op afstand"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Verwijder bekeken"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Ja, en deels bekeken video's"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Verwijder bekeken video's?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Video's die zijn bekeken voor, en na, ze werden toegevoegd aan de afspeellijst worden verwijderd. \nBent u zeker? Dit kan niet ongedaan gemaakt worden!"
+    },
+    {
+      "name": "rename",
+      "value": "Hernoemen"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Hernoemen"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Opvullen"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Passend"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Inzoomen"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Standaard instellingen herstellen"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Wil je de standaard instellingen herstellen?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Deze video heeft een leeftijdsbeperking.\n\n\n\nSchakel \"%1$s\" in bij de instellingen als u die wilt zien."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Deze video heeft een leeftijdsbeperking.\n\nAls gevolg van het nieuwe YouTube-beleid met video's met leeftijdsbeperkingen heeft NewPipe geen toegang tot deze videostreams en kan deze dus niet afspelen."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Ga verder met afspelen na onderbrekingen (b.v. telefoongesprekken)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Hervat afspelen"
+    },
+    {
+      "name": "retry",
+      "value": "Opnieuw proberen"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Fout bij het lezen van de opgeslagen tabbladen, waardoor standaard tabbladen worden gebruikt"
+    },
+    {
+      "name": "search",
+      "value": "Zoeken"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Zoekgeschiedenis verwijderd"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Geen resultaten"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Resultaten aan het tonen voor: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Zoeken%1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Zoeken%1$s(%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Duur voor-/achteruit spoelen"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Zoekbalk miniatuurvoorbeeld"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Selecteer een kanaal"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Selecteer een kiosk"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Selecteer een afspeellijst"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "U kunt uw favoriete nachtthema hieronder kiezen"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Instellen als miniatuur voor afspeellijst"
+    },
+    {
+      "name": "settings",
+      "value": "Instellingen"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Uiterlijk"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Wis data"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Foutopsporing"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Download"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Feed"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Geschiedenis en cache"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Gedrag"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Configureer actieve stream melding"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Speler melding"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Speler"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Updates"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Video en audio"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Toegelaten tekens in bestandsnamen"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Ongeldige tekens worden vervangen door deze waarde"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Vervangend teken"
+    },
+    {
+      "name": "share",
+      "value": "Delen"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Delen met"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Toon inhoud die mogelijk niet geschikt is voor kinderen omwille van een leeftijdslimiet (zoals 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Toon inhoud met leeftijdsbeperking"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Toon kanaal details"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Schakel dit uit om reacties te verbergen"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Commentaren weergeven"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Zet uit om videobeschrijving en extra informatie te verbergen"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Toon beschrijving"
+    },
+    {
+      "name": "show_error",
+      "value": "Foutmelding weergeven"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Slechts enkele toestellen kunnen 2K- en 4K-video's afspelen"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Hogere resoluties weergeven"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Toon tip als de achtergrond- of pop-up knop wordt ingedrukt in de video \"Details:\""
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Toon tip ‘Ingedrukt houden om toe te voegen’"
+    },
+    {
+      "name": "show_info",
+      "value": "Info tonen"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Toon memory leaks"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Zet uit om metadata pop-ups te verbergen met extra informatie over de stream auteur, stream inhoud of een zoekaanvraag"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Toon metadata"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Toont ‘Volgende’ en ‘Vergelijkbare’ video’s"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Originele teksten van services zijn zichtbaar in stream items"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Toon oorspronkelijke tijd geleden op items"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Toont een optie om video af te spelen op een Kodi media center"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Toon “Afspelen met Kodi”-optie"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Kies de suggesties die getoond worden bij het zoeken"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Zoeksuggesties"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Gebruik miniatuur voor de achtergrond en meldingen op vergrendeld scherm"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Toon miniatuur"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Doorspoelen tijdens stilte"
+    },
+    {
+      "name": "songs",
+      "value": "Nummers"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Sorry, dit zou niet mogen gebeuren."
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Dit is (tenminste in uw land) een SoundCloud Go+ titel, waardoor het niet kan worden gestreamd of gedownload door NewPipe."
+    },
+    {
+      "name": "start",
+      "value": "Begin"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Om de Europese Algemene Verordening Gegevensbescherming (ook wel: AVG of GDPR) na te leven, wijzen we u op het nieuwe privacybeleid van NewPipe. Lees dit zorgvuldig.\n\nU moet het beleid aanvaarden om ons het foutrapport te kunnen opsturen."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Downloads starten"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Begint met afspelen in de achtergrond"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Afspelen in pop-up"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Start geen video's in de minispeler, maar schakel direct over naar volledig scherm-modus, als de auto rotatie is vergrendeld. U kunt de minispeler nog steeds openen door het volledige scherm te verlaten"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Start hoofdspeler in volledig scherm"
+    },
+    {
+      "name": "stop",
+      "value": "Stoppen"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Meldingen over nieuwe streams voor abonnementen"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Nieuwe streams"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Abonneer"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Geabonneerd"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Aantal abonnees niet beschikbaar"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Kan abonnement niet wijzigen"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Kan abonnement niet bijwerken"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Kon abonnementen niet exporteren"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Kon abonnementen niet importeren"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Tik op ‘Klaar’ zodra opgelost"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Verplaatsen naar achtergrond"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Verplaatsen naar normaal"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Verplaatsen naar pop-up"
+    },
+    {
+      "name": "systems_language",
+      "value": "Systeem standaard"
+    },
+    {
+      "name": "tab_about",
+      "value": "Over"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Bijgehouden afspeellijsten"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Afspeellijsten"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Kiest een tabblad"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Licenties"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Abonnementen"
+    },
+    {
+      "name": "theme_title",
+      "value": "Thema"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Afbeeldingscache gewist"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Over NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Geschiedenis"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Speel wachtrij af"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA-uitdaging"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Laatst afgespeeld"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Derdepartijlicenties"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Meest afgespeeld"
+    },
+    {
+      "name": "top_50",
+      "value": "Top 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Nummers"
+    },
+    {
+      "name": "trending",
+      "value": "Populair"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Bladwijzer verwijderen"
+    },
+    {
+      "name": "undo",
+      "value": "Ongedaan maken"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Ontkoppelen (kan ruis veroorzaken)"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Onbekend]"
+    },
+    {
+      "name": "unmute",
+      "value": "Geluid aanzetten"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Abonnement opzeggen"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "URL wordt niet ondersteund"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Kon de URL niet herkennen. In een andere app openen?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Toon een melding om de app bij te werken indien er een nieuwe versie beschikbaar is"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Updates"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Gepubliceerd op %1$s"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Externe audiospeler gebruiken"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Verwijdert het geluid bij sommige resoluties"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Externe videospeler gebruiken"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Minder exact spoelen laat de speler sneller posities zoeken met verminderde precisie. 5, 15 en 25 seconden werken niet"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Snel, minder exact spoelen gebruiken"
+    },
+    {
+      "name": "users",
+      "value": "Gebruikers"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Door %s"
+    },
+    {
+      "name": "video_player",
+      "value": "Videospeler"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Geen videostreams gevonden"
+    },
+    {
+      "name": "videos_string",
+      "value": "Video's"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Bekijken op GitHub"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Afspeel geschiedenis verwijderd"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Afspeelposities verwijderd"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Bezoek de website van NewPipe voor meer informatie en het laatste nieuws."
+    },
+    {
+      "name": "website_title",
+      "value": "Website"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Info:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Wat er is gebeurd:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Enkel via Wi-Fi"
+    },
+    {
+      "name": "yes",
+      "value": "Ja"
+    },
+    {
+      "name": "your_comment",
+      "value": "Uw opmerking (in het Engels):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Deze video is enkel toegankelijk voor YouTube Music Premium leden, waardoor het niet kan worden gestreamd of gedownload door NewPipe."
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube biedt een \"beperkte modes\" aan, dit verbergt mogelijk materiaal voor volwassenen"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "YouTube \"beperkte modus\" aanzetten"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

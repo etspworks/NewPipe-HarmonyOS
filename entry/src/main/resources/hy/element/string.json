@@ -1,0 +1,984 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Համաձայնել"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Հաշիվը կասեցված է"
+    },
+    {
+      "name": "action_history",
+      "value": "Պատմություն"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Ավելացնել նվագացանկին"
+    },
+    {
+      "name": "albums",
+      "value": "Ալբոմներ"
+    },
+    {
+      "name": "all",
+      "value": "Ամենը"
+    },
+    {
+      "name": "always",
+      "value": "Միշտ"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Միշտ հարցնել"
+    },
+    {
+      "name": "any_network",
+      "value": "Կամայական ցանցով"
+    },
+    {
+      "name": "app_language_title",
+      "value": "Ափփի լեզու"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "NewPipe֊ի նոր թարմացում է հասանելի"
+    },
+    {
+      "name": "artists",
+      "value": "Արվեստագետներ"
+    },
+    {
+      "name": "auto",
+      "value": "Ինքնին"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Ինքնանվագարկում"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Սև"
+    },
+    {
+      "name": "cancel",
+      "value": "Չեղարկել"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Գեներացված"
+    },
+    {
+      "name": "caption_none",
+      "value": "Անենթագիր"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Ենթագրեր"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Մասին"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Ալբոմներ"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Ալիքներ"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Հավանումներ"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Ուղիղ"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Նվագացանկեր"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Կարճեր"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Չեղարկել բաժանորդագրման հեռացումը"
+    },
+    {
+      "name": "channels",
+      "value": "Ալիքներ"
+    },
+    {
+      "name": "chapters",
+      "value": "Գլուխներ"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Տառեր և թվեր"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Ստուգել թարմացումները"
+    },
+    {
+      "name": "clear",
+      "value": "Մաքրել"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Մաքրել ներբեռնման պատմությունը"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Մաքրել որոնման պատմությունը"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Մաքրել դիտման պատմությունը"
+    },
+    {
+      "name": "close",
+      "value": "Փակել"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Մեկնաբանությունները անջատված են"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Մեկնաբանություններ"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Ավելացնել"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Ետին պլան"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Բեռնել հոսքի նշքը"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Թռուցիկ"
+    },
+    {
+      "name": "create",
+      "value": "Ստեղծել"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Նոր նվագացանկ"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Մուգ"
+    },
+    {
+      "name": "decline",
+      "value": "Մերժել"
+    },
+    {
+      "name": "delete",
+      "value": "Ջնջել"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Ջնջել ներբեռնված ֆայլերը"
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Նկարագիր"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Չեմ հավանում"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Հավանումներ"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Գամված մեկնաբանություն"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Նկատի ունե՞ս «%1$s»"
+    },
+    {
+      "name": "disabled",
+      "value": "Անջատված"
+    },
+    {
+      "name": "dismiss",
+      "value": "Անտեսել"
+    },
+    {
+      "name": "donation_title",
+      "value": "Նվիրել"
+    },
+    {
+      "name": "done",
+      "value": "Եղավ"
+    },
+    {
+      "name": "dont_show",
+      "value": "Ցույց չտալ"
+    },
+    {
+      "name": "download",
+      "value": "Բեռնել"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Բեռնել"
+    },
+    {
+      "name": "download_failed",
+      "value": "Ներբեռնումը խափանվեց"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Ներբեռնումը սկսվեց"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Ձայնային բեռնման պանակ"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Ընտրեք ներբեռնման թղթապանակը տեսաֆայլերի համար"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Ներբեռնված տեսաֆայլերը պահվում են այստեղ"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Տեսանյութի ներբեռնման պանակ"
+    },
+    {
+      "name": "downloads",
+      "value": "Բեռնված"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Հարցնել որտեղ ներբեռնել"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Բեռնված"
+    },
+    {
+      "name": "duration",
+      "value": "Տևողություն"
+    },
+    {
+      "name": "duration_live",
+      "value": "Ուղիղ"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Ոչինչ բացի դատարկությունից"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Շարունակել նվագարկումը"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Ցանկերում դիրքերը"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Որոնման պատմություն"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Դիտման պատմություն"
+    },
+    {
+      "name": "enqueue",
+      "value": "Հերթ"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Ազդարարել"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Նոր"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Դատարկ խմբի անուն"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Նշիր բաժանորդագրումներ"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Ալիքների խմբեր"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Հոսքի նորերը"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Բեռնում եմ հոսքը…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Թարմացվել է՝ %s"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Մասնակի դիտված"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Ամբողչովին դիտված"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Չի բեռնվել՝ %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Միշտ թարմացնել"
+    },
+    {
+      "name": "file",
+      "value": "Ֆայլ"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Ֆայլը ջնջվեց"
+    },
+    {
+      "name": "forward",
+      "value": "Առաջ տանել"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Ինչ կա֊չկա"
+    },
+    {
+      "name": "grid",
+      "value": "Աղյուսակ"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Բարձր որակ (մեծ)"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Բարձր որակ"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Ցածր որակ"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Միջին որակ"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Նկարները չներբեռնել"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Պատկերի որակ"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Ներմուծել ֆայլ"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Ներմուծում եմ…"
+    },
+    {
+      "name": "import_title",
+      "value": "Ներմուծել"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ տեսանյութեր"
+    },
+    {
+      "name": "install",
+      "value": "Տեղադրել"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Այդպիսի պանակ չկա"
+    },
+    {
+      "name": "just_once",
+      "value": "Մեկ անգամ"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "Մանրամասներ"
+    },
+    {
+      "name": "kao_solution",
+      "value": "Լուծում"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Բաց"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Անսահման"
+    },
+    {
+      "name": "list",
+      "value": "Ցանկ"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Ցածր որակ (փոքր)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Սեղմեք խոշորացույցը որ սկսեք"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Նշել որպես դիտված"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Տարիքային սահմանափակում"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Լեզու"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Արտոնագիր"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Ներքին"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Անձնական"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Հանրային"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Բաժանորդագրվածներ"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Պիտակներ"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Ոչինչ"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Ավարտված"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ տեսանյութեր"
+    },
+    {
+      "name": "msg_error",
+      "value": "Սխալ"
+    },
+    {
+      "name": "msg_name",
+      "value": "ֆայլի անուն"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Հոսքեր"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Սպասեք…"
+    },
+    {
+      "name": "mute",
+      "value": "Լռեցնել"
+    },
+    {
+      "name": "name",
+      "value": "Վերնագիր"
+    },
+    {
+      "name": "never",
+      "value": "Երբեք"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Գիշերային ոճ"
+    },
+    {
+      "name": "no",
+      "value": "Ոչ"
+    },
+    {
+      "name": "no_comments",
+      "value": "Կարծիքներ չկան"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Նվագարկիչ չի գտնվել, ցանկանո՞ւմ եք բեռնել VLC։"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Նվագարկիչ չի գտնվել (դուք կարող եք լբեռնել VLC և դիտել)։"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Առանց հետևորդ"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Ոչինչ"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Կրկնել"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Խառը"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe ծանուցում"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Ներկել ծանուցումները"
+    },
+    {
+      "name": "notifications",
+      "value": "Ծանուցումներ"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Ծանուցումները անջատված են"
+    },
+    {
+      "name": "off",
+      "value": "Անջատված"
+    },
+    {
+      "name": "ok",
+      "value": "Լավ"
+    },
+    {
+      "name": "on",
+      "value": "Միացված"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Բացել բրաուզերում"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Բացել լողացող պատուհանում"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Բացել նվագացանկը"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Բացել կայքը"
+    },
+    {
+      "name": "open_with",
+      "value": "Բացել…"
+    },
+    {
+      "name": "percent",
+      "value": "Տոկոս"
+    },
+    {
+      "name": "play",
+      "value": "Նվագել"
+    },
+    {
+      "name": "play_all",
+      "value": "Նվագել ամենը"
+    },
+    {
+      "name": "play_audio",
+      "value": "Աուդիո"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Հեռացնել"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Մանրամասներ"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Նվագել Kodi֊ով"
+    },
+    {
+      "name": "playback_step",
+      "value": "Քայլ"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Տեմպ"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Նվագացանկը ստեղծվեց"
+    },
+    {
+      "name": "playlists",
+      "value": "Նվագացանկեր"
+    },
+    {
+      "name": "queued",
+      "value": "հերթագրված"
+    },
+    {
+      "name": "radio",
+      "value": "Ռադիո"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Լուծել"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Հեռացնել դիտվածները"
+    },
+    {
+      "name": "rename",
+      "value": "Վերանվանել"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Վերանվանել"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Լցնել"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Հարմարվել"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Մեծացնել"
+    },
+    {
+      "name": "retry",
+      "value": "Կրկին փորձել"
+    },
+    {
+      "name": "rewind",
+      "value": "Հետ տանել"
+    },
+    {
+      "name": "search",
+      "value": "Որոնել"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Նշել ալիք"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Նշել նվագացանկ"
+    },
+    {
+      "name": "settings",
+      "value": "Պարամետրեր"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Տեսք"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Մաքրել տվյալները"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Բեռնումներ"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Հոսք"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Պատմություն և քեշ"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Վարքագիծ"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Նվագարկիչ"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Թարմացումներ"
+    },
+    {
+      "name": "share",
+      "value": "Կիսվել"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Կիսվել"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Կիսվել նվագացանկով"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sԲլն"
+    },
+    {
+      "name": "short_million",
+      "value": "%sՄլն"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sՀզր"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Տեսնել մեկնաբանությունները"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Տեսնել նկարագիրը"
+    },
+    {
+      "name": "show_info",
+      "value": "Ցուցադրել ինֆոն"
+    },
+    {
+      "name": "show_less",
+      "value": "Պակաս"
+    },
+    {
+      "name": "show_more",
+      "value": "Ավելին"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Որոնման հուշումներ"
+    },
+    {
+      "name": "songs",
+      "value": "Երգեր"
+    },
+    {
+      "name": "sort",
+      "value": "Դասավորել"
+    },
+    {
+      "name": "start",
+      "value": "Սկսել"
+    },
+    {
+      "name": "start_downloads",
+      "value": "Սկսել ներբեռնումները"
+    },
+    {
+      "name": "stop",
+      "value": "Կանգ"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Բաժանորդագրվել"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Բաժանորդագրված"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Հնարավոր չէ փոխել Բաժանորդագրումը"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Հնարավոր չէ թարմացնել բաժանորդագրումը"
+    },
+    {
+      "name": "tab_about",
+      "value": "Մասին"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Էջանշված երգացանկեր"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Նվագացանկեր"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Ընտրեք ներդիր"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Բաժանորդագրումներ"
+    },
+    {
+      "name": "theme_title",
+      "value": "Ոճ"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Պատմություն"
+    },
+    {
+      "name": "top_50",
+      "value": "Թեժ 50"
+    },
+    {
+      "name": "trending",
+      "value": "Թրենդային"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Անհայտ"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Անհայտ]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Անհյատ ֆորմատ"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Անհայտ որակ"
+    },
+    {
+      "name": "unmute",
+      "value": "Նվագել"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Ապաբաժանորդագրվել"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Թարմացումներ"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Հրապարակվել է %1$s"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Օգտագործել արտաքին աուդիո նվագարկիչ"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Հառացնում է ձայնը որոշ լուծաչափերոկմ"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Օգտագործել արտաքին դերակատար"
+    },
+    {
+      "name": "users",
+      "value": "Օգտատերեր"
+    },
+    {
+      "name": "video",
+      "value": "Տեսանյութ"
+    },
+    {
+      "name": "volume",
+      "value": "Բարձրություն"
+    },
+    {
+      "name": "website_title",
+      "value": "Կայք"
+    },
+    {
+      "name": "yes",
+      "value": "Այո"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

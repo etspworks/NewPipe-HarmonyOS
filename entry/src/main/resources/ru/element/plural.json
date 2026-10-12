@@ -1,0 +1,361 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d день"
+        },
+        {
+          "quantity": "few",
+          "value": "%d дня"
+        },
+        {
+          "quantity": "many",
+          "value": "%d дней"
+        },
+        {
+          "quantity": "other",
+          "value": "%d дней"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Удалена %1$s загрузка"
+        },
+        {
+          "quantity": "few",
+          "value": "Удалено %1$s загрузки"
+        },
+        {
+          "quantity": "many",
+          "value": "Удалено %1$s загрузок"
+        },
+        {
+          "quantity": "other",
+          "value": "Удалено %1$s загрузок"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s загрузка завершено"
+        },
+        {
+          "quantity": "few",
+          "value": "%s загрузки завершено"
+        },
+        {
+          "quantity": "many",
+          "value": "%s загрузок завершено"
+        },
+        {
+          "quantity": "other",
+          "value": "%s загрузок завершено"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Экспортирование %d подписки…"
+        },
+        {
+          "quantity": "few",
+          "value": "Экспортирование %d подписок…"
+        },
+        {
+          "quantity": "many",
+          "value": "Экспортирование %d подписок…"
+        },
+        {
+          "quantity": "other",
+          "value": "Экспортирование %d подписок…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d выбрана"
+        },
+        {
+          "quantity": "few",
+          "value": "%d выбрано"
+        },
+        {
+          "quantity": "many",
+          "value": "%d выбрано"
+        },
+        {
+          "quantity": "other",
+          "value": "%d выбрано"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d час"
+        },
+        {
+          "quantity": "few",
+          "value": "%d часа"
+        },
+        {
+          "quantity": "many",
+          "value": "%d часов"
+        },
+        {
+          "quantity": "other",
+          "value": "%d часов"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Импортирование %d подписки…"
+        },
+        {
+          "quantity": "few",
+          "value": "Импортирование %d подписок…"
+        },
+        {
+          "quantity": "many",
+          "value": "Импортирование %d подписок…"
+        },
+        {
+          "quantity": "other",
+          "value": "Импортирование %d подписок…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s слушатель"
+        },
+        {
+          "quantity": "few",
+          "value": "%s слушателя"
+        },
+        {
+          "quantity": "many",
+          "value": "%s слушателей"
+        },
+        {
+          "quantity": "other",
+          "value": "%s слушателей"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Загрузка %d подписки…"
+        },
+        {
+          "quantity": "few",
+          "value": "Загрузка %d подписок…"
+        },
+        {
+          "quantity": "many",
+          "value": "Загрузка %d подписок…"
+        },
+        {
+          "quantity": "other",
+          "value": "Загрузка %d подписок…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d минута"
+        },
+        {
+          "quantity": "few",
+          "value": "%d минуты"
+        },
+        {
+          "quantity": "many",
+          "value": "%d минут"
+        },
+        {
+          "quantity": "other",
+          "value": "%d минут"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s новое видео"
+        },
+        {
+          "quantity": "few",
+          "value": "%s новых видео"
+        },
+        {
+          "quantity": "many",
+          "value": "%s новых видео"
+        },
+        {
+          "quantity": "other",
+          "value": "%s новых видео"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ответ"
+        },
+        {
+          "quantity": "few",
+          "value": "%s ответа"
+        },
+        {
+          "quantity": "many",
+          "value": "%s ответов"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ответов"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d секунда"
+        },
+        {
+          "quantity": "few",
+          "value": "%d секунды"
+        },
+        {
+          "quantity": "many",
+          "value": "%d секунд"
+        },
+        {
+          "quantity": "other",
+          "value": "%d секунд"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s подписчик"
+        },
+        {
+          "quantity": "few",
+          "value": "%s подписчика"
+        },
+        {
+          "quantity": "many",
+          "value": "%s подписчиков"
+        },
+        {
+          "quantity": "other",
+          "value": "%s подписчиков"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s видео"
+        },
+        {
+          "quantity": "few",
+          "value": "%s видео"
+        },
+        {
+          "quantity": "many",
+          "value": "%s видео"
+        },
+        {
+          "quantity": "other",
+          "value": "%s видео"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s просмотр"
+        },
+        {
+          "quantity": "few",
+          "value": "%s просмотра"
+        },
+        {
+          "quantity": "many",
+          "value": "%s просмотров"
+        },
+        {
+          "quantity": "other",
+          "value": "%s просмотров"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s зритель"
+        },
+        {
+          "quantity": "few",
+          "value": "%s зрителя"
+        },
+        {
+          "quantity": "many",
+          "value": "%s зрителей"
+        },
+        {
+          "quantity": "other",
+          "value": "%s зрителей"
+        }
+      ]
+    }
+  ]
+}

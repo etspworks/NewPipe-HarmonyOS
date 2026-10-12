@@ -1,0 +1,3092 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "ਸਵੀਕਾਰ ਕਰੋ"
+    },
+    {
+      "name": "account_terminated",
+      "value": "ਖਾਤਾ ਬੰਦ ਕੀਤਾ ਗਿਆ"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "ਖ਼ਾਤਾ ਬੰਦ ਕੀਤਾ ਗਿਆ\n\n%1$s ਇਹ ਕਾਰਨ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "ਇਤਿਹਾਸ"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "ਪਲੇਲਿਸਟ ਵਿੱਚ ਜੋੜ੍ਹੋ"
+    },
+    {
+      "name": "albums",
+      "value": "ਐਲਬਮ"
+    },
+    {
+      "name": "all",
+      "value": "ਸਾਰੇ"
+    },
+    {
+      "name": "always",
+      "value": "ਹਮੇਸ਼ਾਂ"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "ਹਮੇਸ਼ਾਂ ਪੁੱਛੋ"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "ਇਹ ਵਰਕਅਰਾਊਂਡ ਸਤਹ ਨੂੰ ਸਿੱਧਾ ਕੋਡੇਕ ਤੇ ਸੈੱਟ ਕਰਨ ਦੀ ਬਜਾਏ, ਸਤਹ ਵਿੱਚ ਤਬਦੀਲੀ ਹੋਣ ਤੇ ਵੀਡੀਓ ਕੋਡੈਕਸ ਨੂੰ ਜਾਰੀ ਅਤੇ ਮੁੜ-ਬਹਾਲ ਕਰਦਾ ਹੈ। ਇਸ ਸਮੱਸਿਆ ਵਾਲੇ ਕੁਝ ਡਿਵਾਈਸਾਂ 'ਤੇ ਐਕਸੋਪਲੇਅਰ ਦੁਆਰਾ ਇਹ ਪਹਿਲਾਂ ਹੀ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ, ਇਸ ਸੈਟਿੰਗ ਦਾ ਸਿਰਫ਼ ਐਂਡਰੌਇਡ 6 ਅਤੇ ਉਸ ਤੋਂ ਵੱਧ 'ਤੇ ਪ੍ਰਭਾਵ ਹੈ\n\n\n\nਇਸ ਵਿਕਲਪ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਨਾਲ ਮੌਜੂਦਾ ਵੀਡੀਓ ਪਲੇਅਰ ਨੂੰ ਸਵਿੱਚ ਕਰਨ ਜਾਂ ਪੂਰੀ ਸਕ੍ਰੀਨ 'ਤੇ ਸਵਿੱਚ ਕਰਨ ਵੇਲੇ ਪਲੇਅਬੈਕ ਤਰੁੱਟੀਆਂ ਨੂੰ ਹੱਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "ਹਮੇਸ਼ਾਂ AVPlayer ਦੇ ਵੀਡੀਓ ਆਉਟਪੁੱਟ ਸਤਹ ਸੈਟਿੰਗ ਵਰਕਰਾਊਂਡ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+    },
+    {
+      "name": "any_network",
+      "value": "ਕੋਈ ਵੀ ਨੈੱਟਵਰਕ"
+    },
+    {
+      "name": "api23_requirement_dialog_blogpost",
+      "value": "ਬਲੌਗਪੋਸਟ"
+    },
+    {
+      "name": "api23_requirement_dialog_message",
+      "value": "ਬਦਕਿਸਮਤੀ ਨਾਲ NewPipe ਕੁਝ ਲਾਇਬ੍ਰੇਰੀਆਂ 'ਤੇ ਨਿਰਭਰ ਕਰਦਾ ਹੈ ਜਿਨ੍ਹਾਂ ਨੇ Android 5.0 ਅਤੇ 5.1 ਲਈ ਸਮਰਥਨ ਛੱਡ ਦਿੱਤਾ ਹੈ। ਇਸ ਲਈ, ਅਗਲੀ NewPipe ਰੀਲੀਜ਼ ਸਿਰਫ਼ Android 6 ਜਾਂ ਇਸ ਤੋਂ ਉੱਚੇ ਵਰਜਨ ਵਾਲੇ ਡਿਵਾਈਸਾਂ 'ਤੇ ਕੰਮ ਕਰੇਗੀ। ਬਲੌਗਪੋਸਟ ਵਿੱਚ ਹੋਰ ਪੜ੍ਹੋ।"
+    },
+    {
+      "name": "api23_requirement_dialog_title",
+      "value": "ਨਿਊਪਾਈਪ ਐਂਡਰਾਇਡ 5 ਲਈ ਸਮਰਥਨ ਬੰਦ ਕਰ ਰਿਹਾ ਹੈ"
+    },
+    {
+      "name": "app_description",
+      "value": "HarmonyOS 'ਤੇ ਹਲਕੀ ਅਤੇ ਮੁਫ਼ਤ ਸਟ੍ਰੀਮਿੰਗ ਐਪਲੀਕੇਸ਼ਨ।"
+    },
+    {
+      "name": "app_language_title",
+      "value": "ਐਪ ਦੀ ਭਾਸ਼ਾ"
+    },
+    {
+      "name": "app_license",
+      "value": "ਨਿਊਪਾਈਪ ਇੱਕ ਕਾਪੀਲਿਫਟ ਮੁਫ਼ਤ ਸਾਫਟਵੇਅਰ ਹੈ। ਤੁਸੀਂ ਇਸ ਦੀ ਵਰਤੋਂ, ਇਸ ਦਾ ਅਧਿਐਨ ਅਤੇ ਇਸ ਨੂੰ ਸਾਂਝਾ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ ਇਸ ਵਿੱਚ ਆਪਣੀ ਮਰਜ਼ੀ ਅਨੁਸਾਰ ਸੁਧਾਰ ਸਕਦੇ ਹੋ। ਖਾਸ ਤੌਰ 'ਤੇ ਤੁਸੀਂ ਇਸ ਨੂੰ GNU ਜਨਰਲ ਪਬਲਿਕ ਲਾਇਸੈਂਸ ਦੀਆਂ ਸ਼ਰਤਾਂ ਦੇ ਅਧੀਨ ਵੰਡ ਸਕਦੇ ਹੋ / ਜਾਂ ਸੰਸ਼ੋਧਿਤ ਕਰ ਸਕਦੇ ਹੋ ਜਿਵੇਂ ਕਿ ਮੁਫਤ ਸਾਫਟਵੇਅਰ ਫਾਊਂਡੇਸ਼ਨ ਦੁਆਰਾ ਪ੍ਰਕਾਸ਼ਤ ਕੀਤਾ ਗਿਆ ਹੈ, ਜਾਂ ਤਾਂ ਲਾਇਸੈਂਸ ਦਾ ਵਰਜ਼ਨ 3, ਜਾਂ (ਤੁਹਾਡੇ ਵਿਕਲਪ 'ਤੇ) ਬਾਅਦ ਦਾ ਕੋਈ ਸੰਸਕਰਣ।"
+    },
+    {
+      "name": "app_license_title",
+      "value": "ਨਿਊਪਾਈਪ ਦਾ ਲਾਇਸੈਂਸ"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "ਐਪ/UI ਕਰੈਸ਼ ਹੋ ਗਈ"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "%s ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "ਨਿਊ-ਪਾਈਪ ਦੀ ਅੱਪਡੇਟ ਉਪਲਬੱਧ ਹੈ!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "ਨਵੇਂ ਨਿਊਪਾਈਪ ਸੰਸਕਰਣਾਂ ਲਈ ਪ੍ਰਾਪਤ ਸੂਚਨਾਵਾਂ"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "ਐਪ ਅੱਪਡੇਟ ਨੋਟੀਫਿਕੇਸ਼ਨ"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "ਤੁਸੀਂ ਨਿਊਪਾਈਪ ਦਾ ਨਵੀਨਤਮ ਸੰਸਕਰਣ ਚਲਾ ਰਹੇ ਹੋ"
+    },
+    {
+      "name": "artists",
+      "value": "ਕਲਾਕਾਰ"
+    },
+    {
+      "name": "audio",
+      "value": "ਆਡੀਓ"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "ਕੋਈ ਆਡੀਓ ਸਟ੍ਰੀਮ ਨਹੀਂ ਮਿਲੀ"
+    },
+    {
+      "name": "audio_track",
+      "value": "ਆਡੀਓ ਟਰੈਕ"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "ਇੱਕ ਆਡੀਓ ਟਰੈਕ ਇਸ ਸਟ੍ਰੀਮ ਵਿੱਚ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "ਵਰਣਨਾਤਮਕ"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "ਡੱਬ ਕੀਤਾ"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "ਅਸਲੀ"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "ਸੈਕੰਡਰੀ"
+    },
+    {
+      "name": "auto",
+      "value": "ਆਟੋ"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "ਆਟੋਮੈਟਿਕ (ਡਿਵਾਈਸ ਥੀਮ)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "ਇੱਕ ਮੁੱਕਣ ਵਾਲੀ ਪਰ ਨਾ-ਦੁਹਰਾਉਣ ਵਾਲੀ ਪਲੇਅਬੈਕ ਕਤਾਰ ਨੂੰ ਸੰਬੰਧਤ ਸਟ੍ਰੀਮ ਜੋੜਦੇ ਹੋਏ ਜਾਰੀ ਰੱਖੋ"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "ਅਗਲੀ ਸਟ੍ਰੀਮ ਨੂੰ ਆਟੋ-ਕਤਾਰਬੱਧ ਕਰੋ"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "ਆਟੋ ਕਤਾਰਬੱਧ ਕਰੋ"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "ਨਿਊਪਾਈਪ ਸਮੇਂ-ਸਮੇਂ 'ਤੇ ਨਵੇਂ ਸੰਸਕਰਣਾਂ ਦੀ ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਜਾਂਚ ਕਰ ਸਕਦੀ ਹੈ ਅਤੇ ਇੱਕ ਵਾਰ ਉਪਲਬਧ ਹੋਣ 'ਤੇ ਤੁਹਾਨੂੰ ਸੂਚਿਤ ਕਰ ਸਕਦੀ ਹੈ।\n\nਕੀ ਤੁਸੀਂ ਇਸਨੂੰ ਇਨੇਬਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "ਸਵੈਚਾਲਿਤ ਤੌਰ ਤੇ ਪਲੇਅਬੈਕ ਸ਼ੁਰੂ ਕਰੋ — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "ਆਟੋ-ਪਲੇਅ"
+    },
+    {
+      "name": "background_player",
+      "value": "ਬੈਕਗ੍ਰਾਊਂਡ ਪਲੇਅਰ"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "ਬੈਕਗ੍ਰਾਊਂਡ ਵਿੱਚ ਚੱਲ ਰਿਹਾ ਹੈ"
+    },
+    {
+      "name": "best_resolution",
+      "value": "ਵਧੀਆ ਰੈਜ਼ੋਲਿਊਸ਼ਨ"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "ਕਾਲ਼ਾ"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "ਖ਼ਾਲੀ ਪੰਨਾ"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "ਪਲੇਲਿਸਟ ਬੁੱਕਮਾਰਕ ਕਰੋ"
+    },
+    {
+      "name": "brightness",
+      "value": "ਚਮਕ"
+    },
+    {
+      "name": "cancel",
+      "value": "ਰੱਦ ਕਰੋ"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "ਆਪਣੇ-ਆਪ ਬਣੀ"
+    },
+    {
+      "name": "caption_none",
+      "value": "ਕੋਈ ਸਿਰਲੇਖ ਨਹੀਂ"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "ਪਲੇਅਰ ਕੈਪਸ਼ਨ ਟੈਕਸਟ ਸਕੇਲ ਅਤੇ ਬੈਕਗ੍ਰਾਊਂਡ ਸਟਾਈਲ ਨੂੰ ਸੋਧੋ। ਪ੍ਰਭਾਵੀ ਕਰਨ ਲਈ ਐਪ ਨੂੰ ਮੁੜ ਚਾਲੂ ਕਰਨ ਦੀ ਜ਼ਰੂਰਤ ਹੈ"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "ਸਿਰਲੇਖ"
+    },
+    {
+      "name": "card",
+      "value": "ਕਾਰਡ"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "%s ਦੁਆਰਾ ਬਣਾਇਆ ਗਿਆ"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "ਚੈਨਲ ਪੰਨਾ"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "ਦੇ ਬਾਰੇ"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "ਐਲਬਮਜ਼"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "ਚੈਨਲਜ਼"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "ਪਸੰਦ"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "ਲਾਈਵ"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "ਪਲੇਲਿਸਟਾਂ"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "ਸ਼ੌਰਟਸ"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "ਟ੍ਰੈਕਸ"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "ਵੀਡੀਓਜ਼"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "ਚੈਨਲ ਅਨ-ਸਬਸਕ੍ਰਾਈਬ ਹੋਇਆ"
+    },
+    {
+      "name": "channels",
+      "value": "ਚੈਨਲ"
+    },
+    {
+      "name": "chapters",
+      "value": "ਚੈਪਟਰ"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "ਅੱਖਰ ਅਤੇ ਅੰਕ"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "ਬਹੁਤੇ ਖ਼ਾਸ ਅੱਖਰ"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕਰੋ"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "ਨਵੀਆਂ ਸਟ੍ਰੀਮਾਂ ਦੀ ਜਾਂਚ ਚਲਾਓ"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "ਅੱਪਡੇਟ ਦੀ ਉਪਲੱਬਧਤਾ ਪਰਖੀ ਜਾ ਰਹੀ…"
+    },
+    {
+      "name": "checksum",
+      "value": "ਚੈੱਕ-ਸਮ"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "ਕੋਈ ਇੰਸਟੈਂਸ ਚੁਣੋ"
+    },
+    {
+      "name": "clear",
+      "value": "ਸਾਫ ਕਰੋ"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "reCAPTCHA ਹੱਲ ਕਰਦੇ ਵੇਲ਼ੇ ਨਿਊਪਾਈਪ ਵਿੱਚ ਜਮ੍ਹਾਂ ਹੋਣ ਵਾਲ਼ੀਆਂ ਕੁਕੀਜ਼ ਸਾਫ਼ ਕਰੋ"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "reCAPTCHA ਦੀਆਂ ਕੁਕੀਜ਼ ਸਾਫ਼ ਕਰੋ"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "ਡਾਊਨਲੋਡ ਇਤਿਹਾਸ ਹਟਾਓ"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "ਸਾਰੀਆਂ ਪਲੇ-ਸਥਿਤੀਆਂ ਮਿਟਾਉਂਦਾ ਹੈ"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "ਪਲੇ-ਸਥਿਤੀਆਂ ਮਿਟਾਓ"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "ਸਰਗਰਮ ਪਲੇਅਰ ਕਤਾਰ ਨੂੰ ਬਦਲ ਦਿੱਤਾ ਜਾਵੇਗਾ"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "ਇੱਕ ਪਲੇਅਰ ਤੋਂ ਦੂਜੇ ਵਿੱਚ ਬਦਲਣਾ ਤੁਹਾਡੀ ਕਤਾਰ ਨੂੰ ਬਦਲ ਸਕਦਾ ਹੈ"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "ਕਤਾਰ ਕਲੀਅਰ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਪੁਸ਼ਟੀ ਲਈ ਪੁੱਛੋ"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "ਖੋਜ ਸ਼ਬਦਾਂ ਦੀ ਸੂਚੀ ਮਿਟਾਉਂਦਾ ਹੈ"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "ਖੋਜ ਸੂਚੀ ਦਾ ਇਤਿਹਾਸ ਮਿਟਾਓ"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "ਚਲਾਈਆਂ ਗਈਆਂ ਸਟ੍ਰੀਮਾਂ ਦੇ ਇਤਿਹਾਸ ਅਤੇ ਪਲੇ-ਸਥਿਤੀਆਂ ਨੂੰ ਮਿਟਾਉਂਦਾ ਹੈ"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "ਵੇਖੇ ਗਏ ਵੀਡੀਓਜ਼ ਦੀ ਸੂਚੀ ਮਿਟਾਓ"
+    },
+    {
+      "name": "close",
+      "value": "ਬੰਦ ਕਰੋ"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "ਟਿੱਪਣੀਆਂ ਬੰਦ ਕੀਤੀਆਂ ਹੋਈਆਂ ਹਨ"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "ਟਿੱਪਣੀਆਂ"
+    },
+    {
+      "name": "conferences",
+      "value": "ਕਾਨਫਰੰਸਾਂ"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "ਕੀ ਤੁਸੀਂ ਆਪਣਾ ਡਾਊਨਲੋਡ ਇਤਿਹਾਸ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ ਜਾਂ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਸਾਰੀਆਂ ਫ਼ਾਈਲਾਂ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "content",
+      "value": "ਸਮੱਗਰੀ"
+    },
+    {
+      "name": "content_language_title",
+      "value": "ਸਮੱਗਰੀ ਦੀ ਮੂਲ ਭਾਸ਼ਾ"
+    },
+    {
+      "name": "content_not_available",
+      "value": "ਸਮੱਗਰੀ ਉਪਲਬਧ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "ਇਹ ਸਮੱਗਰੀ ਹਾਲੇ ਨਿਊ-ਪਾਈਪ 'ਤੇ ਕੰਮ ਨਹੀਂ ਕਰਦੀ।\n\n\n\nਉਮੀਦ ਹੈ ਆਉਣ ਵਾਲ਼ੇ ਕਿਸੇ ਵਰਜਨ ਵਿੱਚ ਇਹ ਕੰਮ ਕਰੇਗੀ।"
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "ਭਾਵੇਂ ਤੁਹਾਡੇ ਕੋਲ ਅਨੁਵਾਦ, ਡਿਜ਼ਾਈਨ ਬਦਲਾਵ, ਕੋਡ ਦੀ ਸਫਾਈ, ਜਾਂ ਅਸਲ ਭਾਰੀ ਕੋਡ ਬਦਲਾਵ ਦੇ ਵਿਚਾਰ ਹੋਣ - ਹਰ ਮਦਦ ਦਾ ਸਦਾ ਸਵਾਗਤ ਹੈ। ਜਿੰਨਾ ਇਸ ਨੂੰ ਜ਼ਿਆਦਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਉੱਨਾ ਹੀ ਇਹ ਬਿਹਤਰ ਹੁੰਦਾ ਜਾਂਦਾ ਹੈ!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "ਯੋਗਦਾਨ ਪਾਓ"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "ਦੇ ਵਿੱਚ ਜੋੜ੍ਹੋ"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "ਬੈਕਗ੍ਰਾਊਂਡ"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "ਸਟ੍ਰੀਮ ਫ਼ਾਈਲ ਡਾਊਨਲੋਡ ਕਰੋ"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "ਪੌਪ-ਅਪ"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "ਫ਼ਾਰਮੈਟ ਕੀਤੀ ਰਿਪੋਰਟ ਕਾਪੀ ਕਰੋ"
+    },
+    {
+      "name": "copyright",
+      "value": "%2$s ਵੱਲੋਂ © %1$s , %3$s ਅਧੀਨ"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "ਚੇਤਾਵਨੀ: ਸਾਰੀਆਂ ਫਾਈਲਾਂ ਇੰਪੋਰਟ ਨਹੀਂ ਕੀਤੀਆਂ ਜਾ ਸਕੀਆਂ।"
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "ਸਾਰੇ ਥੰਮਨੇਲ ਲੋਡ ਨਹੀਂ ਹੋ ਸਕੇ"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "ਡਾਊਨਲੋਡ ਮੀਨੂੰ ਸੈਟ-ਅਪ ਨਹੀਂ ਹੋ ਸਕਿਆ"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "ਐਪ ਕ੍ਰੈਸ਼ ਕਰੋ"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "ਪਲੇਅਰ ਕਰੈਸ਼ ਕਰੋ"
+    },
+    {
+      "name": "create",
+      "value": "ਬਣਾਓ"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "ਤਰੁੱਟੀ ਨੋਟੀਫਿਕੇਸ਼ਨ ਬਣਾਓ"
+    },
+    {
+      "name": "create_playlist",
+      "value": "ਨਵੀਂ ਪਲੇਲਿਸਟ"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "ਗੂੜ੍ਹਾ"
+    },
+    {
+      "name": "decline",
+      "value": "ਅਸਵੀਕਾਰ"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "ਡੀਫ਼ਾਲਟ ਆਡੀਓ ਫ਼ਾਰਮੈਟ"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "ਸਮੱਗਰੀ ਦਾ ਮੂਲ ਦੇਸ਼"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "ਡਿਫ਼ਾਲਟ ਕਿਓਸਕ"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "ਪੌਪ-ਅਪ ਲਈ ਡਿਫ਼ਾਲਟ ਰੈਜ਼ੋਲਿਊਸ਼ਨ"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "ਡਿਫ਼ਾਲਟ ਰੈਜ਼ੋਲਿਊਸ਼ਨ"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "ਡੀਫ਼ਾਲਟ ਵੀਡੀਓ ਫ਼ਾਰਮੈਟ"
+    },
+    {
+      "name": "delete",
+      "value": "ਮਿਟਾਓ"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫ਼ਾਈਲਾਂ ਮਿਟਾਓ"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "ਡਿਸਕ ਤੋਂ ਸਾਰੀਆਂ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਈਲਾਂ ਹਟਾਓ?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "ਐਂਟਰੀ ਮਿਟਾਓ"
+    },
+    {
+      "name": "delete_file",
+      "value": "ਫ਼ਾਈਲ ਮਿਟਾਓ"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "ਕੀ ਤੁਸੀਂ ਇਸਨੂੰ ਖੋਜ ਇਤਿਹਾਸ ਵਿੱਚੋਂ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "ਕੀ ਸਾਰੀਆਂ ਪਲੇ-ਸਥਿਤੀਆਂ ਮਿਟਾਉਣੀਆਂ ਹਨ?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "ਕੀ ਇਸ ਪਲੇਲਿਸਟ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "ਕੀ ਸਾਰੀ ਖੋਜ ਸੂਚੀ ਮਿਟਾ ਦਿੱਤੀ ਜਾਵੇ ?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "ਕੀ ਵੇਖੇ ਗਏ ਵੀਡੀਓਜ਼ ਦਾ ਇਤਿਹਾਸ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇ?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "ਵੇਰਵੇ 'ਚੋਂ ਲਿਖਤ ਚੁਣਨਾ ਬੰਦ ਕਰੋ"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "ਵੇਰਵੇ 'ਚੋਂ ਲਿਖਤ ਚੁਣਨਾ ਚਾਲੂ ਕਰੋ"
+    },
+    {
+      "name": "description_select_note",
+      "value": "ਤੁਸੀਂ ਹੁਣ ਵੇਰਵੇ 'ਚੋਂ ਲਿਖਤ ਨੂੰ ਚੁਣ ਸਕਦੇ ਹੋ। ਨੋਟ ਕਰੋ ਕਿ ਪੰਨਾ ਜਗ-ਬੁੱਝ ਸਕਦਾ ਹੈ ਅਤੇ ਚੋਣ ਮੋਡ ਵਿੱਚ ਹੋਣ ਵੇਲੇ ਲਿੰਕ ਕਲਿੱਕ ਕਰਨ ਯੋਗ ਨਹੀਂ ਹੋ ਸਕਦੇ ਹਨ।"
+    },
+    {
+      "name": "description_tab_description",
+      "value": "ਵੇਰਵਾ"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "ਨਾਪਸੰਦਾਂ"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "ਮੁੜ-ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਡਰੈਗ ਕਰੋ"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "ਰਚਨਾਕਾਰ ਨੇ ਦਿਲੋਂ ਪਸੰਦ ਕੀਤਾ"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "ਪਸੰਦਾਂ"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "ਪਿੰਨ ਕੀਤੀ ਟਿੱਪਣੀ"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "ਚੈਨਲ ਦਾ ਅਵਤਾਰ ਥੰਮਨੇਲ"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "ਵੀਡੀਓ ਚਲਾਓ, ਮਿਆਦ:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "ਅਪਲੋਡਰ ਦਾ ਅਵਤਾਰ ਥੰਮਨੇਲ"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "ਕੀ ਤੁਹਾਡਾ ਮਤਲਬ ਸੀ \"%1$s\"?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "ਮੀਡੀਆ ਟਨਲਿੰਗ ਤੁਹਾਡੀ ਡਿਵਾਈਸ 'ਤੇ ਡਿਫ਼ਾਲਟ ਤੌਰ 'ਤੇ ਅਸਮਰੱਥ ਕੀਤੀ ਗਈ ਸੀ ਕਿਉਂਕਿ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਮਾਡਲ ਇਸਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਨ ਲਈ ਜਾਣਿਆ ਜਾਂਦਾ ਹੈ।"
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "ਜੇ ਤੁਹਾਨੂੰ ਕਾਲ੍ਹੀ ਸਕਰੀਨ ਮਿਲੇ ਜਾਂ ਵੀਡਿਓ ਰੁਕ-ਰੁਕ ਕੇ ਚੱਲੇ ਤਾਂ ਮੀਡੀਆ ਟਨਲਿੰਗ ਬੰਦ ਕਰ ਦਿਓ।"
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "ਮੀਡੀਆ ਟਨਲਿੰਗ ਬੰਦ ਕਰੋ"
+    },
+    {
+      "name": "disabled",
+      "value": "ਬੰਦ ਕੀਤਾ"
+    },
+    {
+      "name": "dismiss",
+      "value": "ਖਾਰਿਜ ਕਰੋ"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "ਨਿਊਪਾਈਪ ਨੂੰ ਵਲੰਟੀਅਰਾਂ ਦੁਆਰਾ ਵਿਕਸਤ ਕੀਤਾ ਗਿਆ ਹੈ ਜੋ ਆਪਣਾ ਖਾਲੀ ਸਮਾਂ ਤੁਹਾਨੂੰ ਸਭ ਤੋਂ ਵਧੀਆ ਉਪਭੋਗਤਾ ਅਨੁਭਵ ਪ੍ਰਦਾਨ ਕਰਨ ਲਈ ਸਮਰਪਿਤ ਕਰਦੇ ਹਨ। ਡਿਵੈਲਪਰਾਂ ਦਾ ਸਮਰਥਨ ਕਰੋ ਤਾਂ ਜੋ ਉਹ ਨਿਊਪਾਈਪ ਨੂੰ ਹੋਰ ਵੀ ਬਿਹਤਰ ਬਣਾ ਸਕਣ ਅਤੇ ਅਜਿਹਾ ਕਰਦੇ ਹੋਏ ਇੱਕ ਕੱਪ ਕੌਫੀ ਦਾ ਆਨੰਦ ਮਾਣ ਸਕਣ।"
+    },
+    {
+      "name": "donation_title",
+      "value": "ਦਾਨ ਕਰੋ"
+    },
+    {
+      "name": "done",
+      "value": "ਹੋ ਗਿਆ"
+    },
+    {
+      "name": "dont_show",
+      "value": "ਨਾਂ ਵਿਖਾਓ"
+    },
+    {
+      "name": "download",
+      "value": "ਡਾਊਨਲੋਡ ਕਰੋ"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "ਇਸ ਨਾਮ ਦਾ ਇੱਕ ਡਾਊਨਲੋਡ ਬਕਾਇਆ ਹੈ"
+    },
+    {
+      "name": "download_already_running",
+      "value": "ਇਸ ਨਾਮ ਦੇ ਨਾਲ ਇੱਕ ਡਾਊਨਲੋਡ ਪਹਿਲਾਂ ਤੋਂ ਜਾਰੀ ਹੈ"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "ਡਾਊਨਲੋਡ"
+    },
+    {
+      "name": "download_failed",
+      "value": "ਡਾਊਨਲੋਡ ਫੇਲ੍ਹ"
+    },
+    {
+      "name": "download_has_started",
+      "value": "ਡਾਊਨਲੋਡ ਸ਼ੁਰੂ ਹੋਇਆ"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "ਆਡੀਓ ਫ਼ਾਈਲਾਂ ਲਈ ਡਾਊਨਲੋਡ ਫ਼ੋਲਡਰ ਚੁਣੋ"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਆਡੀਓ ਫ਼ਾਈਲਾਂ ਇੱਥੇ ਜਮ੍ਹਾਂ ਹੁੰਦੀਆਂ ਹਨ"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "ਆਡੀਓ ਲਈ ਡਾਊਨਲੋਡ ਫ਼ੋਲਡਰ"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "ਵੀਡੀਓ ਫ਼ਾਈਲਾਂ ਲਈ ਡਾਊਨਲੋਡ ਫ਼ੋਲਡਰ ਚੁਣੋ"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਵੀਡੀਓ ਫ਼ਾਈਲਾਂ ਇੱਥੇ ਜਮ੍ਹਾਂ ਹੁੰਦੀਆਂ ਹਨ"
+    },
+    {
+      "name": "download_path_title",
+      "value": "ਵੀਡੀਓ ਲਈ ਡਾਊਨਲੋਡ ਫ਼ੋਲਡਰ"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "ਬਾਹਰੀ SD ਕਾਰਡ ਤੇ ਡਾਊਨਲੋਡ ਕਰਨਾ ਸੰਭਵ ਨਹੀਂ ਹੈ। ਕੀ ਡਾਊਨਲੋਡ ਫ਼ੋਲਡਰ ਦੀ ਸਥਿਤੀ ਨੂੰ ਰੀਸੈਟ ਕੀਤਾ ਜਾਵੇ ?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "ਬਾਹਰੀ ਸਟੋਰੇਜ ਉਪਲਬਧ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "name": "downloads",
+      "value": "ਡਾਊਨਲੋਡਸ"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "ਤੁਹਾਨੂੰ ਹਰ ਵਾਰ ਪੁੱਛਿਆ ਜਾਵੇਗਾ ਕਿ ਡਾਊਨਲੋਡ ਨੂੰ ਕਿੱਥੇ ਸਾਂਭਣਾ ਹੈ।\n\nਜੇ ਤੁਸੀਂ ਡਾਊਨਲੋਡ ਨੂੰ ਕਿਸੇ ਬਾਹਰੀ SD ਕਾਰਡ ਤੇ ਸਾਂਭਣਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਸਿਸਟਮ ਡਾਊਨਲੋਡ ਫ਼ੋਲਡਰ ਚੋਣਕਾਰ (SAF) ਚਾਲੂ ਕਰੋ"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "ਤੁਹਾਨੂੰ ਪੁੱਛਿਆ ਜਾਵੇਗਾ ਕਿ ਹਰ ਡਾਊਨਲੋਡ ਨੂੰ ਕਿੱਥੇ ਸਾਂਭਣਾ ਹੈ"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "ਡਾਊਨਲੋਡ ਕਿੱਥੇ ਕਰਨਾ ਹੈ, ਦੇ ਲਈ ਪੁੱਛੋ"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "'ਸਟੋਰੇਜ ਐਕਸੈਸ ਫ਼ਰੇਮਵਰਕ' ਬਾਹਰੀ SD ਕਾਰਡ ਵਿੱਚ ਡਾਊਨਲੋਡ ਕਰਨ ਦਿੰਦਾ ਹੈ"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "ਐਂਡਰਾਇਡ 10 ਤੋਂ ਸ਼ੁਰੂ ਹੋ ਕੇ ਕੇਵਲ 'ਸਟੋਰੇਜ ਐਕਸੈੱਸ ਫ਼ਰੇਮਵਰਕ' ਸਮਰਥਿਤ ਹੈ"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "ਸਿਸਟਮ ਡਾਊਨਲੋਡ ਫ਼ੋਲਡਰ ਚੋਣਕਾਰ (SAF) ਦੀ ਵਰਤੋਂ ਕਰੋ"
+    },
+    {
+      "name": "downloads_title",
+      "value": "ਡਾਊਨਲੋਡਸ"
+    },
+    {
+      "name": "drawer_close",
+      "value": "ਡਰਾਅਰ ਬੰਦ ਕਰੋ"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "ਸੇਵਾ ਚੁਣੋ, ਮੌਜੂਦਾ ਚੋਣ:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "ਡਰਾਅਰ ਖੋਲੋ"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "ਧੁੰਦਲੀਆਂ ਕੀਤੀਆਂ ਪਲੇਲਿਸਟਾਂ ਵਿੱਚ ਪਹਿਲਾਂ ਹੀ ਇਹ ਆਈਟਮ ਹੈ।"
+    },
+    {
+      "name": "duration",
+      "value": "ਮਿਆਦ"
+    },
+    {
+      "name": "duration_live",
+      "value": "ਲਾਈਵ"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "ਇਥੇ ਦਾ ਖਾਲੀਪਣ ਦੂਰ ਕਰਨ ਲਈ ਕੁਝ ਸਰਚ ਕਰੋ ਜਾਂ ਚੈਨਲ ਸਬਸਕ੍ਰਾਇਬ ਕਰੋ ਅਤੇ ਪਲੇਲਿਸਟ ਬਣਾ ਕੇ ਕੋਈ ਵੀਡੀਓ ਬੁੱਕਮਾਰਕ ਕਰੋ"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "ਨਿਪਟਾਰੇ ਦੇ ਬਾਅਦ ਫਰੈਗਮੈਂਟ ਜਾਂ ਐਕਟੀਵਿਟੀ ਦੇ ਚੱਕਰ ਤੋਂ ਬਾਹਰ ਨਾ ਪਹੁੰਚਾਉਣ ਯੋਗ ਆਰ-ਐਕਸ ਅਪਵਾਦਾਂ ਬਾਰੇ ਜ਼ਬਰੀ ਰਿਪੋਰਟ ਕਰੋ"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "ਚੱਕਰ ਤੋਂ ਬਾਹਰ ਤਰੁੱਟੀਆਂ ਰਿਪੋਰਟ ਕਰੋ"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "ਮੈਮੋਰੀ ਲੀਕ ਨਿਗਰਾਨੀ, ਐਪ ਨੂੰ ਆਕ੍ਰਿਆਸ਼ੀਲ ਬਣਾ ਸਕਦੀ ਹੈ ਜਦੋਂ ਹੀਪ ਡੰਪਿੰਗ ਹੁੰਦੀ ਹੈ"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "ਪਿਛਲੀ ਪਲੇਅਬੈਕ ਸਥਿਤੀ ਤੋਂ ਮੁੜ ਚਲਾਓ"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "ਪਲੇਅਬੈਕ ਫਿਰ ਚਾਲੂ ਕਰੋ"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "ਸੂਚੀਆਂ ਵਿੱਚ ਪਲੇਅਬੈਕ ਸਥਿਤੀ ਸੂਚਕ ਵਿਖਾਓ"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "ਸੂਚੀਆਂ ਵਿੱਚ ਸਥਿਤੀ"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "ਡਾਊਨਲੋਡ ਕਤਾਰ ਸੀਮਤ ਕਰੋ"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "ਇੱਕ ਹੀ ਸਮੇਂ ਤੇ ਇੱਕੋ ਡਾਊਨਲੋਡ ਚੱਲੇਗਾ"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "ਖੋਜ ਇਤਲਾਹਾਂ ਨੂੰ ਸਥਾਨਕ ਤੌਰ ਤੇ ਸਟੋਰ ਕਰੋ"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "ਖੋਜ ਇਤਿਹਾਸ"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "ਸਬਸਕ੍ਰਾਈਬ ਕੀਤੇ ਚੈਨਲ ਉੱਪਰ ਨਵੀਂ ਸਟ੍ਰੀਮ ਉੱਪਲਬਧ ਹੋਣ ਤੇ ਨੋਟੀਫਿਕੇਸ਼ਨ ਰਾਹੀਂ ਸੂਚਿਤ ਕਰੋ"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "ਨਵੀਂ ਸਟ੍ਰੀਮ ਦੇ ਨੋਟੀਫਿਕੇਸ਼ਨ"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "ਵੇਖੇ ਗਏ ਵੀਡੀਓਜ਼ ਦੀ ਸੂਚੀ ਰੱਖੋ"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "ਵੇਖੇ ਗਏ ਵੀਡੀਓਜ਼ ਦੀ ਸੂਚੀ"
+    },
+    {
+      "name": "enqueue",
+      "value": "ਕਤਾਰਬੱਧ ਕਰੋ"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "ਕਤਾਰ ਵਿੱਚ ਅੱਗੇ ਸ਼ਾਮਿਲ ਕਰੋ"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "ਕਤਾਰਬੱਧ ਕਰੋ"
+    },
+    {
+      "name": "enqueued",
+      "value": "ਕਤਾਰਬੱਧ ਹੋ ਗਿਆ"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "ਕਤਾਰ ਵਿੱਚ ਅੱਗੇ ਲਗਾਇਆ ਗਿਆ"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "ਐਂਟਰੀ ਮਿਟਾ ਦਿੱਤੀ ਗਈ"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "ਸਰਵਰ ਨਾਲ ਜੁੜ ਨਹੀਂ ਸਕਿਆ"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "ਵੇਰਵੇ:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "ਇਹ ਡਾਊਨਲੋਡ ਮੁੜ-ਪ੍ਰਾਪਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "ਫਾਈਲ ਨਹੀਂ ਬਣਾਈ ਜਾ ਸਕਦੀ"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "ਸਰਵਰ ਨੇ ਡਾਟਾ ਨਹੀਂ ਭੇਜਿਆ"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "ਨਹੀਂ ਲਭਿਆ"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "ਸਰਵਰ ਮਲਟੀ-ਥਰਿੱਡ ਡਾਊਨਲੋਡਾਂ ਨੂੰ ਸਵੀਕਾਰ ਨਹੀਂ ਕਰਦਾ ਹੈ, @string/msg_threads = 1 ਨਾਲ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "ਡਿਵਾਈਸ 'ਤੇ ਲੋੜੀਂਦੀ ਖਾਲੀ ਥਾਂ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "ਡਿਵਾਈਸ ਤੇ ਕੋਈ ਜਗ੍ਹਾ ਨਹੀਂ ਬਚੀ ਹੈ"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "ਇੱਕ ਤਰੁੱਟੀ ਆਈ ਹੈ: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "ਮੰਜ਼ਿਲ ਫੋਲਡਰ ਬਣਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "ਪੋਸਟ ਪ੍ਰੋਸੈਸਿੰਗ ਫੇਲ੍ਹ ਹੋਈ"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "ਫਾਈਲ ਤੇ ਕੰਮ ਕਰਦੇ ਸਮੇਂ ਨਿਊਪਾਈਪ ਬੰਦ ਕੀਤੀ ਗਈ"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "ਪ੍ਰਗਤੀ ਖਤਮ ਹੋ ਗਈ, ਕਿਉਂਕਿ ਫਾਈਲ ਮਿਟਾਈ ਗਈ"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "ਈ-ਮੇਲ ਦੁਆਰਾ ਇਤਲਾਹ ਦਿਓ"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "ਖ਼ਾਮੀਆਂ ਰਿਪੋਰਟ ਕਰਨ ਲਈ ਨੋਟੀਫਿਕੇਸ਼ਨ"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "ਤਰੁੱਟੀ ਰਿਪੋਰਟ ਨੋਟੀਫਿਕੇਸ਼ਨ"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "ਨਿਊਪਾਈਪ ਖਾਮੀ ਤੋਂ ਪ੍ਰਭਾਵਤ ਹੋਈ ਹੈ, ਇੱਥੇ ਨੱਪ ਕੇ ਰਿਪੋਰਟ ਕਰੋ"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "ਇੱਕ ਖਾਮੀ ਪ੍ਰਭਾਵੀ ਹੋਈ ਹੈ, ਨੋਟੀਫੀਕੇਸ਼ਨ ਵੇਖੋ"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "ਮਿਹਰਬਾਨੀ ਕਰਕੇ ਜਾਂਚ ਲਓ ਕਿ ਤੁਹਾਡੇ ਵਾਲ੍ਹੇ ਕ੍ਰੈਸ਼ ਦੀ ਗੱਲ ਕਰਦਾ ਕੋਈ ਮਸਲਾ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਤਾਂ ਨਹੀਂ। ਇੱਕੋ ਮਸਲੇ ਦੀਆਂ ਦੋ ਜਾਂ ਵੱਧ ਨਕਲਾਂ ਬਣਾ ਕੇ ਤੁਸੀਂ ਸਾਡੇ ਤੋਂ ਉਹ ਵਕਤ ਖੋਹ ਲੈਂਦੇ ਹੋ ਜੋ ਅਸੀਂ ਅਸਲੀ ਮਸਲੇ ਦੇ ਹੱਲ ਲਈ ਲਾਉਣਾ ਸੀ।"
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "ਗਿਟਹੱਬ 'ਤੇ ਜਾ ਕੇ ਇਤਲਾਹ ਦਿਓ"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Error ਰਿਪੋਰਟ"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "ਇਤਲਾਹ ਕਰੋ"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "ਅਫ਼ਸੋਸ ਹੈ, ਕੁਝ ਤਰੁੱਟੀਆਂ ਸਾਹਮਣੇ ਆਈਆਂ ਹਨ।"
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਸਥਾਪਤ ਨਹੀਂ ਹੋ ਸਕਿਆ"
+    },
+    {
+      "name": "error_timeout",
+      "value": "ਕੁਨੈਕਸ਼ਨ ਦਾ ਸਮਾਂ ਸਮਾਪਤ"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "ਟਿੱਪਣੀਆਂ ਲੋਡ ਨਹੀਂ ਹੋ ਸਕੀਆਂ"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "ਸਰਵਰ ਨਹੀਂ ਲੱਭ ਸਕਿਆ"
+    },
+    {
+      "name": "events",
+      "value": "ਇਵੇੰਟਸ"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "ਐਕਸਪੋਰਟ ਕੀਤਾ ਗਿਆ"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "ਇਤਿਹਾਸ, ਸਬਸਕ੍ਰਿਪਸ਼ਨਾਂ, ਪਲੇਲਿਸਟਾਂ ਅਤੇ ਸੈਟਿੰਗਾਂ ਐਕਸਪੋਰਟ ਕਰੋ"
+    },
+    {
+      "name": "export_data_title",
+      "value": "ਡਾਟਾਬੇਸ ਐਕਸਪੋਰਟ ਕਰੋ"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "ਐਕਸਪੋਰਟ ਹੋ ਰਿਹਾ ਹੈ…"
+    },
+    {
+      "name": "export_subscriptions_summary",
+      "value": "ਆਪਣੀਆਂ ਸਬਸਕ੍ਰਿਪਸ਼ਨਾਂ ਨੂੰ .json ਫਾਈਲ ਵਿੱਚ ਐਕਸਪੋਰਟ ਕਰੋ"
+    },
+    {
+      "name": "export_subscriptions_title",
+      "value": "ਸਬਸਕ੍ਰਿਪਸ਼ਨਾਂ ਐਕਸਪੋਰਟ ਕਰੋ"
+    },
+    {
+      "name": "export_to",
+      "value": "ਤੇ ਐਕਸਪੋਰਟ ਕਰੋ"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "ਬਾਹਰੀ ਪਲੇਅਰ ਇਸ ਕਿਸਮ ਦੇ ਲਿੰਕਾਂ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦੇ"
+    },
+    {
+      "name": "faq",
+      "value": "ਵੈੱਬਸਾਈਟ 'ਤੇ ਵੇਖੋ"
+    },
+    {
+      "name": "faq_description",
+      "value": "ਅਗਰ ਤੁਸੀਂ ਐਪ ਦੀ ਵਰਤੋਂ ਸਬੰਧੀ ਮੁਸ਼ਕਿਲਾਂ ਦਾ ਸਾਹਮਣਾ ਕਰ ਰਹੇ ਹੋ, ਤਾਂ ਇਹਨਾਂ ਆਮ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਜਾਣਨਾ ਨਾ ਭੁੱਲੋ!"
+    },
+    {
+      "name": "faq_title",
+      "value": "ਅਕਸਰ ਪੁੱਛੇ ਜਾਂਦੇ ਸਵਾਲ"
+    },
+    {
+      "name": "fast_mode",
+      "value": "ਤੇਜ ਮੋਡ"
+    },
+    {
+      "name": "featured",
+      "value": "ਫੀਚਰਡ"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "ਨਵਾਂ"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "ਚੈਨਲ ਟੈਬਾਂ ਪ੍ਰਾਪਤ ਕਰੋ"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "ਫ਼ੀਡ ਅੱਪਡੇਟ ਕਰਨ ਵੇਲੇ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਟੈਬਾਂ। ਇਸ ਵਿਕਲਪ ਦਾ ਕੋਈ ਅਸਰ ਨਹੀਂ ਹੁੰਦਾ ਜੇਕਰ ਚੈਨਲ ਨੂੰ ਫਾਸਟ ਮੋਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।"
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "ਕੀ ਤੁਸੀਂ ਇਸ ਗਰੁੱਪ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "ਗਰੁੱਪ ਦਾ ਨਾਮ ਨਹੀਂ"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "ਕੋਈ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਨਹੀਂ ਚੁਣੀ ਹੋਈ"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "ਸੁਬਸਕ੍ਰਿਪਸ਼ਨਾਂ ਚੁਣੋ"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "ਚੈਨਲ ਗਰੁੱਪ ਪੰਨਾ"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "ਸਿਰਫ਼ ਉਹ ਸਬਸਕ੍ਰਿਪਸ਼ਨਾਂ ਵਿਖਾਓ ਜੋ ਕਿਸੇ ਗਰੁੱਪ ਵਿੱਚ ਨਹੀਂ ਪਾਈਆਂ ਹੋਈਆਂ"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "ਚੈਨਲ ਗਰੁੱਪ"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "ਨਿਮਨਲਿਖਤ ਸਟ੍ਰੀਮਾਂ ਵਿਖਾਓ"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "ਫ਼ੀਡ ਲੋਡ ਕਰਨ ਵਿੱਚ ਤਰੁੱਟੀ ਰਹੀ"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "'%s' ਵਾਸਤੇ ਫ਼ੀਡ ਲੋਡ ਨਹੀਂ ਹੋ ਸਕੀ।"
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "ਤੇਜ਼ ਫ਼ੀਡ ਮੋਡ ਇਸ ਬਾਰੇ ਕੋਈ ਹੋਰ ਜਾਣਕਾਰੀ ਮੁੱਹਈਆ ਨਹੀਂ ਕਰਾਉਂਦਾ।"
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "ਲੇਖਕ ਦਾ ਖਾਤਾ ਬੰਦ ਹੋ ਚੁੱਕਿਆ ਹੈ।\n\nਨਿਊ-ਪਾਈਪ ਭਵਿੱਖ ਵਿੱਚ ਇਸ ਫ਼ੀਡ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕੇਗੀ।\n\nਕੀ ਤੁਸੀਂ ਇਸ ਚੈਨਲ ਨੂੰ ਅਨ-ਸਬਸਕ੍ਰਾਈਬ ਕਰਨਾ ਚਾਹੋਗੇ?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "ਨਵੀਆਂ ਫੀਡ ਆਈਟਮਾਂ"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "ਫ਼ੀਡ ਲੋਡ ਹੋ ਰਹੀ ਹੈ…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "ਫ਼ੀਡ ਆਖ਼ਰੀ ਵਾਰ %s ਨੂੰ ਅੱਪਡੇਟ ਹੋਈ"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "ਫ਼ੀਡ 'ਤੇ ਅਮਲ ਹੋ ਰਿਹੈ…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "ਸਟ੍ਰੀਮ ਵਿਖਾਓ/ਲੁਕਾਓ"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "ਅੰਸ਼ਕ ਤੌਰ 'ਤੇ ਵੇਖਿਆ ਗਿਆ"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "ਆਗਾਮੀ"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "ਪੂਰੀ ਵੇਖਿਆ"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "ਲੋਡ ਨਹੀਂ ਹੋਏ: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "ਹਮੇਸ਼ਾਂ ਅੱਪਡੇਟ ਕਰੋ"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "ਸਮਾਂ-ਅਵਧੀ ਜਦ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਫੀਡ ਦੁਬਾਰਾ ਅੱਪਡੇਟ ਕੀਤੀ ਜਾ ਸਕੇ — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "ਫ਼ੀਡ ਅੱਪਡੇਟ ਦੀ ਹੱਦ"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "ਤੇਜ਼ ਮੋਡ ਬੰਦ ਕਰੋ"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "ਤੇਜ਼ ਮੋਡ ਚਾਲੂ ਕਰੋ"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "ਕੀ ਤੁਹਾਨੂੰ ਲੱਗਦਾ ਹੈ ਫੀਡ ਹੌਲੀ ਲੋਡ ਹੋ ਰਹੀ ਹੈ? ਅਜਿਹਾ ਹੈ ਤਾਂ ਤੇਜ਼ ਫੀਡ ਕ੍ਰਿਆਸ਼ੀਲ ਕਰਕੇ ਵੇਖੋ (ਤੁਸੀਂ ਇਸਨੂੰ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ ਜਾਂ ਹੇਠਲਾ ਬਟਨ ਦੱਬ ਕੇ ਕਰ ਸਕਦੇ ਹੋ )\n\nਨਿਊਪਾਈਪ ਫੀਡ ਲੋਡ ਕਰਨ ਲਈ ਦੋ ਤਰਾਂ ਦੀਆਂ ਵਿਧੀਆਂ ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰਦੀ ਹੈ:\n• ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਚੈਨਲ ਤੋਂ ਪੂਰੀ ਜਾਣਕਾਰੀ ਲੈਂਦੀ ਹੈ ਜੋ ਹੌਲ੍ਹੀ ਮਿਲਦੀ ਹੈ।\n• ਸਮਰਪਿਤ ਸੇਵਾ ਅੰਤਮ ਬਿੰਦੂ ਤੋਂ, ਜੋ ਕਿ ਤੇਜ਼ ਮਿਲਦੀ ਹੈ ਪਰ ਆਮਤੌਰ ਤੇ ਅਧੂਰੀ/ਅਣਸਟੀਕ ਹੁੰਦੀ ਹੈ।\n\nਇਨਾਂ ਦੋਹਾਂ ਵਿੱਚ ਫਰਕ ਇਹ ਹੁੰਦਾ ਹੈ ਕਿ ਤੇਜ਼ ਤਰੀਕਾ ਆਮ ਤੌਰ ਤੇ ਕੁਝ ਜਾਣਕਾਰੀ ਨਹੀਂ ਦੇ ਪਾਉਂਦਾ ਜਿਵੇਂ ਕਿ ਨਗਾਂ ਦੀ ਅਵਧੀ ਜਾਂ ਕਿਸਮ(ਕਿ ਵੀਡੀਓ ਲਾਈਵ ਹਨ ਜਾਂ ਆਮ) ਤੇ ਘੱਟ ਨਗ ਦਿਖ ਸਕਦੇ ਹਨ।\n\nਯੂਟਿਊਬ ਇੱਕ ਅਜਿਹੀ ਸੇਵਾ ਹੈ ਜਿਹੜੀ RSS ਫੀਡ ਜ਼ਰੀਏ ਇਹ ਤੇਜ਼ ਤਰੀਕਾ ਪ੍ਰਦਾਨ ਕਰਦੀ ਹੈ।\n\nਤੁਹਾਡੀ ਚੋਣ ਇਸ ਗੱਲ ਤੇ ਮੁਨੱਸਰ ਕਰਦੀ ਹੈ ਕਿ ਤੁਸੀਂ ਗਤੀ ਤੇ ਸਟੀਕਤਾ ਵਿੱਚੋਂ ਕਿਸ ਨੂੰ ਪ੍ਰਾਥਮਿਕਤਾ ਦਿੰਦੇ ਹੋ।"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "ਕੁਝ ਸੇਵਾਵਾਂ ਵਿੱਚ ਹੀ ਉਪਲੱਬਧ ਇਹ ਤਰੀਕਾ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਫੀਡ ਵਿੱਚ ਤੇਜ ਜਾਣਕਾਰੀ ਮੁਹੱਈਆ ਕਰਵਾਉਂਦਾ ਹੈ, ਪਰ ਕੁਝ ਗਿਣਤੀ ਦੀਆਂ ਹੀ ਆਈਟਮ ਪ੍ਰਦਾਨ ਕਰ ਸਕਦਾ ਹੈ ਉਹ ਵੀ ਅਕਸਰ ਬਿਨਾਂ ਪੂਰੀ ਜਾਣਕਾਰੀ( ਜਿਵੇਂ ਅਵਧੀ, ਸਟ੍ਰੀਮ ਦੀ ਕਿਸਮ, ਕੋਈ ਸਟ੍ਰੀਮ ਲਾਈਵ ਹੈ, ਨਹੀਂ ਦੱਸਦਾ)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "ਜਦੋਂ ਉਪਲਬਧ ਹੋਵੇ ਤਾਂ ਖ਼ਾਸ ਫ਼ੀਡ ਤੋਂ ਮੰਗਵਾਓ"
+    },
+    {
+      "name": "file",
+      "value": "ਫਾਈਲ"
+    },
+    {
+      "name": "file_deleted",
+      "value": "ਫਾਈਲ ਮਿਟਾ ਦਿੱਤੀ ਗਈ ਹੈ"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "ਫਾਈਲ ਨਾਮ ਖਾਲੀ ਨਹੀਂ ਹੋ ਸਕਦਾ"
+    },
+    {
+      "name": "forward",
+      "value": "ਅੱਗੇ ਕਰੋ"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "ਨਵਾਂ ਕੀ ਹੈ"
+    },
+    {
+      "name": "general_error",
+      "value": "ਤਰੁੱਟੀ"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "ਵਿਲੱਖਣ ਨਾਮ ਬਣਾਓ"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "ਇਹ ਸਮੱਗਰੀ ਤੁਹਾਡੇ ਮੁਲਕ ਵਿੱਚ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।"
+    },
+    {
+      "name": "get_notified",
+      "value": "ਸੂਚਨਾ ਪਾਓ"
+    },
+    {
+      "name": "give_back",
+      "value": "ਵਾਪਸ ਦਿਓ"
+    },
+    {
+      "name": "grid",
+      "value": "ਗਰਿੱਡ"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "ਵੀਡਿਓ ਹੈਸ਼ਿੰਗ ਦੀ ਕਾਰਵਾਈ ਦੀ ਮੌਜੂਦਾ ਹਾਲਤ ਦੇ ਨੋਟੀਫਿਕੇਸ਼ਨ"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "ਵੀਡੀਓ ਹੈਸ਼ ਇਤਲਾਹ"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "ਵਧੀਆ ਗੁਣਵੱਤਾ (ਵੱਡਾ ਆਕਾਰ)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "ਕਤਾਰਬੱਧ ਕਰਨ ਵਾਸਤੇ ਦਬਾ ਕੇ ਰੱਖੋ"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "ਉਪਯੋਗੀ ਹੈ, ਉਦਾਹਰਨ ਲਈ, ਜੇਕਰ ਤੁਸੀਂ ਟੁੱਟੇ ਭੌਤਿਕ ਬਟਨਾਂ ਵਾਲਾ ਹੈੱਡਸੈੱਟ ਵਰਤ ਰਹੇ ਹੋ"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "ਹਾਰਡਵੇਅਰ ਮੀਡੀਆ ਬਟਨ ਇਵੈਂਟਾਂ ਨੂੰ ਅਣਡਿੱਠ ਕਰੋ"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "ਉੱਚ ਕੁਆਲਿਟੀ"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "ਘੱਟ ਕੁਆਲਿਟੀ"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "ਦਰਮਿਆਨੀ ਕੁਆਲਿਟੀ"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "ਚਿੱਤਰ ਲੋਡ ਨਾ ਕਰੋ"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "ਡਾਟਾ ਅਤੇ ਮੈਮੋਰੀ ਵਰਤੋਂ ਨੂੰ ਘਟਾਉਣ ਲਈ ਚਿੱਤਰਾਂ ਦੀ ਗੁਣਵੱਤਾ ਅਤੇ ਚਿੱਤਰਾਂ ਨੂੰ ਬਿਲਕੁਲ ਲੋਡ ਕਰਨਾ ਹੈ ਜਾਂ ਨਹੀਂ, ਚੁਣੋ। ਤਬਦੀਲੀਆਂ ਇਨ-ਮੈਮੋਰੀ ਅਤੇ ਆਨ-ਡਿਸਕ ਚਿੱਤਰ ਕੈਸ਼ ਨੂੰ ਸਾਫ਼ ਕਰਦੀਆਂ ਹਨ — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "ਚਿੱਤਰ ਕੁਆਲਿਟੀ"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "ਇੰਪੋਰਟ ਕੀਤਾ ਗਿਆ"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "ਤੁਹਾਡੇ ਮੌਜੂਦਾ ਇਤਿਹਾਸ, ਸਬਸਕ੍ਰਿਪਸ਼ਨਾਂ, ਪਲੇਲਿਸਟਾਂ ਅਤੇ (ਚੋਣਵੇਂ ਤੌਰ 'ਤੇ) ਸੈਟਿੰਗਾਂ ਨੂੰ ਨਵੀਆਂ ਨਾਲ ਬਦਲ ਦਿੰਦਾ ਹੈ"
+    },
+    {
+      "name": "import_data_title",
+      "value": "ਡਾਟਾਬੇਸ ਇੰਪੋਰਟ ਕਰੋ"
+    },
+    {
+      "name": "import_file_title",
+      "value": "ਫ਼ਾਈਲ ਇੰਪੋਰਟ ਕਰੋ"
+    },
+    {
+      "name": "import_from",
+      "value": "ਤੋਂ ਇੰਪੋਰਟ ਕਰੋ"
+    },
+    {
+      "name": "import_from_previous_export",
+      "value": "ਪਹਿਲਾਂ ਕੀਤੇ ਐਕਸਪੋਰਟ ਤੋਂ ਇੰਪੋਰਟ ਕਰੋ"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "ਯਾਦ ਰੱਖੋ ਕਿ ਇਸ ਕਾਰਜ ਨਾਲ ਡਾਟਾ ਖਪਤ ਹੋ ਸਕਦਾ ਹੈ।\n\nਕੀ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "ਇੰਪੋਰਟ ਹੋ ਰਿਹਾ ਹੈ…"
+    },
+    {
+      "name": "import_settings",
+      "value": "ਕੀ ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵੀ ਇੰਪੋਰਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "ਇੰਪੋਰਟ ਕੀਤੇ ਜਾ ਰਹੇ ਐਕਸਪੋਰਟ ਵਿੱਚ ਸੈਟਿੰਗਾਂ ਇੱਕ ਕਮਜ਼ੋਰ ਫਾਰਮੈਟ ਦੀ ਵਰਤੋਂ ਕਰਦੀਆਂ ਹਨ ਜੋ ਨਿਊਪਾਈਪ 0.27.0 ਤੋਂ ਬਰਤਰਫ਼ ਕੀਤਾ ਗਿਆ ਸੀ। ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਇੰਪੋਰਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਨਿਰਯਾਤ ਇੱਕ ਭਰੋਸੇਯੋਗ ਸਰੋਤ ਤੋਂ ਹੈ, ਅਤੇ ਸਿਰਫ਼ ਨਿਊਪਾਈਪ 0.27.0 ਜਾਂ ਇਸਤੋਂ ਨਵੇਂ ਤੋਂ ਪ੍ਰਾਪਤ ਕੀਤੇ ਐਕਸਪੋਰਟ ਦੀ ਵਰਤੋਂ ਕਰਨ ਨੂੰ ਤਰਜੀਹ ਦਿਓ। ਇਸ ਕਮਜ਼ੋਰ ਫਾਰਮੈਟ ਵਿੱਚ ਸੈਟਿੰਗਾਂ ਨੂੰ ਆਯਾਤ ਕਰਨ ਲਈ ਸਮਰਥਨ ਜਲਦੀ ਹੀ ਪੂਰੀ ਤਰ੍ਹਾਂ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ ਅਤੇ ਫਿਰ ਨਿਊਪਾਈਪ ਦੇ ਪੁਰਾਣੇ ਸੰਸਕਰਣ ਹੁਣ ਨਵੇਂ ਸੰਸਕਰਣਾਂ ਤੋਂ ਐਕਸਪੋਰਟ ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਇੰਪੋਰਟ ਕਰਨ ਦੇ ਯੋਗ ਨਹੀਂ ਹੋਣਗੇ।"
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "URL ਜਾਂ ਆਪਣੀ ID ਟਾਈਪ ਕਰਕੇ ਸਾਉੰਡ ਕਲਾਉਡ ਪ੍ਰੋਫਾਈਲ ਇੰਪੋਰਟ ਕਰੋ: \n \n1. ਇੱਕ ਵੈਬ-ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ \"ਡੈਸਕਟਾਪ ਮੋਡ\" ਨੂੰ ਚਾਲੂ ਕਰੋ (ਸਾਈਟ ਮੋਬਾਈਲ ਉਪਕਰਣਾਂ ਲਈ ਉਪਲਬਧ ਨਹੀਂ ਹੈ) \n2. ਇਸ URL ਤੇ ਜਾਓ: %1$s \n3. ਆਪਣੇ ਖਾਤੇ ਚ ਲੌਗ-ਇਨ ਕਰੋ \n4. ਨਿਰਦੇਸ਼ਤ ਕੀਤੇ ਗਏ ਪ੍ਰੋਫਾਈਲ URL ਨੂੰ ਕਾਪੀ ਕਰੋ।"
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "ਤੁਹਾਡੀ ਆਈਡੀ, soundcloud.com/ਤੁਹਾਡੀ ਆਈਡੀ"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "3-ਡੌਟ ਮੀਨੂ ਤੋਂ ਸਬਸਕ੍ਰਿਪਸ਼ਨਾਂ ਨੂੰ ਇੰਪੋਰਟ ਜਾਂ ਐਕਸਪੋਰਟ ਕਰੋ"
+    },
+    {
+      "name": "import_subscriptions_summary",
+      "value": "ਪਹਿਲਾਂ ਕੀਤੇ .json ਐਕਸਪੋਰਟ ਤੋਂ ਸਬਸਕ੍ਰਿਪਸ਼ਨਾਂ ਨੂੰ ਇੰਪੋਰਟ ਕਰੋ"
+    },
+    {
+      "name": "import_subscriptions_title",
+      "value": "ਸਬਸਕ੍ਰਿਪਸ਼ਨਾਂ ਇੰਪੋਰਟ ਕਰੋ"
+    },
+    {
+      "name": "import_title",
+      "value": "ਇੰਪੋਰਟ"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "ਗੂਗਲ ਟੇਕਆਊਟ ਤੋਂ ਯੂਟਿਊਬ ਸਬਸਕ੍ਰਿਪਸ਼ਨਾਂ ਇੰਪੋਰਟ ਕਰਨ ਲਈ ਐਕਸਪੋਰਟ ਫਾਈਲ ਡਾਊਨਲੋਡ ਕਰੋ:\n\n1. ਇਸ URL ਤੇ ਜਾਓ: %1$s\n2. ਮੰਗਣ ਤੇ ਆਪਣੇ ਖਾਤੇ 'ਚ ਲਾਗ-ਇਨ ਕਰੋ\n3. ਕਲਿੱਕ ਕਰੋ \" All data incuded\" ਤੇ, ਫੇਰ \"Deselect all\" ਤੇ ਫੇਰ ਸਿਰਫ \"subscriprion\" ਚੁਣੋ ਅਤੇ \"OK\" ਕਰੋ\n4. \"Next step\" ਤੇ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਫੇਰ \"create export\" ਤੇ\n5. ਡਾਊਨਲੋਡ ਬਟਨ ਦਿਖਾਈ ਦੇਣ ਤੇ ਇਸ ਤੇ ਕਲਿੱਕ ਕਰੋ। ਇੱਕ ਡਾਉਨਲੋਡ ਸ਼ੁਰੂ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ (ਇਹੀ ਐਕਸਪੋਰਟ ਫਾਈਲ ਹੈ)\n6. ਥੱਲੇ ਇੰਪੋਰਟ ਫਾਈਲ ਤੇ ਕਲਿੱਕ ਕਰੋ ਤੇ ਡਾਊਨਲੋਡ ਕੀਤੀ .zip ਫਾਈਲ ਚੁਣੋ\n7. [ਜੇ .zip ਤੋਂ ਐਕਸਪੋਰਟ ਫੇਲ ਹੋ ਜਾਂਦੀ ਹੈ] ਤਾਂ .csv ਫਾਈਲ ਐਕਸਟਰੈਕਟ ਕਰੋ (ਆਮ ਤੌਰ ਤੇ \"YouTube and YouTube Music/subscriptions/subscriptions.csv\"), ਥੱਲੇ ਦਿੱਤੇ ਇੰਪੋਰਟ ਫਾਈਲ ਤੇ ਕਲਿੱਕ ਕਰਕੇ ਐਕਸਟਰੈਕਟ ਕੀਤੀ csv ਫਾਈਲ ਚੁਣੋ"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "ਅਣਗਿਣਤ ਵੀਡੀਓਜ਼"
+    },
+    {
+      "name": "info_labels",
+      "value": "ਕੀ:\nRequest:\nContent ਭਾਸ਼ਾ/ਬੋਲੀ:\nContent Country:\nApp ਭਾਸ਼ਾ/ਬੋਲੀ:\nService:\nGMT ਸਮਾਂ:\nPackage:\nVersion:\nOS version:"
+    },
+    {
+      "name": "install",
+      "value": "ਇੰਸਟਾਲ ਕਰੋ"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "ਅਜਿਹਾ ਕੋਈ ਫੋਲਡਰ ਨਹੀਂ"
+    },
+    {
+      "name": "invalid_file",
+      "value": "ਫਾਈਲ ਮੌਜੂਦ ਨਹੀਂ ਹੈ ਜਾਂ ਇਸ ਨੂੰ ਪੜ੍ਹਨ ਜਾਂ ਲਿਖਣ ਦੀ ਆਗਿਆ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "name": "invalid_source",
+      "value": "ਅਜਿਹਾ ਕੋਈ ਫਾਈਲ/ਸਮੱਗਰੀ ਸਰੋਤ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "name": "just_once",
+      "value": "ਸਿਰਫ਼ ਇਸ ਬਾਰ"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "ਵੇਰਵੇ"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "ਅਗਸਤ 2025 ਵਿੱਚ, ਗੂਗਲ ਨੇ ਐਲਾਨ ਕੀਤਾ ਕਿ ਸਤੰਬਰ 2026 ਤੋਂ, ਐਪਸ ਨੂੰ ਸਥਾਪਿਤ ਕਰਨ ਲਈ ਪ੍ਰਮਾਣਿਤ ਡਿਵਾਈਸਾਂ 'ਤੇ ਸਾਰੇ ਐਂਡਰਾਇਡ ਐਪਸ ਲਈ ਡਿਵੈਲਪਰ ਤਸਦੀਕ ਦੀ ਲੋੜ ਹੋਵੇਗੀ, ਜਿਸ ਵਿੱਚ ਪਲੇ ਸਟੋਰ ਤੋਂ ਬਾਹਰ ਸਥਾਪਤ ਕੀਤੇ ਐਪਸ ਵੀ ਸ਼ਾਮਲ ਹਨ। ਕਿਉਂਕਿ ਨਿਊਪਾਈਪ ਦੇ ਡਿਵੈਲਪਰ ਇਸ ਲੋੜ ਨਾਲ ਸਹਿਮਤ ਨਹੀਂ ਹਨ, ਇਸ ਲਈ ਨਿਊਪਾਈਪ ਉਸ ਸਮੇਂ ਤੋਂ ਬਾਅਦ ਪ੍ਰਮਾਣਿਤ ਐਂਡਰਾਇਡ ਡਿਵਾਈਸਾਂ 'ਤੇ ਕੰਮ ਨਹੀਂ ਕਰੇਗੀ।"
+    },
+    {
+      "name": "kao_solution",
+      "value": "ਹੱਲ"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "ਕਿਓਸਕ ਪੰਨਾ"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "ਗੈਰ ਮੌਜੂਦਾ Kore ਐਪ ਨੂੰ ਇੰਸਟਾਲ ਕਰੋ?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "ਲੀਕ-ਕੈਨਰੀ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "ਪਲੇਅਰ ਸਕ੍ਰੀਨ ਦੇ ਖੱਬੇ ਅੱਧ ਲਈ ਸੰਕੇਤ ਚੁਣੋ"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "ਖੱਬੇ ਪਾਸੇ ਦੀ ਸੰਕੇਤ ਕਿਰਿਆ"
+    },
+    {
+      "name": "license",
+      "value": "%1$s ਦੁਆਰਾ %2$s ਅਧੀਨ"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "ਸਫ਼ੈਦ"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "ਕੋਈ ਸੀਮਾ ਨਹੀਂ"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "ਮੋਬਾਈਲ ਡਾਟਾ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਸਮੇਂ ਰੈਜ਼ੋਲਿਊਸ਼ਨ ਨੂੰ ਸੀਮਿਤ ਕਰੋ"
+    },
+    {
+      "name": "list",
+      "value": "ਸੂਚੀ"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "ਸੂਚੀ ਵੇਖਣ ਦਾ ਢੰਗ"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "ਮੈਟਾਡੇਟਾ ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "ਸਟ੍ਰੀਮ ਦੇ ਵਿਵਰਣ ਲੋਡ ਹੋ ਰਹੇ ਹਨ…"
+    },
+    {
+      "name": "local",
+      "value": "ਸਥਾਨਕ"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "ਖੋਜ ਦੇ ਸਥਾਨਕ ਸੁਝਾਅ"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "ਘੱਟ ਗੁਣਵੱਤਾ (ਛੋਟਾ ਆਕਾਰ)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਵੱਡਦਰਸ਼ੀ ਸ਼ੀਸ਼ੇ 'ਤੇ ਟੈਪ ਕਰੋ।"
+    },
+    {
+      "name": "main_page_content",
+      "value": "ਮੁੱਖ ਪੰਨੇ ਦੀ ਸਮੱਗਰੀ"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "ਮੁੱਖ ਪੰਨੇ ਤੇ ਕਿਹੜੇ ਟੈਬ ਵਿਖਾਏ ਜਾਣਗੇ"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "ਆਈਟਮਾਂ ਨੂੰ ਇੱਕ ਪਾਸੇ ਖਿੱਚ ਕੇ ਹਟਾਓ"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "ਮੁੱਖ ਟੈਬ ਸਿਲੈਕਟਰ ਨੂੰ ਹੇਠਾਂ ਲੈ ਜਾਓ"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "ਮੁੱਖ ਟੈਬਾਂ ਦੀ ਸਥਿਤੀ"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "ਨਵੇਂ ਸੰਸਕਰਣਾਂ ਲਈ ਹੱਥੀਂ ਜਾਂਚ ਕਰੋ"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "ਵੇਖਿਆ ਜਾ ਚੁੱਕਿਆ ਚਿੰਨਤ ਕਰੋ"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "ਡਾਉਨਲੋਡ ਰੱਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਵੱਧ ਤੋਂ ਵੱਧ ਕੋਸ਼ਿਸ਼ਾਂ"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "ਵੱਧ ਤੋਂ ਵੱਧ ਕੋਸ਼ਿਸ਼ਾਂ"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "ਉਮਰ ਹੱਦ"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "ਅਵਤਾਰ"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "ਬੈਨਰ"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "ਮੈਟਾ-ਡਾਟਾ ਕੈਸ਼ੇ ਮਿਟਾਇਆ ਗਿਆ"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "ਵੈੱਬ-ਪੇਜਾਂ ਦਾ ਕੈਸ਼ ਕੀਤਾ ਸਾਰਾ ਡਾਟਾ ਮਿਟਾਓ"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "ਕੈਸ਼ ਕੀਤਾ ਮੈਟਾ-ਡਾਟਾ ਮਿਟਾਓ"
+    },
+    {
+      "name": "metadata_category",
+      "value": "ਸ਼੍ਰੇਣੀ"
+    },
+    {
+      "name": "metadata_host",
+      "value": "ਮੇਜ਼ਬਾਨ"
+    },
+    {
+      "name": "metadata_language",
+      "value": "ਭਾਸ਼ਾ"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "ਲਾਇਸੈਂਸ"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "ਪਰਦੇਦਾਰੀ"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "ਅੰਦਰੂਨੀ"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "ਨਿੱਜੀ (ਪ੍ਰਾਈਵੇਟ)"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "ਜਨਤਕ"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "ਗੈਰ-ਸੂਚੀਬੱਧ"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "ਉਪ-ਚੈਨਲ ਅਵਤਾਰ"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "ਸਬਸਕ੍ਰਾਈਬਰਜ਼"
+    },
+    {
+      "name": "metadata_support",
+      "value": "ਸਹਾਇਤਾ"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "ਟੈਗ"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "ਥੰਮਨੇਲ"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "ਅਪਲੋਡਰ ਅਵਤਾਰ"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud ਨੇ ਮੂਲ ਟੌਪ 50 ਚਾਰਟਾਂ ਨੂੰ ਬੰਦ ਕਰ ਦਿੱਤਾ ਹੈ। ਸੰਬੰਧਿਤ ਟੈਬ ਨੂੰ ਤੁਹਾਡੇ ਮੁੱਖ ਪੰਨੇ ਤੋਂ ਹਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ।"
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "SoundCloud ਟੌਪ 50 ਪੰਨਾ ਹਟਾ ਦਿੱਤਾ ਗਿਆ"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube ਨੇ 21 ਜੁਲਾਈ 2025 ਤੋਂ ਸੰਯੁਕਤ \"ਰੁਝਾਨ ਵਿੱਚ\" ਪੰਨੇ ਨੂੰ ਬੰਦ ਕਰ ਦਿੱਤਾ ਹੈ। NewPipe ਨੇ ਡਿਫ਼ਾਲਟ \"ਰੁਝਾਨ ਵਿੱਚ\" ਪੰਨੇ ਨੂੰ ਟ੍ਰੈਂਡਿੰਗ ਲਾਈਵਸਟ੍ਰੀਮਾਂ ਨਾਲ ਬਦਲ ਦਿੱਤਾ ਹੈ।\n\nਤੁਸੀਂ \"ਸੈਟਿੰਗਾਂ > ਸਮੱਗਰੀ > ਮੁੱਖ ਪੰਨੇ ਦੀ ਸਮੱਗਰੀ\" ਵਿੱਚ ਵੱਖ-ਵੱਖ ਟ੍ਰੈਂਡਿੰਗ ਪੰਨਿਆਂ ਨੂੰ ਵੀ ਚੁਣ ਸਕਦੇ ਹੋ।"
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "YouTube ਸੰਯੁਕਤ ਰੁਝਾਨ ਹਟਾਇਆ ਗਿਆ"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "ਬੈਕਗ੍ਰਾਊਂਡ ਪਲੇਅਰ ਵਿੱਚ ਬਦਲੋ"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "ਕੋਈ ਨਹੀਂ"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "ਪੌਪ-ਅਪ ਪਲੇਅਰ ਵਿੱਚ ਬਦਲੋ"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "ਮੇਨ ਵੀਡੀਓ ਪਲੇਅਰ ਤੋਂ ਦੂਜੇ ਐਪ 'ਤੇ ਜਾਣ ਵੇਲੇ ਕਾਰਵਾਈ — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "ਐਪ ਬਦਲਦੇ ਸਮੇਂ ਉਸਨੂੰ ਮਿਨੀਮਾਈਜ਼ ਕਰੋ"
+    },
+    {
+      "name": "missing_file",
+      "value": "ਫਾਈਲ ਤਬਦੀਲ ਕੀਤੀ ਜਾਂ ਮਿਟਾਈ ਗਈ"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "ਮੁਕੰਮਲ ਹੋਇਆ"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "ਬਕਾਇਆ"
+    },
+    {
+      "name": "more_options",
+      "value": "ਹੋਰ ਵਿਕਲਪ"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ ਵੀਡੀਓਜ਼"
+    },
+    {
+      "name": "most_liked",
+      "value": "ਵਧੇਰੇ ਪਸੰਦ ਕੀਤੇ ਗਏ"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "ਹੈਸ਼ ਦਾ ਲੇਖਾ-ਜੋਖਾ ਹੋ ਰਿਹਾ ਹੈ"
+    },
+    {
+      "name": "msg_copied",
+      "value": "ਕਲਿਪ-ਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਹੋ ਗਿਆ ਹੈ"
+    },
+    {
+      "name": "msg_error",
+      "value": "ਤਰੁੱਟੀ"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "ਕਲਿੱਪਬੋਰਡ 'ਤੇ ਕਾਪੀ ਕਰਨ ਵਿੱਚ ਅਸਫਲ"
+    },
+    {
+      "name": "msg_name",
+      "value": "ਫਾਈਲ ਦਾ ਨਾਮ"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "ਪੌਪ-ਅਪ ਮੋਡ ਵਿੱਚ ਖੋਲ੍ਹਣ ਵਾਸਤੇ\nਇਸ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ"
+    },
+    {
+      "name": "msg_running",
+      "value": "ਨਿਊਪਾਈਪ ਡਾਊਨਲੋਡ ਕਰ ਰਹੀ ਹੈ"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "ਵੇਰਵਿਆਂ ਲਈ ਟੈਪ ਕਰੋ"
+    },
+    {
+      "name": "msg_threads",
+      "value": "ਥਰੈੱਡ"
+    },
+    {
+      "name": "msg_wait",
+      "value": "ਕ੍ਰਿਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ…"
+    },
+    {
+      "name": "mute",
+      "value": "ਅਵਾਜ਼ ਬੰਦ ਕਰੋ"
+    },
+    {
+      "name": "name",
+      "value": "ਨਾਮ"
+    },
+    {
+      "name": "navigate_back",
+      "value": "ਵਾਪਿਸ ਜਾਓ"
+    },
+    {
+      "name": "network_error",
+      "value": "ਨੈੱਟਵਰਕ ਤਰੁੱਟੀ"
+    },
+    {
+      "name": "never",
+      "value": "ਕਦੇ ਨਹੀਂ"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "ਨਵੇਂ ਅਤੇ ਤਾਜ਼ਾ-ਤਰੀਨ"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "AVPlayer ਦੀ ਬੰਦਿਸ਼ ਕਰਕੇ ਸੀਕ ਕਰਨ ਦੀ ਮਿਆਦ %d ਸਕਿੰਟ ਸੈੱਟ ਕੀਤੀ ਗਈ"
+    },
+    {
+      "name": "next_stream",
+      "value": "ਅਗਲੀ ਸਟ੍ਰੀਮ"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "ਇਹ ਵਿਕਲਪ ਤਾਂ ਹੀ ਉਪਲਬਧ ਹੁੰਦਾ ਹੈ ਜੇਕਰ %s ਨੂੰ ਥੀਮ ਲਈ ਚੁਣਿਆ ਜਾਂਦਾ ਹੈ"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "ਆਪਣੀ ਪਸੰਦੀਦਾ ਰਾਤ ਦੀ ਥੀਮ ਚੁਣੋ — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "ਨਾਈਟ ਥੀਮ"
+    },
+    {
+      "name": "no",
+      "value": "ਨਹੀਂ"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਦੀ ਕੋਈ ਵੀ ਐਪ ਇਸ ਨੂੰ ਖੋਲ੍ਹ ਨਹੀਂ ਸਕਦੀ"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "ਇਸ ਕਾਰਜ ਲਈ ਕੋਈ ਢੁਕਵਾਂ ਫਾਈਲ ਮੈਨੇਜਰ ਨਹੀਂ ਮਿਲਿਆ।\n\nਕ੍ਰਿਪਾ ਕਰਕੇ ਫਾਈਲ ਮੈਨੇਜਰ ਇੰਨਸਟਾਲ ਕਰੋ ਜਾਂ ਡਾਊਨਲੋਡ ਸੈਟਿੰਗ ਵਿੱਚ '%s' ਅਸਮਰੱਥ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "ਇਸ ਕਾਰਜ ਲਈ ਕੋਈ ਢੁਕਵਾਂ ਫਾਈਲ ਮੈਨੇਜਰ ਨਹੀਂ ਮਿਲਿਆ।\nਕ੍ਰਿਪਾ ਕਰਕੇ ਸਟੋਰੇਜ ਐਕਸਿਸ ਫਰੇਮਵਰਕ SAF ਅਨੁਕੂਲ ਫਾਈਲ ਮੈਨੇਜਰ ਸਥਾਪਤ ਕਰੋ"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "ਕੋਈ ਆਡੀਓ ਸਟ੍ਰੀਮ ਬਾਹਰੀ ਪਲੇਅਰਾਂ ਲਈ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "ਬਾਅਦ ਵਿੱਚ ਸੈਟਿੰਗਾਂ ਵਿਚੋਂ ਇੱਕ ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਨੂੰ ਚੁਣੋ"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "ਅਜੇ ਤੱਕ ਕੋਈ ਚੈਨਲ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਨਹੀਂ"
+    },
+    {
+      "name": "no_comments",
+      "value": "ਕੋਈ ਟਿੱਪਣੀ ਨਹੀਂ"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "ਹਾਲੇ ਕੋਈ ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਸੈੱਟ ਨਹੀਂ ਕੀਤਾ ਹੋਇਆ, ਹੁਣੇ ਡਿਫ਼ਾਲਟ ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਚੁਣੋ"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "ਅਜੇ ਤੱਕ ਕੋਈ ਫੀਡ ਗਰੁੱਪ ਨਹੀਂ ਬਣਾਇਆ ਗਿਆ"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "ਕੋਈ ਲਾਈਵ ਸਟ੍ਰੀਮ ਨਹੀਂ"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "ਕੋਈ ਸਰੋਤਾ ਨਹੀਂ ਸੁਣ ਰਿਹਾ"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "ਕੋਈ ਦਰਸ਼ਕ ਨਹੀਂ ਵੇਖ ਰਿਹਾ"
+    },
+    {
+      "name": "no_player_found",
+      "value": "ਸਟ੍ਰੀਮਿੰਗ ਲਈ ਪਲੇਅਰ ਨਹੀਂ ਮਿਲਿਆ। ਕੀ ਤੁਸੀਂ VLC ਸਥਾਪਤ ਕਰਨਾ ਚਾਹੋਗੇ?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "ਸਟ੍ਰੀਮਿੰਗ ਲਈ ਪਲੇਅਰ ਨਹੀਂ ਮਿਲਿਆ (ਤੁਸੀਂ ਇਸਨੂੰ ਚਲਾਉਣ ਲਈ VLC ਪਲੇਅਰ ਇੰਸਟਾਲ ਕਰ ਸਕਦੇ ਹੋ)।"
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "ਹਾਲੇ ਕੋਈ ਪਲੇਲਿਸਟ ਬੁੱਕਮਾਰਕ ਨਹੀਂ ਕੀਤੀ ਹੋਈ"
+    },
+    {
+      "name": "no_streams",
+      "value": "ਕੋਈ ਸਟ੍ਰੀਮ ਨਹੀਂ"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਕੋਈ ਸਟ੍ਰੀਮ ਉਪਲਬਧ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "ਕੋਈ ਸਬਸਕ੍ਰਾਈਬਰ ਨਹੀਂ"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "ਕੋਈ ਵੈਧ ZIP ਫਾਈਲ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "ਕੋਈ ਵੀਡੀਓ ਸਟ੍ਰੀਮ ਬਾਹਰੀ ਪਲੇਅਰਾਂ ਲਈ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "name": "no_videos",
+      "value": "ਕੋਈ ਵੀਡੀਓ ਨਹੀਂ"
+    },
+    {
+      "name": "no_views",
+      "value": "ਕੋਈ ਵਿਊ ਨਹੀਂ"
+    },
+    {
+      "name": "none",
+      "value": "ਕੋਈ ਨਹੀਂ"
+    },
+    {
+      "name": "not_available",
+      "value": "ਅਣਉਪਲਬਧ"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "ਪਹਿਲਾ ਕਾਰਵਾਈ ਬਟਨ"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "ਦੂਜਾ ਕਾਰਵਾਈ ਬਟਨ"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "ਤੀਜਾ ਕਾਰਵਾਈ ਬਟਨ"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "ਚੌਥਾ ਕਾਰਵਾਈ ਬਟਨ"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "ਪੰਜਵਾਂ ਕਾਰਵਾਈ ਬਟਨ"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "ਬਫ਼ਰਿੰਗ"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "ਕੁਝ ਵੀ ਨਹੀਂ"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "ਦੁਹਰਾਓ"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "ਸ਼ਫਲ ਕਰੋ"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "ਤੁਸੀਂ ਵੱਧ-ਤੋਂ-ਵੱਧ ਤਿੰਨ ਕਾਰਵਾਈਆਂ ਨੂੰ ਕੰਪੈਕਟ ਨੋਟੀਫਿਕੇਸ਼ਨ ਵਿੱਚ ਵਿਖਾਉਣ ਲਈ ਚੁਣ ਸਕਦੇ ਹੋ!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "ਹੇਠਾਂ ਹਰੇਕ ਨੋਟੀਫਿਕੇਸ਼ਨ ਕਾਰਵਾਈ ਤੇ ਨੱਪਦਿਆਂ ਇਹਨਾਂ ਨੂੰ ਬਦਲੋ। ਇਹਨਾਂ ਦੇ ਸੱਜੇ ਪਾਸੇ ਬਣੇ ਚੈੱਕਬਾਕਸ ਵਰਤਦਿਆਂ ਇਹਨਾਂ ਵਿਚੋਂ ਵੱਧ-ਤੋਂ-ਵੱਧ ਤਿੰਨ ਕਾਰਵਾਈਆਂ ਨੂੰ ਤੁਸੀਂ ਕੰਪੈਕਟ ਨੋਟੀਫਿਕੇਸ਼ਨ ਵਿੱਚ ਵਿਖਾਉਣ ਲਈ ਚੁਣ ਸਕਦੇ ਹੋ।"
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "ਇਸ 'ਤੇ ਟੈਪ ਕਰਕੇ ਹੇਠਾਂ ਹਰੇਕ ਸੂਚਨਾ ਕਾਰਵਾਈ ਨੂੰ ਸੰਪਾਦਿਤ ਕਰੋ। ਪਹਿਲੀਆਂ ਤਿੰਨ ਕਾਰਵਾਈਆਂ (ਚਲਾਓ/ਰੋਕੋ, ਪਿਛਲਾ ਅਤੇ ਅਗਲਾ) ਸਿਸਟਮ ਦੁਆਰਾ ਸੈੱਟ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਅਨੁਕੂਲਿਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।"
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "ਨਿਊਪਾਈਪ ਦੇ ਪਲੇਅਰ ਦੇ ਲਈ ਨੋਟੀਫਿਕੇਸ਼ਨ"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "ਨਿਊਪਾਈਪ ਨੋਟੀਫਿਕੇਸ਼ਨ"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "ਐਂਡਰਾਇਡ ਨੂੰ ਥੰਮਨੇਲ ਵਿੱਚ ਮੁੱਖ ਰੰਗ ਦੇ ਅਨੁਸਾਰ ਨੋਟੀਫਿਕੇਸ਼ਨ ਦੇ ਰੰਗ ਨੂੰ ਅਨੁਕੂਲਿਤ ਕਰਨ ਦਿਓ (ਧਿਆਨ ਦਿਓ ਕਿ ਇਹ ਹਰੇਕ ਡਿਵਾਈਸ 'ਤੇ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "ਰੰਗਦਾਰ ਨੋਟੀਫਿਕੇਸ਼ਨ"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "ਨੋਟੀਫਿਕੇਸ਼ਨ ਵਿੱਚ ਵਿਖਾਏ ਵੀਡਿਓ ਥੰਮਨੇਲ ਨੂੰ 16:9 ਦੀ ਬਜਾਏ 1:1 ਅਨੁਪਾਤ ਦਾ ਵਿਖਾਓ"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "ਥੰਮਨੇਲ ਨੂੰ 1:1 ਮਾਪ ਦਾ ਕਰੋ"
+    },
+    {
+      "name": "notifications",
+      "value": "ਨੋਟੀਫਿਕੇਸ਼ਨ"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "ਨੋਟੀਫਿਕੇਸ਼ਨ ਬੰਦ ਕੀਤੇ ਹੋਏ ਹਨ"
+    },
+    {
+      "name": "off",
+      "value": "ਆਫ"
+    },
+    {
+      "name": "ok",
+      "value": "ਠੀਕ ਹੈ"
+    },
+    {
+      "name": "on",
+      "value": "ਆਨ"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 ਆਈਟਮ ਮਿਟਾਈ ਗਈ।"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "ਪੌਪ-ਅਪ ਮੋਡ 'ਚ ਖੋਲ੍ਹੋ"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "ਪਲੇ ਕਤਾਰ ਖੋਲ੍ਹੋ"
+    },
+    {
+      "name": "open_website_license",
+      "value": "ਵੈਬਸਾਈਟ ਖੋਲ੍ਹੋ"
+    },
+    {
+      "name": "open_with",
+      "value": "ਇਸ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+    },
+    {
+      "name": "override_current_data",
+      "value": "ਇਹ ਤੁਹਾਡੇ ਮੌਜੂਦਾ ਸੈਟ-ਅਪ ਨੂੰ ਓਵਰ-ਰਾਈਡ ਕਰ ਦੇਵੇਗਾ।"
+    },
+    {
+      "name": "overwrite",
+      "value": "ਓਵਰਰਾਈਟ ਕਰੋ"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "ਫਾਈਲ ਓਵਰਰਾਈਟ ਨਹੀਂ ਹੋ ਸਕਦੀ"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "ਇਸ ਨਾਮ ਨਾਲ ਡਾਉਨਲੋਡ ਕੀਤੀ ਫਾਈਲ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "ਇਸ ਨਾਮ ਵਾਲੀ ਇੱਕ ਫਾਈਲ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ"
+    },
+    {
+      "name": "paid_content",
+      "value": "ਇਹ ਸਮੱਗਰੀ ਸਿਰਫ਼ ਉਹਨਾਂ ਵਰਤੋਂਕਾਰਾਂ ਲਈ ਉਪਲਬਧ ਹੈ ਜਿੰਨ੍ਹਾਂ ਨੇ ਇਸਦੇ ਲਈ ਕੀਮਤ ਦਿੱਤੀ ਹੈ, ਇਸ ਕਰਕੇ ਨਿਊ-ਪਾਈਪ ਦੁਆਰਾ ਚਲਾਈ ਜਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ।"
+    },
+    {
+      "name": "parsing_error",
+      "value": "ਵੈਬਸਾਈਟ parse ਨਹੀਂ ਹੋ ਸਕੀ"
+    },
+    {
+      "name": "pause",
+      "value": "ਰੋਕੋ"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "ਡਾਊਨਲੋਡਸ ਰੋਕੋ"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "ਮੀਟਰ ਕੀਤੇ ਨੈੱਟਵਰਕ ਤੇ ਰੋਕੋ"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "ਮੋਬਾਈਲ ਡਾਟਾ ਦੇ ਇਸਤੇਮਾਲ ਵੇਲੇ ਫਾਇਦੇਮੰਦ ਹੈ, ਹਾਲਾਂਕਿ ਕੁਝ ਡਾਉਨਲੋਡਾਂ ਨੂੰ ਮੁਅੱਤਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ"
+    },
+    {
+      "name": "paused",
+      "value": "ਰੋਕਿਆ"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "ਇੰਸਟੈਂਸ ਪਹਿਲਾਂ ਤੋਂ ਮੌਜੂਦ ਹੈ"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "ਇੰਸਟੈਂਸ ਦੀ ਜਾਇਜ਼ਗੀ ਤਸਦੀਕ ਨਹੀਂ ਹੋ ਸਕੀ"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "ਇੰਸਟੈਂਸ URL ਦਾਖ਼ਲ ਕਰੋ"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "ਸਿਰਫ਼ HTTP URLs ਹੀ ਮੰਨਣਯੋਗ ਹਨ"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "ਇੰਸਟੈਂਸ ਜੋੜੋ"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "ਤੁਹਾਡੇ ਪਸੰਦੀਦਾ ਇੰਸਟੈਂਸ %s 'ਤੇ ਲੱਭੋ"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "ਆਪਣੇ ਪਸੰਦੀਦਾ ਪੀਅਰਟਿਊਬ ਇੰਸਟੈਂਸ ਚੁਣੋ"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "ਪੀਅਰਟਿਊਬ ਇੰਸਟੈਂਸ"
+    },
+    {
+      "name": "percent",
+      "value": "ਪ੍ਰਤੀਸ਼ਤ"
+    },
+    {
+      "name": "permission_denied",
+      "value": "ਸਿਸਟਮ ਦੁਆਰਾ ਕਾਰਵਾਈ ਤੋਂ ਇਨਕਾਰ ਕੀਤਾ ਗਿਆ"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "ਦੂਜੀਆਂ ਐਪਾਂ ਦੇ ਉੱਤੇ ਵਿਖਾਉਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "ਪੌਪਅੱਪ ਪਲੇਅਰ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਹੇਠਾਂ ਦਿੱਤੇ Android ਸੈਟਿੰਗ ਮੀਨੂ ਵਿੱਚ %1$s ਚੁਣੋ ਅਤੇ %2$s ਨੂੰ ਇਨੇਬਲ ਕਰੋ।"
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "ਹੋਰ ਐਪਾਂ ਉੱਤੇ ਡਿਸਪਲੇ ਦੀ ਆਗਿਆ ਦਿਓ"
+    },
+    {
+      "name": "play",
+      "value": "ਚਲਾਓ"
+    },
+    {
+      "name": "play_all",
+      "value": "ਸਾਰੇ ਚਲਾਓ"
+    },
+    {
+      "name": "play_audio",
+      "value": "ਆਡੀਓ"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "ਆਡੀਓ ਸੈਟਿੰਗਾਂ"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "ਆਡੀਓ: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "ਹਟਾਓ"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "ਵੇਰਵੇ"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Kodi ਵਿੱਚ ਚਲਾਓ"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "ਪਿੱਚ"
+    },
+    {
+      "name": "playback_reset",
+      "value": "ਰੀਸੈੱਟ"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "ਪਲੇਅਬੈਕ ਸਪੀਡ ਕੰਟਰੋਲ"
+    },
+    {
+      "name": "playback_step",
+      "value": "ਕਦਮ"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "ਤਾਲ"
+    },
+    {
+      "name": "player_http_403",
+      "value": "ਪਲੇਅ ਕਰਦੇ ਸਮੇਂ ਸਰਵਰ ਤੋਂ HTTP error 403 ਪ੍ਰਾਪਤ ਹੋਇਆ, ਜੋ ਸ਼ਾਇਦ ਸਟ੍ਰੀਮਿੰਗ URL ਦੀ ਮਿਆਦ ਪੁੱਗਣ ਜਾਂ IP ਦੀ ਪਾਬੰਦੀ ਕਾਰਨ ਹੋਈ ਹੈ"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "ਚਲਾਉਣ ਦੌਰਾਨ ਸਰਵਰ ਤੋਂ HTTP error %1$s ਪ੍ਰਾਪਤ ਹੋਇਆ"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "ਪਲੇਅਰ ਤਰੁੱਟੀ ਤੋਂ ਮੁੜ-ਸੁਰਜੀਤ ਹੋ ਰਿਹਾ ਹੈ"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "ਇਸ ਸਟ੍ਰੀਮ ਨੂੰ ਚਲਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "ਅਣਚਾਹੀ ਪਲੇਅਰ ਤਰੁੱਟੀ ਆਈ ਹੈ"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "ਪਲੇਲਿਸਟ ਕੀਤਾ ਗਿਆ"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "ਡੁਪਲੀਕੇਟ ਜੋੜ੍ਹਿਆ ਗਿਆ %d ਵਾਰ"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "ਪਲੇਲਿਸਟ ਬਣਾਈ ਗਈ"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "ਆਪਣੇ-ਆਪ ਬਣੀ (ਕੋਈ ਅਪਲੋਡਰ ਨਹੀਂ ਲੱਭਿਆ)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "ਪਲੇਲਿਸਟ ਪੰਨਾ"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "ਪਲੇਲਿਸਟ ਦਾ ਥੰਮਨੇਲ ਬਦਲ ਦਿੱਤਾ ਗਿਆ।"
+    },
+    {
+      "name": "playlists",
+      "value": "ਪਲੇਲਿਸਟਾਂ"
+    },
+    {
+      "name": "popup_player",
+      "value": "ਪੌਪ-ਅਪ ਪਲੇਅਰ"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "ਪੌਪ-ਅਪ ਮੋਡ ਵਿੱਚ ਚੱਲ ਰਿਹਾ ਹੈ"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "ਪੌਪ-ਅਪ ਦਾ ਆਖਰੀ ਆਕਾਰ ਅਤੇ ਸਥਿਤੀ ਯਾਦ ਰੱਖੋ"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "ਪੌਪ-ਅਪ ਦਾ ਆਕਾਰ ਅਤੇ ਸਥਿਤੀ ਯਾਦ ਰੱਖੋ"
+    },
+    {
+      "name": "post_processing",
+      "value": "ਪੋਸਟ-ਪ੍ਰੋਸੈਸਿੰਗ"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "ਜੇ ਉਪਲਬਧ ਹੋਵੇ ਤਾਂ ਦ੍ਰਿਸ਼ਟੀ ਤੋਂ ਅਪੰਗ ਲੋਕਾਂ ਵਾਸਤੇ ਵਰਣਨਾਂ ਵਾਲਾ ਕੋਈ ਆਡੀਓ ਟਰੈਕ ਚੁਣੋ"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "ਵਰਣਨਾਤਮਕ ਆਡੀਓ ਨੂੰ ਤਰਜੀਹ ਦਿਓ"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "ਭਾਸ਼ਾ ਦੀ ਪਰਵਾਹ ਕੀਤੇ ਬਿਨਾਂ ਮੂਲ ਆਡੀਓ ਟਰੈਕ ਚੁਣੋ"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "ਮੂਲ ਆਡੀਓ ਨੂੰ ਤਰਜੀਹ ਦਿਓ"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "ਸਮੱਗਰੀ ਖੋਲ੍ਹਣ ਸਮੇਂ ਡਿਫ਼ਾਲਟ ਕਾਰਵਾਈ — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "'ਖੋਲ੍ਹਣ' ਤੇ ਤਰਜੀਹੀ ਐਕਸ਼ਨ"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "ਬੇਨਤੀ ਕੀਤੀ ਸਮੱਗਰੀ ਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…"
+    },
+    {
+      "name": "previous_export",
+      "value": "ਪਿੱਛਲਾ ਐਕਸਪੋਰਟ"
+    },
+    {
+      "name": "previous_stream",
+      "value": "ਪਿਛਲੀ ਸਟ੍ਰੀਮ"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "ਨਿਊਪਾਈਪ ਪ੍ਰੋਜੈਕਟ ਤੁਹਾਡੀ ਗੋਪਨੀਯਤਾ ਨੂੰ ਬਹੁਤ ਗੰਭੀਰਤਾ ਨਾਲ ਲੈਂਦਾ ਹੈ। ਇਸ ਲਈ ਐਪ ਤੁਹਾਡੀ ਸਹਿਮਤੀ ਤੋਂ ਬਿਨਾਂ ਕੋਈ ਵੀ ਡਾਟਾ ਇੱਕਠਾ ਨਹੀਂ ਕਰਦਾ।\nਨਿਊਪਾਈਪ ਦੀ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਵਿਸਥਾਰ ਵਿੱਚ ਦੱਸਦੀ ਹੈ ਕਿ ਜਦੋਂ ਤੁਸੀਂ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜਦੇ ਹੋ ਤਾਂ ਕਿਹੜਾ ਡਾਟਾ ਭੇਜਿਆ ਜਾਂ ਸਟੋਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "ਨਿਊਪਾਈਪ ਦੀ ਗੋਪਨੀਯਤਾ ਨੀਤੀ"
+    },
+    {
+      "name": "private_content",
+      "value": "ਇਹ ਸਮੱਗਰੀ ਨਿੱਜੀ (ਪ੍ਰਾਈਵੇਟ) ਹੈ, ਇਸ ਕਰਕੇ ਨਿਊ-ਪਾਈਪ ਦੁਆਰਾ ਚਲਾਈ ਜਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ।"
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "ਕਾਰਵਾਈ ਵਿੱਚ... ਕੁਝ ਸਮਾਂ ਲੱਗ ਰਿਹਾ ਹੈ"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer ਡਿਫ਼ਾਲਟ"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "ਪ੍ਰਗਤੀਸ਼ੀਲ ਸਮੱਗਰੀ ਉੱਤੇ ਲੋਡ ਅੰਤਰਾਲ ਆਕਾਰ ਬਦਲੋ (ਮੌਜੂਦਾ %s ਤੇ)। ਛੋਟੀ ਸੰਖਿਆ ਉਸਨੂੰ ਜਲਦੀ ਸ਼ੁਰੂ ਕਰਨ ਵਿੱਚ ਮੱਦਦ ਦੇ ਸਕਦੀ ਹੈ"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "ਪਲੇਅਬੈਕ ਲੋਡ ਅੰਤਰਾਲ ਆਕਾਰ"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "ਕਤਾਰ ਵਿੱਚ"
+    },
+    {
+      "name": "radio",
+      "value": "ਰੇਡੀਓ"
+    },
+    {
+      "name": "read_full_license",
+      "value": "ਲਾਇਸੈਂਸ ਪੜ੍ਹੋ"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਪੜ੍ਹੋ"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA ਦੀਆਂ ਕੁਕੀਜ਼ ਸਾਫ਼ ਹੋ ਗਈਆਂ ਹਨ"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "ReCaptcha ਚੁਣੌਤੀ ਲਈ ਬੇਨਤੀ"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "ਹੱਲ ਕਰੋ"
+    },
+    {
+      "name": "recent",
+      "value": "ਹਾਲੀਆ"
+    },
+    {
+      "name": "recently_added",
+      "value": "ਹਾਲ ਹੀ ਵਿੱਚ ਸ਼ਾਮਿਲ"
+    },
+    {
+      "name": "recovering",
+      "value": "ਮੁੜ-ਪ੍ਰਾਪਤੀ"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "ਸਬੰਧਤ ਆਈਟਮਾਂ"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "ਖੋਜ ਦੇ ਰਿਮੋਟ ਸੁਝਾਅ"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "ਡੁਪਲੀਕੇਟ ਹਟਾਓ"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "ਕੀ ਤੁਸੀਂ ਇਸ ਪਲੇਲਿਸਟ ਵਿੱਚ ਸਾਰੀਆਂ ਡੁਪਲੀਕੇਟ ਸਟ੍ਰੀਮਾਂ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "ਡੁਪਲੀਕੇਟ ਹਟਾਉਣੇ ਹਨ?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "ਵੇਖੇ ਹੋਏ ਨੂੰ ਹਟਾਓ"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "ਹਾਂ, ਅਤੇ ਅੱਧ-ਪਚੱਧੀਆਂ ਵੇਖੀਆਂ ਹੋਈਆਂ ਵੀ"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "ਕੀ ਵੇਖੀਆਂ ਸਟ੍ਰੀਮਾਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "ਪਲੇਲਿਸਟ ਵਿੱਚ ਸ਼ਾਮਿਲ ਪਹਿਲਾਂ ਤੇ ਬਾਅਦ ਵਿੱਚ ਵੇਖੀਆਂ ਸਟ੍ਰੀਮਾਂ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।\nਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਇਹ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "rename",
+      "value": "ਨਾਮ ਬਦਲੋ"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "ਨਾਮ ਬਦਲੋ"
+    },
+    {
+      "name": "replay",
+      "value": "ਦੁਬਾਰਾ ਚਲਾਓ"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "ਸਾਰੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਰੀਸੈੱਟ ਕਰਨ ਨਾਲ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਤਰਜੀਹੀ ਸੈਟਿੰਗਾਂ ਰੱਦ ਹੋ ਜਾਣਗੀਆਂ ਅਤੇ ਐਪ ਰੀਸਟਾਰਟ ਹੋ ਜਾਵੇਗਾ।\n\n\n\nਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਅੱਗੇ ਵਧਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "ਸਾਰੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਉਹਨਾਂ ਦੇ ਡਿਫ਼ਾਲਟ ਮੁੱਲਾਂ 'ਤੇ ਰੀਸੈਟ ਕਰੋ"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "ਸੈਟਿੰਗਾਂ ਨੂੰ ਰੀਸੈਟ ਕਰੋ"
+    },
+    {
+      "name": "resize_fill",
+      "value": "ਭਰੋ"
+    },
+    {
+      "name": "resize_fit",
+      "value": "ਫਿੱਟ"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "ਜ਼ੂਮ"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "ਡੀਫ਼ਾਲਟ ਮੁੜ-ਸਥਾਪਿਤ ਕਰੋ"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "ਕੀ ਤੁਸੀਂ ਡਿਫਾਲਟ ਮੁੜ-ਸਥਾਪਿਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "ਇਹ ਵੀਡੀਓ ਉਮਰ-ਪਾਬੰਦੀਸ਼ੁਦਾ ਹੈ।\n\n\n\nਜੇ ਤੁਸੀਂ ਇਸਨੂੰ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚੋਂ \"%1$s\" ਚਾਲੂ ਕਰੋ।"
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "ਇਹ ਵੀਡੀਓ ਉਮਰ-ਹੱਦ ਮੁਤਾਬਕ ਪਾਬੰਦੀਸ਼ੁਦਾ ਹੈ।\n\nਯੂਟਿਊਬ ਦੀਆਂ ਉਮਰ-ਹੱਦ ਪਾਬੰਦੀਸ਼ੁਦਾ ਵੀਡੀਓਜ਼ ਬਾਰੇ ਨੀਤੀਆਂ ਦੇ ਕਾਰਨ ਨਿਊ-ਪਾਈਪ ਇਸਦੀਆਂ ਵੀਡੀਓ ਸਟ੍ਰੀਮ ਤੱਕ ਨਹੀਂ ਪਹੁੰਚ ਸਕਦੀ ਅਤੇ ਇਸੇ ਕਰਕੇ ਇਸਨੂੰ ਚਲਾ ਵੀ ਨਹੀਂ ਸਕਦੀ।"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "ਵਿਘਨਾਂ (ਜਿਵੇਂ ਕਿ ਫ਼ੋਨ-ਕਾਲਾਂ) ਤੋਂ ਬਾਅਦ ਚਲਾਉਣਾ ਜਾਰੀ ਰੱਖੋ"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "ਚਲਾਉਣਾ ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ"
+    },
+    {
+      "name": "retry",
+      "value": "ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+    },
+    {
+      "name": "rewind",
+      "value": "ਰੀਵਾਈਂਡ ਕਰੋ"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "ਪਲੇਅਰ ਸਕ੍ਰੀਨ ਦੇ ਸੱਜੇ ਅੱਧ ਲਈ ਸੰਕੇਤ ਚੁਣੋ"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "ਸੱਜੇ ਪਾਸੇ ਦੀ ਸੰਕੇਤ ਕਿਰਿਆ"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "ਸਾਂਭੀਆਂ ਟੈਬਾਂ ਨਹੀਂ ਪੜ੍ਹ ਹੋਈਆਂ, ਇਸ ਲਈ ਡਿਫਾਲਟ ਟੈਬਾਂ ਦੀ ਵਰਤੋਂ ਹੋ ਰਹੀ ਹੈ"
+    },
+    {
+      "name": "search",
+      "value": "ਖੋਜ ਕਰੋ"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "ਖੋਜ ਸੂਚੀ ਦਾ ਇਤਿਹਾਸ ਮਿਟਾ ਦਿੱਤਾ ਗਿਆ"
+    },
+    {
+      "name": "search_no_results",
+      "value": "ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "%s : ਲਈ ਨਤੀਜੇ ਵਿਖਾਏ ਜਾ ਰਹੇ ਹਨ"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "%1$s ਖੋਜੋ"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "%1$s (%2$s) ਖੋਜੋ"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "ਫਾਸਟ-ਫਾਰਵਰਡ/-ਰਿਵਾਈਂਡ ਸੀਕ ਦੀ ਮਿਆਦ"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "ਸੀਕਬਾਰ ਥੰਮਨੇਲ ਦੀ ਝਲਕ"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "ਚੈਨਲ ਚੁਣੋ"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "ਫੀਡ ਗਰੁੱਪ ਚੁਣੋ"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "ਇੱਕ ਕਿਓਸਕ ਚੁਣੋ"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "ਪਲੇਲਿਸਟ ਚੁਣੋ"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "ਬਾਹਰੀ ਪਲੇਅਰਾਂ ਲਈ ਆਡੀਓ ਟਰੈਕ ਚੁਣੋ"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "ਤੁਸੀਂ ਆਪਣੀ ਪਸੰਦੀਦਾ ਰਾਤ ਦੀ ਥੀਮ ਹੇਠਾਂ ਚੁਣ ਸਕਦੇ ਹੋ"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "ਬਾਹਰੀ ਪਲੇਅਰਾਂ ਲਈ ਕੁਆਲਿਟੀ ਚੁਣੋ"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "ਚੁਣੀ ਗਈ ਸਟ੍ਰੀਮ ਬਾਹਰੀ ਪਲੇਅਰਾਂ ਲਈ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "name": "semitone",
+      "value": "ਸੈਮੀਟੋਨ"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "ਪਲੇਲਿਸਟ ਥੰਮਨੇਲ ਦੇ ਰੂਪ ਵਿੱਚ ਸੈੱਟ ਕਰੋ"
+    },
+    {
+      "name": "settings",
+      "value": "ਸੈਟਿੰਗਾਂ"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "ਦਿੱਖ"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "ਬੈਕਅੱਪ ਅਤੇ ਰੀਸਟੋਰ"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "ਡਾਟਾ ਮਿਟਾਓ"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "ਡੀ-ਬੱਗ"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "ਡਾਊਨਲੋਡ"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "ਕੁਝ AVPlayer ਸੈਟਿੰਗਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ। ਇਹਨਾਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਲਾਗੂ ਕਰਨ ਲਈ ਪਲੇਅਰ ਦੁਬਾਰਾ ਚਲਾਉਣ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "AVPlayer ਸੈਟਿੰਗਾਂ"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "ਫ਼ੀਡ"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "ਇਤਿਹਾਸ ਅਤੇ ਕੈਸ਼-ਭੰਡਾਰ"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "ਵਿਵਹਾਰ"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "ਮੌਜੂਦਾ ਚੱਲ ਰਹੀ ਸਟ੍ਰੀਮ ਦੀ ਨੋਟੀਫਿਕੇਸ਼ਨ ਸੰਰਚਨਾ ਕਰੋ"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "ਪਲੇਅਰ ਨੋਟੀਫਿਕੇਸ਼ਨ"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "ਪਲੇਅਰ"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "ਅੱਪਡੇਟਾਂ"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "ਵੀਡੀਓ ਅਤੇ ਆਡੀਓ"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "ਫਾਈਲ ਨਾਮ ਵਿੱਚ ਪ੍ਰਵਾਨਿਤ ਅੱਖਰ"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "ਗਲਤ ਅੱਖਰ ਇਸ ਚਿੰਨ ਨਾਲ ਤਬਦੀਲ ਕੀਤੇ ਜਾਣਗੇ"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "ਵਟਾਂਦਰਾ ਚਿੰਨ"
+    },
+    {
+      "name": "share",
+      "value": "ਸਾਂਝਾ ਕਰੋ"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "ਦੇ ਨਾਲ ਸਾਂਝਾ ਕਰੋ"
+    },
+    {
+      "name": "share_playlist",
+      "value": "ਪਲੇਲਿਸਟ ਸਾਂਝੀ ਕਰੋ"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "ਅਸਥਾਈ ਯੂਟਿਊਬ ਪਲੇਲਿਸਟ ਵਜੋਂ ਸਾਂਝਾ ਕਰੋ"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "URL ਸੂਚੀ ਸਾਂਝੀ ਕਰੋ"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "ਸਿਰਲੇਖਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sਅਰਬ"
+    },
+    {
+      "name": "short_million",
+      "value": "%sਮਿਲੀਅਨ"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sਹਜ਼ਾਰ"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "ਉਹ ਸਮੱਗਰੀ ਵੀ ਵਿਖਾਓ ਜੋ ਉਮਰ-ਸੀਮਾ ਕਰਕੇ ਬੱਚਿਆਂ ਲਈ ਸ਼ਾਇਦ ਸਹੀ ਨਾ ਹੋਵੇ (ਜਿਵੇਂ 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "ਉਮਰ ਮੁਤਾਬਕ ਪਾਬੰਦੀਸ਼ੁਦਾ ਸਮੱਗਰੀ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "ਚੈਨਲ ਵੇਰਵੇ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "ਚੈਨਲ ਟੈਬਾਂ"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "ਚੈਨਲ ਪੰਨਿਆਂ 'ਤੇ ਕਿਹੜੀਆਂ ਟੈਬਾਂ ਵਿਖਾਈਆਂ ਜਾਂਦੀਆਂ ਹਨ"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "ਟਿੱਪਣੀਆਂ ਲੁਕਾਉਣ ਲਈ ਇਸਨੂੰ ਬੰਦ ਕਰੋ"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "ਟਿੱਪਣੀਆਂ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "ਵਰਤਦੇ ਸਮੇਂ ਪਲੇਅਰ ਕਰੈਸ਼ ਦਾ ਵਿਕਲਪ ਵਿਖਾਉਂਦਾ ਹੈ"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "\"ਪਲੇਅਰ ਕਰੈਸ਼ ਕਰੋ\" ਵਿਖਾਉ"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "ਵੀਡੀਓ ਵੇਰਵਾ ਅਤੇ ਵਾਧੂ ਜਾਣਕਾਰੀ ਲੁਕਾਉਣ ਲਈ ਇਸਨੂੰ ਬੰਦ ਕਰੋ"
+    },
+    {
+      "name": "show_description_title",
+      "value": "ਵੇਰਵਾ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_error",
+      "value": "ਤਰੁੱਟੀ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "ਤਰੁੱਟੀ ਤੇ ਸਨੈਕਬਾਰ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "ਸਿਰਫ਼ ਕੁਝ ਹੀ ਡਿਵਾਈਸ 2K/4K ਵਿੱਚ ਵੀਡੀਓ ਚਲਾ ਸਕਦੇ ਹਨ"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "ਉੱਚ ਰੈਜ਼ੋਲਿਊਸ਼ਨਾਂ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "ਵੀਡੀਓ ਦੇ ਵੇਰਵੇ ਪੰਨੇ 'ਤੇ ਬੈਕਗ੍ਰਾਊਂਡ ਜਾਂ ਪੌਪ-ਅਪ ਬਟਨ ਨੱਪਣ 'ਤੇ ਸੁਝਾਅ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "\"ਕਤਾਰਬੱਧ ਕਰਨ ਵਾਸਤੇ ਦਬਾ ਕੇ ਰੱਖੋ\" ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_info",
+      "value": "ਜਾਣਕਾਰੀ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_less",
+      "value": "ਘੱਟ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "ਮੈਮਰੀ ਲੀਕ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "ਸਟ੍ਰੀਮ ਨਿਰਮਾਤਾ, ਸਟ੍ਰੀਮ ਸਮੱਗਰੀ ਜਾਂ ਖੋਜ ਬੇਨਤੀ ਦੇ ਬਾਰੇ ਵਿੱਚ ਅਤਿਰਿਕਤ ਜਾਣਕਾਰੀ ਦਿੰਦੇ ਮੈਟਾ ਜਾਣਕਾਰੀ ਬਕਸੇ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਬੰਦ ਕਰੋ"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "ਮੈਟਾ ਜਾਣਕਾਰੀ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_more",
+      "value": "ਹੋਰ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "'ਅਗਲੇ' ਤੇ 'ਸਬੰਧਤ' ਵੀਡੀਓ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "ਸੇਵਾਵਾਂ ਵੱਲੋਂ ਆਈ ਅਸਲ ਲਿਖਤ ਸਟ੍ਰੀਮ ਨਗਾਂ ਵਿੱਚ ਵਿਖਾਈ ਦੇਵੇਗੀ"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "ਨਗਾਂ ਦੇ ਆਉਣ ਦਾ ਅਸਲੀ ਸਮਾਂ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "ਕੋਡੀ ਮੀਡੀਆ ਸੈਂਟਰ ਰਾਹੀਂ ਵੀਡੀਓ ਚਲਾਉਣ ਲਈ ਇੱਕ ਵਿਕਲਪ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰੋ"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "\"Kodi ਵਿੱਚ ਚਲਾਓ\" ਦਾ ਵਿਕਲਪ ਵਿਖਾਓ"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "ਖੋਜ ਕਰਨ ਵੇਲੇ ਵਿਖਾਏ ਜਾਂਦੇ ਸੁਝਾਵਾਂ ਦੀ ਚੋਣ ਕਰੋ"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "ਖੋਜ ਸੁਝਾਅ"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "ਥੰਮਨੇਲ ਨੂੰ ਲਾਕ ਸਕਰੀਨ ਦੇ ਬੈਕਗ੍ਰਾਊਂਡ ਅਤੇ ਨੋਟੀਫਿਕੇਸ਼ਨ ਦੋਵਾਂ ਲਈ ਵਰਤੋ"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "ਥੰਮਨੇਲ ਵਿਖਾਓ"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s ਨੇ ਡੇਟਾ ਪ੍ਰਦਾਨ ਕਰਨ ਤੋਂ ਇਨਕਾਰ ਕਰ ਦਿੱਤਾ, ਅਤੇ ਇਹ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਲੌਗਇਨ ਕਰਨ ਲਈ ਕਿਹਾ ਕਿ ਬੇਨਤੀਕਰਤਾ ਬੋਟ ਨਹੀਂ ਹੈ।\n\nਹੋ ਸਕਦਾ ਹੈ ਕਿ %1$s ਨੇ ਤੁਹਾਡੇ IP ਨੂੰ ਅਸਥਾਈ ਤੌਰ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੋਵੇ, ਤੁਸੀਂ ਕੁਝ ਸਮਾਂ ਉਡੀਕ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਕਿਸੇ ਵੱਖਰੇ IP 'ਤੇ ਸਵਿੱਚ ਕਰ ਸਕਦੇ ਹੋ (ਉਦਾਹਰਣ ਵਜੋਂ VPN ਨੂੰ ਚਾਲੂ/ਬੰਦ ਕਰਕੇ, ਜਾਂ WiFi ਤੋਂ ਮੋਬਾਈਲ ਡੇਟਾ 'ਤੇ ਸਵਿੱਚ ਕਰਕੇ)।\n\nਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਕਿਰਪਾ ਕਰਕੇ <a href=\"%2$s\">ਇਹ FAQ ਐਂਟਰੀ</a> ਵੇਖੋ।"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "ਚੁੱਪ ਦੌਰਾਨ ਤੇਜ਼ੀ ਨਾਲ ਅੱਗੇ ਕਰੋ"
+    },
+    {
+      "name": "songs",
+      "value": "ਗੀਤ"
+    },
+    {
+      "name": "sorry_string",
+      "value": "ਮੁਆਫ ਕਰਨਾ, ਅਜਿਹਾ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ ਸੀ।"
+    },
+    {
+      "name": "sort",
+      "value": "ਲੜੀਬੱਧ ਕਰੋ"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "ਇਹ ਸਾਊਂਡਕਲਾਊਡ ਗੋ-ਪਲੱਸ ਟਰੈਕ ਹੈ, ਘੱਟੋ-ਘੱਟ ਤੁਹਾਡੇ ਦੇਸ਼ ਵਿੱਚ, ਇਸ ਲਈ ਇਹ ਸਟ੍ਰੀਮ ਜਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।"
+    },
+    {
+      "name": "start",
+      "value": "ਸ਼ੁਰੂ ਕਰੋ"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "ਯੂਰਪੀਅਨ ਜਨਰਲ ਡੇਟਾ ਪ੍ਰੋਟੈਕਸ਼ਨ ਰੈਗੂਲੇਸ਼ਨ (ਜੀਡੀਪੀਆਰ) ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ, ਅਸੀਂ ਤੁਹਾਡਾ ਧਿਆਨ ਨਿਊਪਾਈਪ ਦੀ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਵੱਲ ਖਿੱਚਦੇ ਹਾਂ। ਕਿਰਪਾ ਕਰਕੇ ਇਸਨੂੰ ਧਿਆਨ ਨਾਲ ਪੜ੍ਹੋ।\nਸਾਨੂੰ ਨੁਕਸ ਰਿਪੋਰਟ ਭੇਜਣ ਲਈ ਤੁਹਾਨੂੰ ਇਸ ਨੂੰ ਸਵੀਕਾਰ ਕਰਨਾ ਹੋਵੇਗਾ।"
+    },
+    {
+      "name": "start_downloads",
+      "value": "ਡਾਊਨਲੋਡ ਸ਼ੁਰੂ ਕਰੋ"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "ਬੈਕਗ੍ਰਾਊਂਡ ਵਿੱਚ ਚਲਾਉਣਾ ਸ਼ੁਰੂ ਕਰੋ"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "ਪੌਪ-ਅਪ ਵਿੱਚ ਚਲਾਉਣਾ ਸ਼ੁਰੂ ਕਰੋ"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "ਮਿੰਨੀ ਪਲੇਅਰ ਵਿੱਚ ਵੀਡੀਓ ਸ਼ੁਰੂ ਨਾਂ ਕਰੋ ਬਲਕਿ ਜੇ ਆਟੋ-ਰੋਟੇਸ਼ਨ ਲਾਕ ਹੈ ਤਾਂ ਸਿੱਧਾ ਫੁੱਲ ਸਕਰੀਨ ਵਿੱਚ ਚਲਾਓ। ਤੁਸੀਂ ਫਿਰ ਵੀ ਫੁੱਲ ਸਕ੍ਰੀਨ ਤੋਂ ਬਾਹਰ ਆਕੇ ਮਿੰਨੀ-ਪਲੇਅਰ ਤੱਕ ਰਸਾਈ ਹਾਸਿਲ ਕਰ ਸਕਦੇ ਹੋ"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "ਮੇਨ ਪਲੇਅਰ ਫੁੱਲ ਸਕਰੀਨ ਵਿੱਚ ਸ਼ੁਰੂ ਕਰੋ"
+    },
+    {
+      "name": "stop",
+      "value": "ਰੋਕੋ"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "ਜਿਹੜੀਆਂ ਸਟ੍ਰੀਮਾਂ ਦਾ ਹਾਲੇ ਐਪ ਡਾਊਨਲੋਡ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦੀ ਉਹ ਛੁਪਾ ਦਿੱਤੀਆਂ ਗਈਆਂ ਹਨ"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "ਸਬਸਕ੍ਰਿਪਸ਼ਨਜ਼ ਦੇ ਨਵੀਂ ਸਟ੍ਰੀਮ ਦੇ ਨੋਟੀਫਿਕੇਸ਼ਨ"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "ਨਵੀਂਆਂ ਸਟ੍ਰੀਮਾਂ"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "ਜਾਂਚ ਅਵਧੀ"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "ਨੈੱਟਵਰਕ ਦੀ ਕਿਸਮ"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "ਸਬਸਕ੍ਰਾਈਬ ਕਰੋ"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "ਸਬਸਕ੍ਰਾਈਬ ਹੈ"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "ਸਬਸਕ੍ਰਾਈਬਰਾਂ ਦੀ ਗਿਣਤੀ ਅਣ-ਉਪਲਬਧ"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਨੂੰ ਬਦਲਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਅਪਡੇਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "ਸਬਸਕ੍ਰਿਪਸ਼ਨਾਂ ਐਕਸਪੋਰਟ ਨਹੀਂ ਹੋ ਸਕੀਆਂ"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "ਸਬਸਕ੍ਰਿਪਸ਼ਨਾਂ ਇੰਪੋਰਟ ਨਹੀਂ ਹੋ ਸਕੀਆਂ"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "ਹੱਲ ਹੋਣ 'ਤੇ \"ਹੋ ਗਿਆ\" ਨੱਪੋ"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "ਬੈਕਗ੍ਰਾਊਂਡ ਮੋਡ ਵਿੱਚ ਚਲਾਓ"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "ਮੇਨ ਤੇ ਚਲਾਓ"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "ਪੌਪ-ਅਪ ਮੋਡ ਵਿੱਚ ਚਲਾਓ"
+    },
+    {
+      "name": "systems_language",
+      "value": "ਸਿਸਟਮ ਡਿਫ਼ਾਲਟ"
+    },
+    {
+      "name": "tab_about",
+      "value": "ਐਪ ਬਾਰੇ ਤੇ ਆਮ ਸਵਾਲ"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "ਬੁੱਕਮਾਰਕ ਕੀਤੀਆਂ ਪਲੇਲਿਸਟਾਂ"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "ਪਲੇਲਿਸਟਾਂ"
+    },
+    {
+      "name": "tab_choose",
+      "value": "ਟੈਬ ਚੁਣੋ"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "ਲਾਇਸੈਂਸ"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "ਸਬਸਕ੍ਰਿਪਸ਼ਨਜ਼"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "ਟੈਬਲੇਟ ਮੋਡ"
+    },
+    {
+      "name": "theme_title",
+      "value": "ਥੀਮ"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "ਚਿੱਤਰ ਕੈਸ਼ ਮਿਟਾਇਆ ਗਿਆ"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "ਨਿਊਪਾਈਪ ਬਾਰੇ ਵਿੱਚ ਜਾਣੋ"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "ਇਤਿਹਾਸ"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "ਪਲੇਅ ਕਤਾਰ"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "ReCaptcha ਚੁਣੌਤੀ"
+    },
+    {
+      "name": "title_last_played",
+      "value": "ਆਖਰੀ ਚਲਾਈ ਗਈ"
+    },
+    {
+      "name": "title_licenses",
+      "value": "ਤੀਜੀ-ਧਿਰ ਦੇ ਲਾਇਸੈਂਸ"
+    },
+    {
+      "name": "title_most_played",
+      "value": "ਸਭ ਤੋਂ ਜਿਆਦਾ ਚਲਾਈ ਗਈ"
+    },
+    {
+      "name": "toggle_all",
+      "value": "ਸਭ ਨੂੰ ਟੌਗਲ ਕਰੋ"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "ਫੁੱਲ ਸਕ੍ਰੀਨ ਨੂੰ ਟੌਗਲ ਕਰੋ"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "ਸਕ੍ਰੀਨ ਸਥਿਤੀ ਨੂੰ ਟੌਗਲ ਕਰੋ"
+    },
+    {
+      "name": "top_50",
+      "value": "ਸਿਖਰਲੇ 50"
+    },
+    {
+      "name": "tracks",
+      "value": "ਟਰੈਕਸ"
+    },
+    {
+      "name": "trending",
+      "value": "ਫਿਲਹਾਲ ਰੁਝਾਨ ਵਿੱਚ ਹੈ"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "ਗੇਮਿੰਗ ਟ੍ਰੈਂਡਸ"
+    },
+    {
+      "name": "trending_movies",
+      "value": "ਟਰੈਂਡਿੰਗ ਫ਼ਿਲਮਾਂ ਅਤੇ ਸ਼ੋਅ"
+    },
+    {
+      "name": "trending_music",
+      "value": "ਟਰੈਂਡਿੰਗ ਸੰਗੀਤ"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "ਟ੍ਰੈਂਡਿੰਗ ਪੌਡਕਾਸਟ"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "ਬੁੱਕਮਾਰਕ ਹਟਾਓ"
+    },
+    {
+      "name": "undo",
+      "value": "ਅਣ-ਕੀਤਾ ਕਰੋ"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "ਅਲਹਿਦਾ ਕਰੋ (ਵਿਗਾੜ ਪੈ ਸਕਦਾ ਹੈ)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "ਅਗਿਆਤ"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[ਅਣਜਾਣ]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "ਅਗਿਆਤ ਫਾਰਮੈਟ"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "ਅਗਿਆਤ ਕੁਆਲਿਟੀ"
+    },
+    {
+      "name": "unmute",
+      "value": "ਅਵਾਜ਼ ਚਾਲੂ ਕਰੋ"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "ਸਥਾਈ ਥੰਮਨੇਲ ਨੂੰ ਅਨਸੈੱਟ ਕਰੋ"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "ਅਨ-ਸਬਸਕ੍ਰਾਈਬ ਕਰੋ"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "ਇਹ ਸਮੱਗਰੀ ਵਰਤਮਾਨ ਵਿੱਚ ਚੁਣੇ ਗਏ ਦੇਸ਼ ਦੀ ਸਮੱਗਰੀ ਲਈ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।\n\n\"ਸੈਟਿੰਗਾਂ > ਸਮੱਗਰੀ > ਡਿਫ਼ਾਲਟ ਸਮੱਗਰੀ ਦੇਸ਼\" ਤੋਂ ਆਪਣੀ ਚੋਣ ਬਦਲੋ।"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "ਅਣ-ਸਹਾਇਕ URL"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "URL ਪਛਾਣ ਨਹੀਂ ਹੋਇਆ। ਕਿਸੇ ਹੋਰ ਐਪ ਨਾਲ਼ ਖੋਲ੍ਹਣਾ ਹੈ?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "ਜਦੋਂ ਐਪ ਦੀ ਨਵੀਂ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੋਵੇ ਤਾਂ ਅੱਪਡੇਟ ਕਰਨ ਵਾਸਤੇ ਨੋਟੀਫਿਕੇਸ਼ਨ ਵਿਖਾਓ"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "ਅੱਪਡੇਟਾਂ"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "%1$s ਨੂੰ ਪ੍ਰਕਾਸ਼ਿਤ ਹੋਇਆ"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "ਇਹ ਆਪਸ਼ਨ ਨੂੰ ਇਨੇਬਲ ਕਰੋ ਜੇ ਤੁਹਾਨੂੰ ਡੀਕੋਡਰ ਸ਼ੁਰੂ ਕਰਨ ਦੀਆਂ ਸਮੱਸਿਆਵਾਂ ਹਨ, ਜੋ ਪ੍ਰਾਇਮਰੀ ਡੀਕੋਡਰਾਂ ਦੀ ਸ਼ੁਰੂਆਤ ਅਸਫਲ ਹੋਣ ਤੇ ਹੇਠਲੇ-ਪ੍ਰਾਥਮਿਕਤਾ ਡੀਕੋਡਰਾਂ 'ਤੇ ਵਾਪਸ ਲੈ ਜਾਂਦੀ ਹੈ। ਇਸ ਨਾਲ ਪ੍ਰਾਇਮਰੀ ਡੀਕੋਡਰਾਂ ਦੀ ਤੁਲਨਾ ਮਾੜੀ ਪਲੇਅਬੈਕ ਕਾਰਗੁਜ਼ਾਰੀ ਹੋ ਸਕਦੀ ਹੈ"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "AVPlayer ਦੀ ਡੀਕੋਡਰ ਫਾਲਬੈਕ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "ਬਾਹਰੀ ਆਡੀਓ ਪਲੇਅਰ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "ਕੁਝ ਰੈਜ਼ੋਲਿਊਸ਼ਨਾਂ 'ਤੇ ਆਵਾਜ਼ ਹਟ ਸਕਦੀ ਹੈ"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "ਬਾਹਰੀ ਵੀਡੀਓ ਪਲੇਅਰ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "ਅਣਸਟੀਕ ਭਾਲ ਨਾਲ ਪਲੇਅਰ ਘੱਟ ਸਟੀਕਤਾ ਦੇ ਪਰ ਅਧਿਕ ਤੇਜ਼ੀ ਨਾਲ ਵੀਡੀਓ ਸਥਿੱਤੀਆਂ ਦੀ ਤਲਾਸ਼ ਕਰ ਸਕਦਾ ਹੈ । ਇਸ ਨਾਲ ਅੱਗੇ-ਪਿੱਛੇ 5, 15 ਜਾਂ 25 ਸਕਿੰਟ ਲਿਜਾਣਾ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "ਤੇਜ਼ ਤੇ ਅਣਸਟੀਕ ਭਾਲ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+    },
+    {
+      "name": "users",
+      "value": "ਯੂਜ਼ਰਸ"
+    },
+    {
+      "name": "video",
+      "value": "ਵੀਡੀਓ"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "%s ਦੁਆਰਾ"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "ਵੀਡੀਓ ਪਲੇਅਰ"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "ਕੋਈ ਵੀਡੀਓ ਸਟ੍ਰੀਮ ਨਹੀਂ ਮਿਲੀ"
+    },
+    {
+      "name": "videos_string",
+      "value": "ਵੀਡੀਓ"
+    },
+    {
+      "name": "view_on_github",
+      "value": "GitHub 'ਤੇ ਵੇਖੋ"
+    },
+    {
+      "name": "volume",
+      "value": "ਆਵਾਜ਼"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "ਵੇਖੀਆਂ ਸਟ੍ਰੀਮਾਂ ਦੀ ਇਤਿਹਾਸ ਸੂਚੀ ਨੂੰ ਮਿਟਾ ਦਿੱਤਾ ਗਿਆ"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "ਪਲੇਅਬੈਕ ਸਥਿਤੀਆਂ ਨੂੰ ਮਿਟਾ ਦਿੱਤਾ ਗਿਆ"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "ਵਧੇਰੇ ਜਾਣਕਾਰੀ ਅਤੇ ਖ਼ਬਰਾਂ ਲਈ ਨਿਊਪਾਈਪ ਵੈੱਬਸਾਈਟ ਵੇਖੋ।"
+    },
+    {
+      "name": "website_title",
+      "value": "ਵੈੱਬਸਾਈਟ"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "ਜਾਣਕਾਰੀ:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "ਕੀ ਹੋਇਆ ਹੈ:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "ਸਿਰਫ਼ ਵਾਈ-ਫ਼ਾਈ 'ਤੇ"
+    },
+    {
+      "name": "yes",
+      "value": "ਹਾਂ"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "ਤੁਸੀਂ ਇਸ ਚੈਨਲ ਨੂੰ ਸਬਸਕ੍ਰਾਈਬ ਕਰ ਲਿਆ ਹੈ"
+    },
+    {
+      "name": "your_comment",
+      "value": "ਤੁਹਾਡੀ ਟਿੱਪਣੀ (ਅੰਗਰੇਜ਼ੀ ਵਿਚ):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "ਇਹ ਵੀਡੀਓ ਸਿਰਫ਼ ਯੂਟਿਊਬ ਮਿਊਜ਼ਿਕ ਦੇ ਪ੍ਰੀਮੀਅਮ ਮੈਂਬਰਾਂ ਲਈ ਉਪਲਬਧ ਹੈ, ਇਸ ਕਰਕੇ ਨਿਊ-ਪਾਈਪ ਦੁਆਰਾ ਚਲਾਈ ਜਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ।"
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "ਪਲੇਅ ਕਰਦੇ ਸਮੇਂ ਸਰਵਰ ਤੋਂ HTTP error 403 ਪ੍ਰਾਪਤ ਹੋਇਆ, ਜੋ ਸ਼ਾਇਦ IP ਬੈਨ ਜਾਂ ਸਟ੍ਰੀਮਿੰਗ URL ਡੀਔਬਫਸਕੇਸ਼ਨ ਸਮੱਸਿਆਵਾਂ ਕਾਰਨ ਹੋਈ ਹੈ"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "ਯੂਟਿਊਬ \"ਪਾਬੰਦੀਸ਼ੁਦਾ ਮੋਡ\" ਉਪਲਬਧ ਕਰਾਉਂਦਾ ਹੈ ਜੋ ਬਾਲਗਾਂ ਵਾਲ਼ੀ ਸਮੱਗਰੀ ਲੁਕਾਉਂਦਾ ਹੈ"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "ਯੂਟਿਊਬ ਦਾ ਪਾਬੰਦੀਸ਼ੁਦਾ ਮੋਡ ਚਾਲੂ ਕਰੋ"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

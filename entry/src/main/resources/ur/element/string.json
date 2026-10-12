@@ -1,0 +1,2104 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "قبول"
+    },
+    {
+      "name": "action_history",
+      "value": "سرگزشت"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "پلے لسٹ میں شامل"
+    },
+    {
+      "name": "albums",
+      "value": "البم"
+    },
+    {
+      "name": "all",
+      "value": "تمام"
+    },
+    {
+      "name": "always",
+      "value": "ہمیشہ"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "ہمیشہ اجازت لیں"
+    },
+    {
+      "name": "app_description",
+      "value": "HarmonyOS پر لِبرے کی ہلکی اسٹریمنگ۔"
+    },
+    {
+      "name": "app_license",
+      "value": "نیو پائپ کاپی لیفٹ فری سافٹ ویئر ہے: آپ استعمال، مطالعہ، شیئر اور اپنی مرضی سے اسے بہتر بنا سکتے ہیں۔ خاص طور پر آپ اسے مفت سافٹ ویئر فاؤنڈیشن کے ذریعہ شائع کردہ GNU جنرل پبلک لائسنس کی شرائط کے تحت دوبارہ تقسیم اور/یا ترمیم کرسکتے ہیں، خواہ لائسنس کا ورژن 3، یا (آپ کے اختیار پر) کسی بھی بعد کا ورژن میں۔"
+    },
+    {
+      "name": "app_license_title",
+      "value": "نیو پائپ کا لائسنس"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "ایپ/UI تباہ"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "نیو پائپ کی تازہ کاری دستیاب!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "جدید نیو پائپ ورژن کے لیے اطلاعات"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "ایپ اَپ ڈیٹ کی اطلاع"
+    },
+    {
+      "name": "artists",
+      "value": "کردار"
+    },
+    {
+      "name": "audio",
+      "value": "آڈیو"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "کوئی آڈیو سلسلے نہیں ملے"
+    },
+    {
+      "name": "audio_track",
+      "value": "آڈیو ٹریک"
+    },
+    {
+      "name": "auto",
+      "value": "خودکار"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "متعلقہ سلسلے کو جوڑ کر پلے بیک کی قطار کو اختتام تک (نہ دہراتے ہوئے) جاری رکھیں"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "اگلی اسٹریم خود قطار"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "خود کار قطار"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "آٹوپلے"
+    },
+    {
+      "name": "background_player",
+      "value": "پس منظر پلیئر"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "پس منظر میں چلائیں"
+    },
+    {
+      "name": "best_resolution",
+      "value": "بہترین ریزولوشن"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "سیاہ"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "خالی صفحہ"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "پلے لسٹ کو نشان زد کریں"
+    },
+    {
+      "name": "brightness",
+      "value": "چمک"
+    },
+    {
+      "name": "cancel",
+      "value": "منسوخ کریں"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "خود بخود تیار"
+    },
+    {
+      "name": "caption_none",
+      "value": "کوئی عنوانات نہیں"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "پلیئر کیپشن ٹیکسٹ اسکیل اور بیک گراونڈ اسٹائل میں ترمیم کریں۔ اثر لینے کیلئے ایپ کو دوبارہ شروع کرنا ضروری ہے۔"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "عنوانات"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "چینل کا صفحہ"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "چینل کی رکنیت ختم کردی گئی"
+    },
+    {
+      "name": "channels",
+      "value": "چینلز"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "حروف اور ہندسے"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "اہم مخصوص حروف"
+    },
+    {
+      "name": "checksum",
+      "value": "تشخیص کریں"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "ایک مثال منتخب کریں"
+    },
+    {
+      "name": "clear",
+      "value": "صاف"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "ان کوکیز کو صاف کریں جنہیں نیو پائپ ری کیپچا حل کرنے کے دوران جمع کرتا ہے"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "ری کیپچا کوکیز کو صاف کریں"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "ڈاؤن لوڈ کی سرگزشت صاف کریں"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "تمام پلے بیک پوزیشن حذف کی گئی"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "پلے بیک پوزیشن حذف کریں"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "فعال پلیئر کی قطار تبدیل کردی جائے گی"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "ایک پلئیر سے دوسرے میں تبدیل ہونا آپ کی قطار بدل سکتا ہے"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "قطار صاف کرنے سے پہلے تصدیق کے لئے پوچھیں"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "تلاش کے الفاظ کی سرگزشت حذف کی گئیں"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "تلاش کی سرگزشت مٹائیں"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "چلائے گئے سلسلوں اور پلے بیک پوزیشنز کی سرگزشت کو حذف کیا گیا"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "دیکھنے کی سرگزشت صاف کریں"
+    },
+    {
+      "name": "close",
+      "value": "بند کریں"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "تبصرے غیر فعال ہیں"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "تبصرے"
+    },
+    {
+      "name": "conferences",
+      "value": "کانفرنسیں"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "کیا آپ اپنی ڈاؤن لوڈ کی سرگزشت کو صاف کرنا چاہتے ہیں یا ڈاؤن لوڈ کی گئی تمام فائلوں کو حذف کرنا چاہتے ہیں؟"
+    },
+    {
+      "name": "content",
+      "value": "مشمول"
+    },
+    {
+      "name": "content_language_title",
+      "value": "مشمولات کی طےشدہ زبان"
+    },
+    {
+      "name": "content_not_available",
+      "value": "مواد دستیاب نہیں ہے"
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "جو بھی آپ کے خیالات ہوں؛ ترجمہ، ڈیزائن میں تبدیلیاں، کوڈ کی درستی، یا حقیقتاً کوڈ میں بڑی تبدیلی—مدد کا ہمیشہ خیرمقدم ہے۔ جتنا زیادہ ہوگا اتنی ہی بہتری ہو گی!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "تعاون کریں"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "شامل کریں"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "پس منظر"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "اسٹریم فائل ڈاؤن لوڈ کریں"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "پوپ اپ"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "فارمیٹڈ رپورٹ کو کاپی کریں"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s بذریعہ %2$s %3$s کے تحت"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "انتباہ: تمام فائلوں کو درآمد نہیں کیا جاسکا۔"
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "تمام نظرِ انگشتی لوڈ نہیں کر سکے"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "ڈاؤن لوڈ مینو ترتیب نہیں دے سکتے"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "ویڈیو پلیئر کو کریش کریں"
+    },
+    {
+      "name": "create",
+      "value": "بنانا"
+    },
+    {
+      "name": "create_playlist",
+      "value": "نئی پلے لسٹ"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "تاریک"
+    },
+    {
+      "name": "decline",
+      "value": "رد"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "طے شدہ آڈیو فارمیٹ"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "مشمولات کا طے شدہ ملک"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "طے شدہ کیوسک"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "طے شدہ پوپ اپ ریزولوشن"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "طے شدہ ریزولوشن"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "طے شدہ وڈیو فارمیٹ"
+    },
+    {
+      "name": "delete",
+      "value": "حذف کریں"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "ڈاؤن لوڈ شدہ فائلیں حذف کریں"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "کیا آپ اس آئٹم کو تلاش کی سرگزشت سے حذف کرنا چاہتے ہیں؟"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "تمام پلے بیک پوزیشنس حذف کریں؟"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "کیا یہ پلے لسٹ حذف کریں؟"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "تلاش کی مکمل سرگزشت حذف کریں؟"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "دیکھے جانے کی تمام سرگزشت حذف کریں؟"
+    },
+    {
+      "name": "description_tab_description",
+      "value": "‪تفصیل"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "ناپسندیدگی"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "دوبارہ ترتیب دینے کیلئے کھینچں"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "پسندیدگی"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "ویڈیو چلائیں، دورانیہ:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "اپ لوڈر کا اوتار نظرِ انگشتی"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "کیا آپ کا مطلب یہ ہے؟: %1$s"
+    },
+    {
+      "name": "disabled",
+      "value": "غیر فعال"
+    },
+    {
+      "name": "dismiss",
+      "value": "برخاست کریں"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "نیو پائپ رضاکاروں کے ذریعہ تیار کیا گیا ہے جو آپ کو بہترین تجربہ فراہم کرنے میں وقت صرف کرتے ہیں۔ ایک کپ کافی سے لطف اندوز ہوتے ہوئے ڈویلپرز کو نیو پائپ کو اور بہتر بنانے میں بہتر تعاون کریں"
+    },
+    {
+      "name": "donation_title",
+      "value": "عطیہ"
+    },
+    {
+      "name": "done",
+      "value": "Done"
+    },
+    {
+      "name": "download",
+      "value": "ڈاؤن لوڈ"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "اس نام کے ساتھ ڈاؤن لوڈ زیر التوا ہے"
+    },
+    {
+      "name": "download_already_running",
+      "value": "اس نام کے ساتھ ایک ڈاؤن لوڈ جاری ہے"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "ڈاؤن لوڈ"
+    },
+    {
+      "name": "download_failed",
+      "value": "ڈاؤن لوڈ ناکام"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "آڈیو فائلوں کے لئے ڈاؤن لوڈ فولڈر کا انتخاب کریں"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "ڈاؤن لوڈ کی گئی آڈیو فائلیں یہاں محفوظ ہیں"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "آڈیو ڈاؤن لوڈ فولڈر"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "ویڈیو فائلوں کے لئے ڈاؤن لوڈ فولڈر کا انتخاب کریں"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "ڈاؤن لوڈ کی گئی ویڈیو فائلیں یہاں محفوظ ہیں"
+    },
+    {
+      "name": "download_path_title",
+      "value": "ویڈیو ڈاؤن لوڈ فولڈر"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "بیرونی ایسڈی کارڈ پر ڈاؤن لوڈ ممکن نہیں۔ ڈاؤن لوڈ فولڈر کے مقام کو دوبارہ ترتیب دیں؟"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "بیرونی ذخیرہ دستیاب نہیں"
+    },
+    {
+      "name": "downloads",
+      "value": "ڈاؤن لوڈز"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "ہر ڈاؤن لوڈ کو کہاں محفوظ کرنا ہے آپ سے پوچھا جائے گا"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "ڈاؤن لوڈ کہاں کریں، پوچھیں"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "اسٹوریج ایکسیس فریم ورک ایک بیرونی SD کارڈ میں ڈاؤن لوڈ کی اجازت دیتا ہے۔\n\nنوٹ: کچھ آلات مطابقت نہیں رکھتے ہیں"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "SAF استعمال کریں"
+    },
+    {
+      "name": "downloads_title",
+      "value": "ڈاؤن لوڈز"
+    },
+    {
+      "name": "drawer_close",
+      "value": "دراز بند کریں"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "ٹوگل خدمت، حالیہ منتخب:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "دراز کھولیں"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "جو پلے لسٹس سُرمئی ہو چکے ہیں ان میں یہ آئٹم پہلے سے موجود ہے۔"
+    },
+    {
+      "name": "duration_live",
+      "value": "براہ راست"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "یہاں کچھ نہیں سوائے میرے"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "فریگمنٹ یا دائرۂ حیات کی سر گرمی کے بعد Rx پیغامات نہ پہنچایا جا سکے تو ضرور کوشش کریں"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "گردشِ حیات سے دوری کی غلطیوں کی اطلاع دیں"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "میموری لیک ہونے کی مانیٹرنگ، ہیپ ڈمپنگ کے وقت ایپ کو غیرذمہ دار بننے کا باعث بن سکتی ہے"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "آخری پلے بیک پوزیشن بحال کریں"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "پلے بیک دوبارہ شروع کریں"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "فہرستوں میں پلے بیک مقامات کے اشارے دکھائیں"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "فہرست میں مقامات"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "ڈاؤن لوڈ کی قطار کو محدود کریں"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "ایک ڈاؤن لوڈ ایک ہی وقت میں چلے گا"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "تلاش کے استفسارات کو مقامی طور پر ذخیرہ کریں"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "سرگزشت تلاش کریں"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "دیکھی گئی ویڈیوز کی سرگزشت رکھیں"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "دیکھے جانے کی سرگزشت"
+    },
+    {
+      "name": "enqueue",
+      "value": "قطار"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "اگلے کو قطار میں کریں"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "قطار میں"
+    },
+    {
+      "name": "enqueued",
+      "value": "قطار میں شامل ہوا"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "اگلا قطار میں کیا گیا"
+    },
+    {
+      "name": "error_connect_host",
+      "value": "سرور سے متصل نہیں ہو سکتا"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "تفصیلات:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "یہ ڈاؤن لوڈ بازیافت نہیں ہو سکتا"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "فائل نہیں بنائی جاسکتی ہے"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "سرور ڈیٹا نہیں بھیجتا ہے"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "نہیں ملا"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "سرور ملٹی تھریڈڈ ڈاؤن لوڈز کو قبول نہیں کرتا ہے، @string/msg_threads = 1 کے ساتھ دوبارہ کوشش کریں"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "آلہ میں کوئی جگہ نہیں بچی"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "ایک خامی پیش آگئی: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "مطلوبہ فولڈر نہیں بنایا جا سکتا"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "بعد کا عمل نا کام"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "فائل پر کام کرنے کے دوران نیو پائپ بند کردی گئی تھی"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "پیشرفت ختم ہوگئی، کیونکہ فائل کو حذف کردیا گیا تھا"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "ای میل کے ذریعے اطلاع دیں"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "خرابیوں کی اطلاع کی نوٹیفیکیشنس"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "خرابی کی اطلاع کا نوٹیفکیشن"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe کو ایک خرابی کا سامنا کرنا پڑا، رپورٹ کرنے کے لیے ٹیپ کریں"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "ایک خرابی پیش آگئی، نوٹیفکیشن دیکھیں"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "براہ کرم چیک کریں کہ آیا آپ کے کریش پر بحث کرنے والا مسئلہ پہلے سے موجود ہے۔ ڈپلیکیٹ ٹکٹ بناتے وقت آپ ہم سے وقت لیتے ہیں، جو ہم اصل مسئلے کو ٹھیک کرنے میں صرف کرتے ہیں۔"
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "گِٹ ہب میں اطلاع دیں"
+    },
+    {
+      "name": "error_report_title",
+      "value": "خرابی کی اطلاع"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "رپورٹ کریں"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "معذرت، کچھ غلط ہوا۔"
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "محفوظ کنکشن ناکام"
+    },
+    {
+      "name": "error_timeout",
+      "value": "رابطے کا وقت ختم"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "تبصرے لوڈ نہیں ہو سکے"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "سرور نہیں مل سکا"
+    },
+    {
+      "name": "events",
+      "value": "تقریبات"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "برآمد شدہ"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "سرگزشت، رکنیتیں اور پلے لسٹ برآمد کریں"
+    },
+    {
+      "name": "export_data_title",
+      "value": "ڈیٹا بیس برآمد کریں"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "بر آمد کر رہا ہے…"
+    },
+    {
+      "name": "export_to",
+      "value": "کو بر آمد کریں"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "بیرونی پلیئر اس قسم کے روابط کی حمایت نہیں کرتے"
+    },
+    {
+      "name": "faq",
+      "value": "ویب سائٹ پر دیکھیں"
+    },
+    {
+      "name": "faq_description",
+      "value": "اگر آپ کو یہ ایپ استعمال کرنے میں دشواری آ رہی ہو تو ان عام سوالات کے جوابات کو ضرور دیکھیں!"
+    },
+    {
+      "name": "faq_title",
+      "value": "زیادہ تر پوچھے گئے سوالات"
+    },
+    {
+      "name": "fast_mode",
+      "value": "فاسٹ موڈ"
+    },
+    {
+      "name": "file",
+      "value": "فائل"
+    },
+    {
+      "name": "file_deleted",
+      "value": "فائل حذف ہوگئی"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "فائل کا نام ضروری ہے"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "نیا کیا ہے"
+    },
+    {
+      "name": "general_error",
+      "value": "خرابی"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "منفرد نام بنائیں"
+    },
+    {
+      "name": "give_back",
+      "value": "بدلہ دیں"
+    },
+    {
+      "name": "grid",
+      "value": "گرڈ"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "ویڈیو ہیسنگ پیشرفت کے لئے اطلاعات"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "ویڈیو ہیش اطلاع"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "انقطار کو پکڑو"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "کار آمد، مثلاً، اگر آپ ہیڈسیٹ ٹوٹے ہوئے فزیکل بٹن کے ساتھ استعمال کر رہے ہیں"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "ہارڈ ویئر میڈیا بٹن کے واقعات کو نظر انداز کریں"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "درآمدشدہ"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "اپنی موجودہ سرگزشت، رکنیت، پلے لسٹ اور ترتیبات (اختیاری) مٹائیں"
+    },
+    {
+      "name": "import_data_title",
+      "value": "ڈیٹا بیس درآمد کریں"
+    },
+    {
+      "name": "import_file_title",
+      "value": "فائل در آمد کریں"
+    },
+    {
+      "name": "import_from",
+      "value": "سے درآمد کریں"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "اس بات کو ذہن میں رکھیں کہ اس عملیہ کا نیٹ ورک مہنگا ہو سکتا ہے۔\n\n\n\nکیا آپ جاری رکھنا چاہتے ہیں ؟"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "در آمد کیا جا رہا ہے…"
+    },
+    {
+      "name": "import_settings",
+      "value": "کیا آپ ترتیبات بھی درآمد کرنا چاہتے ہیں؟"
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "۔URL یا آپ کی ID ٹائپ کرکے ایک SoundCloud پروفائل درآمد کریں: \n\n \n\n1. ویب براؤزر میں \"ڈیسک ٹاپ موڈ\" کو فعال کریں (یہ سائٹ موبائل آلات کے لئے دستیاب نہیں ہے) \n\n2. اس URL پر جائیں:\n\n%1$s \n\n3. جب پوچھا جائے تو لاگ ان کریں \n\n4. پروفائل URL کاپی کریں جہاں تک آپ کی رہنمائی کی گئی تھی۔"
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "آپ کی آئی ڈی، soundcloud.com/yourid"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "3-ڈاٹ مینو سے سبسکرپشن درآمد یا برآمد کریں"
+    },
+    {
+      "name": "import_title",
+      "value": "در آمد"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "برآمد فائل کو ڈاؤن لوڈ کرکے YouTube کی رکنیت کو درآمد کریں: \n\n \n\n1. اس URL پر جائیں:\n\n%1$s \n\n2. جب پوچھا جائے تو لاگ ان کریں \n\n3. ڈاؤن لوڈ شروع ہونا چاہئے (یہ برآمد فائل ہے)"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ ویڈیوز"
+    },
+    {
+      "name": "info_labels",
+      "value": "کیا ہوا:\nدرخواست:\nمواد کی زبان:\nملک:\nایپ کی زبان:\nسروس:\nجی ایم ٹٰ:\nوقت:\nپیکیج:\nورژن:\nآپریٹنگ سسٹم ورزن:"
+    },
+    {
+      "name": "install",
+      "value": "انسٹال"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "ایسا کوئی فولڈر نہیں"
+    },
+    {
+      "name": "invalid_file",
+      "value": "فائل موجود نہیں ہے یا اسے پڑھنے یا لکھنے کی اجازت کا فقدان ہے"
+    },
+    {
+      "name": "invalid_source",
+      "value": "ایسی کوئی فائل/مواد کا ذریعہ نہیں"
+    },
+    {
+      "name": "just_once",
+      "value": "صرف ایک بار"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "رجحان صفحہ"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "لاپتہ کوری ایپ کو انسٹال کریں؟"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "پلیئر اسکرین کے بائیں نصف حصے کے لئے اشارے کا انتخاب کریں"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "بائیں اشارے کی کارروائی"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "روشن"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "لا محدود"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "موبائل ڈیٹا کا استعمال کرتے وقت ریزولوشن کو محدود کریں"
+    },
+    {
+      "name": "list",
+      "value": "فہرست"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "فہرست نما اسلوب"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "اسٹریم کی تفصیلات لوڈ کر رہے ہیں…"
+    },
+    {
+      "name": "local",
+      "value": "مقامی"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "مقامی تلاش کی سفارشات"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "شروع کرنے کے لیے \"کلاں نما شیشہ\" پر ٹیپ کریں"
+    },
+    {
+      "name": "main_page_content",
+      "value": "مرکزی صفحہ کا مواد"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "مرکزی صفحہ پر کون کون سے ٹیبز دکھائے جاہیں"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "آئٹمز کو ہٹانے کے لیے سوائپ کریں"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "مین ٹیب سلیکٹر کو نیچے منتقل کریں"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "مین ٹیب کی پوزیشن"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "دیکھے ہوئے کو نشان لگائیں"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "ڈاؤن لوڈ منسوخ کرنے سے پہلے کوششوں کی زیادہ سے زیادہ تعداد"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "زیادہ سے زیادہ کوششیں"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "میٹا ڈیٹا کیشے کی صفائی ہوئی"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "ویب پیج کے سبھی کیشے ڈیٹا کو ہٹا دیں"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "کیشے میٹا ڈیٹا کو صاف کریں"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "پس منظر پلیئر میں کم کریں"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "کوئی نہیں"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "پاپ اپ پلیئر میں کم کریں"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "اصل ویڈیو پلیئر سے دوسرے ایپ میں تبدیل ہوتے وقت کارروائی — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "ایپ بدلنے پر چھوٹا کریں"
+    },
+    {
+      "name": "missing_file",
+      "value": "فائل منتقل یا حذف ہوگئی"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "ختم"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "ملتوی"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100 سے زائد ویڈیو"
+    },
+    {
+      "name": "most_liked",
+      "value": "زیادہ پسندیدہ"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "ہیش کا حساب لگا رہے ہیں"
+    },
+    {
+      "name": "msg_copied",
+      "value": "کلپ بورڈ میں نقل ہوا"
+    },
+    {
+      "name": "msg_error",
+      "value": "خرابی"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "کلپ بورڈ میں کاپی کرنے میں ناکام"
+    },
+    {
+      "name": "msg_name",
+      "value": "فائل کا نام"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "پوپ اپ موڈ میں کھولنے کیلئے اس اجازت کی ضرورت ہے"
+    },
+    {
+      "name": "msg_running",
+      "value": "نیو پائپ ڈاؤن لوڈ ہو رہا ہے"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "تفصیلات کے لیے ٹیپ کریں"
+    },
+    {
+      "name": "msg_threads",
+      "value": "موضوعات"
+    },
+    {
+      "name": "msg_wait",
+      "value": "براۓ مہربانی انتظار کريں…"
+    },
+    {
+      "name": "mute",
+      "value": "خاموش"
+    },
+    {
+      "name": "name",
+      "value": "نام"
+    },
+    {
+      "name": "network_error",
+      "value": "نیٹ ورک کی خرابی"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "نیا اور تازہ"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "نائٹ تھیم"
+    },
+    {
+      "name": "no",
+      "value": "نہیں"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "براہ کرم بعد میں ترتیبات میں ڈاؤن لوڈ فولڈر کی وضاحت رکھیں"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "اب تک چینل کی رکنیت نہیں"
+    },
+    {
+      "name": "no_comments",
+      "value": "کوئی تبصرہ نہیں"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "ابھی تک کوئی ڈاؤن لوڈ فولڈر سیٹ نہیں ہے، ابھی ڈیفالٹ ڈاؤن لوڈ فولڈر کا انتخاب کریں"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "کوئی نہیں سن رہا ہے"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "کوئی نہیں دیکھ رہا ہے"
+    },
+    {
+      "name": "no_player_found",
+      "value": "کوئی اسٹریم پلیئر نہیں ملا۔ کیا آپ VLC انسٹال کرنا چاہتے ہیں؟"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "کوئی اسٹریم پلیئر نہیں ملا (آپ VLC انسٹال کر سکتے ہیں)۔"
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "ابھی تک کوئی پلے لسٹ بک مارکس نہیں ہے"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "کوئی سلسلسہ ڈاؤن لوڈ کرنے کے لئے دستیاب نہیں"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "کوئی صارفین نہیں"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "درست زپ فائل نہیں ہے"
+    },
+    {
+      "name": "no_videos",
+      "value": "ویڈیوز دستیاب نہیں"
+    },
+    {
+      "name": "no_views",
+      "value": "کوئی مناظر نہیں"
+    },
+    {
+      "name": "none",
+      "value": "کچھ نہیں"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "پہلا ایکشن بٹن"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "دوسرا ایکشن بٹن"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "تیسرا ایکشن بٹن"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "چوتھا ایکشن بٹن"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "پانچواں ایکشن بٹن"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "بفرینگ"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "کچھ نہیں"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "دوہرائیں"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "شفل"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "آپ کومپیکٹ نوٹیفکیشن میں زیادہ سے زیادہ تین ایکشن منتخب کرسکتے ہیں!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "ذیل میں ہر اطلاع کی کارروائی پر ٹیپ کرکے اس میں ترمیم کریں۔ دائیں طرف کے چیک باکسز کا استعمال کرکے کمپیکٹ نوٹیفکیشن میں دکھائے جانے والے ان میں سے تین تک کا انتخاب کریں۔"
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "ذیل میں ہر اطلاعی کارروائی پر ٹیپ کرکے ترمیم کریں۔ پہلے تین ایکشن (پلے/پاؤز، پچھلی اور اگلی) سسٹم کے ذریعے سیٹ کیے گئے ہیں اور انہیں اپنی مرضی کے مطابق نہیں بنایا جا سکتا۔"
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "نیو پائپ پلیئرز کیلئے اطلاعات"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "نیو پائپ اطلاعات"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "تھمب نیل میں مرکزی رنگ کے مطابق اینڈروئیڈ کی اطلاع کے رنگ کو حسب منشا بنائیں (واضح ہو کہ یہ تمام آلات پر دستیاب نہیں ہے)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "نوٹیفکیشن کو رنگین بنائیں"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "نوٹیفیکیشن میں دکھائے جانے والے ویڈیو تھمب نیل کو 16: 9 سے 1:1 پہلو تناسب میں اسکیل کریں"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "تھمب نیل کو 1:1 کی تناسب میں تراشیں"
+    },
+    {
+      "name": "notifications",
+      "value": "اطلاعات"
+    },
+    {
+      "name": "ok",
+      "value": "ٹھيک ہے"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 شے حذف کر دی گئی۔"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "براؤزر میں کھولیں"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "پاپ اپ وضع میں کھولیں"
+    },
+    {
+      "name": "open_with",
+      "value": "کے ساتھ کھولیں"
+    },
+    {
+      "name": "override_current_data",
+      "value": "یہ آپ کی موجودہ سیٹ اپ کو باطل کر دے گا۔"
+    },
+    {
+      "name": "overwrite",
+      "value": "برتحریر"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "فائل برتحریر نہیں کر سکتا"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "اس نام کی ڈاؤن لوڈ کی گئی فائل پہلے سے موجود ہے"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "اس نام والی فائل پہلے سے موجود ہے"
+    },
+    {
+      "name": "parsing_error",
+      "value": "ویب سائٹ کو تجزیہ نہیں کیا جاسکا"
+    },
+    {
+      "name": "pause",
+      "value": "توقف"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "ڈاؤن لوڈ روکیں"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "میٹر والی نیٹ ورک پر مداخلت"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "موبائل ڈیٹا پر بدلتے وقت مفید ہے، اگرچہ کچھ ڈاؤن لوڈ معطل نہیں ہوسکتی ہیں"
+    },
+    {
+      "name": "paused",
+      "value": "توقف"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "مثال پہلے سے موجود ہے"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "مثال کی توثیق نہیں کی جا سکی"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "مثال کا URL درج کریں"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "صرف HTTPS URLs موافق ہیں"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "مثال شامل کریں"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "ایسی مثالوں کی تلاش کریں جو آپ %s پر پسند کرتے ہیں"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "اپنے پسندیدہ پیر ٹیوب کی مثالیں منتخب کریں"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "پیر ٹیوب واقعات"
+    },
+    {
+      "name": "permission_denied",
+      "value": "سسٹم کے ذریعہ کارروائی سے انکار کیا گیا"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "دوسرے ایپس پر نظر آنے کی اجازت دیں"
+    },
+    {
+      "name": "play_all",
+      "value": "تمام چلائیں"
+    },
+    {
+      "name": "play_audio",
+      "value": "آڈیو"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "آڈیو کی ترتیبات"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "آڈیو: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "ہٹائیں"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "تفصیلات"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "کوڈی کے ساتھ استعمال کریں"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "موٹی آواز"
+    },
+    {
+      "name": "playback_reset",
+      "value": "ری سیٹ کریں"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "پلے بیک رفتار کنٹرول"
+    },
+    {
+      "name": "playback_step",
+      "value": "قدم"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "ٹیمپو"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "پلیر نقص سے بازیافت کیا جارہا ہے"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "یہ سلسلہ نہیں چل سکا"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "پلیئر میں نا قابلِ تلافی نقص واقع ہوئی"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "فہرست میں شامل کر دیا"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "پلے لسٹ بنائی گئی"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "خود سے بنا (کوئی اپ لوڈر نہیں ملا)"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "پلے لسٹ انگشتی تبدیل ہوا۔"
+    },
+    {
+      "name": "playlists",
+      "value": "پلے لسٹس"
+    },
+    {
+      "name": "popup_player",
+      "value": "پوپ اپ پلیئر"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "پوپ اپ اسلوب میں جاری"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "پچھلی جسامت اور پوپ اپ کا مقام یاد رکھیں"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "پاپ اپ جسامت اور مقام کو یاد رکھیں"
+    },
+    {
+      "name": "post_processing",
+      "value": "بعد کا عمل جاری"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "اگر دستیاب ہو تو بصارت سے محروم افراد کے لئے تفصیل کے ساتھ آڈیو ٹریک منتخب کریں"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "وضاحتی آڈیو کو ترجیح دیں"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "زبان سے قطع نظر اصل آڈیو ٹریک منتخب کریں"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "اصل آڈیو کو ترجیح دیں"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "مواد کھولنے پر طے شدہ کارروائی — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "پسندیدہ 'کھلی' کارروائی"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "درخواست کردہ مواد کو لوڈ کیا جارہا ہے"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "معلومات حاصل کر رہا ہے…"
+    },
+    {
+      "name": "previous_export",
+      "value": "پچھلی بر آمد"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "نیو پائپ منصوبہ آپ کی رازداری کو بہت سنجیدگی سے لیتا ہے. لہذا، ایپلی کیشن آپ کی رضامندی کے بغیر کسی بھی ڈیٹا کو جمع نہیں کرتا./nنیو پائپ کی رازداری پالیسی تفصیل سے وضاحت کرتی ہے کہ آپ کے کریش رپورٹ بھیجنے پر کیا ڈیٹا بھیجا جاتا ہے اور ذخیرہ کیا جاتا ہے ۔"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "نیو پائپ کی رازداری کی پالیسی"
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "کارروائی ہو رہی ہے… کچھ وقت لگ سکتا ہے"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "پروگریسو مواد پر لوڈ وقفہ کا سائز تبدیل کریں (فی الحال %s)۔ کم کیمیت ان کی ابتدائی لوڈنگ کو تیز کر سکتی ہے"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "ترتیب کے لیے عنوان۔ ترتیب کی تفصیل یہاں محفوظ ہے: https://hosted.weblate.org/translate/newpipe/strings/en/?checksum=b23a75618764df0f"
+    },
+    {
+      "name": "queued",
+      "value": "قطار میں"
+    },
+    {
+      "name": "read_full_license",
+      "value": "لائسنس پڑھیں"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "رازداری کی پالیسی پڑھیں"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "ری کیپچا کوکیز صاف ہوئیں"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "reCAPTCHA چیلینج کی درخواست کی گئی"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "حل کریں"
+    },
+    {
+      "name": "recently_added",
+      "value": "حال ہی میں شامل"
+    },
+    {
+      "name": "recovering",
+      "value": "بازیافتی ہو رہی"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "متعلقہ سلسلے"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "ریموٹ تلاش کی تجاویز"
+    },
+    {
+      "name": "rename",
+      "value": "نام تبدیل کریں"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "نام تبدیل کریں"
+    },
+    {
+      "name": "resize_fill",
+      "value": "بھریں"
+    },
+    {
+      "name": "resize_fit",
+      "value": "فٹ"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "زوم"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "طے شدہ بحال کریں"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "کیا آپ پہلے سے طے شدہ کو بحال کرنا چاہتے ہیں؟"
+    },
+    {
+      "name": "restricted_video",
+      "value": "اس ویڈیو پر عمر کی پابندی ہے۔\n\n\n\nاگر آپ اسے دیکھنا چاہتے ہیں تو ترتیبات میں \"%1$s\" کو آن کریں۔"
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "یہ ویڈیو اٹھارہ سال سے بڑے لوگوں کے لیے ہے۔\n\nیو ٹیوب کی نئی پالیسیوں کی وجہ سے نیوپائپ ان ویڈیوز تک رسائی حاصل نہیں کر سکتا لہٰذا اس ویڈیو کو چلانے سے قاصر ہے۔"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "مداخلت کے بعد چلانا جاری رکھیں (مثلاً فون کالز)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "دوبارہ چلائیں"
+    },
+    {
+      "name": "retry",
+      "value": "دوبارہ کوشش کریں"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "پلیئر اسکرین کے دائیں نصف حصے کے لئے اشارے کا انتخاب کریں"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "دائیں اشارے کا عمل"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "محفوظ شدہ ٹیبز نہیں پڑھ سکے لہذا پہلے سے طے شدہ کا استعمال کر رہے ہیں"
+    },
+    {
+      "name": "search",
+      "value": "تلاش کریں"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "تلاش کی سرگزشت حذف ہوئی"
+    },
+    {
+      "name": "search_no_results",
+      "value": "کوئی نتائج نہیں"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "%s کے لئے نتائج دکھا رہا ہے"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "آگے بھگانے /- پیچھے کرنے کی مدت"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "ایک چینل منتخب کریں"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "ایک کیوسک منتخب کریں"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "ایک پلے لسٹ منتخب کریں"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "بطور پلے لسٹ تھمبنیل طے کریں"
+    },
+    {
+      "name": "settings",
+      "value": "ترتیبات"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "اظہار"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "کوائف صاف کریں"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "ڈِیبَگ"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "ڈاؤن لوڈ"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "سرگزشت اور کیشے"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "برتاؤ"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "موجودہ پلیئنگ اسٹریم نوٹیفکیشن کو ترتیب دیں"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "پلیئر کی نوٹیفکیشن"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "پلیئر"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "تازہ کاریاں"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "ویڈیو اور آڈیو"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "فائل کے ناموں میں ان حروف کی اجازت ہے"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "ناجائز کریکٹر اس قدر کے ساتھ تبدیل کیےگئے"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "متبادل کریکٹر"
+    },
+    {
+      "name": "share",
+      "value": "اشتراک کریں"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "کے ساتھ اشتراک کریں"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "وہ مواد دکھائیں جو بچوں کے لیے ممکنہ طور پر نا مناسب ہیں کیوں کہ اس میں عمر کی حد ہے (جیسے 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "عمر کی پابندی والے مواد دکھائیں"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "چینل کی تفصیلات دکھائیں"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "تبصرے چھپانے کیلئے بند کریں"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "تبصرے دکھائیں"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "ویڈیو کی تفصیل اور اضافی معلومات کو چھپانے کیلئے بند کریں"
+    },
+    {
+      "name": "show_description_title",
+      "value": "تفصیل دکھائیں"
+    },
+    {
+      "name": "show_error",
+      "value": "غلطی دکھائیں"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "صرف کچھ آلات 2K / 4K ویڈیوز چلانے کے قابل ہوتے ہیں."
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "اعلیٰ معیارات دکھائیں"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "ویڈیو کی \"تفصیلات:\" میں پس منظر یا پاپ اپ بٹن دبانے پر اشارے دکھائیں"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "’’شامل کرنے کے لئے ہولڈ کریں‘‘ اشارہ دکھائیں"
+    },
+    {
+      "name": "show_info",
+      "value": "معلومات دکھائیں"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "اسٹریم کے موجد، اسٹریم مواد یا تلاش کی درخواست کے بارے میں اضافی معلومات والے میٹا انفارمیشن بکسوں کو چھپانے کیلئے بند کریں"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "میٹا معلومات دکھائیں"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "'اگلی' اور 'ملتی جلتی' ویڈیوز دکھائیں"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "کوڈی کے ذریعے ویڈیو چلانے کا آپشن دکھائیں"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "\"کودی کے ساتھ چلائیں\" آپشن دکھائیں"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "تلاش کے دوران دکھانے کے لئے تجاویز کا انتخاب کریں"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "تلاش کے اشارے"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "خاموشی کے دوران فاسٹ فارورڈ"
+    },
+    {
+      "name": "songs",
+      "value": "گانے"
+    },
+    {
+      "name": "sorry_string",
+      "value": "معذرت، ایسا نہیں ہونا چاہئے تھا۔"
+    },
+    {
+      "name": "start",
+      "value": "شروع کریں"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "یورپی جنرل ڈیٹا پروٹیکشن ریگولیشن (جی ڈی پی آر) کی تعمیل کرنے کیلئے، ہم آپ کی توجہ نیو پائپ کی رازداری کی پالیسی کی طرف مبذول کراتے ہیں۔ برائے مہربانی اسے غور سے پڑھیں۔ \n\nہمیں بگ رپورٹ بھیجنے کے لیے آپ کو اسے قبول کرنا ضروری ہے۔"
+    },
+    {
+      "name": "start_downloads",
+      "value": "ڈاؤن لوڈ شروع کریں"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "پس منظر میں چلانا شروع کریں"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "پوپ اپ میں چلانا شروع کریں"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "منی پلیئر میں ویڈیوز شروع نہ کریں، بلکہ اگر آٹو روٹیشن لاک ہے تو براہ راست فل اسکرین موڈ کا رخ کریں۔ آپ اب بھی فل اسکرین سے باہر نکل کر منی پلیئر تک رسائی حاصل کرسکتے ہیں۔"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "مین پلیئر فل اسکرین میں شروع کریں"
+    },
+    {
+      "name": "stop",
+      "value": "روکیں"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "سبسکرپشن کے لئے نئی اسٹریمز کے بارے میں اطلاعات"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "نئی اسٹریم"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "رکنیت اختیار کریں"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "رکنیت شدہ"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "صارفین کا شمار دستیاب نہیں"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "رکنیت کو تبدیل نہیں کیا جا سکا"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "رکنیت کی تازہ کاری نہیں ہو سکی"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "رکنیتوں بر آمد نہیں کر سکا"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "رکنیتوں کو در آمد نہیں کیا جا سکا"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "جب ٹھیک ہو جائے تو \"Done\" دبائیں"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "پس منظر پر جائیں"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "مرکزی صفحہ پر جائیں"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "پاپ اپ پر جائیں"
+    },
+    {
+      "name": "tab_about",
+      "value": "کے بارے میں اور اکثر پوچھے گئے سوالات"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "نشان زدہ پلے لسٹس"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "پلے لسٹ"
+    },
+    {
+      "name": "tab_choose",
+      "value": "ٹیب منتخب کریں"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "لائسنس"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "رکنیتیں"
+    },
+    {
+      "name": "theme_title",
+      "value": "خیالیہ"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "تصویری کیشے کی صفائی ہوئی"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "نیو پائپ کے بارے میں"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "سرگزشت"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "قطار چلائیں"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "ری کیپچا چیلینج"
+    },
+    {
+      "name": "title_last_played",
+      "value": "آخری چلائی گئی"
+    },
+    {
+      "name": "title_licenses",
+      "value": "تیسری پارٹی کی لائسنس"
+    },
+    {
+      "name": "title_most_played",
+      "value": "سب سے زیادہ چلائی گئی"
+    },
+    {
+      "name": "top_50",
+      "value": "اوّل 50"
+    },
+    {
+      "name": "tracks",
+      "value": "ویڈیوز"
+    },
+    {
+      "name": "trending",
+      "value": "رجحان میں"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "نشان زد حدف کریں"
+    },
+    {
+      "name": "undo",
+      "value": "کالعدم کریں"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "غیر مربوط (مسخ کا سبب بن سکتا ہے)"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[نامعلوم]"
+    },
+    {
+      "name": "unmute",
+      "value": "غیر خاموش"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "مستقل تھمب نیل کو ان سیٹ کریں"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "رکنیت چھوڑیں"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "غیر موافق URL"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "URL کو نہیں پہچان سکے۔ کسی اور ایپ کے ساتھ کھولیں؟"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "نیا ورژن دستیاب ہونے پر ایپ کی تازہ کاری کے لیے اجازتی اطلاع دکھائیں"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "تازہ کاری"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "%1$s کو شائع ہوا"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "خارجی آڈیو پلیر استعمال کریں"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "کچھ ریزولوشن پر آڈیو دستیاب نہیں ہوگی."
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "خارجی ویڈیو پلئیر استعمال کریں"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "بالواسطہ تلاش مشکلات کو کم کر کے پلیئر کو تیز رفتاری سے مقامات تک رسائی کرنے دیتی ہے۔ 5 ، 15 یا 25 سیکنڈ کی تلاش اس کے ساتھ کام نہیں کرتی ہے:"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "بالواسطہ رسائی استعمال کریں"
+    },
+    {
+      "name": "users",
+      "value": "صارفین"
+    },
+    {
+      "name": "video",
+      "value": "ویڈیو"
+    },
+    {
+      "name": "video_player",
+      "value": "ویڈیو پلیئر"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "کوئی ویڈیو سلسلے نہیں ملے"
+    },
+    {
+      "name": "videos_string",
+      "value": "ویڈٰو"
+    },
+    {
+      "name": "view_on_github",
+      "value": "گٹ ہب پر دیکھیں"
+    },
+    {
+      "name": "volume",
+      "value": "والیوم"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "دیکھے جانے کی سرگزشت حذف ہو گئی"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "پلے بیک پوزیشنس حذف ہوئیں"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "مزید معلومات اور خبروں کے لئے نیو پائپ ویب سائٹ ملاحظہ کریں۔"
+    },
+    {
+      "name": "website_title",
+      "value": "ویب سائٹ"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "معلومات:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "کیا ہوا:"
+    },
+    {
+      "name": "yes",
+      "value": "ہاں"
+    },
+    {
+      "name": "your_comment",
+      "value": "آپ کا تبصرہ (انگریزی میں):"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "یوٹیوب ایک \"پابندی والا وضع\" فراہم کرتا ہے جو امکانی طور پر نازیبا مواد کو چھپاتا ہے"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "یوٹیوب کا \"پابندی والا وضع\" چالو کریں"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

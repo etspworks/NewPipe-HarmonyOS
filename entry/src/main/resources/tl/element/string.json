@@ -1,0 +1,280 @@
+{
+  "string": [
+    {
+      "name": "albums",
+      "value": "Mga Album"
+    },
+    {
+      "name": "all",
+      "value": "Lahat"
+    },
+    {
+      "name": "artists",
+      "value": "Mga Artista"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Kusang pagpapalabas"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Maitim"
+    },
+    {
+      "name": "cancel",
+      "value": "Ipagpaliban"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Naka-unsubscribe na sa channel"
+    },
+    {
+      "name": "channels",
+      "value": "Mga Channel"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Hindi pinapahintulot ang pagpuna"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Mga Puna"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Likuran"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "I-download ang stream file"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Nakalutang"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Madilim"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Naka-pin na puna"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Ibig mo bang sabihin \"%1$s\"?"
+    },
+    {
+      "name": "download",
+      "value": "I-download"
+    },
+    {
+      "name": "downloads",
+      "value": "Mga Download"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Mga Download"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Ituloy ang pagpapalabas"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Kasaysayan ng napanood"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Hindi mai-karga ang mga puna"
+    },
+    {
+      "name": "events",
+      "value": "Mga Kaganapan"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Maliwanag"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Pindutin ang magnifiying glass upang magsimula."
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "I-tanda bilang napanood na"
+    },
+    {
+      "name": "no_comments",
+      "value": "Walang puna"
+    },
+    {
+      "name": "no_views",
+      "value": "Wala pang nakapanood"
+    },
+    {
+      "name": "ok",
+      "value": "Sige"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Buksan sa browser"
+    },
+    {
+      "name": "open_with",
+      "value": "Buksan sa"
+    },
+    {
+      "name": "playlists",
+      "value": "Mga Listahan ng Ipapalabas"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Ang video na ito ay may paghihigpit sa edad.\n\n\n\nBuksan ang \"%1$s\" sa ayos ng app kung gusto mong makita ito."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Ang video na ito ay may paghihigpit sa edad.\n\n\n\nDahil sa mga bagong polisiya ng Youtube, hindi maaring ma-access ng NewPipe ang mga video streams nito, kaya hindi ito maipapalabas."
+    },
+    {
+      "name": "search",
+      "value": "Maghanap"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Ipinapakita ang mga resulta para sa: %s"
+    },
+    {
+      "name": "settings",
+      "value": "Ayos ng App"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Linisin ang data"
+    },
+    {
+      "name": "share",
+      "value": "Ibahagi"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Ibahagi sa"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Patayin upang maitago ang mga puna"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Ipakita ang mga puna"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Patayin upang itago ang paglalarawan ng video at ang karagdagang kaalaman nito"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Ipakita ang paglalarawan"
+    },
+    {
+      "name": "show_info",
+      "value": "Ipakita ang paglalarawan"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Mga mungkahi sa paghahanap"
+    },
+    {
+      "name": "songs",
+      "value": "Mga Awit"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Mag-subscribe"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Di-mabago ang subscription"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Mga subscription"
+    },
+    {
+      "name": "tracks",
+      "value": "Mga Track"
+    },
+    {
+      "name": "trending",
+      "value": "Mga Patok Ngayon"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Inilathala noong %1$s"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Tinatanggal ang audio sa ilang mga resolusyon"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Gumamit ng ibang video player"
+    },
+    {
+      "name": "users",
+      "value": "Mga Gumagamit"
+    },
+    {
+      "name": "videos_string",
+      "value": "Mga Video"
+    },
+    {
+      "name": "your_comment",
+      "value": "Iyong puna (sa Ingles):"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

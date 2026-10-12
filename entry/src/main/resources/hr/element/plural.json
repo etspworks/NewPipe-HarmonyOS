@@ -1,0 +1,293 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d dan"
+        },
+        {
+          "quantity": "few",
+          "value": "%d dana"
+        },
+        {
+          "quantity": "other",
+          "value": "%d dana"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Izbrisano %1$s preuzimanje"
+        },
+        {
+          "quantity": "few",
+          "value": "Izbrisana %1$s preuzimanja"
+        },
+        {
+          "quantity": "other",
+          "value": "Izbrisano %1$s preuzimanja"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s preuzimanje je gotovo"
+        },
+        {
+          "quantity": "few",
+          "value": "%s preuzimanja su gotova"
+        },
+        {
+          "quantity": "other",
+          "value": "%s preuzimanja je gotovo"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Izvozi se %d pretplata …"
+        },
+        {
+          "quantity": "few",
+          "value": "Izvoze se %d pretplate …"
+        },
+        {
+          "quantity": "other",
+          "value": "Izvozi se %d pretplata …"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d odabrana"
+        },
+        {
+          "quantity": "few",
+          "value": "%d odabrane"
+        },
+        {
+          "quantity": "other",
+          "value": "%d odabranih"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d sat"
+        },
+        {
+          "quantity": "few",
+          "value": "%d sata"
+        },
+        {
+          "quantity": "other",
+          "value": "%d sati"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Uvozi se %d pretplata …"
+        },
+        {
+          "quantity": "few",
+          "value": "Uvoze se %d pretplate …"
+        },
+        {
+          "quantity": "other",
+          "value": "Uvozi se %d pretplata …"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s slušatelj"
+        },
+        {
+          "quantity": "few",
+          "value": "%s slušatelja"
+        },
+        {
+          "quantity": "other",
+          "value": "%s slušatelja"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Učitava se %d pretplata …"
+        },
+        {
+          "quantity": "few",
+          "value": "Učitavaju se %d pretplate …"
+        },
+        {
+          "quantity": "other",
+          "value": "Učitavaju se %d pretplate …"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minuta"
+        },
+        {
+          "quantity": "few",
+          "value": "%d minute"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minuta"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s novi tok"
+        },
+        {
+          "quantity": "few",
+          "value": "%s nova toka"
+        },
+        {
+          "quantity": "other",
+          "value": "%s novih tokova"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s odgovor"
+        },
+        {
+          "quantity": "few",
+          "value": "%s odgovora"
+        },
+        {
+          "quantity": "other",
+          "value": "%s odgovora"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d sekunda"
+        },
+        {
+          "quantity": "few",
+          "value": "%d sekunde"
+        },
+        {
+          "quantity": "other",
+          "value": "%d sekundi"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s pretplatnik"
+        },
+        {
+          "quantity": "few",
+          "value": "%s pretplatnika"
+        },
+        {
+          "quantity": "other",
+          "value": "%s pretplatnika"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s video"
+        },
+        {
+          "quantity": "few",
+          "value": "%s videa"
+        },
+        {
+          "quantity": "other",
+          "value": "%s videa"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s pregled"
+        },
+        {
+          "quantity": "few",
+          "value": "%s pregleda"
+        },
+        {
+          "quantity": "other",
+          "value": "%s pregleda"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s gledatelj"
+        },
+        {
+          "quantity": "few",
+          "value": "%s gledatelja"
+        },
+        {
+          "quantity": "other",
+          "value": "%s gledatelja"
+        }
+      ]
+    }
+  ]
+}

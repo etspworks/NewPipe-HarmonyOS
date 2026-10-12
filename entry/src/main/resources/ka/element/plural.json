@@ -1,0 +1,186 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d დღე"
+        },
+        {
+          "quantity": "other",
+          "value": "%d დღეების"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "წაიშალა %1$s ჩამოტვირთვა"
+        },
+        {
+          "quantity": "other",
+          "value": "წაიშალა %1$s ჩამოტვირთვები"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "ჩამოტვირთვა დასრულდა%s"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ჩამოტვირთვები დასრულდა"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "არჩეული %d"
+        },
+        {
+          "quantity": "other",
+          "value": "არჩეულია %d"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d საათი"
+        },
+        {
+          "quantity": "other",
+          "value": "%d საათები"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s მსმენელი"
+        },
+        {
+          "quantity": "other",
+          "value": "%s მსმენელები"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d წუთი"
+        },
+        {
+          "quantity": "other",
+          "value": "%d წუთები"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ახალი ნაკადი"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ახალი ნაკადები"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s პასუხი"
+        },
+        {
+          "quantity": "other",
+          "value": "%s პასუხები"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d წამი"
+        },
+        {
+          "quantity": "other",
+          "value": "%d წამები"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s გამომწერი"
+        },
+        {
+          "quantity": "other",
+          "value": "%s გამომწერები"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ვიდეო"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ვიდეოები"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ნახვა"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ნახვები"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s უყურებს"
+        },
+        {
+          "quantity": "other",
+          "value": "%s უყურებენ"
+        }
+      ]
+    }
+  ]
+}

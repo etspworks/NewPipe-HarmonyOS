@@ -1,0 +1,82 @@
+{
+  "plural": [
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s سننے والا"
+        },
+        {
+          "quantity": "other",
+          "value": "%s سننے والے"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s نئی اسٹریم"
+        },
+        {
+          "quantity": "other",
+          "value": "%s نئی اسٹریمز"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s صارف"
+        },
+        {
+          "quantity": "other",
+          "value": "%s صارفین"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ویڈیو"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ویڈیوز"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s منظر"
+        },
+        {
+          "quantity": "other",
+          "value": "%s مناظر"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s دیکھ رہا"
+        },
+        {
+          "quantity": "other",
+          "value": "%s دیکھ رہے"
+        }
+      ]
+    }
+  ]
+}

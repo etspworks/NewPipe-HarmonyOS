@@ -1,0 +1,82 @@
+{
+  "plural": [
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s శ్రోత"
+        },
+        {
+          "quantity": "other",
+          "value": "%s శ్రోతలు"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s కొత్త స్ట్రీమ్"
+        },
+        {
+          "quantity": "other",
+          "value": "%s కొత్త స్ట్రీమ్స్"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s సభ్యుడు"
+        },
+        {
+          "quantity": "other",
+          "value": "%s సభ్యులు"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s వీడియో"
+        },
+        {
+          "quantity": "other",
+          "value": "%s వీడియోలు"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s వీక్షణ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s వీక్షణలు"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s చూస్తున్నాడు"
+        },
+        {
+          "quantity": "other",
+          "value": "%s చూస్తున్నారు"
+        }
+      ]
+    }
+  ]
+}

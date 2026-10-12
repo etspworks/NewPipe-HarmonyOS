@@ -1,0 +1,292 @@
+{
+  "string": [
+    {
+      "name": "auto_queue_title",
+      "value": "Apondre la vidèo seguenta dins la coa de lectura"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Negre"
+    },
+    {
+      "name": "cancel",
+      "value": "Anullar"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Abonament a la cadena anullat"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Apondre a"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Rèireplan"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Telecargar lo fichièr de flus"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Fenestron"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Escur"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Format àudio per defaut"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Resolucion per defaut dels fenestrons"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Resolucion per defaut"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Format vidèo per defaut"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Voliatz dire: %1$s?"
+    },
+    {
+      "name": "download",
+      "value": "Telecargar"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Causissètz lo dorsièr de telecargament pels àudios"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Los fichièrs àudio telecargats son estremats aicí"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Dorsièr de telecargament dels àudios"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Causissètz lo dorsièr de telecargament de las vidèos"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Los fichièrs vidèo telecargats son aquí"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Dorsièr de telecargament de vidèos"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Çò novèl"
+    },
+    {
+      "name": "install",
+      "value": "Installar"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Trobam pas l'aplicacion Kore. La volètz installar?"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Clar"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Clicatz sul boton de recèrca per començar"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Cap de legidor de flus trobat. Volètz installar VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Cap de legidor de flus trobat (podètz installar VLC per lo legir)."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Dobrir dins lo navegador"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Dobrir en mòde fenestron"
+    },
+    {
+      "name": "play_audio",
+      "value": "Àudio"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Jogar amb Kodi"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Se remembrar las darrièras talha e posicion del fenestron"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Se remembrar la talha e la posicion del fenestron"
+    },
+    {
+      "name": "search",
+      "value": "Recercar"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Durada d'avançada/reculada rapida"
+    },
+    {
+      "name": "settings",
+      "value": "Paramètres"
+    },
+    {
+      "name": "share",
+      "value": "Partejar"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Partejar amb"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Desactivar per afichar pas mai los comentaris"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Afichar los comentaris"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Totes los dispositius pòdon pas legir de vidèos 2K/4K"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Afichar de resolucions mai nautas"
+    },
+    {
+      "name": "show_info",
+      "value": "Afichar las informacions"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Afichar una opcion per legir una vidèo dempuèi Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Afichar l'opcion \"Legir amb Kodi\""
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "S'abonar"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Abonat"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Impossible de cambiar l'abonament"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Impossible d'actualizar l'abonament"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Listas de lectura enregistradas"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Causir un onglet"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Abonaments"
+    },
+    {
+      "name": "theme_title",
+      "value": "Tèma"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Anullar abonament"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Publicat lo %1$s"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Utilizar lo legidor àudio extèrne"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Lèva l'àudio per CÈRTAS resolucions"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Utilizar un legidor de vidèo extèrne"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "La recèrca inexacta permet a l'utilizaire de recercar mai rapidament una posicion amb mens de precision"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Utilzar la recèrca rapida inexacta"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

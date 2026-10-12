@@ -1,0 +1,440 @@
+{
+  "color": [
+    {
+      "name": "about_link_color",
+      "value": "#904A45"
+    },
+    {
+      "name": "about_on_surface_color",
+      "value": "#231918"
+    },
+    {
+      "name": "about_surface_color",
+      "value": "#FFF8F7"
+    },
+    {
+      "name": "accent",
+      "value": "#000000"
+    },
+    {
+      "name": "audio_already_load_color",
+      "value": "#000000"
+    },
+    {
+      "name": "audio_left_to_load_color",
+      "value": "#555555"
+    },
+    {
+      "name": "background",
+      "value": "#EEEEEE"
+    },
+    {
+      "name": "black",
+      "value": "#000000"
+    },
+    {
+      "name": "black_background_color",
+      "value": "#000000"
+    },
+    {
+      "name": "black_border_color",
+      "value": "#25FFFFFF"
+    },
+    {
+      "name": "black_card_item_background_color",
+      "value": "#0F0F0F"
+    },
+    {
+      "name": "black_card_item_contrast_color",
+      "value": "#202020"
+    },
+    {
+      "name": "black_contrast_background_color",
+      "value": "#23454545"
+    },
+    {
+      "name": "black_separator_color",
+      "value": "#1EFFFFFF"
+    },
+    {
+      "name": "black_settings_accent_color",
+      "value": "#FF5252"
+    },
+    {
+      "name": "bluegray",
+      "value": "#607D8B"
+    },
+    {
+      "name": "border",
+      "value": "#33000000"
+    },
+    {
+      "name": "contrastColor",
+      "value": "#000000"
+    },
+    {
+      "name": "contrast_background",
+      "value": "#1FA6A6A6"
+    },
+    {
+      "name": "dark_background_color",
+      "value": "#222222"
+    },
+    {
+      "name": "dark_bandcamp_accent_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "dark_bandcamp_primary_color",
+      "value": "#1383A1"
+    },
+    {
+      "name": "dark_border_color",
+      "value": "#33FFFFFF"
+    },
+    {
+      "name": "dark_card_item_background_color",
+      "value": "#313131"
+    },
+    {
+      "name": "dark_card_item_contrast_color",
+      "value": "#474747"
+    },
+    {
+      "name": "dark_contrast_background_color",
+      "value": "#1F717171"
+    },
+    {
+      "name": "dark_dialog_background_color",
+      "value": "#424242"
+    },
+    {
+      "name": "dark_license_background_color",
+      "value": "#424242"
+    },
+    {
+      "name": "dark_license_text_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "dark_media_ccc_accent_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "dark_media_ccc_primary_color",
+      "value": "#878787"
+    },
+    {
+      "name": "dark_peertube_accent_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "dark_peertube_primary_color",
+      "value": "#A34700"
+    },
+    {
+      "name": "dark_queue_background_color",
+      "value": "#AF000000"
+    },
+    {
+      "name": "dark_ripple_color",
+      "value": "#48FFFFFF"
+    },
+    {
+      "name": "dark_selected_color",
+      "value": "#2AFFFFFF"
+    },
+    {
+      "name": "dark_separator_color",
+      "value": "#0AFFFFFF"
+    },
+    {
+      "name": "dark_settings_accent_color",
+      "value": "#FF5252"
+    },
+    {
+      "name": "dark_shadow_start_color",
+      "value": "#82000000"
+    },
+    {
+      "name": "dark_soundcloud_accent_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "dark_soundcloud_primary_color",
+      "value": "#A35300"
+    },
+    {
+      "name": "dark_youtube_accent_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "dark_youtube_primary_color",
+      "value": "#992722"
+    },
+    {
+      "name": "defaultIconTint",
+      "value": "#000000"
+    },
+    {
+      "name": "dialog_background",
+      "value": "#EEEEEE"
+    },
+    {
+      "name": "dialog_surface",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "drawer_header_font_color",
+      "value": "#F2FFFFFF"
+    },
+    {
+      "name": "duration_background_color",
+      "value": "#AA000000"
+    },
+    {
+      "name": "duration_text_color",
+      "value": "#EEFFFFFF"
+    },
+    {
+      "name": "gray",
+      "value": "#616161"
+    },
+    {
+      "name": "ic_launcher_background",
+      "value": "#CD201F"
+    },
+    {
+      "name": "light_background_color",
+      "value": "#EEEEEE"
+    },
+    {
+      "name": "light_bandcamp_accent_color",
+      "value": "#000000"
+    },
+    {
+      "name": "light_bandcamp_primary_color",
+      "value": "#17A0C4"
+    },
+    {
+      "name": "light_border_color",
+      "value": "#33000000"
+    },
+    {
+      "name": "light_card_item_background_color",
+      "value": "#F8F8F8"
+    },
+    {
+      "name": "light_card_item_contrast_color",
+      "value": "#E9E9E9"
+    },
+    {
+      "name": "light_contrast_background_color",
+      "value": "#1FA6A6A6"
+    },
+    {
+      "name": "light_dialog_background_color",
+      "value": "#EEEEEE"
+    },
+    {
+      "name": "light_license_background_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "light_license_text_color",
+      "value": "#212121"
+    },
+    {
+      "name": "light_media_ccc_accent_color",
+      "value": "#000000"
+    },
+    {
+      "name": "light_media_ccc_primary_color",
+      "value": "#9E9E9E"
+    },
+    {
+      "name": "light_peertube_accent_color",
+      "value": "#000000"
+    },
+    {
+      "name": "light_peertube_primary_color",
+      "value": "#FF6F00"
+    },
+    {
+      "name": "light_ripple_color",
+      "value": "#48868686"
+    },
+    {
+      "name": "light_selected_color",
+      "value": "#2A868686"
+    },
+    {
+      "name": "light_separator_color",
+      "value": "#32000000"
+    },
+    {
+      "name": "light_settings_accent_color",
+      "value": "#E53935"
+    },
+    {
+      "name": "light_shadow_start_color",
+      "value": "#5A000000"
+    },
+    {
+      "name": "light_soundcloud_accent_color",
+      "value": "#000000"
+    },
+    {
+      "name": "light_soundcloud_primary_color",
+      "value": "#F57C00"
+    },
+    {
+      "name": "light_youtube_accent_color",
+      "value": "#000000"
+    },
+    {
+      "name": "light_youtube_primary_color",
+      "value": "#E53935"
+    },
+    {
+      "name": "live_duration_background_color",
+      "value": "#C8E53935"
+    },
+    {
+      "name": "on_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "on_surface",
+      "value": "#DE000000"
+    },
+    {
+      "name": "on_surface_disabled",
+      "value": "#42000000"
+    },
+    {
+      "name": "on_surface_variant",
+      "value": "#8A000000"
+    },
+    {
+      "name": "placeholder_background",
+      "value": "#999999"
+    },
+    {
+      "name": "placeholder_foreground",
+      "value": "#6C6C6C"
+    },
+    {
+      "name": "playlist_stream_count_background_color",
+      "value": "#E6000000"
+    },
+    {
+      "name": "primary",
+      "value": "#E53935"
+    },
+    {
+      "name": "primary_bandcamp",
+      "value": "#17A0C4"
+    },
+    {
+      "name": "primary_media_ccc",
+      "value": "#9E9E9E"
+    },
+    {
+      "name": "primary_peertube",
+      "value": "#FF6F00"
+    },
+    {
+      "name": "primary_soundcloud",
+      "value": "#F57C00"
+    },
+    {
+      "name": "queue_background_color",
+      "value": "#AF000000"
+    },
+    {
+      "name": "ripple",
+      "value": "#48868686"
+    },
+    {
+      "name": "selected",
+      "value": "#2A868686"
+    },
+    {
+      "name": "selected_background_color",
+      "value": "#96717171"
+    },
+    {
+      "name": "separator",
+      "value": "#32000000"
+    },
+    {
+      "name": "settings_accent",
+      "value": "#E53935"
+    },
+    {
+      "name": "shadow_start",
+      "value": "#5A000000"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#e53935"
+    },
+    {
+      "name": "subscribe_text_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "subscribed_background_color",
+      "value": "#D6D6D6"
+    },
+    {
+      "name": "subscribed_text_color",
+      "value": "#717171"
+    },
+    {
+      "name": "subtitle_already_load_color",
+      "value": "#005A71"
+    },
+    {
+      "name": "subtitle_left_to_load_color",
+      "value": "#008EA4"
+    },
+    {
+      "name": "surface",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "surface_variant",
+      "value": "#E9E9E9"
+    },
+    {
+      "name": "transparent_background_color",
+      "value": "#00000000"
+    },
+    {
+      "name": "video_already_load_color",
+      "value": "#BC211D"
+    },
+    {
+      "name": "video_left_to_load_color",
+      "value": "#CD5656"
+    },
+    {
+      "name": "video_overlay_color",
+      "value": "#64000000"
+    },
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "white_secondary",
+      "value": "#C9CACB"
+    },
+    {
+      "name": "player_popup_background",
+      "value": "#EE2B2B2B"
+    }
+  ]
+}

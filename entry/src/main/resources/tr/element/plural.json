@@ -1,0 +1,225 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d gün"
+        },
+        {
+          "quantity": "other",
+          "value": "%d gün"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%1$s indirme silindi"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s indirme silindi"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "İndirme tamamlandı"
+        },
+        {
+          "quantity": "other",
+          "value": "%s indirme tamamlandı"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d abonelik dışa aktarılıyor…"
+        },
+        {
+          "quantity": "other",
+          "value": "%d abonelik dışa aktarılıyor…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d öge seçildi"
+        },
+        {
+          "quantity": "other",
+          "value": "%d öge seçildi"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d saat"
+        },
+        {
+          "quantity": "other",
+          "value": "%d saat"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d abonelik içeri aktarılıyor…"
+        },
+        {
+          "quantity": "other",
+          "value": "%d abonelik içeri aktarılıyor…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s dinleyici"
+        },
+        {
+          "quantity": "other",
+          "value": "%s dinleyici"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d abonelik yükleniyor…"
+        },
+        {
+          "quantity": "other",
+          "value": "%d abonelik yükleniyor…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d dakika"
+        },
+        {
+          "quantity": "other",
+          "value": "%d dakika"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s yeni yayın"
+        },
+        {
+          "quantity": "other",
+          "value": "%s yeni yayın"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s yanıt"
+        },
+        {
+          "quantity": "other",
+          "value": "%s yanıt"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d saniye"
+        },
+        {
+          "quantity": "other",
+          "value": "%d saniye"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s abone"
+        },
+        {
+          "quantity": "other",
+          "value": "%s abone"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s video"
+        },
+        {
+          "quantity": "other",
+          "value": "%s video"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s görüntülenme"
+        },
+        {
+          "quantity": "other",
+          "value": "%s görüntülenme"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s izleyici"
+        },
+        {
+          "quantity": "other",
+          "value": "%s izleyici"
+        }
+      ]
+    }
+  ]
+}

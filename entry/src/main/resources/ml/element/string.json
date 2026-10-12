@@ -1,0 +1,2304 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "അംഗീകരിക്കുക"
+    },
+    {
+      "name": "account_terminated",
+      "value": "അക്കൗണ്ട് ഇല്ലാതായിരിക്കുന്നു"
+    },
+    {
+      "name": "action_history",
+      "value": "ചരിത്രം"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "പ്ലേലിസ്റ്റിലേക്ക് ചേർക്കുക"
+    },
+    {
+      "name": "albums",
+      "value": "ആൽബങ്ങൾ"
+    },
+    {
+      "name": "all",
+      "value": "എല്ലാം"
+    },
+    {
+      "name": "always",
+      "value": "എപ്പോഴും"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "എപ്പോഴും ചോദിക്കുക"
+    },
+    {
+      "name": "app_description",
+      "value": "സൗജന്യമായ, ലഘുവായ സ്ട്രീമിംഗ്, HarmonyOS-ൽ."
+    },
+    {
+      "name": "app_language_title",
+      "value": "അപ്ലിക്കേഷൻ ഭാഷ"
+    },
+    {
+      "name": "app_license",
+      "value": "കോപ്പി‌ലെഫ്റ്റ് ലിബ്രെ സോഫ്റ്റ്വെയറാണ് ന്യൂ‌പൈപ്പ്: നിങ്ങൾക്ക് അത് ഉപയോഗിക്കാനും പഠിക്കാനും പങ്കിടാനും ഇഷ്ടാനുസരണം മെച്ചപ്പെടുത്താനും കഴിയും. സ്വതന്ത്ര സോഫ്റ്റ്‌വെയർ ഫൗണ്ടേഷൻ പ്രസിദ്ധീകരിച്ച ഗ്നു ജനറൽ പബ്ലിക് ലൈസൻസിന്റെ നിബന്ധനകൾ പ്രകാരം, ലൈസൻസിന്റെ മൂന്നാം പതിപ്പ് അല്ലെങ്കിൽ (നിങ്ങളുടെ ഓപ്ഷനിൽ) പിന്നീടുള്ള ഏതെങ്കിലും പതിപ്പ് പ്രകാരം നിങ്ങൾക്ക് ഇത് പുനർവിതരണം ചെയ്യാനും / അല്ലെങ്കിൽ പരിഷ്ക്കരിക്കാനും കഴിയും."
+    },
+    {
+      "name": "app_license_title",
+      "value": "ന്യൂപൈപ്പിന്റെ ലൈസൻസ്"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "ആപ് ക്രാഷായി"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "ന്യൂപൈപ്പ് അപ്‌ഡേറ്റ് ലഭ്യമാണ്!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "പുതിയ ന്യൂപൈപ്പ് പതിപ്പിന് വേണ്ടിയുള്ള അറിയിപ്പ്"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "ആപ്പ് അപ്ഡേറ്റ് ചെയ്യാനുള്ള അറിയിപ്പ്"
+    },
+    {
+      "name": "artists",
+      "value": "കലാകാരന്മാർ"
+    },
+    {
+      "name": "audio",
+      "value": "ഓഡിയോ"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "ഓഡിയോ സ്ട്രീമുകൾ കണ്ടെത്താനായില്ല"
+    },
+    {
+      "name": "auto",
+      "value": "ഓട്ടോ"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "യാന്ത്രികം (ഉപകരണ തീം)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "തീരാറായ പ്ലേബാക്ക് ക്യൂവിനെ മറ്റൊരു അനുബന്ധ സ്‌ട്രീമുമായി കൂട്ടിച്ചേർത്ത് തുടരുക"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "അടുത്ത സ്ട്രീം ഓട്ടോക്യൂ ചെയ്യുക"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "തനിയെ ക്യൂവിൽ കയറ്റുക"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "പ്ലേബാക്ക് സ്വപ്രേരിതമായി ആരംഭിക്കുക — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "ഓട്ടോപ്ലേ"
+    },
+    {
+      "name": "background_player",
+      "value": "പശ്ചാത്തല പ്ലേയർ"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "പശ്ചാത്തലത്തിൽ പ്ലേ ചെയ്യുന്നു"
+    },
+    {
+      "name": "best_resolution",
+      "value": "മികച്ച റിസല്യൂഷൻ"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "കറുപ്പ് തീം"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "ശൂന്യമായ പേജ്"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "പ്ലേലിസ്റ്റ് ബുക്ക്മാർക്ക് ചെയ്യുക"
+    },
+    {
+      "name": "cancel",
+      "value": "റദ്ദാക്കുക"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "യാന്ത്രികമായി സൃഷ്‌ടിച്ചവ"
+    },
+    {
+      "name": "caption_none",
+      "value": "അടിക്കുറിപ്പുകളൊന്നുമില്ല"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "പ്ലെയർ അടിക്കുറിപ്പ് ടെക്സ്റ്റ് സ്‌കെയിലും പശ്ചാത്തല ശൈലികളും പരിഷ്‌ക്കരിക്കുക. പ്രാബല്യത്തിൽ വരാൻ അപ്ലിക്കേഷൻ പുനരാരംഭിക്കൽ ആവശ്യമാണ്"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "അടിക്കുറിപ്പുകൾ"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "%s സൃഷ്ടിച്ചത്"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "ചാനൽ പേജ്"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "ചാനൽ അൺസബ്സ്ക്രൈബ് ചെയ്യപ്പെട്ടു"
+    },
+    {
+      "name": "channels",
+      "value": "ചാനലുകൾ"
+    },
+    {
+      "name": "chapters",
+      "value": "അധ്യായങ്ങൾ"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "അക്ഷരങ്ങളും അക്കങ്ങളും"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "പ്രത്യേക അടയാളങ്ങൾ"
+    },
+    {
+      "name": "checksum",
+      "value": "ചെക്ക്സം"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "ഒരു സ്ഥിതി തിരഞ്ഞെടുക്കുക"
+    },
+    {
+      "name": "clear",
+      "value": "തെളിക്കുക"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "നിങ്ങൾ ഒരു reCAPTCHA പരിഹരിക്കുമ്പോൾ ന്യൂപൈപ്പ് സംഭരിക്കുന്ന കുക്കികൾ മായ്‌ക്കുക"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "ReCAPTCHA കുക്കികൾ മായ്‌ക്കുക"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "ഡൗൺലോഡ് ചരിത്രം മായ്‌ക്കുക"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "എല്ലാ പ്ലേബാക്ക് സ്ഥാനങ്ങളെയും നീക്കംചെയ്യും"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "പ്ലേബാക്ക് സ്ഥാനങ്ങൾ നീക്കംചെയ്യുക"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "സജീവ പ്ലെയർ ക്യൂ മാറ്റിസ്ഥാപിക്കും"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "ഒരു പ്ലെയറിൽ നിന്ന് മറ്റൊന്നിലേക്ക് മാറുന്നത് നിങ്ങളുടെ ക്യൂവിനെ പുനഃസ്ഥാപിച്ചേക്കാം"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "ഒരു ക്യൂ മായ്‌ക്കുന്നതിന് മുമ്പ് സ്ഥിരീകരണത്തിനായി ആവശ്യപ്പെടുക"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "സെർച്ച് കീവേർഡുകളെ നീക്കം ചെയ്യും"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "സെർച്ച് ചരിത്രം നീക്കം ചെയ്യുക"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "കണ്ട സ്ട്രീമുകളുടെയും പ്ലേബാക്ക് സ്ഥാനങ്ങളുടെയും ചരിത്രം നീക്കം ചെയ്യും"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "കാഴ്ച ചരിത്രം നീക്കുക"
+    },
+    {
+      "name": "close",
+      "value": "അടയ്‌ക്കുക"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "അഭിപ്രായങ്ങൾ പ്രവർത്തനരഹിതമായിരിക്കുന്നു"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "അഭിപ്രായങ്ങൾ"
+    },
+    {
+      "name": "conferences",
+      "value": "സമ്മേളനങ്ങൾ"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "നിങ്ങളുടെ ഡൗൺലോഡ് ചരിത്രം മായ്‌ക്കണോ ഡൗൺലോഡ് ചെയ്ത എല്ലാ ഫയലുകളും ഇല്ലാതാക്കണോ?"
+    },
+    {
+      "name": "content",
+      "value": "കന്റെന്റ്"
+    },
+    {
+      "name": "content_language_title",
+      "value": "സ്ഥിര കന്റെന്റ്‌ ഭാഷ"
+    },
+    {
+      "name": "content_not_available",
+      "value": "കന്റെന്റ് ലഭ്യമല്ല"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "ഈ ഉള്ളടക്കത്തെ ഇതുവരെ ന്യൂ‌പൈപ്പ് പിന്തുണയ്‌ക്കുന്നില്ല.\n\n\n\nഭാവിയിലെ ഒരു പതിപ്പിൽ ഇത് പിന്തുണയ്‌ക്കുമെന്ന് പ്രതീക്ഷിക്കുന്നു."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "തർജ്ജമയോ, ഡിസൈൻ മാറ്റങ്ങളോ, കോഡിങ് പരിപാടിയോ, എന്തുമാവട്ടെ, സഹായം എന്നും സ്വാഗതാർഹമാണ്. ഒത്തു പിടിച്ചാൽ മലയും പോരുംന്നല്ലേ!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "സംഭാവന"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "ചേർക്കുക"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "പശ്ചാത്തലത്തിൽ"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "സ്ട്രീം ഫൈൽ ഡൗൺലോഡ് ചെയ്യുക"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "പോപ്പപ്പ്"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "ഫോർമാറ്റുചെയ്‌ത റിപ്പോർട്ട് പകർത്തുക"
+    },
+    {
+      "name": "copyright",
+      "value": "%3$s ന്റെ കീഴിൽ %2$s ന്റെ ©%1$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "മുന്നറിയിപ്പ്: എല്ലാ ഫയലുകളും ഇറക്കുമതി ചെയ്യാൻ കഴിഞ്ഞില്ല."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "ലഘുചിത്രങ്ങൾ ലോഡ് ചെയ്യാനായില്ല"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "ഡൗൺലോഡ് മെനു തുറക്കാനായില്ല"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "അപ്ലിക്കേഷൻ ക്രാഷ് ചെയ്യുക"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "പ്ലേയർ തകർക്കുക"
+    },
+    {
+      "name": "create",
+      "value": "നിർമിക്കുക"
+    },
+    {
+      "name": "create_playlist",
+      "value": "പുതിയ പ്ലേലിസ്റ്റ്"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "ഡാർക്ക് തീം"
+    },
+    {
+      "name": "decline",
+      "value": "നിരസിക്കുക"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "സ്ഥിര ഓഡിയോ ഫോർമാറ്റ്"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "സ്ഥിര കന്റെന്റ് രാജ്യം"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "സ്ഥിര കിയോസ്ക്"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "സ്ഥിര പോപ്പപ്പ് റിസല്യൂഷൻ"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "സ്ഥിര റിസല്യൂഷൻ"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "സ്ഥിര വീഡിയോ ഫോർമാറ്റ്"
+    },
+    {
+      "name": "delete",
+      "value": "ഡിലീറ്റ്"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "ഡൗൺലോഡ് ചെയ്ത ഫയലുകൾ ഇല്ലാതാക്കുക"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "സെർച്ച് ചരിത്രത്തിൽനിന്ന് ഈ item നീക്കം ചെയ്യട്ടെയോ?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "പ്ലേബാക്ക് സ്ഥാനങ്ങളെ നീക്കം ചെയ്യട്ടെയോ?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "ഈ പ്ലേലിസ്റ്റ് ഇല്ലാതാക്കണോ?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "സെർച്ച് ചരിത്രം നീക്കം ചെയ്യട്ടെയോ?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "മൊത്തം കാഴ്ച ചരിത്രം നീക്കട്ടെയോ?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "ഡിസ്ക്രിപ്ഷനിലെ ടെക്സ്റ്റ്‌ സെലക്ട്‌ ചെയ്യുവാൻ അനുവദിക്കാതെ ഇരിക്കുക"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "ഡിസ്ക്രിപ്ഷനിലെ ടെക്സ്റ്റ്‌ സെലക്ട്‌ ചെയ്യാൻ അനുവദിക്കുക"
+    },
+    {
+      "name": "description_select_note",
+      "value": "താക്കൾക് ഇപ്പോൾ ഡിസ്ക്രിപ്ഷൻ ബോക്സിലെ ടെക്സ്റ്റ്‌ തിരഞ്ഞെടുക്കാൻ സാധിക്കും. ശ്രെദ്ധിക്കുക സെലെക്ഷൻ മോഡിൽ പേജ് ചിലപ്പോൾ മിന്നുകയും ലിങ്കുകൾ ക്ലിക്ക് ചെയ്യാനാകാതെയും വന്നേക്കാം."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "വിവരണം"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "ഡിസ്ലൈക്കുകൾ"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "പുനക്രമീകരിക്കാൻ വലിച്ചിടുക"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "സ്നേഹത്തോടെ സൃഷ്ടാവ്"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "ലൈക്കുകൾ"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "ചാനൽ ലഘുചിത്രം"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "പ്ലേ വീഡിയോ, ദൈർഘ്യം:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "അപ്‌ലോഡറുടെ ലഘുചിത്രം"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "തങ്കൾ ഉദ്ദേശിച്ചത് : \"%1$s\" ആണോ?"
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "വീഡിയോ കാണുമ്പോൾ കറുത്ത സ്ക്രീൻ, അവ്യക്തത അനുഭവിക്കുന്നു എങ്കിൽ മീഡിയ ട്യൂൺലിങ് പ്രവർത്തനരഹിതമാക്കുക"
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "മീഡിയ ട്യൂൺലിങ് പ്രവർത്തനരഹിതമാക്കുക"
+    },
+    {
+      "name": "disabled",
+      "value": "അസാധുവാക്കപ്പെട്ടു"
+    },
+    {
+      "name": "dismiss",
+      "value": "പുറത്തള്ളുക"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "നിങ്ങൾക്ക് മികച്ച ഉപഭോക്തൃ അനുഭവം നൽകാനായി പ്രയത്‌നിക്കുന്ന ലോകമെമ്പാടുമുള്ള വൊളന്റിയർമാരാണ് ന്യൂപൈപ്പിന്റെ ശക്തി. ന്യൂപൈപ്പിനെ ഇനിയും മികവുറ്റതാക്കാൻ നിങ്ങൾക്ക് കഴിയും, നിങ്ങളുടെ സംഭാവനയിലൂടെ."
+    },
+    {
+      "name": "donation_title",
+      "value": "സംഭാവന ചെയ്യുക"
+    },
+    {
+      "name": "done",
+      "value": "ഓകെ"
+    },
+    {
+      "name": "dont_show",
+      "value": "കാണിക്കരുത്"
+    },
+    {
+      "name": "download",
+      "value": "ഡൗൺലോഡ്"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "ഈ പേരിൽ ഡൗൺ‌ലോഡ് തീരാത്ത ഒരു ഫയൽ ഉണ്ട്"
+    },
+    {
+      "name": "download_already_running",
+      "value": "ഈ പേരിൽ ഒരു ഡൗൺ‌ലോഡ് പുരോഗതിയിലാണ്"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "ഡൗൺലോഡ്"
+    },
+    {
+      "name": "download_failed",
+      "value": "ഡൗൺലോഡ് പരാജയപ്പെട്ടു"
+    },
+    {
+      "name": "download_has_started",
+      "value": "ഡൗൺലോഡ് ആരംഭിച്ചു"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "ഓഡിയോ ഫയലുകളുടെ ഡൗൺലോഡ് സ്ഥാനം"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "ഡൗൺലോഡ് ചെയ്ത പാട്ടുകൾ ഇവിടെ കാണാം"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "പാട്ട് ഡൗൺലോഡ് ഫോൾഡർ"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "വീഡിയോയ്ക്കായി ഡൗൺലോഡ് ഫോൾഡർ തിരഞ്ഞെടുക്കുക"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "ഡൗൺലോഡ് ചെയ്യപ്പെട്ട ഫയലുകൾ ഇവിടെ കാണും"
+    },
+    {
+      "name": "download_path_title",
+      "value": "വീഡിയോ ഡൗൺലോഡ് ആവുന്ന ഫോൾഡർ"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "എസ്ഡി കാർഡിലേക്ക്‌ ഡൗൺലോഡ് അസാധ്യം. ഡൗൺലോഡ് ഫോൾഡർ മാറ്റട്ടെ?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "എസ്ഡി സൗകര്യം ലഭ്യമല്ല"
+    },
+    {
+      "name": "downloads",
+      "value": "ഡൗൺലോഡുകൾ"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "ഓരോ ഡൗൺ‌ലോഡും എവിടെ സംരക്ഷിക്കണമെന്ന് നിങ്ങളോട് ചോദിക്കും.\n\nതാങ്കൾക്ക് എക്സ്റ്റർനെൽ SD കാർഡിലേക് ഡൌൺലോഡ് ചെയ്യണം എന്ന് ഉണ്ടെങ്കിൽ സിസ്റ്റം ഫോൾഡർ പിക്കർ (SAF) സജ്ജമാക്കുക"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "എവിടെ ആണ് ഡൌൺലോഡ് ചെയ്യ്യപെടുന്ന ഓരോ ഫയൽലും സംരക്ഷിക്കപ്പെടേണ്ടത് എന്ന് തങ്കളോട് ചോദിക്കും"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "എവിടെ നിന്ന് ഡൗൺലോഡ് ചെയ്യണമെന്ന് ചോദിക്കുക"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "സ്റ്റോറേജ് ആക്സസ് ഫ്രെയിംവർക്ക്' ഒരു ബാഹ്യ SD കാർഡിലേക്ക് ഡൗൺലോഡുകൾ അനുവദിക്കുന്നു"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "ആൻഡ്രോയ്ഡ് 10 മുതൽ മാത്രമേ \"സ്റ്റോറേജ് അക്സസ് ഫ്രെയിംവർക്ക്\" പിന്തുണക്കു"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "സിസ്റ്റം ഫോൾഡർ പിക്കർ (SAF) ഉപയോഗിക്കുക"
+    },
+    {
+      "name": "downloads_title",
+      "value": "ഡൗൺലോഡുകൾ"
+    },
+    {
+      "name": "drawer_close",
+      "value": "ഡ്രോയർ അടക്കുക"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "സേവനം മാറ്റുക, ഇപ്പോൾ തിരഞ്ഞെടുത്തത്:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "ഡ്രോയർ തുറക്കുക"
+    },
+    {
+      "name": "duration_live",
+      "value": "ലൈവ്"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "നോക്കേണ്ടടാ ഉണ്ണി ഇവിടെ ഒന്നും ഇല്ല"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "നീക്കംചെയ്യലിനുശേഷം ശകലം അല്ലെങ്കിൽ ആക്റ്റിവിറ്റി ജീവിതചക്രത്തിന് പുറത്തുള്ള വിതരണം ചെയ്യാനാവാത്ത Rx ഒഴിവാക്കലുകളുടെ നിർബന്ധിത റിപ്പോർട്ടിംഗ്"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Out-of-lifecycle പിശകുകൾ റിപ്പോർട്ടുചെയ്യുക"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "മെമ്മറി ലീക്ക് മോണിറ്ററിംഗ്, ഹീപ്പ് ഡമ്പിംഗ് ചെയ്യുമ്പോൾ അപ്ലിക്കേഷൻ പ്രതികരിക്കാതിരിക്കാൻ കാരണമായേക്കാം"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "അവസാനത്തെ പ്ലേബാക്ക് സ്ഥാനം പുനസ്ഥാപിക്കുക"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "പ്ലേബാക്ക് തുടരുക"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "പ്ലേബാക്ക് സ്ഥാനങ്ങൾ ലിസ്റ്റിൽ കാണിക്കുക"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "സ്ഥാനങ്ങൾ ലിസ്റ്റിൽ"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "ഡൗൺലോഡ് ക്യൂ പരിമിതപ്പെടുത്തുക"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "ഒരു ഡൗൺ‌ലോഡ് ഒരേ സമയം പ്രവർത്തിക്കും"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "സെർച്ചുകൾ ഫോണിൽ സൂക്ഷിക്കുക"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "അന്വേഷണ ചരിത്രം"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "കണ്ട വീഡിയോകളുടെ വിവരം സൂക്ഷിക്കുക"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "കാഴ്ച ചരിത്രം"
+    },
+    {
+      "name": "enqueue",
+      "value": "ക്യൂ"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "എൻക്യൂ"
+    },
+    {
+      "name": "enqueued",
+      "value": "എൻക്യൂ ചെയ്തു"
+    },
+    {
+      "name": "error_connect_host",
+      "value": "സെർവറിലേക്ക് ബന്ധിപ്പിക്കാൻ കഴിയില്ല"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "വിശദാംശങ്ങൾ:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "ഈ ഡൗൺലോഡ് വീണ്ടെടുക്കാനാവില്ല"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "ഫയൽ സൃഷ്ടിക്കാൻ കഴിയില്ല"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "സെർവർ ഡാറ്റ അയയ്‌ക്കുന്നില്ല"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "കണ്ടെത്താനായില്ല"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "മൾട്ടി-ത്രെഡഡ് ഡൗൺലോഡുകൾ‌ സെർ‌വർ‌ സ്വീകരിക്കുന്നില്ല, വീണ്ടും ശ്രമിക്കുക @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "ഉപകരണത്തിൽ ഇനിയൊരു സ്ഥലവും ബാക്കിയില്ല"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "ഒരു പിശക് സംഭവിച്ചു: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "ഉദ്ദിഷ്ടസ്ഥാന ഫോൾഡർ സൃഷ്ടിക്കാൻ കഴിയില്ല"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "പോസ്റ്റ്-പ്രോസസ്സിംഗ് പരാജയപ്പെട്ടു"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "ഫയലിൽ പ്രവർത്തിക്കുമ്പോൾ ന്യൂപൈപ്പ് അടച്ചു"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "ഫയൽ ഇല്ലാതാക്കിയതിനാൽ പുരോഗതി നഷ്‌ടപ്പെട്ടു"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "ഇമെയിൽ വഴി ഈ പിശക് റിപ്പോർട്ട് ചെയ്യുക"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "നിങ്ങളുടെ ക്രാഷ് ചർച്ച ചെയ്യുന്ന ഒരു പ്രശ്നം ഇതിനകം നിലവിലുണ്ടോയെന്ന് ദയവായി പരിശോധിക്കുക. തനിപ്പകർപ്പ് ആയ ടിക്കറ്റുകള്‍ സൃഷ്ടിക്കുമ്പോൾ, യഥാർത്ഥ ബഗ് പരിഹരിക്കുവാന്‍ വേണ്ടി ഞങ്ങ‍ള്‍ക്ക് ചെലവഴിക്കാൻ കഴിയുമായിരുന്ന സമയം നിങ്ങൾ ഞങ്ങളിൽ നിന്ന് എടുക്കുകയാണ് ചെയ്യുന്നത്."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "GitHub- ൽ റിപ്പോർട്ട് ചെയ്യുക"
+    },
+    {
+      "name": "error_report_title",
+      "value": "പിശക് റിപ്പോർട്ട്"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "റിപ്പോർട്ട്"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "ക്ഷമിക്കണം, ചില തകരാറുകൾ സംഭവിച്ചു."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "ഒരു സുരക്ഷിത കണക്ഷൻ സ്ഥാപിക്കാനായില്ല"
+    },
+    {
+      "name": "error_timeout",
+      "value": "കണക്ഷൻ കാലഹരണപ്പെട്ടു"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "കമെന്റുകൾ ലോഡുചെയ്യാനായില്ല"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "സെർവർ കണ്ടെത്താനായില്ല"
+    },
+    {
+      "name": "events",
+      "value": "സംഭവങ്ങൾ"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "കയറ്റുമതി ചെയ്തവ"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "ചരിത്രം, സബ്സ്ക്രിബ്ഷനുകൾ, പ്ലേലിസ്റ്റുകൾ, സജ്ജീകരണങ്ങൾ എന്നിവ ഇറക്കുമതി ചെയ്യുക"
+    },
+    {
+      "name": "export_data_title",
+      "value": "ഡാറ്റാബേസ് കയറ്റുമതി ചെയ്യുക"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "എക്സ്പോർട്ട് ചെയ്യുന്നു…"
+    },
+    {
+      "name": "export_to",
+      "value": "ലേക്ക് എക്സ്പോർട്ട്"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "പുറമെയുള്ള പ്ലയേറുകൾ ഈ ലിങ്കുകൾ സപ്പോർട്ട് ചെയ്യുന്നില്ല"
+    },
+    {
+      "name": "featured",
+      "value": "തിരഞ്ഞെടുത്തത്"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "പുതിയത്"
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "ഈ ഗ്രൂപ്പ് ഇല്ലാതാക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "ശൂന്യമായ ഗ്രൂപ്പ് പേര്"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "സബ്‌സ്‌ക്രിപ്‌ഷനുകളൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "സബ്‌സ്‌ക്രിപ്‌ഷനുകൾ തിരഞ്ഞെടുക്കുക"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "ഗ്രൂപ്പുചെയ്യാത്ത സബ്‌സ്‌ക്രിപ്‌ഷനുകൾ മാത്രം കാണിക്കുക"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "ചാനൽ ഗ്രൂപ്പുകൾ"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "ഫീഡ് ലോഡ് ചെയ്യുന്നതിൽ പിശക് സംഭവിച്ചിരിക്കുന്നു"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "'%s' ലെ ഫീഡ് ലോഡ് ചെയ്യാൻ സാധികില്ല."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "ഫാസ്റ്റ് ഫീഡ് മോഡ് കൂടുതൽ വിവരങ്ങൾ നൽകില്ല."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "സൃഷ്ടാവിന്റെ അക്കൗണ്ട് ഇല്ലാതായിരിക്കുന്നു.\n\nഭാവിയിൽ ഫീഡ് ലോഡ് ചെയ്യാൻ ന്യൂ പൈപ്പിന് സാധിക്കില്ല.\n\nതാക്കൾക്ക് ഈ ചാനൽ അൺ സബ്സ്ക്രൈബ് ചെയ്യണോ?"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "ഫീഡ് ലോഡുചെയ്യുന്നു…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "അവസാനം അപ്‌ഡേറ്റുചെയ്‌ത ഫീഡ്: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "ഫീഡ് പ്രോസസ്സ് ചെയ്യുന്നു…"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "ലോഡ് ആവാത്തത്: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "എപ്പോഴും അപ്‌ഡേറ്റുചെയ്യുക"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "ഒരു സബ്സ്ക്രിപ്ഷൻ കാലഹരണപ്പെട്ടതായി കണക്കാക്കുന്നതിന് മുമ്പുള്ള അവസാന അപ്‌ഡേറ്റിന് ശേഷമുള്ള സമയം — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "ഫീഡ് അപ്‌ഡേറ്റ് പരിധി"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "ഫാസ്റ്റ് മോഡ് അപ്രാപ്തമാക്കുക"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "വേഗത്തിലുള്ള മോഡ് പ്രവർത്തനക്ഷമമാക്കുക"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "ഫീഡ് ലോഡിംഗ് വളരെ മന്ദഗതിയിലാണെന്ന് നിങ്ങൾ കരുതുന്നുണ്ടോ? അങ്ങനെയാണെങ്കിൽ, വേഗത്തിലുള്ള ലോഡിംഗ് പ്രവർത്തനക്ഷമമാക്കാൻ ശ്രമിക്കുക (നിങ്ങൾക്ക് ഇത് ക്രമീകരണങ്ങളിലോ ചുവടെയുള്ള ബട്ടൺ അമർത്തിയോ മാറ്റാം).\n\nന്യൂപൈപ്പ് രണ്ട് ഫീഡ് ലോഡിംഗ് തന്ത്രങ്ങൾ വാഗ്ദാനം ചെയ്യുന്നു:\nSlow സബ്‌സ്‌ക്രിപ്‌ഷൻ ചാനൽ മുഴുവനും ലഭ്യമാക്കുന്നു, അത് മന്ദഗതിയിലുള്ളതും എന്നാൽ പൂർണ്ണവുമാണ്.\nA ഒരു സമർപ്പിത സേവന എൻ‌ഡ്‌പോയിൻറ് ഉപയോഗിക്കുന്നു, അത് വേഗതയേറിയതും എന്നാൽ സാധാരണയായി പൂർത്തിയാകാത്തതുമാണ്.\n\nരണ്ടും തമ്മിലുള്ള വ്യത്യാസം, വേഗതയേറിയവയ്ക്ക് സാധാരണയായി ഇനത്തിന്റെ ദൈർഘ്യം അല്ലെങ്കിൽ തരം (തത്സമയ വീഡിയോകളും സാധാരണ വീഡിയോകളും തമ്മിൽ വേർതിരിച്ചറിയാൻ കഴിയില്ല) പോലുള്ള ചില വിവരങ്ങൾ ഇല്ല എന്നതാണ്, മാത്രമല്ല ഇത് കുറച്ച് ഇനങ്ങൾ തിരികെ നൽകിയേക്കാം.\n\nRSS ഫീഡിനൊപ്പം ഈ വേഗത്തിലുള്ള രീതി വാഗ്ദാനം ചെയ്യുന്ന ഒരു സേവനത്തിന്റെ ഉദാഹരണമാണ് YouTube.\n\nഅതിനാൽ ചോയ്‌സ് നിങ്ങൾ ഇഷ്ടപ്പെടുന്നതിലേക്ക് തിളച്ചുമറിയുന്നു: വേഗത അല്ലെങ്കിൽ കൃത്യമായ വിവരങ്ങൾ."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "ചില സേവനങ്ങളിൽ ലഭ്യമാണ്, ഇത് സാധാരണയായി വളരെ വേഗതയുള്ളതാണ്, പക്ഷേ പരിമിതമായ അളവിലുള്ള ഇനങ്ങളും പലപ്പോഴും അപൂർണ്ണമായ വിവരങ്ങളും നൽകാം (ഉദാ. ദൈർഘ്യം, ഇന തരം, തത്സമയ നിലയില്ല)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "ലഭ്യമാകുമ്പോൾ സമർപ്പിത ഫീഡിൽ നിന്ന് നേടുക"
+    },
+    {
+      "name": "file",
+      "value": "ഫയൽ"
+    },
+    {
+      "name": "file_deleted",
+      "value": "ഫയൽ നശിപ്പിച്ചു"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "ഫയലിന്റെ പേര് ശൂന്യമാകാൻ പാടില്ല"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "പുതിയതെന്താണ്"
+    },
+    {
+      "name": "general_error",
+      "value": "പിശക്"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "അദ്വിതീയ നാമം സൃഷ്ടിക്കുക"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "ഈ ഉള്ളടക്കം നിങ്ങളുടെ രാജ്യത്ത് ലഭ്യമല്ല."
+    },
+    {
+      "name": "give_back",
+      "value": "തിരികെ നൽകുക"
+    },
+    {
+      "name": "grid",
+      "value": "ഗ്രിഡ്"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "വീഡിയോ ഹാഷിംഗ് പുരോഗതിക്കായുള്ള അറിയിപ്പുകൾ"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "വീഡിയോ ഹാഷ് അറിയിപ്പ്"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "ഉയർന്ന നിലവാരം (വലിയത് )"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "എൻക്യൂ ചെയ്യാൻ പിടിക്കുക"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "ഇറക്കുമതി ചെയ്തവ"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "നിങ്ങളുടെ നിലവിലെ ചരിത്രം, സബ്‌സ്‌ക്രിപ്‌ഷനുകൾ, പ്ലേലിസ്റ്റുകൾ (ഓപ്‌ഷണലായി) ക്രമീകരണങ്ങൾ അസാധുവാക്കുന്നു"
+    },
+    {
+      "name": "import_data_title",
+      "value": "ഡാറ്റാബേസ് അവതരിപ്പിക്കുക"
+    },
+    {
+      "name": "import_file_title",
+      "value": "ഫയൽ ഇമ്പോർട്ടുചെയ്യുക"
+    },
+    {
+      "name": "import_from",
+      "value": "ഇമ്പോർട്ട് ന്ന്"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "ഈ പ്രവർത്തനം നെറ്റ്‌വർക്ക് ചെലവേറിയതായിരിക്കുമെന്ന് ഓർമ്മിക്കുക.\n\n\n\nനിങ്ങൾ തുടരാൻ ആഗ്രഹിക്കുന്നുവോ?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "ഇമ്പോർട്ട് ചെയ്യുന്നു…"
+    },
+    {
+      "name": "import_settings",
+      "value": "ക്രമീകരണങ്ങളും ഇമ്പോർട്ടുചെയ്യാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?"
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "URL അല്ലെങ്കിൽ നിങ്ങളുടെ ഐഡി ടൈപ്പുചെയ്തുകൊണ്ട് ഒരു സൗണ്ട്ക്ലൗഡ് പ്രൊഫൈൽ ഇമ്പോർട്ടുചെയ്യുക:\n\n\n\n1. ഒരു വെബ് ബ്രൗസറിൽ \"ഡെസ്ക്ടോപ്പ് മോഡ്\" പ്രാപ്തമാക്കുക (മൊബൈൽ ഉപകരണങ്ങൾക്കായി സൈറ്റ് ലഭ്യമല്ല)\n\n2. ഈ URL- ലേക്ക് പോകുക: %1$s\n\n3. ആവശ്യപ്പെടുമ്പോൾ ലോഗിൻ ചെയ്യുക\n\n4. നിങ്ങളെ റീഡയറക്‌ടുചെയ്‌ത പ്രൊഫൈൽ URL പകർത്തുക."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "താങ്കളുടെ ID: yourID, soundcloud.com/yourid"
+    },
+    {
+      "name": "import_title",
+      "value": "ഇമ്പോർട്ട്"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "ഗൂഗിൾ ടേക്ക് ഔട്ടിൽ നിന്ന് യൂട്യൂബ് സബ്‌സ്‌ക്രിപ്‌ഷനുകൾ ഇമ്പോർട്ടുചെയ്യുക:\n\n\n\n1. ഈ URL ലേക്ക് പോകുക: %1$s\n\n2. ആവശ്യപ്പെടുമ്പോൾ ലോഗിൻ ചെയ്യുക\n\n3. \"All data included\" ക്ലിക്കുചെയ്യുക, തുടർന്ന് \"Deselect all\" എന്നതിൽ ക്ലിക്കുചെയ്യുക, തുടർന്ന് \"subscriptions\" മാത്രം തിരഞ്ഞെടുത്ത് \"OK\" ക്ലിക്കുചെയ്യുക.\n\n4. \"Next Export\" ക്ലിക്കുചെയ്യുക, തുടർന്ന് \"Create Export\" ക്ലിക്കുചെയ്യുക\n\n5. \"Download\" ബട്ടൺ പ്രത്യക്ഷപ്പെട്ടതിനുശേഷം അതിൽ ക്ലിക്കുചെയ്യുക\n\n6. ഡൗൺ‌ലോഡുചെയ്‌ത ടേക്ക്ഔട്ട് സിപ്പിൽ നിന്ന് .json ഫയൽ എക്‌സ്‌ട്രാക്റ്റുചെയ്യുക (സാധാരണയായി \"YouTube, YouTube Music / subscription / subscription.json\" ന് കീഴിൽ) അത് ഇവിടെ ഇറക്കുമതി ചെയ്യുക."
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ വീഡിയോകൾ"
+    },
+    {
+      "name": "info_labels",
+      "value": "എന്താണ്:\nഅപേക്ഷ:\nഉള്ളടക്കത്തിന്റെ ഭാഷ:\nഉള്ളടക്കത്തിന്റെ രാജ്യം:\n അപ്ലിക്കേഷന്റെ ഭാഷ:\nസേവനം:\nGMT സമയം:\nപാക്കേജ്:\nപതിപ്പ്:\nOS ന്റെ പതിപ്പ്:"
+    },
+    {
+      "name": "install",
+      "value": "ഇൻസ്റ്റാൾ"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "അങ്ങനെയൊരു ഫോൾഡർ ഇല്ല"
+    },
+    {
+      "name": "invalid_file",
+      "value": "ഒന്നിൽ അങ്ങനൊരു ഫയൽ ഇല്ല, അല്ലെങ്കിൽ അത് തുറക്കാനുള്ള അനുമതിയില്ല"
+    },
+    {
+      "name": "invalid_source",
+      "value": "അങ്ങനെയൊരു ഫയൽ/കന്റെന്റ് ഉറവിടം ഇല്ല"
+    },
+    {
+      "name": "just_once",
+      "value": "ഒരിക്കൽ മാത്രം"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "കിയോസ്ക്‌ പേജ്"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Kore ഇൻസ്റ്റാൾ ചെയ്യട്ടെയോ?"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "ലൈറ്റ് തീം"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "പരിധിയില്ല"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "മൊബൈൽ ഡാറ്റ ഉപയോഗിക്കുമ്പോൾ മിഴിവ് പരിമിതപ്പെടുത്തുക"
+    },
+    {
+      "name": "list",
+      "value": "ലിസ്റ്റ്"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "പട്ടിക കാഴ്ച മോഡ്"
+    },
+    {
+      "name": "local",
+      "value": "പ്രാദേശികം"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "ലോക്കൽ സെർച്ച്‌ നിർദേശങ്ങൾ"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "കുറഞ്ഞ നിലവാരം (ചെറുത് )"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "തുടങ്ങാൻ \"തിരയൽ\" അമർത്തുക."
+    },
+    {
+      "name": "main_page_content",
+      "value": "പ്രധാന പേജ് ഉള്ളടക്കം"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "പ്രധാന പേജിൽ കാണിക്കേണ്ട ടാബുകൾ"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "ഐറ്റം കളയണം എന്നുണ്ടെല്‍ സ്വൈപ്പ് ചൈയ്യുക"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "കണ്ടതാണെന്ന് അടയാളപ്പെടുത്തുക"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "ഡൗൺലോഡ് റദ്ദാക്കുന്നതിനുമുമ്പ് പരമാവധി ശ്രമങ്ങൾ"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "പരമാവധി വീണ്ടും ശ്രമിക്കുന്നു"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "പ്രായ പരിധി"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "കാഷെ ആയ മെറ്റാഡേറ്റ തുടച്ചുനീക്കി"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "കാഷെ ആയ ഡേറ്റ നീക്കംചെയ്യുക"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "കാഷെ ആയ മെറ്റാഡേറ്റ തുടച്ചുനീക്കി"
+    },
+    {
+      "name": "metadata_category",
+      "value": "വിഭാഗം"
+    },
+    {
+      "name": "metadata_host",
+      "value": "ഹോസ്റ്റ്"
+    },
+    {
+      "name": "metadata_language",
+      "value": "ഭാഷ"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "ലൈസൻസ്"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "സ്വകാര്യത"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "ഇന്റെർണൽ"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "സ്വകാര്യം"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "പൊതുവായത്"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "ലിസ്റ്റ് ചെയ്യപ്പെടാത്തത്"
+    },
+    {
+      "name": "metadata_support",
+      "value": "പിന്തുണ"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "ടാഗുക്കൾ"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "പശ്ചാത്തല പ്ലെയറിലേക്ക് ചെറുതാക്കുക"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "ഒന്നുമില്ല"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "പോപ്പ്അപ്പ് പ്ലെയറിലേക്ക് ചെറുതാക്കുക"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "പ്രധാന വീഡിയോ പ്ലെയറിൽ നിന്ന് മറ്റ് അപ്ലിക്കേഷനിലേക്ക് മാറുമ്പോഴുള്ള പ്രവർത്തനം — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "ആപ് മാറ്റുമ്പോൾ മിനിമൈസ് ചെയ്യുക"
+    },
+    {
+      "name": "missing_file",
+      "value": "ഫയൽ മാറ്റപ്പെടുകയോ ഡിലീറ്റ് ആവുകയോ ചെയ്തിട്ടുണ്ട്"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "പൂർത്തിയായി"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "ശേഷിക്കുന്നു"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ വീഡിയോകൾ"
+    },
+    {
+      "name": "most_liked",
+      "value": "ഏറ്റവും ഇഷ്ടപ്പെട്ടത്"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "ഹാഷ് കണക്കാക്കുന്നു"
+    },
+    {
+      "name": "msg_copied",
+      "value": "ക്ലിപ്ബോർഡിലേക്ക് പകർത്തി"
+    },
+    {
+      "name": "msg_error",
+      "value": "പിശക്"
+    },
+    {
+      "name": "msg_name",
+      "value": "ഫയൽനാമം"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "പോപപ് മോഡിന്ഈ\n\nഅനുമതി ആവിശ്യമാണ്"
+    },
+    {
+      "name": "msg_running",
+      "value": "ന്യൂപൈപ്പ് ഡൗൺലോഡിങ്ങ്"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "വിശദാംശങ്ങൾക്കായി തൊടൂ"
+    },
+    {
+      "name": "msg_threads",
+      "value": "ത്രെഡുകൾ"
+    },
+    {
+      "name": "msg_wait",
+      "value": "കാത്തിരിക്കു…"
+    },
+    {
+      "name": "mute",
+      "value": "മ്യൂട്ട്"
+    },
+    {
+      "name": "name",
+      "value": "പേര്"
+    },
+    {
+      "name": "network_error",
+      "value": "നെറ്റ്‌വർക്ക് പിശക്"
+    },
+    {
+      "name": "never",
+      "value": "ഒരിക്കലും"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "പുതിയതും ചൂടേറിയതും"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "AVPlayer പരിമിതികൾ കാരണം തിരയൽ ദൈർഘ്യം %d സെക്കൻഡിലേക്ക് സജ്ജമാക്കി"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "നിങ്ങളുടെ പ്രിയപ്പെട്ട രാത്രി തീം തിരഞ്ഞെടുക്കുക — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "രാത്രി തീം"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "നിങ്ങളുടെ ഉപകരണത്തിലെ ഒരു അപ്ലിക്കേഷനും ഇത് തുറക്കാൻ കഴിയില്ല"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "പിന്നീട് ക്രമീകരണങ്ങളിൽ ഒരു ഡൗൺലോഡ് ഫോൾഡർ തിരഞ്ഞെടുക്കണം"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "ചാനൽ സബ്സ്ക്രിപ്ഷനുകൾ ഇല്ല"
+    },
+    {
+      "name": "no_comments",
+      "value": "നോ കമെന്റ്സ്"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "ഡൌൺലോഡ് ഫോൾഡർ ഇത് വരെയും സെറ്റ് ചെയ്തിട്ടില്ല, സ്ഥിര ഡൌൺലോഡ് ഫോൾഡർ ഇപ്പോൾ തിരഞ്ഞെക്കുക"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "ആരും കേൾക്കുന്നില്ല"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "ആരും കാണുന്നില്ല"
+    },
+    {
+      "name": "no_player_found",
+      "value": "സ്ട്രീം പ്ലയർ കണ്ടെത്താനായില്ല. VLC ഇൻസ്റ്റാൾ ചെയ്യട്ടെ?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "സ്ട്രീം പ്ലയർ കണ്ടെത്താനായില്ല (VLC ഇൻസ്റ്റാൾ ചെയ്താൽ പ്ലേ ചെയ്യാനാകും)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "ഇതുവരെ ഒരു പ്ലേലിസ്റ്റ് ബുക്ക്മാർക്കുകളും ഇല്ല"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "ഡൗൺലോഡ് ചെയ്യാൻ സ്‌ട്രീമുകൾ ലഭ്യമല്ല"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "സബ്ക്രൈബേഴ്സ് ഇല്ല"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "സാധുവായ ZIP ഫയലില്ല"
+    },
+    {
+      "name": "no_videos",
+      "value": "ഒരു വിഡിയോയും ഇല്ല"
+    },
+    {
+      "name": "no_views",
+      "value": "വ്യൂസ് ഇല്ല"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "ആദ്യ പ്രവർത്തന ബട്ടൺ"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "രണ്ടാം പ്രവർത്തന ബട്ടൺ"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "മൂന്നാം പ്രവർത്തന ബട്ടൺ"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "നാലാം പ്രവർത്തന ബട്ടൺ"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "അഞ്ചാം പ്രവർത്തന ബട്ടൺ"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "ബഫറിംഗ്"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "ഒന്നുമില്ല"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "ആവർത്തിക്കുക"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "ക്രമരഹിതം"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "കോം‌പാക്റ്റ് അറിയിപ്പിൽ‌ കാണിക്കുന്നതിന് നിങ്ങൾക്ക് പരമാവധി മൂന്ന് പ്രവർ‌ത്തനങ്ങൾ‌ തിരഞ്ഞെടുക്കാനാകും!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "ചുവടെയുള്ള ഓരോ അറിയിപ്പ് പ്രവർത്തനവും ടാപ്പുചെയ്ത് എഡിറ്റുചെയ്യുക. വലതുവശത്തുള്ള ചെക്ക്ബോക്സുകൾ ഉപയോഗിച്ച് കോംപാക്റ്റ് അറിയിപ്പിൽ കാണിക്കുന്നതിന് അവയിൽ മൂന്നെണ്ണം വരെ തിരഞ്ഞെടുക്കുക"
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "ന്യൂപൈപ്പ് പ്ലേയറിന് വേണ്ടിയുള്ള അറിയിപ്പുകൾ"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "ന്യൂപൈപ്പ് അറിയിപ്പ്"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "വീഡിയോ കവർ ചിത്രത്തിന്റെ പ്രധാന നിറത്തിന് അനുസരിച്ചു നോട്ടിഫിക്കേഷന്റെ കളർ മാറ്റാൻ ആൻഡ്രോയ്ഡിനെ അനുവദിക്കുക (ഇത് എല്ലാം ഉപകരണങ്ങളിലും ലഭ്യമല്ല )"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "നോട്ടിഫിക്കേഷൻ വർണ്ണാഭമാകുക"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "നോട്ടിഫിക്കേഷനിൽ കാണിക്കുന്ന വീഡിയോ കവർ ചിത്രം 16:9 എന്ന അനുപാതത്തിൽ നിന്നും 1:1 ലേക്ക് ക്രോപ് ചെയ്യുക"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "ലഘുചിത്രം 1: 1 വീക്ഷണാനുപാതത്തിലേക്ക് ക്രോപ് ചെയ്യുക"
+    },
+    {
+      "name": "notifications",
+      "value": "അറിയിപ്പുകൾ"
+    },
+    {
+      "name": "off",
+      "value": "ഓഫ്‌"
+    },
+    {
+      "name": "ok",
+      "value": "ഓകെ"
+    },
+    {
+      "name": "on",
+      "value": "ഓൺ"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "ഒരെണ്ണം നീക്കംചെയ്തു."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "ബ്രൗസറിൽ തുറക്കുക"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "പൊന്തി വരുന്ന മോഡിൽ തുറക്കുക"
+    },
+    {
+      "name": "open_website_license",
+      "value": "വെബ്സൈറ്റ് തുറക്കുക"
+    },
+    {
+      "name": "open_with",
+      "value": "ഇതിനോടൊപ്പം തുറക്കുക"
+    },
+    {
+      "name": "override_current_data",
+      "value": "ഇത് നിങ്ങളുടെ നിലവിലെ സജ്ജീകരണത്തെ അസാധുവാക്കും."
+    },
+    {
+      "name": "overwrite",
+      "value": "തിരുത്തിയെഴുതുക"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "ഫയൽ പുനരാലേഖനം ചെയ്യാൻ കഴിയില്ല"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "ഈ പേരിൽ ഒരു ഡൗൺ‌ലോഡുചെയ്‌ത ഫയൽ ഇതിനകം നിലവിലുണ്ട്"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "ഈ പേരിലുള്ള ഒരു ഫയൽ ഇതിനകം നിലവിലുണ്ട്"
+    },
+    {
+      "name": "paid_content",
+      "value": "പണമടച്ച ഉപയോക്താക്കൾക്ക് മാത്രമേ ഈ ഉള്ളടക്കം ലഭ്യമാകൂ, അതിനാൽ ഇത് ന്യൂപൈപ്പ് സ്ട്രീം ചെയ്യാനോ ഡൗൺലോഡ് ചെയ്യാനോ കഴിയില്ല."
+    },
+    {
+      "name": "parsing_error",
+      "value": "വെബ്സൈറ്റ് വ്യാപരിക്കാനായില്ല"
+    },
+    {
+      "name": "pause",
+      "value": "വിരാമം"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "ഡൗൺലോഡുകൾ താൽക്കാലികമായി നിർത്തുക"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "മീറ്റർ ചെയ്ത നെറ്റ്‌വർക്കുകളിൽ തടസ്സപ്പെടുത്തുക"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "ചില ഡൗൺ‌ലോഡുകൾ‌ താൽ‌ക്കാലികമായി നിർ‌ത്താൻ‌ കഴിയില്ലെങ്കിലും മൊബൈൽ‌ ഡാറ്റയിലേക്ക് മാറുമ്പോൾ‌ ഉപയോഗപ്രദമാണ്"
+    },
+    {
+      "name": "paused",
+      "value": "താൽക്കാലികമായി നിർത്തി"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "സന്ദർഭം നേരത്തെ നിലവിലുണ്ട്"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "സന്ദർഭം സാധൂകരിക്കാൻ സാധിച്ചില്ല"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "സന്ദർഭത്തിന്റെ URL കൂട്ടിച്ചേർക്കുക"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "HTTPS URL കൾ മാത്രമേ പിന്തുണക്കുകയുള്ളൂ"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "സന്ദർഭം ചേർക്കുക"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "%s-ൽ നിങ്ങൾ ഇഷ്ടപ്പെടുന്ന സന്ദർഭങ്ങളെ കണ്ടെത്തുക"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "നിങ്ങളുടെ പ്രിയപ്പെട്ട പിയർട്യൂബ് സന്ദർഭങ്ങളെ തിരഞ്ഞെടുക്കുക"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "പിയർട്യൂബ് സന്ദർഭങ്ങൾ"
+    },
+    {
+      "name": "permission_denied",
+      "value": "സിസ്റ്റം പ്രവർത്തനം തടഞ്ഞു"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "മറ്റ് ആപ്പുകളുടെ മുകളിൽ വരാനുളള അനുമതി നൽകുക"
+    },
+    {
+      "name": "play_all",
+      "value": "എല്ലാം പ്ലേ ചെയ്യുക"
+    },
+    {
+      "name": "play_audio",
+      "value": "ഓഡിയോ"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "ഓഡിയോ ക്രമീകരണങ്ങൾ"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "നീക്കം ചെയ്യുക"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "വിശദാംശങ്ങൾ"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Kodi ഉപയോഗിച്ച് പ്ലേ ചെയ്യുക"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "പിച്ച്"
+    },
+    {
+      "name": "playback_reset",
+      "value": "റീസെറ്റ്"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "പ്ലേബാക്ക് വേഗത നിയന്ത്രണങ്ങൾ"
+    },
+    {
+      "name": "playback_step",
+      "value": "സ്റ്റെപ്"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "ടെംപോ"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "പിശകിൽ നിന്ന് വീണ്ടെടുക്കുന്നു"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "ഈ സ്ട്രീം പ്ലേ ചെയ്യാൻ സാധിച്ചില്ല"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "പ്ലെയറിൽ പിശക് സംഭവിച്ചു"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "പ്ലേലിസ്റ്റ് ചെയ്തു"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "പ്ലേലിസ്റ്റ് സൃഷ്‌ടിച്ചു"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "യാന്ത്രികമായി ജനറേറ്റുചെയ്‌തത് (അപ്‌ലോഡറൊന്നും കണ്ടെത്തിയില്ല)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "പ്ലേലിസ്റ്റ് പേജ്"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "പ്ലേലിസ്റ്റ് ലഘുചിത്രം മാറ്റി."
+    },
+    {
+      "name": "playlists",
+      "value": "പ്ലേലിസ്റ്റുകൾ"
+    },
+    {
+      "name": "popup_player",
+      "value": "പോപ്പ്അപ്പ് പ്ലെയർ"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "പോപ്പപ്പ് മോഡിൽ പ്ലേ ചെയ്യുന്നു"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "പോപ്പപ്പിന്റെ അവസാന വലുപ്പവും സ്ഥാനവും ഓർത്തിരിക്കുക"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "പോപ്പപ്പ് വലുപ്പവും സ്ഥാനവും ഓർത്തിരിക്കുക"
+    },
+    {
+      "name": "post_processing",
+      "value": "പോസ്റ്റ്-പ്രോസസ്സിംഗ്"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "ഭാഷ ഏതായാലും യഥാർത്ഥ ശബ്ദം തിരഞ്ഞെടുക്കുക"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "യഥാർത്ഥ ശബ്ദത്തിന് പരിഗണന കൊടുക്കുക"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "ഉള്ളടക്കം തുറക്കുമ്പോൾ സ്ഥിരസ്ഥിതി പ്രവർത്തനം — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "തിരഞ്ഞെടുത്ത 'ഓപ്പൺ' പ്രവർത്തനം"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "അഭ്യർത്ഥിച്ച കന്റെന്റ് ലോഡുചെയ്യുന്നു"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "വിവരം നേടുന്നു…"
+    },
+    {
+      "name": "previous_export",
+      "value": "മുമ്പത്തെ എക്സ്പോർട്ട്"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "ദ ന്യൂപൈപ്പ് പ്രോജക്ട് നിങ്ങളുടെ സ്വകാര്യതയെ മാനിക്കുന്നു. അതുകൊണ്ടുതന്നെ, നിങ്ങളുടെ ഒരു ഡേറ്റയും ഞങ്ങൾ ശേഖരിക്കുന്നില്ല. \n\nനിങ്ങൾ ഒരു ക്രാഷ് റിപ്പോർട്ട് അയക്കുമ്പോൾ അതിൻപ്രകാരം എന്ത് ഡാറ്റ ആണ് ശേഖരിക്കുന്നെന്നും സൂക്ഷിക്കുന്നതെന്നുമൊക്കെ ന്യൂപൈപ്പിന്റെ സ്വകാര്യതാനയം വ്യകതമാക്കുന്നതാണ്."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "ന്യൂപൈപ്പിന്റെ സ്വകാര്യതാനയം"
+    },
+    {
+      "name": "private_content",
+      "value": "ഈ ഉള്ളടക്കം സ്വകാര്യമാണ്, അതിനാൽ ഇത് ന്യൂപൈപ്പ് സ്ട്രീം ചെയ്യാനോ ഡൗൺലോഡ് ചെയ്യാനോ കഴിയില്ല."
+    },
+    {
+      "name": "queued",
+      "value": "ക്യൂവിൽ"
+    },
+    {
+      "name": "radio",
+      "value": "റേഡിയോ"
+    },
+    {
+      "name": "read_full_license",
+      "value": "ലൈസൻസ് വായിക്കൂ"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "സ്വകാര്യതാനയം വായിക്കൂ"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA കുക്കികൾ‌ മായ്‌ച്ചു"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "reCAPTCHA ചാലഞ്ചിനായി അഭ്യർത്ഥിച്ചു"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "പരിഹരിക്കുക"
+    },
+    {
+      "name": "recent",
+      "value": "സമീപകാലം"
+    },
+    {
+      "name": "recently_added",
+      "value": "സമീപകാലത്ത് ചേർത്തത്"
+    },
+    {
+      "name": "recovering",
+      "value": "വീണ്ടെടുക്കുന്നു"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "അനുബന്ധ ഇനങ്ങൾ"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "റിമോട്ട് സെർച്ച്‌ നിർദ്ദേശങ്ങൾ"
+    },
+    {
+      "name": "remove_watched",
+      "value": "കണ്ടത് നീക്കംചെയ്യുക"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "അതെ, അതിന്റെകൂടെ ഭാഗികമായി കണ്ട വീഡിയോകളും"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "കണ്ട വീഡിയോകൾ നീക്കംചെയ്യണോ?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "പ്ലേലിസ്റ്റിലേക്ക് ചേർക്കുന്നതിന് മുമ്പും ശേഷവും കണ്ട വീഡിയോകൾ നീക്കംചെയ്യും. \nനിങ്ങൾക്ക് ഉറപ്പാണോ? ഇത് പഴയപടിയാക്കാൻ കഴിയില്ല!"
+    },
+    {
+      "name": "rename",
+      "value": "പേരുമാറ്റുക"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "പേര് മാറ്റുക"
+    },
+    {
+      "name": "resize_fill",
+      "value": "ഫിൽ"
+    },
+    {
+      "name": "resize_fit",
+      "value": "ഫിറ്റ്"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "സൂം"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "പഴയപടി എല്ലാം പുനസ്ഥാപിക്കുക"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "എല്ലാം പഴയപടി ആക്കട്ടെയോ?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "ഈ വീഡിയോ പ്രായപരിമിതി ഉള്ളതാണ്.\n\n\n\nനിങ്ങൾക്ക് ഇത് കാണണമെങ്കിൽ ക്രമീകരണങ്ങളിൽ \"%1$s\" ഓണാക്കുക."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "ഈ വീഡിയോ പ്രായപരിധി നിർണ്ണയിച്ചിരിക്കുന്നു.\n\nപ്രായ-നിയന്ത്രിത വീഡിയോകളുള്ള പുതിയ യൂട്യൂബ് നയങ്ങൾ കാരണം, ന്യൂപൈപ്പിന് അതിന്റെ വീഡിയോ സ്ട്രീമുകളിലൊന്നും ആക്സസ് ചെയ്യാൻ കഴിയില്ല, അതിനാൽ ഇത് പ്ലേ ചെയ്യാൻ കഴിയില്ല."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "തടസങ്ങൾക്ക് ശേഷം പ്ലേ ചെയ്യുന്നത് തുടരുക (eg. ഫോൺകോളുകൾക്ക് ശേഷം)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "പ്ലേ ചെയ്യുന്നത് തുടരുക"
+    },
+    {
+      "name": "retry",
+      "value": "വീണ്ടും ശ്രമിക്കുക"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "സേവ് ആയ ടാബുകൾ വായിക്കാൻ സാധിക്കുന്നില്ല, സ്ഥിര ടാബുകൾ ഉപയോഗെടുത്തുക"
+    },
+    {
+      "name": "search",
+      "value": "തിരയുക"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "സെർച്ച് ചരിത്രം നീക്കം ചെയ്തു"
+    },
+    {
+      "name": "search_no_results",
+      "value": "ഫലങ്ങൾ ലഭ്യമല്ല"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "ഇതിനായുള്ള ഫലങ്ങൾ കാണിക്കുന്നു: %s"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "ഫാസ്റ്റ്-ഫോർവേർഡ്/റീവൈൻഡ് സമയദൈർഘ്യം"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "സീക്ബാർ ചെറുചിത്രം പ്രദർശനം"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "ഒരു ചാനൽ തിരഞ്ഞെടുക്കുക"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "ഒരു കിയോസ്ക് തിരഞ്ഞെടുക്കുക"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "ഒരു പ്ലേലിസ്റ്റ് തിരഞ്ഞെടുക്കുക"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "ചുവടെ നിങ്ങളുടെ പ്രിയപ്പെട്ട രാത്രി തീം തിരഞ്ഞെടുക്കാം"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "പ്ലേലിസ്റ്റ് ലഘുചിത്രമായി സജ്ജമാക്കുക"
+    },
+    {
+      "name": "settings",
+      "value": "ക്രമീകരണങ്ങൾ"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "രൂപഭംഗി"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "ഡേറ്റ നീക്കം ചെയ്യുക"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "ഡീബഗ്"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "ഡൗൺലോഡ്"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "ഫീഡ്"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "ചരിത്രവും കാഷെയും"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "സ്വഭാവം"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "നിലവിൽ കാണുന്ന സ്ട്രീം അറിയിപ്പ് ക്രമീകരിക്കുക"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "പ്ലേയർ അറിയിപ്പ്"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "പ്ലെയർ"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "അപ്ഡേറ്റുകൾ"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "വീഡിയോയും ഓഡിയോയും"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "ഫയൽനാമങ്ങളിൽ അനുവദിച്ചിട്ടുള്ള അടയാളങ്ങൾ"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "സ്വീകാര്യമല്ലാത്ത അടയാളങ്ങൾ ഈ അടയാളം കൊണ്ട് മാറ്റുന്നതാണ്"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "പകരം ഉപയോഗിക്കാവുന്ന അടയാളം"
+    },
+    {
+      "name": "share",
+      "value": "പങ്കുവെയ്ക്കുക"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "പങ്കുവയ്ക്കൂ"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "കുട്ടികൾക്ക് അനുയോജ്യമല്ലാത്ത ഉള്ളടക്കം കാണിക്കുക കാരണം അതിന് പ്രായപരിധി ഉണ്ട് (18+ പോലെ)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "പ്രായ നിയന്ത്രിത ഉള്ളടക്കം കാണിക്കുക"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "ചാനൽ വിശദാംശങ്ങൾ കാണിക്കുക"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "കമന്റുകൾ മറയ്ക്കാനായി ഓഫ് ചെയ്യുക"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "കമന്റുകൾ കാണിക്കുക"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "വീഡിയോ വിവരണവും അധിക വിവരങ്ങളും മറയ്ക്കുന്നതിന് ഓഫാക്കുക"
+    },
+    {
+      "name": "show_description_title",
+      "value": "വിവരണം കാണിക്കുക"
+    },
+    {
+      "name": "show_error",
+      "value": "പിശക് കാണിക്കൂ"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "ചില ഉപകരണങ്ങളിൽ മാത്രമേ 2K/4K വീഡിയോകൾ കാണാൻ സാധിക്കുകയുള്ളൂ"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "ഉയർന്ന റിസല്യൂഷനുകൾ കാണിക്കുക"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "പോപ്പപ്പ്/ബാക്ക്ഗ്രൗണ്ട് ബട്ടൺ അമർത്തുമ്പോൾ \"വിശദാംശങ്ങൾ\" എന്ന ടിപ് കാണിക്കും"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "\"ക്യൂവിൽ കയറ്റാൻ പിടിക്കുക\" എന്ന ടിപ് കാണിക്കുക"
+    },
+    {
+      "name": "show_info",
+      "value": "വിവരം കാണിക്കുക"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "മെമ്മറി ലീക്കുകൾ കാണിക്കുക"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "സ്ട്രീം സ്രഷ്ടാവ്, സ്ട്രീം ഉള്ളടക്കം അല്ലെങ്കിൽ ഒരു തിരയൽ അഭ്യർത്ഥന എന്നിവയെക്കുറിച്ചുള്ള കൂടുതൽ വിവരങ്ങൾ ഉൾക്കൊള്ളുന്ന മെറ്റാ വിവര ബോക്സുകൾ മറയ്ക്കുന്നതിന് ഓഫാക്കുക"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "മെറ്റാഇൻഫോ കാണിക്കുക"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "'അടുത്ത' , 'സമാനമായ' വീഡിയോകൾ കാണിക്കുക"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "സേവനങ്ങളിൽ നിന്നുള്ള യഥാർത്ഥ വാചകങ്ങൾ സ്ട്രീം ഇനങ്ങളിൽ ദൃശ്യമാകും"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "ഇനങ്ങളിൽ യഥാർത്ഥ സമയം മുമ്പ് കാണിക്കുക"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Kodi media center വഴി വീഡിയോ പ്ലേ ചെയ്യാനുള്ള ഓപ്ഷൻ കാണിക്കുക"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "\"Kodi ഉപയോഗിച്ച് പ്ലേ ചെയ്യുക\" ഓപ്ഷൻ കാണിക്കുക"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "സെർച്ച് ചെയ്യുമ്പോൾ നിർദ്ദേശങ്ങൾ തിരഞ്ഞെടുക്കുക"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "സെർച്ച് നിർദ്ദേശങ്ങൾ"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "ലോക്ക് സ്ക്രീൻ പശ്ചാത്തലത്തിനും അറിയിപ്പുകൾക്കും ലഘുചിത്രം ഉപയോഗിക്കുക"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "ലഘുചിത്രം കാണിക്കുക"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "നിശബ്ദതയിൽ ഫാസ്റ്റ്ഫോർവേർഡ്"
+    },
+    {
+      "name": "songs",
+      "value": "പാട്ടുകൾ"
+    },
+    {
+      "name": "sorry_string",
+      "value": "ക്ഷമിക്കണം, അത് സംഭവിക്കാൻ പാടില്ലായിരുന്നു."
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "ഇത് നിങ്ങളുടെ രാജ്യത്തെങ്കിലും ഒരു സൗണ്ട്ക്ലൗഡ് ഗോ + ട്രാക്കാണ്, അതിനാൽ ഇത് ന്യൂപൈപ്പ് സ്ട്രീം ചെയ്യാനോ ഡൗൺലോഡ് ചെയ്യാനോ കഴിയില്ല."
+    },
+    {
+      "name": "start",
+      "value": "തുടങ്ങൂ"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "യൂറോപ്യൻ ജനറൽ ഡാറ്റാ പ്രൊട്ടക്ഷൻ റെഗുലേഷൻ (ജിഡിപിആർ) അനുസരിക്കുന്നതിന്, ന്യൂപൈപ്പിന്റെ സ്വകാര്യതാ നയത്തിലേക്ക് ഞങ്ങൾ നിങ്ങളുടെ ശ്രദ്ധ ആകർഷിക്കുന്നു. ദയവായി ഇത് ശ്രദ്ധാപൂർവ്വം വായിക്കുക.\n\nബഗ് റിപ്പോർട്ട് ഞങ്ങൾക്ക് അയയ്ക്കാൻ നിങ്ങൾ അത് അംഗീകരിക്കണം."
+    },
+    {
+      "name": "start_downloads",
+      "value": "ഡൗൺലോഡുകൾ ആരംഭിക്കുക"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "പശ്ചാത്തലത്തിൽ പ്ലേ ആരംഭിക്കുക"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "ഒരു പുതിയ പോപ്പ്അപ്പിൽ പ്ലേ ചെയ്യാൻ ആരംഭിക്കുക"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "മിനി പ്ലേയര്‍ -ല്‍ വീഡിയോ -ക്കള്‍ ഒരിക്കലും സ്റ്റാര്‍ട്ട് ചൈയ്യരുത് , പക്ഷേ നേരെ ഫുള്‍ സ്ക്രീന്‍ മോഡിലെക് മാറും .ഓട്ടോ റൊട്ടേഷന്‍ ലോക്ക് ചെയിത്തിട്ടുണ്ടെങ്കില്‍ നിലവിലെ ഫുള്‍ സ്ക്രീന്‍ നില്‍ നിന്നും മിനി പ്ലായേറിലെക് മാറാന്‍ ആകും"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "തുടങ്ങുന്ന പ്രേധാന പേജ് മുഴുവന്‍ സ്ക്രീനില്‍ കാണിക്കുക"
+    },
+    {
+      "name": "stop",
+      "value": "നിർത്തുക"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "പുതിയ സ്ട്രീമുകൾ"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "സബ്സ്ക്രൈബ്"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "സബ്സ്ക്രൈബായി"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "സബ്സ്ക്രൈബർ എണ്ണം ലഭ്യമല്ല"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "സബ്സ്ക്രിബ്ഷൻ മാറ്റാനായില്ല"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "സബ്സ്ക്രിബ്ഷൻ അപ്ഡേറ്റ് ചെയ്യാനായില്ല"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "സബ്‌സ്‌ക്രിപ്‌ഷനുകൾ എക്‌സ്‌പോർട്ടുചെയ്യാനായില്ല"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "സബ്‌സ്‌ക്രിപ്‌ഷനുകൾ ഇറക്കുമതി ചെയ്യാൻ കഴിഞ്ഞില്ല"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "തീർന്നാൽ \"Done\" അമർത്തുക"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "ബാക്ക്ഗ്രൗണ്ടിലേക്ക്‌ മാറുക"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "പ്രധാനപ്പെട്ടതിലേക്ക് മാറുക"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "പോപ്പപ്പിലേക്ക് മാറുക"
+    },
+    {
+      "name": "systems_language",
+      "value": "സിസ്റ്റം ഡിഫോൾട്ട്"
+    },
+    {
+      "name": "tab_about",
+      "value": "കുറിച്ച്"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "പ്രധാനപ്പെട്ട പ്ലേലിസ്റ്റുകൾ"
+    },
+    {
+      "name": "tab_choose",
+      "value": "ടാബ് തിരഞ്ഞെടുക്കുക"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "ലൈസൻസുകൾ"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "സബ്ക്രിപ്ഷനുകൾ"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "ടാബ്ലറ്റ് മോഡ്"
+    },
+    {
+      "name": "theme_title",
+      "value": "തീം"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "ഇമേജ് കാചെ തുടച്ചുമാറ്റി"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "ന്യൂപൈപ്പിനെക്കുറിച്ച്"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "ചരിത്രം"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "ക്യൂ പ്ലേ ചെയ്യുക"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA ചാലഞ്ച്"
+    },
+    {
+      "name": "title_last_played",
+      "value": "അവസാനം പ്ലേ ചെയ്തത്"
+    },
+    {
+      "name": "title_licenses",
+      "value": "തേർഡ്-പാർട്ടി ലൈസൻസുകൾ"
+    },
+    {
+      "name": "title_most_played",
+      "value": "ഏറ്റവും കൂടുതൽ തവണ പ്ലേ ചെയ്തത്"
+    },
+    {
+      "name": "top_50",
+      "value": "മികച്ച 50"
+    },
+    {
+      "name": "tracks",
+      "value": "ട്രാക്കുകൾ"
+    },
+    {
+      "name": "trending",
+      "value": "ട്രെൻഡിങ്ങ്"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "ബുക്ക്മാർക്ക് നീക്കംചെയ്യുക"
+    },
+    {
+      "name": "undo",
+      "value": "പഴയപടി ആക്കുക"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "അൺഹൂക്ക് (വികലമാക്കാം)"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[അജ്ഞാതം]"
+    },
+    {
+      "name": "unmute",
+      "value": "അൺമ്യൂട്ട്"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "അൺസബ്സ്ക്രൈബ്"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "അനുയോജ്യമല്ലാത്ത URL"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "URL തിരിച്ചറിയാൻ കഴിഞ്ഞില്ല. മറ്റൊരു അപ്ലിക്കേഷൻ ഉപയോഗിച്ച് തുറക്കണോ?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "ഒരു പുതിയ പതിപ്പ് ലഭ്യമാകുമ്പോൾ അപ്ലിക്കേഷൻ അപ്‌ഡേറ്റ് ആവശ്യപ്പെടുന്നതിന് ഒരു അറിയിപ്പ് കാണിക്കുക"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "അപ്ഡേറ്റുകൾ"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "%1$s - ന് പ്രസിദ്ധീകരിച്ചു"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "പുറമെയുള്ള ഓഡിയോ പ്ലേയർ ഉപയോഗിക്കുക"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "ചില റിസല്യൂഷനുകളിൽ ശബ്ദം കേൾക്കില്ല"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "പുറമെയുള്ള വീഡിയോ പ്ലേയർ ഉപയോഗിക്കുക"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "കുറഞ്ഞ കൃത്യതയോടെ സീക് ചെയ്യാൻ ഇൻ എക്സക്ട് സഹായിക്കുന്നു. 5,15,25 സെക്കൻഡ് സീക്‌ ഈ മോഡിൽ പ്രവർത്തിക്കുകയില്ല"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Inexact seek ഉപയോഗിക്കുക"
+    },
+    {
+      "name": "users",
+      "value": "ഉപയോക്താക്കൾ"
+    },
+    {
+      "name": "video",
+      "value": "വീഡിയോ"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "%s മുഖാന്തരം"
+    },
+    {
+      "name": "video_player",
+      "value": "വീഡിയോ പ്ലെയർ"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "വീഡിയോ സ്ട്രീമുകൾ കണ്ടെത്താനായില്ല"
+    },
+    {
+      "name": "videos_string",
+      "value": "വീഡിയോകൾ"
+    },
+    {
+      "name": "view_on_github",
+      "value": "ജിറ്റ്ഹബിൽ കാണുക"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "കാഴ്ച ചരിത്രം നീക്കംചെയ്തു"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "പ്ലേബാക്ക് സ്ഥാനങ്ങൾ നീക്കംചെയ്തു"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "കൂടുതൽ വിവരങ്ങൾക്കും വാർത്തകൾക്കും ന്യൂപൈപ്പിന്റെ വെബ്സൈറ്റ് സന്ദർശിക്കുക."
+    },
+    {
+      "name": "website_title",
+      "value": "വെബ്സൈറ്റ്"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "വിവരം:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "എന്ത് സംഭവിച്ചു:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "വൈഫൈയിൽ മാത്രം"
+    },
+    {
+      "name": "your_comment",
+      "value": "നിങ്ങളുടെ അഭിപ്രായം (ഇംഗ്ലീഷിൽ):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "ഈ വീഡിയോ യൂട്യൂബ് മ്യൂസിക് പ്രീമിയം അംഗങ്ങൾക്ക് മാത്രമേ ലഭ്യമാകൂ, അതിനാൽ ഇത് ന്യൂപൈപ്പ് സ്ട്രീം ചെയ്യാനോ ഡൗൺലോഡ് ചെയ്യാനോ കഴിയില്ല."
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "പക്വതയുള്ള ഉള്ളടക്കം മറയ്ക്കുന്ന \"നിയന്ത്രിത മോഡ്\" യൂട്യൂബ് നൽകുന്നു"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "YouTube- ന്റെ \"നിയന്ത്രിത മോഡ്\" ഓണാക്കുക"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

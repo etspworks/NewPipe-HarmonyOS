@@ -1,0 +1,134 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ditë"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ditë"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d i zgjedhur"
+        },
+        {
+          "quantity": "other",
+          "value": "%d të zgjedhura"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d orë"
+        },
+        {
+          "quantity": "other",
+          "value": "%d orë"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s dëgjues"
+        },
+        {
+          "quantity": "other",
+          "value": "%s dëgjues"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minutë"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minuta"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d sekondë"
+        },
+        {
+          "quantity": "other",
+          "value": "%d sekonda"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s abonent"
+        },
+        {
+          "quantity": "other",
+          "value": "%s abonentë"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s video"
+        },
+        {
+          "quantity": "other",
+          "value": "%s video"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s shikim"
+        },
+        {
+          "quantity": "other",
+          "value": "%s shikime"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s duke e parë"
+        },
+        {
+          "quantity": "other",
+          "value": "%s duke parë"
+        }
+      ]
+    }
+  ]
+}

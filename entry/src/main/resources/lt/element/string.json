@@ -1,0 +1,3012 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Priimti"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Paskyra anuliuota"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Paskyra pašalinta\n\n%1$s dėl šios priežasties: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "Istorija"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Pridėti į grojaraštį"
+    },
+    {
+      "name": "albums",
+      "value": "Albumai"
+    },
+    {
+      "name": "all",
+      "value": "Visi"
+    },
+    {
+      "name": "always",
+      "value": "Visada"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Visada klausti"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Šis apeinamasis sprendimas atlaisvina ir iš naujo nustato vaizdo kodekus, kai pasikeičia paviršius, užuot tiesiogiai nustatęs paviršių kodekui. Šis nustatymas jau naudojamas \"ExoPlayer\" kai kuriuose įrenginiuose, kuriuose buvo ši problema, šis nustatymas turi poveikį tik \"Android 6\" ir naujesniuose įrenginiuose.\n\n\n\nĮjungus šią parinktį gali būti išvengta atkūrimo klaidų, kai perjungiamas dabartinis vaizdo grotuvas arba pereinama į visą ekraną"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Visada naudokite \"AVPlayer\" vaizdo išvesties paviršiaus nustatymų apėjimą"
+    },
+    {
+      "name": "any_network",
+      "value": "Bet koks tinklas"
+    },
+    {
+      "name": "app_description",
+      "value": "Nemokama, atviro kodo transliacijų peržiūros programėlė HarmonyOS sistemai."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Programos kalba"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe yra „copyleft libre“ programinė įranga: galite ją naudoti, studijuoti ir patobulinti. Konkrečiau, galite ją platinti ir (arba) modifikuoti pagal „Free Software Foundation“ paskelbtą GNU bendrosios viešosios licencijos sąlygas, pasirinktinai pagal 3 licencijos versiją arba (jūsų pasirinkimu) bet kurią vėlesnę versiją."
+    },
+    {
+      "name": "app_license_title",
+      "value": "NewPipe licencija"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Programėlė/ vartotojo sąsaja nulūžo"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Bakstelėkite, kad atsisiųstumėte %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Prieinamas NewPipe atnaujinimas!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Pranešimas apie naują NewPipe versiją"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Programos atnaujinimo pranešimas"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Naudojate naujausią „NewPipe“ versiją"
+    },
+    {
+      "name": "artists",
+      "value": "Atlikėjai"
+    },
+    {
+      "name": "audio",
+      "value": "Muzika"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Nerasta audio srautų"
+    },
+    {
+      "name": "audio_track",
+      "value": "Audio takelis"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Šiame sraute jau turėtų būti garso takelis"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "aprašomasis"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "dubliuotas"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "originalus"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "Antrinis"
+    },
+    {
+      "name": "auto",
+      "value": "Auto"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Automatinis (įrenginio tema)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Tęsti atkūrimą į eilę pridedant susijusius srautus"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Automatiškai pridėti sekantį į eilę"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Auto eilė"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "\"NewPipe\" gali automatiškai patikrinti, ar yra naujų versijų, ir pranešti jums, kai jos pasirodys.\n\nAr norite tai įjungti?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Automatiškai atkurti — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Automatinis atkūrimas"
+    },
+    {
+      "name": "background_player",
+      "value": "Foninis grotuvas"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Groja fone"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Geriausia raiška"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Juoda"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Tuščias puslapis"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Pridėti grojaraštį į žymes"
+    },
+    {
+      "name": "brightness",
+      "value": "Ryškumas"
+    },
+    {
+      "name": "cancel",
+      "value": "Atšaukti"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Automatiškai sugeneruoti"
+    },
+    {
+      "name": "caption_none",
+      "value": "Jokių subtitrų"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Pakeiskite grotuvo subtitrų teksto mastelį ir fono stilių. Pakeitimai įsigalios iš naujo paleidus programą"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Subtitrai"
+    },
+    {
+      "name": "card",
+      "value": "Kortelė"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Sukūrė %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Kanalo puslapis"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Apie"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Albumai"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Kanalai"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Mėgsta"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Gyva transliacija"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Grojaraščiai"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Trumpi"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Takeliai"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Vaizdo įrašai"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Kanalas Nebeprenumeruojamas"
+    },
+    {
+      "name": "channels",
+      "value": "Kanalai"
+    },
+    {
+      "name": "chapters",
+      "value": "Skyriai"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Raidės ir skaičiai"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Ypatingieji simboliai"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Tikrinti ar yra atnaujinimų"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Paleiskite naujų transliacijų tikrinimą"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Tikrinti ar yra atnaujinimų…"
+    },
+    {
+      "name": "checksum",
+      "value": "Kontrolinė suma"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Pasirinkite kopiją"
+    },
+    {
+      "name": "clear",
+      "value": "Išvalyti"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Išvalyti slapukus kuriuos NewPipe išsaugojo kai vedėte reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Išvalyti reCAPTCHA slapukus"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Išvalyti parsiuntimų istoriją"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Pašalina visas atkūrimo vietas"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Pašalinti atkūrimo vietas"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Aktyvaus grotuvo eilė bus pakeista"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Perjungimas iš vieno grotuvo į kitą gali pakeisti jūsų eilę"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Prieš išvalant eilę prašyti patvirtinimo"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Išvalo paieškos istoriją"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Išvalyti paieško istoriją"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Išvalo atkurtų srautų ir atkūrimo vietos istoriją"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Išvalyti žiūrėjimo istoriją"
+    },
+    {
+      "name": "close",
+      "value": "Užverti"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Komentarai yra išjungti"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Komentarai"
+    },
+    {
+      "name": "conferences",
+      "value": "Konferencijos"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Ar norite išvalyti atsisiuntimų istoriją ar ištrinti visus atsisiųstus failus?"
+    },
+    {
+      "name": "content",
+      "value": "Turinys"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Numatytoji turinio kalba"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Turinys neprieinamas"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Šio turinio \"NewPipe\" dar nepalaiko.\n\n\n\nTikimės, kad jis bus palaikomas būsimoje versijoje."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Jei turite idėjų dėl: vertimų, išvaizdos pakeitimų, kodo supaprastinimo, arba rimtų kodo pakeitimų - pagalba visada laukiama!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Prisidėti"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Pridėti į"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Groti fone"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Parsisiųsti srauto failą"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Groti iššokančiame lange"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Kopijuoti formatuotą pranešimą"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s %2$s pagal %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Perspėjimas: Nepavyko importuoti visų failų."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Negalima įkelti visų miniatiūrų"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Negalima sutvarkyti atsisiuntimų meniu"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Programa nulūžo"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Užlūžo"
+    },
+    {
+      "name": "create",
+      "value": "Kurti"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Kurti klaidos pranešimą"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Naujas grojaraštis"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Tamsi"
+    },
+    {
+      "name": "decline",
+      "value": "Atmesti"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Numatytasis garso formatas"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Numatyta turinio šalis"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Numatytasis režimas"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Numatytoji išokančiojo lango raiška"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Numatytoji raiška"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Numatytasis vaizdo formatas"
+    },
+    {
+      "name": "delete",
+      "value": "Naikinti"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Pašalinti parsiųstus failus"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Ištrinti visus atsisiųstus failus iš disko?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Ištrinti įrašą"
+    },
+    {
+      "name": "delete_file",
+      "value": "Pašalinti failą"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Ar norite ištrinti šį elementą iš paieškos istorijos?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Pašalinti visas atkūrimo vietas?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Ištrinti šį grojaraštį?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Išvalyti visą paieškos istoriją?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Išvalyti visą žiūrėjimo istoriją?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Neleisti pasirinkti teksto apraše"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Įgalinti teksto pasirinkimą apraše"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Dabar apraše galite pasirinkti tekstą aprašyme. Atminkite, kad puslapis gali mirgėti, o nuorodos gali būti nespustelėjamos, kai veikia pasirinkimo režimas."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Aprašymas"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Nemėgimai"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Tempti kad perrūšiuoti"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Širdelė nuo kurėjo"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Pamėgimai"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Prisegtas komentaras"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Kanalo avataro miniatiūra"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Paleisti vaizdo įrašą, trukmė:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Įkėlėjo naudotojo paveikslėlio miniatiūra"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Ar turėjote omenyje %1$s ?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Medijos tuneliavimas buvo išjungtas pagal numatytuosius nustatymus jūsų prietaise, nes žinoma, kad jūsų prietaiso modelis jo nepalaiko."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Išjunkite medijos tuneliavimą, jei vaizdo įrašo atkūrimo metu atsiranda juodas ekranas arba užstrigimas."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Išjungti media tuneliavimą"
+    },
+    {
+      "name": "disabled",
+      "value": "Išjungta"
+    },
+    {
+      "name": "dismiss",
+      "value": "Nutraukti"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe yra vystoma savanorių, kurie skiria savo laisvą laiką, kad sukurtų geriausią patirtį Jums. Dabar yra laikas paremti juos, kad kūrėjai galėtų NewPipe paversti dar geresne programėle."
+    },
+    {
+      "name": "donation_title",
+      "value": "Paremti"
+    },
+    {
+      "name": "done",
+      "value": "Atlikta"
+    },
+    {
+      "name": "dont_show",
+      "value": "Nerodyti"
+    },
+    {
+      "name": "download",
+      "value": "Atsisiųsti"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Šiuo pavadinimu yra laukiama atsisiuntimo"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Šiuo metu vyksta atsisiuntimas su šiuo pavadinimu"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Atsisiųsti"
+    },
+    {
+      "name": "download_failed",
+      "value": "Parsiųsti nepavyko"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Parsiunčiama"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Pasirinkite atsisiuntimų aplankalą garso įrašams"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Vieta laikyti parsisiųstus garso įrašus"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Garso įrašų parsiuntimo aplankalas"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Pasirinkite parsiuntimo aplankalą vaizdo įrašams"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Vieta parsisiųstų vaizdo įrašų laikymui"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Vaizdo įrašų parsisiuntimo aplankas"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Įrašyti į išorinę SD kortelę nepavyko. Atstatyti atsisiuntimo aplanką?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Išorinė saugykla neprieinama"
+    },
+    {
+      "name": "downloads",
+      "value": "Atsisiuntimai"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Jūsų bus paklausta, kur išsaugoti kiekvieną atsisiuntimą.\n\nĮgalinkite sisteminį aplanko parinktuką (SAP) jeigu norite, kad būtų atsiųsta į išorinę SD kortelę"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Jūsų bus paklausta, kur išsaugoti kiekvieną atsiuntimą"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Klausti kur parsiųsti"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "\"Storage Access Framework\" leidžia atsisiųsti duomenis į išorinę SD kortelę"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Pradedant Android 10 palaikoma tik 'Storage Access Framework'"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Naudoti sistemos aplanko parinktuką (SAP)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Atsisiuntimai"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Uždaryti stalčių"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Perjungti paslaugą, dabar pasirinkta:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Stalčius"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Grojaraščiai jau turintys šį elementą išaktyvuoti."
+    },
+    {
+      "name": "duration",
+      "value": "Trukmė"
+    },
+    {
+      "name": "duration_live",
+      "value": "Gyvai"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Čia nieko nėra išskyrus svirplius"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Priverstinai pranešti apie \"undeliverable Rx exceptions outside of fragment or activity lifecycle after disposal\""
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Pranešti apie Out-of-Lifecycle klaidas"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Atminties nutekėjimo stebėjimas gali padaryti programėlę nestabilią"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Atstatyti paskutinį atkūrimo laiką"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Tęsti atkūrimą"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Sąraše rodyti atkūrimo vietos indikatorių"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Vietos sąraše"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Riboti parsiuntimų eilę"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Vienu metu bus vykdomas tik vienas atsisiuntimas"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Saugoti paieškos užklausas vietinėje atmintyje"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Ieškoti istorijoje"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Pranešti apie naujas transliacijas iš prenumeratų"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Pranešimai apie naujas transliacijas"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Sekite peržiūrėtus vaizdo įrašus"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Žiūrėjimo istorija"
+    },
+    {
+      "name": "enqueue",
+      "value": "Į eilę"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Įtraukti į eilę sekantį"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Pridėti į eilę"
+    },
+    {
+      "name": "enqueued",
+      "value": "Pridėta į eilę"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Sekantis pridėtas į eilę"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Įrašas pašalintas"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Nepavyksta prisijungti prie serverio"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Išsami informacija:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Atstatyti parsiuntimo nepavyko"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Failo sukurti nepavyko"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Serveris nesiunčia duomenų"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Nerasta"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Serveris nepriima daugiasrautinių atsisiuntimų, pakartokite bandymą su @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Nepakanka laisvos vietos įrenginyje"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Įrenginyje nebėra vietos"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Įvyko klaida: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Nepavyko sukurti paskirties aplanko"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Apdorojimas nepavyko"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe buvo uždaryta kol dirbo su failu"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Eiga prarasta, nes failas buvo panaikintas"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Pranešti el. paštu"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Pranešimai pranešimui apie klaidas"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Klaidos pranešimo pranešimas"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe susidūrė su klaida, paspauskite norėdami pranešti"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Įvyko klaida, peržiūrėti pranešimą"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Patikrinkite ar apie problemą su kuria susidūrėte dar nėra pranešta. Sukurdami kelis pranešimus apie tą pačią problemą atimate iš mūsų laiką kurį galėtume skirti klaidų taisymui."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Pranešti per GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Klaidų ataskaita"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Ataskaita"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Atsiprašome, kažkas ne taip."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Užmegzti saugaus ryšio nepavyko"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Prisijungimo laikas baigėsi"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Komentarų įkelti nepavyko"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Nepavyko rasti serverio"
+    },
+    {
+      "name": "events",
+      "value": "Įvykiai"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Eksportavimas baigtas"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Eksportuoti istoriją, prenumeratas, grojaraščius ir nustatymus"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Eksportuoti duomenų bazę"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Eksportuojama…"
+    },
+    {
+      "name": "export_to",
+      "value": "Eksportuoti į"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Išorinis grotuvas nepalaiko tokių nuorodų"
+    },
+    {
+      "name": "faq",
+      "value": "Žiūrėti svetainėje"
+    },
+    {
+      "name": "faq_description",
+      "value": "Jei kyla sunkumų naudojantis programėle, būtinai peržiūrėkite šiuos atsakymus į dažniausiai užduodamus klausimus!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Dažniausiai užduodami klausimai"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Greitasis režimas"
+    },
+    {
+      "name": "featured",
+      "value": "Siūloma"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Nauja"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Parsiųsti kanalo skirtukus"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Kokius skirtukus parsiųsti atnaujinant srauta. Ši parinktis neturi efekto jei kanalas yra atnaujintas greituoju rėžimu."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Ar norite panaikinti šią grupę?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Tuščias grupės pavadinimas"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Nepasirinkta jokia prenumerata"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Pasirinkite prenumeratas"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Kanalo grupės puslapis"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Rodyti tik negrupuotas prenumeratas"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Kanalų grupės"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Rodyti šiuos srautus"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Klaida įkeliant srautą"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Nepavyko įkelti duomenų '%s'."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Greito srauto režimas nesuteikia daugiau informacijos apie tai."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Autoriaus paskyra anuliuota.\n\n„NewPipe“ negalės įkelti šio kanalo ateityje.\n\nAr norite atsisakyti šio kanalo prenumeratos?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Nauji sklaidos kanalo elementai"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Įkeliamas srautas…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Paskutinis atnaujinimas: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Apdorojamas srautas…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Rodyti / slėpti srautus"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Iš dalies peržiūrėta"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Būsimas"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Pilnai peržiūrėta"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Neįkelta: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Visada atnaujinti"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Laikas po paskutinio atnaujinimo, po kurio prenumerata laikoma pasenusia — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Kanalo atnaujinimo slenkstis"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Išjungti greitą režimą"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Įjungti greitą režimą"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Ar manote, kad kanalas kraunamas per lėtai? Jei taip, pabandykite įjungti greitąjį įkrovimą (tai galite pakeisti nustatymuose arba paspaudę toliau esantį mygtuką).\n\n\"NewPipe\" siūlo dvi kanalo įkėlimo strategijas:\n- Visos prenumeratos kanalo atsisiuntimas, kuris yra lėtas, bet išsamus.\n- Naudojant specialų paslaugos galinį tašką, kuris yra greitas, bet paprastai neišsamus.\n\nSkirtumas tarp šių dviejų būdų yra tas, kad greitasis būdas paprastai neturi tam tikros informacijos, pavyzdžiui, elemento trukmės ar tipo (negalima atskirti tiesioginių ir įprastų vaizdo įrašų), ir gali grąžinti mažiau elementų.\n\n\"YouTube\" yra pavyzdys paslaugos, kuris siūlo šį greitąjį metodą su savo RSS kanalu.\n\nTaigi pasirinkimas priklauso nuo to, ko labiau norite: greičio ar tikslios informacijos."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Prieinama kai kuriose tarnybose, paprastai yra daug greitesnė, tačiau gali grąžinti ribotą kiekį elementų ir dažnai neišsamią informaciją (pvz., nėra trukmės, elemento tipo, nėra tiesioginės būsenos)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Kai įmanoma, gauti iš dedikuoto kanalo"
+    },
+    {
+      "name": "file",
+      "value": "Failą"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Failas panaikintas"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Failo vardas negali būti tuščias"
+    },
+    {
+      "name": "forward",
+      "value": "Pirmyn"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Kas naujo"
+    },
+    {
+      "name": "general_error",
+      "value": "Klaida"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Generuoti unikalų vardą"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Šis turinys nėra prieinamas jūsų šalyje."
+    },
+    {
+      "name": "get_notified",
+      "value": "Gaukite pranešimą"
+    },
+    {
+      "name": "give_back",
+      "value": "Duokite grąžos"
+    },
+    {
+      "name": "grid",
+      "value": "Tinklelis"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Pranešimas apie video maišos progresą"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Video maišos pranešimas"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Aukšta kokybė (didesnės)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Laikykite, kad įtrauktumėte į eilę"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Naudinga naudojant ausines su sugedusiais fiziniais mygtukais"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Nepaisyti aparatinės įrangos media mygtukų įvykių"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Aukšta kokybė"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Žema kokybė"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Vidutinė kokybė"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Neįkelti paveikslėlių"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Pasirinkite paveikslėlių kokybę ir ar apskritai įkelti paveikslėlius, kad sumažintumėte duomenų ir atminties naudojimą. Pakeitimai išvalo atmintyje ir diske esančių vaizdų talpyklą - %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Vaizdo kokybė"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Importavimas baigtas"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Bus perrašyta jūsų dabartinė istorija, prenumeratos, grojaraščiai ir (pasirinktinai) nustatymai"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Importuoti duomenų bazę"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Importuoti failą"
+    },
+    {
+      "name": "import_from",
+      "value": "Importuoti iš"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Atminkite, kad ši operacija gali brangiai kainuoti tinkle.\n\n\n\nAr norite tęsti?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Importuojama…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Ar norite importuoti nustatymus?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Importuojamo eksporto nustatymuose naudojamas pažeidžiamas formatas, kurio atsisakyta nuo NewPipe 0.27.0. Įsitikinkite, kad importuojamas eksportas yra iš patikimo šaltinio, ir ateityje verčiau naudokite tik \"NewPipe 0.27.0\" ar naujesnės versijos eksportą. Šio pažeidžiamo formato nustatymų importavimo palaikymas netrukus bus visiškai panaikintas ir senos \"NewPipe\" versijos nebegalės importuoti nustatymų iš naujų versijų."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Importuokite \"SoundCloud\" profilį įvesdami URL arba savo ID:\n\n\n\n1. Interneto naršyklėje įjunkite darbalaukio režimą (svetainė neprieinama mobiliesiems įrenginiams).\n\n2. Eikite šiuo adresu: %1$s\n\n3. Prisijunkite, kai būsite paprašyti\n\n4. Nukopijuokite profilio URL, į kurį buvote nukreipti."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "jūsųID, soundcloud.com/jūsųid"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Importuokite arba eksportuokite prenumeratas iš 3 taškelių meniu"
+    },
+    {
+      "name": "import_title",
+      "value": "Importuoti"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Importuokite „YouTube“ prenumeratas iš „Google Takeout“:\n\n\n\n1. Eikite į šį URL adresą: %1$s\n\n2. Prisijunkite, kai būsite paprašyti\n\n3. Spustelėkite „All data included“ (įtraukti visus duomenis), tada „Deselect all“ (panaikinti visų duomenų pasirinkimą), tada pasirinkite tik „Subscriptions“ (prenumeratos) ir spustelėkite „OK“ (gerai).\n\n4. Spustelėkite „Next step“ (kitas žingsnis), tada „Create export“ (sukurti eksportą).\n\n5. Pasirodžius mygtukui „Download“ (Atsisiųsti), spustelėkite jį ir\n\n6. Spustelėkite toliau Importuoti failą ir pasirinkite atsisiųstą ZIP failą\n\n7. [Jei nepavyksta importuoti ZIP failo] Ištraukite .csv failą (paprastai po „YouTube and YouTube Music/subscriptions/subscriptions.json“), spustelėkite toliau esantį Importuoti failą ir pasirinkite išgautą CSV failą"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ vaizdo įrašų"
+    },
+    {
+      "name": "info_labels",
+      "value": "Kas:\nUžklausa:\nTurinio Kalba:\nTurinio Šalis:\nProgramėlės Kalba:\nPaslauga:\nGMT Laikas:\nPaketas:\nVersija:\nOS versija:"
+    },
+    {
+      "name": "install",
+      "value": "Įdiegti"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Tokio aplanko nėra"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Tokio failo nėra arba nesuteiktas leidimas jį pasiekti"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Tokio failo/turinio šaltinio nėra"
+    },
+    {
+      "name": "just_once",
+      "value": "Tik kartą"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Kiosko puslapis"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Įdiegti nereastą Kode programėlę?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary neprieinama"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Pasirinkti gęstą kairei grotuvo ekrano pusei"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Kairio gesto veiksmas"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Šviesi"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Be limito"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Riboti raišką naudojant mobilius duomenis"
+    },
+    {
+      "name": "list",
+      "value": "Sąrašas"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Sąrašo rodinio režimas"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Metaduomenų įkėlimas…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Įkeliama išsami transliacijos informacija…"
+    },
+    {
+      "name": "local",
+      "value": "Vietinė"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Vietinės paieškos pasiūlymai"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Žema kokybė (mažesnės)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Norėdami pradėti paspauskite padidinimo stiklą."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Pagrindinio puslapio turinys"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Kokios kortelės rodomos pagrindiniame puslapyje"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Perbraukite elementus, kad juos pašalintumėte"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Pagrindinio skirtuko parinkiklio perkėlimas į apačią"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Pagrindinio skirtuko pozicija"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Tikrinti ar yra atnaujinimų rankiniu būdu"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Pažymėti kaip peržiūrėtą"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Didžiausias bandymų skaičius prieš atšaukiant atsisiuntimą"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Daugiausiai bandymų"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Amžiaus limitas"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Avatarai"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Baneriai"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Metaduomenų saugykla išvalyta"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Pašalina visus išsaugotus puslapio duomenis"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Išvalyti išsaugotus metaduomenis"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Kategorija"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Serveris"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Kalba"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Licencija"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Privatumas"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Vidinis"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Privatus"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Viešas"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Neįtrauktas į sąrašą"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Sub-Kanalo avatarai"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Prenumeratoriai"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Pagalba"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Žymos"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Miniatiūra"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Įkėlėjo avataras"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud nebeteikia Top 50. Šis puslapis pašalintas iš jūsų pagrindinio puslapio."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "SoundCloud Top 50 puslapis pašalintas"
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "YouTube sujungti rekomenduojami pašalinti"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Sumažinti į fono grotuvą"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Nieko"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Sumažinti iki iššokančio lango grotuvo"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Veiksmas, kai iš pagrindinio vaizdo įrašų grotuvo pereinama į kitą programą — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Perjungiant programą sumažinti"
+    },
+    {
+      "name": "missing_file",
+      "value": "Failas perkeltas ar ištrintas"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Baigta"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Laukiama"
+    },
+    {
+      "name": "more_options",
+      "value": "Daugiau parinkčių"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ vaizdo įrašų"
+    },
+    {
+      "name": "most_liked",
+      "value": "Labiausiai patikę"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Skaičiuojama maišos suma"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Nukopijuota į iškarpinę"
+    },
+    {
+      "name": "msg_error",
+      "value": "Klaida"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Nepavyko nukopijuoti į iškarpinę"
+    },
+    {
+      "name": "msg_name",
+      "value": "Failo pavadinimas"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Šis leidimas reikalingas\n\natidarymui iššokančio lango rėžime"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe atsisiunčiama"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Bakstelėkite, kad peržiūrėtumėte išsamią informaciją"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Gijos"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Prašome palaukti…"
+    },
+    {
+      "name": "mute",
+      "value": "Nutildyti"
+    },
+    {
+      "name": "name",
+      "value": "Pavadinimas"
+    },
+    {
+      "name": "network_error",
+      "value": "Tinklo klaida"
+    },
+    {
+      "name": "never",
+      "value": "Niekada"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Nauja ir karšta"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Dėl AVPlayer apribojimų prasukimo trukmė buvo nustatyta %d sekundės"
+    },
+    {
+      "name": "next_stream",
+      "value": "Sekanti transliacija"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Ši parinktis galima tik tada, kai %s pasirinkta kaip tema"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Pasirinkite mėgstamiausią nakties temą — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Naktinė tema"
+    },
+    {
+      "name": "no",
+      "value": "Ne"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Jokia programa jūsų įrenginyje negali atidaryti šio"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Šiam veiksmui nebuvo rasta tinkama failų tvarkyklė.\n\nĮdiekite failų tvarkyklę arba pabandykite išjungti \"%s\" atsisiuntimo nustatymuose"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Nerasta tinkama failų tvarkyklė. \n\nĮdiekite „Storage Access Framework“ suderinamą su šia failų tvarkykle"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Išoriniams grotuvams garso transliacijos nepasiekiamos"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Prašome pasirinkti galimą atsisiuntimų aplankalą"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Nė vienas kanalas dar neužprenumeruotas"
+    },
+    {
+      "name": "no_comments",
+      "value": "Komentarų nėra"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Atsiuntimo aplankas dar nenustatytas, pasirinkite numatytąjį atsiuntimų aplanką dabar"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Dar nėra kanalo grupės"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Jokių gyvų transliacijų"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Niekas neklauso"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Niekas nežiūri"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Nerastas srauto grotuvas. Įdiegti VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Nerastas srauto grotuvas (galite įdiegti VLC kad grotumėte)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Kol kas nėra grojaraščio žymų"
+    },
+    {
+      "name": "no_streams",
+      "value": "Jokių transliacijų"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Nėra srautų parsiuntimui"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Nėra prenumeratorių"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Netinkamas ZIP failas"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Išoriniams grotuvams vaizdo transliacijos nepasiekiamos"
+    },
+    {
+      "name": "no_videos",
+      "value": "Nėra vaizdo įrašų"
+    },
+    {
+      "name": "no_views",
+      "value": "Nėra peržiūrų"
+    },
+    {
+      "name": "none",
+      "value": "Nieko"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Pirmas veiksmo mygtukas"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Antras veiksmo mygtukas"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Trečias veiksmo mygtukas"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Ketvirtas veiksmo mygtukas"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Penktas veiksmo mygtukas"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Kraunama"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Nieko"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Pakartoti"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Maišyti"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Galite pasirinkit iki trijų veiksmų kompaktiškame pranešime!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Redaguokite kiekvieną toliau pateiktą pranešimo veiksmą bakstelėdami jį. Naudodami dešinėje esančius žymimuosius langelius pasirinkite iki trijų iš jų, kurie bus rodomi kompaktiškame pranešime."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Redaguokite kiekvieną toliau pateiktą pranešimo veiksmą bakstelėdami jį. Pirmi trys veiksmai (groti/pauzė, ankstensnis ir paskesnis) yra sistemos numatytieji ir negali būti pakeisti."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "NewPipe grotuvo pranešimai"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe pranešimai"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Leisti Android priderinti pranešimo spalvą prie pagrindinės miniatiūros spalvos (prieinama ne visuose įrenginiuose)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Spalvoti pranešimą"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Apkirpti video miniatiūrų rodomų pranešime kraštinių santykį iš 16:9 į 1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Apkirpti miniatiūrų dydi 1:1 santykiu"
+    },
+    {
+      "name": "notifications",
+      "value": "Pranešimai"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Pranešimai yra išjungti"
+    },
+    {
+      "name": "off",
+      "value": "Išjungta"
+    },
+    {
+      "name": "ok",
+      "value": "Gerai"
+    },
+    {
+      "name": "on",
+      "value": "Įjungta"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 elementas pašalintas."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Atverti naršyklėje"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Atverti iššokančio lango režime"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Paleisti eilę"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Atidaryti puslapį"
+    },
+    {
+      "name": "open_with",
+      "value": "Atverti su"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Tai perrašys dabartinius nustatymus."
+    },
+    {
+      "name": "overwrite",
+      "value": "Perrašyti"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "failo perrašyti nepavyko"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Atsisiųstas failas su šiuo pavadinimu jau egzistuoja"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Failas šiuo pavadinimu jau egzistuoja"
+    },
+    {
+      "name": "paid_content",
+      "value": "Šis turinys prieinamas tik sumokėjusiems naudotojams, todėl \"NewPipe\" negali jo transliuoti ar atsisiųsti."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Negalima apdoroti tinklapio"
+    },
+    {
+      "name": "pause",
+      "value": "Pauzė"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Sustabdyti siuntimus"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Pertraukti matuojamuose tinkluose"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Naudinga pereinant prie mobiliųjų duomenų, nors kai kurių atsisiuntimų sustabdyti negalima"
+    },
+    {
+      "name": "paused",
+      "value": "sustabdyta"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Kopija jau yra"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Netinkama kopija"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Įveskite kopijos URL"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Palaikomi tik HTTPS adresai"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Pridėti kopiją"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Pasirinkite patikusias kopijas %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Pasirinkite mėgiamiausias PeerTube kopijas"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube kopijos"
+    },
+    {
+      "name": "percent",
+      "value": "Procentai"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Sistema uždraudė veiksmą"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Suteikti leidimą rodyti virš kitų programų"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "Norėdami įjungti \"Popup Grotuvą\" pasirinkite Android nustatymų meniu pasirinkite %1$s ir įjunkite %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "Leisti piešti virš kitų langų"
+    },
+    {
+      "name": "play",
+      "value": "Paleisti"
+    },
+    {
+      "name": "play_all",
+      "value": "Groti viską"
+    },
+    {
+      "name": "play_audio",
+      "value": "Garso įrašas"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Garso nustatymai"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Garsas: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Pašalinti"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Išsami informacija"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Groti su Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Pikas"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Atstatyti"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Atkūrimo greičio valdymas"
+    },
+    {
+      "name": "playback_step",
+      "value": "Žingsnis"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Tempas"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Atstatoma po grotuvo klaidos"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Srauto atkurti nepavyko"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Įvyko nepataisoma grotuvo klaida"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Pridėta į grojaraštį"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Kartojasi pridėta %d kartus"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Grojaraštis sukurtas"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Automatiškai sugeneruota (įkėlėjas nerastas)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Grojaraščio puslapis"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Grojaraščio paveikslėlis pakeistas."
+    },
+    {
+      "name": "playlists",
+      "value": "Grojaraščiai"
+    },
+    {
+      "name": "popup_player",
+      "value": "Iššokantis grotuvas"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Grojama iššokančiojo lango rėžime"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Prisiminti paskutinį iššokančio lango dydį ir vietą"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Prisiminti iššokančio lango dydį ir vietą"
+    },
+    {
+      "name": "post_processing",
+      "value": "apdorojama"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Jei įmanoma, pasirinkti garso takelį su aprašymu žmonėms su klausos negalia"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Pageidaujama pasirinktinis garso takelis"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Pasirinkti originalų audio takelį nepaisant kalbos nustatymo"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Pageidaujama originalus garso takelis"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Numatytasis veiksmas atveriant turinį — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Numatytasis „atverti“ veiksmas"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Įkeliamas pasirinktas turinys"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Gauname informaciją…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Ankstesnio eksportavimo"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Ankstesnė transliacija"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "NewPipe į jūsų privatumą žiūri labai rimtai. Programa be jūsų sutikimo nerenka jokių duomenų.\n\nNewPipe privatumo politika išsamiai parodo kokie duomenys siunčiami ir saugomi pranešant apie problemą."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "NewPipe privatumo politika"
+    },
+    {
+      "name": "private_content",
+      "value": "Šis turinys yra privatus, todėl \"NewPipe\" jo negali transliuoti ar atsisiųsti."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Apdorojama… tai gali užtrukti"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "„AVPlayer“ numatytasis"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Pakeiskite pakrovimo intervalo dydį progresiniam turiniui (šiuo metu %s). Mažesnė vertė gali pagreitinti pradinį įkėlimą"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Atkūrimo pakrovimo intervalo dydis"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "eilėje"
+    },
+    {
+      "name": "radio",
+      "value": "Radijo"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Skaityti licenciją"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Skaityti privatumo politiką"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA slapukai išvalyti"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "prašomas reCAPTCHA iššūkis"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Išspręsta"
+    },
+    {
+      "name": "recent",
+      "value": "Paskutiniai"
+    },
+    {
+      "name": "recently_added",
+      "value": "Nesenai pridėta"
+    },
+    {
+      "name": "recovering",
+      "value": "atstatoma"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Susiję įrašai"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Nuotolinės paieškos pasiūlymai"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Pašalinti besikartojančius"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Ar norite pašalinti visus pasikartojančius srautus iš šio grojaraščio?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Pašalinti besikartojančius?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Pašalinti žiūrėtus"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Taip ir iš dalies žiūrėtus vaizdo įrašus"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Pašalinti žiūrėtus video?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Vaizdo įrašai, kurie buvo peržiūrėti prieš juos įtraukiant į grojaraštį ir po to, kai jie buvo įtraukti į grojaraštį, bus pašalinti. \nAr tikrai? To negalima atšaukti!"
+    },
+    {
+      "name": "rename",
+      "value": "Pervardyti"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Pervadinti"
+    },
+    {
+      "name": "replay",
+      "value": "Pakartoti"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Visų nustatymų atstatymas į numatytasias reikšmes panaikins visus jūsų pasirinkimus ir iš naujo paleis programą.\n\n\n\nAr norite tęsti?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Atstatyti visus nustatymus į numatytasias reikšmes"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Nustatymų atstatymas"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Užpildyti"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Pritaikyti"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Priartinti"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Atstatyti numatytuosius"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Ar norite atstatyti numatytuosius?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Šiam video taikomas amžiaus apribojimas\n\n\n\nĮjunkite \"%1$s\" norėdami peržiūrėti."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Šiam video taikomas amžiaus apribojimas.\n\nDėl naujų YouTube amžiaus ribojimų NewPipe negali pasiekti ir atkurti šių video srautų."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Tęsti grojimą po pertraukimo (pvz. po skambučių)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Paleisti"
+    },
+    {
+      "name": "retry",
+      "value": "Bandyti iš naujo"
+    },
+    {
+      "name": "rewind",
+      "value": "Prasukti"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Pasirinkite gestą dešiniai grotuvo ekrano pusej"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Dešinio gesto veiksmas"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Įkelti išsaugotų kortelių nepavyko, naudojamos numatytosios"
+    },
+    {
+      "name": "search",
+      "value": "Paieška"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Paieškos istorija pašalinta"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Nėra rezultatų"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Rodomi rezultatai užklausai: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Ieškoti %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Ieškoti %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Greito prasukimo trukmė"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Miniatiūrų peržiūra naudojant slinkties juostą"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Pasirinkite kanalą"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Pasirinkite kanalo grupę"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Pasirinkite kioską"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Pasirinkite grojaraštį"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Pasirinkite garso takelį išoriniams grotuvams"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Žemiau galite pasirinkti mėgstamą nakties temą"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Pasirinkite kokybę skirtą išoriniams grotuvams"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Pasirinktos transliacijos išoriniai grotuvai nepalaiko"
+    },
+    {
+      "name": "semitone",
+      "value": "Pustonis"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Nustatyti kaip grojaraščio miniatiūrą"
+    },
+    {
+      "name": "settings",
+      "value": "Nustatymai"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Išvaizda"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Atsarginės kopijos"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Išvalyti duomenis"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Šalinti riktus"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Parsisiuntimai"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Tvarkykite kai kuriuos \"AVPlayer\" nustatymus. Kad šie pakeitimai įsigaliotų, grotuvą reikia paleisti iš naujo"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "\"AVPlayer\" nustatymai"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Kanalas"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Istorija ir podėlis"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Elgsena"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Konfigūruoti pranešimą apie dabartinę rodomą transliaciją"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Grotuvo pranešimas"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Grotuvas"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Atnaujinimai"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Vaizdas ir garsas"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Leidžiami simboliai failų varduose"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Neleistini simboliai yra pakeičiami šia reikšme"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Pakaitinis simbolis"
+    },
+    {
+      "name": "share",
+      "value": "Dalintis"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Dalintis su"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Dalintis grojaraščiu"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Dalintis kaip laikinuoju youtube grojaraščiu"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Dalintis nuorodų sąrašu"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Dalintis su pavadinimais"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sB"
+    },
+    {
+      "name": "short_million",
+      "value": "%sM"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sK"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Rodyti turinį kuris gali būti netinkamas vaikams (18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Rodyti amžiumi apribotą turinį"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Rodyti kanalo išsamią informaciją"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Kanalų skirtukai"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Kokie skirtukai rodomi kanalų puslapiuose"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Išjungti, kad būtų paslėpti komentarai"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Rodyti komentarus"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Naudojant grotuvą rodo lūžio parinkty"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Rodyti „Grotuvas užlūžo“"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Išjunkite norėdami paslėpti video aprašymą ir papildomą informaciją"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Rodyti aprašymą"
+    },
+    {
+      "name": "show_error",
+      "value": "Rodyti klaidą"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Rodyti klaidos juostą"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Tik kai kurie įrenginiai palaiko 2K/4K vaizdo įrašų peržiūrą"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Rodyti didesnes raiškas"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Rodyti patarimą, kai vaizdo įraše „Išsami informacija“ paspausite foną arba iššokantįjį mygtuką"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Rodyti „Laikykite, kad pridėtumėte“ patarimą"
+    },
+    {
+      "name": "show_info",
+      "value": "Rodyti informaciją"
+    },
+    {
+      "name": "show_less",
+      "value": "Rodyti mažiau"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Rodyti per didelį atminties naudojimą"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Išjunkite, kad paslėptumėte meta duomenis langeliuose su papildoma informacija apie srauto autorius ir turinį"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Rodyti meta duomenis"
+    },
+    {
+      "name": "show_more",
+      "value": "Rodyti daugiau"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Rodyti „Kitas” ir „Panašūs” vaizdo įrašus"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Srauto elementuose bus matomi orginalūs tekstai iš paslaugų"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Elementams rodyti orginalų \"prieš\" laiką"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Rodyti pasirinkimą peržiūrėti vaizdo įrašus per Kodi mediacentrą"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Rodyti „Peržiūra su Kodi“ pasirinkimą"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Pasirinkite pasiūlymus, kurie bus rodomi ieškant"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Paieškos nuspėjimai"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Naudoti miniatiūrą užrakinimo ekrano fonui ir pranešimams"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Rodyti miniatiūrą"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Prasukti kai nieko negroja"
+    },
+    {
+      "name": "songs",
+      "value": "Dainos"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Atsiprašome, taip neturėjo įvykti."
+    },
+    {
+      "name": "sort",
+      "value": "Rikiuoti"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Tai \"SoundCloud Go+\" kūrinys, bent jau jūsų šalyje, todėl jo negalima transliuoti ar atsisiųsti per \"NewPipe\"."
+    },
+    {
+      "name": "start",
+      "value": "Pradėti"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Siekdami laikytis Europos bendrojo duomenų apsaugos reglamento (GDPR), atkreipiame jūsų dėmesį į NewPipe privatumo politiką. Prašome atidžiai ją perskaityti.\n\nNorėdami išsiųsti mums pranešimą apie klaidą, turite su ja sutikti."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Pradėti siuntimus"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Pradėti groti foniniame režime"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Pradėti groti langelio grotuve"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Nepradėti vaizdo įrašų naudojant mini grotuvą, o iškart įjungti viso ekrano režimą, jei automatinis pasukimas yra užrakintas. Vis tiek galėsite pasiekti mini grotuvą išėję iš viso ekrano rėžimo"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Paleisti pagrindinį grotuvą viso ekrano režimu"
+    },
+    {
+      "name": "stop",
+      "value": "Sustabdyti"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Transliacijos, kurių dar nepalaiko atsisiuntimo programa, nerodomos"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Pranešimai apie naujas transliacijas prenumeratoms"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Naujos transliacijos"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Tikrinimo dažnumas"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Reikalingas tinklo ryšys"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Prenumeruoti"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Užprenumeruota"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Sekėjų skaičius neprieinamas"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Negalima keisti prenumeratos"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Negalima atnaujinti prenumeratos"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Nepavyko eksportuoti prenumeratų"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Prenumeratų importuoti nepavyko"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Paspauskite \"atlikta\" kai išspręsta"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Perjungti į foną"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Perjungti į pagrindinį"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Perjungti į iššokantį langą"
+    },
+    {
+      "name": "systems_language",
+      "value": "Sistemos numatytoji"
+    },
+    {
+      "name": "tab_about",
+      "value": "Apie ir DUK"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Pažymėti grojaraščiai"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Grojaraščiai"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Pasirinkti skirtuką"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Licencijos"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Prenumeratos"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Planšetės režimas"
+    },
+    {
+      "name": "theme_title",
+      "value": "Tema"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Paveikslėlių saugykla išvalyta"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Apie NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Istorija"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Groti eilę"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA iššūkis"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Vėliausiai žiūrėta"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Trečiųjų šalių licencijos"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Dažniausiai žiūrėta"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Perjungti viską"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Perjungti į pilną ekraną"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Pakeisti ekrano orientaciją"
+    },
+    {
+      "name": "top_50",
+      "value": "Top 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Takeliai"
+    },
+    {
+      "name": "trending",
+      "value": "Tendencijos"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Žaidimų pasiūlymai"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Mėgstami filmai ir laidos"
+    },
+    {
+      "name": "trending_music",
+      "value": "Mėgstama muzika"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Mėgstami podcasts"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Pašalinti žymes"
+    },
+    {
+      "name": "undo",
+      "value": "Atgal"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Atkabinti (gali iškraipyti)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Nežinomas"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Nežinoma]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Nežinomas formatas"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Nežinoma kokybė"
+    },
+    {
+      "name": "unmute",
+      "value": "Įjungti garsą"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Atjungti nuolatinę peržiūrą"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Atsisakyti prenumeratos"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "URL nepalaikoma"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "URL neatpažintas. Atverti kita programa?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Rodyti pranešimą, kuriame raginama atnaujinti programą, kai yra nauja versija"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Atnaujinimai"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Publikuota %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Įjunkite šią parinktį, jei kyla dekoderio inicializavimo problemų, o nepavykus inicializuoti pagrindinių dekoderių, grįžtama prie žemesnio prioriteto dekoderių. Dėl to atkūrimo našumas gali būti prastesnis nei naudojant pirminius dekoderius"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Naudokite „AVPlayer“ dekoderio atsarginę funkciją"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Naudoti išorinį audio grotuvą"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Kai kurios raiškos nepalaiko garso, kai ši parinktis įgalinta"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Naudoti išorinį vaizdo grotuvą"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Netikslus prasukimas leidžia grotuvui greitai peršokti į kitą vietą su sumažintu tikslumu. 5, 15 ar 25 sekundės to nenaudoja"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Naudoti greitą netikslų prasukimą"
+    },
+    {
+      "name": "users",
+      "value": "Naudotojai"
+    },
+    {
+      "name": "video",
+      "value": "Vaizdas"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "%s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Video grotuvas"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Nerasta video srautų"
+    },
+    {
+      "name": "videos_string",
+      "value": "Vaizdo įrašai"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Peržiūrėti per GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "Garsas"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Žiūrėjimo istorija pašalinta"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Atkūrimo vietos pašalintos"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Kad sužinotumėte daugiau apie NewPipe apsilankykite mūsų interneto puslapyje."
+    },
+    {
+      "name": "website_title",
+      "value": "Interneto puslapis"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Informacija:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Kas nutiko:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Tik per Wi-Fi"
+    },
+    {
+      "name": "yes",
+      "value": "Taip"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Dabar užsiprenumeravote šį kanalą"
+    },
+    {
+      "name": "your_comment",
+      "value": "Jūsų komentaras (anglų kalba):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Šis vaizdo įrašas prieinamas tik \"YouTube Music Premium\" nariams, todėl \"NewPipe\" negali jo transliuoti ar atsisiųsti."
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "Youtube turi „apribotą režimą“ kuriame slepiamas galimai suaugusiems skirtas turinys"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Įjungti YouTube „apribotą režimą“"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

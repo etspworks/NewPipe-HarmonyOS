@@ -1,0 +1,225 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d gün"
+        },
+        {
+          "quantity": "other",
+          "value": "%d gün"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%1$s endirməsi silindi"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s endirmə silindi"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Endirmə tamamlandı"
+        },
+        {
+          "quantity": "other",
+          "value": "%s endirmə tamamlandı"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d abunəlik ixrac olunur…"
+        },
+        {
+          "quantity": "other",
+          "value": "%d abunəlik ixrac olunur…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d seçildi"
+        },
+        {
+          "quantity": "other",
+          "value": "%d seçildi"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d saat"
+        },
+        {
+          "quantity": "other",
+          "value": "%d saat"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d abunəlik idxal olunur…"
+        },
+        {
+          "quantity": "other",
+          "value": "%d abunəlik idxal olunur…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s dinləyici"
+        },
+        {
+          "quantity": "other",
+          "value": "%s dinləyici"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d abunəlik yüklənilir…"
+        },
+        {
+          "quantity": "other",
+          "value": "%d abunəlik yüklənilir…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d dəqiqə"
+        },
+        {
+          "quantity": "other",
+          "value": "%d dəqiqə"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s yeni yayım"
+        },
+        {
+          "quantity": "other",
+          "value": "%s yeni yayım"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s cavab"
+        },
+        {
+          "quantity": "other",
+          "value": "%s cavab"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d saniyə"
+        },
+        {
+          "quantity": "other",
+          "value": "%d saniyə"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s abunəçi"
+        },
+        {
+          "quantity": "other",
+          "value": "%s abunəçi"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s video"
+        },
+        {
+          "quantity": "other",
+          "value": "%s video"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s baxış"
+        },
+        {
+          "quantity": "other",
+          "value": "%s baxış"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s baxıcı"
+        },
+        {
+          "quantity": "other",
+          "value": "%s baxıcı"
+        }
+      ]
+    }
+  ]
+}

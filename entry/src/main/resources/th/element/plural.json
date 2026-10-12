@@ -1,0 +1,22 @@
+{
+  "plural": [
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "%s บอกรับ"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "other",
+          "value": "%s วิว"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "EntryAbility",
+    // phone was the only entry since the port landed, which is why a tablet or 2-in-1 user could
+    // not install at all. Nothing about this app is phone-only: the grid lanes already widen with
+    // the screen and the 840vp branch already exists. The one capability that differs by profile,
+    // SystemCapability.FileManagement.UserFileService.FolderSelection (2-in-1 only), is already
+    // behind a runtime canIUse in FileAccess.canPickDirectory().
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    // bundleManager.canOpenLink() throws 17700056 for a scheme that is not listed here. Only
+    // the two the external-player hand-off ever asks about - it permits querying these,
+    // nothing more.
+    "querySchemes": [
+      "http",
+      "https"
+    ],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.INTERNET"
+      },
+      {
+        "name": "ohos.permission.GET_NETWORK_INFO"
+      },
+      {
+        "name": "ohos.permission.KEEP_BACKGROUND_RUNNING"
+      },
+      {
+        // system_grant, normal level. Required by fileShare.persistPermission /
+        // activatePermission - the takePersistableUriPermission analogue, without which a picked
+        // URI grant dies with the process. Granted on this handset (reqPermissionStates 0).
+        //
+        // ohos.permission.READ_WRITE_DOWNLOAD_DIRECTORY was declared here too and has been
+        // removed. It installs, it appears in the bundle, and requesting it answers
+        // authResults=2 - "the request is invalid" - in 271 ms with no human involved, leaving
+        // the public Download root at 13900001 exactly as before. A prompt that buys nothing is
+        // worse than no prompt. Full measurement: docs/qa/evidence/fix-T-0183b/probe2.txt.
+        "name": "ohos.permission.FILE_ACCESS_PERSIST"
+      }
+    ],
+    "abilities": [
+      {
+        "name": "EntryAbility",
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        // ExitActivity.exitAndRemoveFromRecentApps(): the panic trigger is the only caller of
+        // terminateSelf(), and the app must leave the recent-apps list with it.
+        "removeMissionAfterTerminate": true,
+        // Continuous-task modes this ability may request (KEEP_BACKGROUND_RUNNING +
+        // backgroundModes + the task itself are all required). "audioPlayback" backs the
+        // AVSession media task; "dataTransfer" backs downloads / feed update / subscription
+        // import-export in ets/common/background/BackgroundWork.ts.
+        "backgroundModes": [
+          "audioPlayback",
+          "dataTransfer"
+        ],
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "ohos.want.action.home"
+            ]
+          }
+,
+          // RouterActivity's VIEW filters: a supported service link another app opens. The
+          // wildcard hosts (*.bandcamp.com, *.hooktube.com) have no skills form; the router
+          // rejects anything it cannot resolve with its own "unsupported URL" dialog.
+          // HarmonyOS limit: an implicit http/https link goes to the system browser, not to a
+          // chooser - only a domainVerify App Linking app (domain owner's applinking.json) can take
+          // it. These host entries mirror the source but do not win that start; vnd.youtube and
+          // the share panel (sendData below) are what reach the router from another app.
+          {
+            "entities": [
+              "entity.system.browsable"
+            ],
+            "actions": [
+              "ohos.want.action.viewData"
+            ],
+            "uris": [
+              { "scheme": "https", "host": "dev.invidio.us" },
+              { "scheme": "https", "host": "eduvid.org" },
+              { "scheme": "https", "host": "framatube.org" },
+              { "scheme": "https", "host": "hooktube.com" },
+              { "scheme": "https", "host": "indymotion.fr" },
+              { "scheme": "https", "host": "inv.riverside.rocks" },
+              { "scheme": "https", "host": "invidio.us" },
+              { "scheme": "https", "host": "invidiou.site" },
+              { "scheme": "https", "host": "invidious-us.kavin.rocks" },
+              { "scheme": "https", "host": "invidious.048596.xyz" },
+              { "scheme": "https", "host": "invidious.blamefran.net" },
+              { "scheme": "https", "host": "invidious.exonip.de" },
+              { "scheme": "https", "host": "invidious.fdn.fr" },
+              { "scheme": "https", "host": "invidious.kavin.rocks" },
+              { "scheme": "https", "host": "invidious.moomoo.me" },
+              { "scheme": "https", "host": "invidious.namazso.eu" },
+              { "scheme": "https", "host": "invidious.silkky.cloud" },
+              { "scheme": "https", "host": "invidious.site" },
+              { "scheme": "https", "host": "invidious.snopyta.org" },
+              { "scheme": "https", "host": "invidious.zee.li" },
+              { "scheme": "https", "host": "m.soundcloud.com" },
+              { "scheme": "https", "host": "m.youtube.com" },
+              { "scheme": "https", "host": "media.assassinate-you.net" },
+              { "scheme": "https", "host": "media.ccc.de" },
+              { "scheme": "https", "host": "media.fsfe.org" },
+              { "scheme": "https", "host": "music.youtube.com" },
+              { "scheme": "https", "host": "on.soundcloud.com" },
+              { "scheme": "https", "host": "peertube.co.uk" },
+              { "scheme": "https", "host": "peertube.cpy.re" },
+              { "scheme": "https", "host": "peertube.fr" },
+              { "scheme": "https", "host": "peertube.mastodon.host" },
+              { "scheme": "https", "host": "peertube.stream" },
+              { "scheme": "https", "host": "piped.kavin.rocks" },
+              { "scheme": "https", "host": "redirect.invidious.io" },
+              { "scheme": "https", "host": "skeptikon.fr" },
+              { "scheme": "https", "host": "soundcloud.com" },
+              { "scheme": "https", "host": "subscribeto.me" },
+              { "scheme": "https", "host": "tilvids.com" },
+              { "scheme": "https", "host": "tube.connect.cafe" },
+              { "scheme": "https", "host": "tubus.eduvid.org" },
+              { "scheme": "https", "host": "vid.mint.lgbt" },
+              { "scheme": "https", "host": "vid.puffyan.us" },
+              { "scheme": "https", "host": "video.lqdn.fr" },
+              { "scheme": "https", "host": "video.ploud.fr" },
+              { "scheme": "https", "host": "www.invidio.us" },
+              { "scheme": "https", "host": "www.soundcloud.com" },
+              { "scheme": "https", "host": "www.youtube-nocookie.com" },
+              { "scheme": "https", "host": "www.youtube.com" },
+              { "scheme": "https", "host": "y.com.cm" },
+              { "scheme": "https", "host": "y2u.be" },
+              { "scheme": "https", "host": "yewtu.be" },
+              { "scheme": "https", "host": "youtu.be" },
+              { "scheme": "https", "host": "youtube.com" },
+              { "scheme": "https", "host": "yt.cyberhost.uk" },
+              { "scheme": "https", "host": "ytb.trom.tf" },
+              { "scheme": "https", "host": "ytprivate.com" },
+              { "scheme": "https", "host": "bandcamp.com" },
+              { "scheme": "http", "host": "dev.invidio.us" },
+              { "scheme": "http", "host": "eduvid.org" },
+              { "scheme": "http", "host": "framatube.org" },
+              { "scheme": "http", "host": "hooktube.com" },
+              { "scheme": "http", "host": "indymotion.fr" },
+              { "scheme": "http", "host": "inv.riverside.rocks" },
+              { "scheme": "http", "host": "invidio.us" },
+              { "scheme": "http", "host": "invidiou.site" },
+              { "scheme": "http", "host": "invidious-us.kavin.rocks" },
+              { "scheme": "http", "host": "invidious.048596.xyz" },
+              { "scheme": "http", "host": "invidious.blamefran.net" },
+              { "scheme": "http", "host": "invidious.exonip.de" },
+              { "scheme": "http", "host": "invidious.fdn.fr" },
+              { "scheme": "http", "host": "invidious.kavin.rocks" },
+              { "scheme": "http", "host": "invidious.moomoo.me" },
+              { "scheme": "http", "host": "invidious.namazso.eu" },
+              { "scheme": "http", "host": "invidious.silkky.cloud" },
+              { "scheme": "http", "host": "invidious.site" },
+              { "scheme": "http", "host": "invidious.snopyta.org" },
+              { "scheme": "http", "host": "invidious.zee.li" },
+              { "scheme": "http", "host": "m.soundcloud.com" },
+              { "scheme": "http", "host": "m.youtube.com" },
+              { "scheme": "http", "host": "media.assassinate-you.net" },
+              { "scheme": "http", "host": "media.ccc.de" },
+              { "scheme": "http", "host": "media.fsfe.org" },
+              { "scheme": "http", "host": "music.youtube.com" },
+              { "scheme": "http", "host": "on.soundcloud.com" },
+              { "scheme": "http", "host": "peertube.co.uk" },
+              { "scheme": "http", "host": "peertube.cpy.re" },
+              { "scheme": "http", "host": "peertube.fr" },
+              { "scheme": "http", "host": "peertube.mastodon.host" },
+              { "scheme": "http", "host": "peertube.stream" },
+              { "scheme": "http", "host": "piped.kavin.rocks" },
+              { "scheme": "http", "host": "redirect.invidious.io" },
+              { "scheme": "http", "host": "skeptikon.fr" },
+              { "scheme": "http", "host": "soundcloud.com" },
+              { "scheme": "http", "host": "subscribeto.me" },
+              { "scheme": "http", "host": "tilvids.com" },
+              { "scheme": "http", "host": "tube.connect.cafe" },
+              { "scheme": "http", "host": "tubus.eduvid.org" },
+              { "scheme": "http", "host": "vid.mint.lgbt" },
+              { "scheme": "http", "host": "vid.puffyan.us" },
+              { "scheme": "http", "host": "video.lqdn.fr" },
+              { "scheme": "http", "host": "video.ploud.fr" },
+              { "scheme": "http", "host": "www.invidio.us" },
+              { "scheme": "http", "host": "www.soundcloud.com" },
+              { "scheme": "http", "host": "www.youtube-nocookie.com" },
+              { "scheme": "http", "host": "www.youtube.com" },
+              { "scheme": "http", "host": "y.com.cm" },
+              { "scheme": "http", "host": "y2u.be" },
+              { "scheme": "http", "host": "yewtu.be" },
+              { "scheme": "http", "host": "youtu.be" },
+              { "scheme": "http", "host": "youtube.com" },
+              { "scheme": "http", "host": "yt.cyberhost.uk" },
+              { "scheme": "http", "host": "ytb.trom.tf" },
+              { "scheme": "http", "host": "ytprivate.com" },
+              { "scheme": "http", "host": "bandcamp.com" },
+              { "scheme": "vnd.youtube" },
+              { "scheme": "vnd.youtube.launch" }
+            ]
+          },
+          // RouterActivity's SEND text/plain filter: the system share panel's text and links.
+          {
+            "actions": [
+              "ohos.want.action.sendData"
+            ],
+            "uris": [
+              { "scheme": "file", "utd": "general.text", "maxFileSupported": 1 },
+              { "scheme": "file", "utd": "general.hyperlink", "maxFileSupported": 1 }
+            ]
+          },
+          // PanicResponderActivity: info.guardianproject.panic.action.TRIGGER.
+          {
+            "actions": [
+              "info.guardianproject.panic.action.TRIGGER"
+            ]
+          }
+        ]
+      }
+    ],
+    "extensionAbilities": [
+      {
+        // NotificationWorker: the periodic new-streams check (WorkManager -> WorkScheduler).
+        "name": "NotificationWorkerAbility",
+        "srcEntry": "./ets/workers/NotificationWorkerAbility.ets",
+        "type": "workScheduler",
+        "exported": false
+      },
+      {
+        "name": "EntryBackupAbility",
+        "srcEntry": "./ets/entrybackupability/EntryBackupAbility.ets",
+        "type": "backup",
+        "exported": false,
+        "metadata": [
+          {
+            "name": "ohos.extension.backup",
+            "resource": "$profile:backup_config"
+          }
+        ],
+      }
+    ]
+  }
+}

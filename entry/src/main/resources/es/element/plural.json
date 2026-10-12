@@ -1,0 +1,293 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d día"
+        },
+        {
+          "quantity": "many",
+          "value": "%d días"
+        },
+        {
+          "quantity": "other",
+          "value": "%d días"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Descarga %1$s eliminada"
+        },
+        {
+          "quantity": "many",
+          "value": "Descargas %1$s eliminadas"
+        },
+        {
+          "quantity": "other",
+          "value": "Descargas %1$s eliminadas"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Descarga finalizada"
+        },
+        {
+          "quantity": "many",
+          "value": "%s descargas finalizadas"
+        },
+        {
+          "quantity": "other",
+          "value": "%s descargas finalizadas"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Exportando la suscripción %d…"
+        },
+        {
+          "quantity": "many",
+          "value": "Exportando %d suscripciones…"
+        },
+        {
+          "quantity": "other",
+          "value": "Exportando %d suscripciones…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d seleccionado"
+        },
+        {
+          "quantity": "many",
+          "value": "%d seleccionados"
+        },
+        {
+          "quantity": "other",
+          "value": "%d seleccionados"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d hora"
+        },
+        {
+          "quantity": "many",
+          "value": "%d horas"
+        },
+        {
+          "quantity": "other",
+          "value": "%d horas"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Importando la suscripción %d…"
+        },
+        {
+          "quantity": "many",
+          "value": "Importando %d suscripciones…"
+        },
+        {
+          "quantity": "other",
+          "value": "Importando %d suscripciones…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s oyente"
+        },
+        {
+          "quantity": "many",
+          "value": "%s oyentes"
+        },
+        {
+          "quantity": "other",
+          "value": "%s oyentes"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Cargando la suscripción %d…"
+        },
+        {
+          "quantity": "many",
+          "value": "Cargando %d suscripciones…"
+        },
+        {
+          "quantity": "other",
+          "value": "Cargando %d suscripciones…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minuto"
+        },
+        {
+          "quantity": "many",
+          "value": "%d minutos"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minutos"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s nuevo directo"
+        },
+        {
+          "quantity": "many",
+          "value": "%s nuevos directos"
+        },
+        {
+          "quantity": "other",
+          "value": "%s nuevos directos"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s respuesta"
+        },
+        {
+          "quantity": "many",
+          "value": "%s respuestas"
+        },
+        {
+          "quantity": "other",
+          "value": "%s respuestas"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d segundo"
+        },
+        {
+          "quantity": "many",
+          "value": "%d segundos"
+        },
+        {
+          "quantity": "other",
+          "value": "%d segundos"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s suscriptor"
+        },
+        {
+          "quantity": "many",
+          "value": "%s suscriptores"
+        },
+        {
+          "quantity": "other",
+          "value": "%s suscriptores"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s vídeo"
+        },
+        {
+          "quantity": "many",
+          "value": "%s vídeos"
+        },
+        {
+          "quantity": "other",
+          "value": "%s vídeos"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s vista"
+        },
+        {
+          "quantity": "many",
+          "value": "%s vistas"
+        },
+        {
+          "quantity": "other",
+          "value": "%s vistas"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Visualización %s"
+        },
+        {
+          "quantity": "many",
+          "value": "Visualizaciones %s"
+        },
+        {
+          "quantity": "other",
+          "value": "Visualizaciones %s"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Ongeza kwa"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Download stream file"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Ulimaanisha \"%1$s\"?"
+    },
+    {
+      "name": "download",
+      "value": "Download"
+    },
+    {
+      "name": "install",
+      "value": "Sakinisha"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Gusa kioo la kukuza ili kuanza."
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Weka alama kuwa umetazama"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Hakuna stream player kilichopatikana. Sakinisha VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Hakuna stream player kilichopatikana(unaweza sakinisha VLC kuicheza)."
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Kitufe cha kitendo cha kwanza"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Kitufe cha kitendo cha pili"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Kitufe cha kitendo cha tatu"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Kitufe cha kitendo cha nne"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Kitufe cha kitendo cha tano"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Buffering"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Hakuna"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Rudia"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Changanya"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Fungua katika mtandao"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Fungua katika “popup mode”"
+    },
+    {
+      "name": "open_with",
+      "value": "Fungua na"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Cheza na Kodi"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Kumbuka ukubwa wa mwisho na nafasi ya popup"
+    },
+    {
+      "name": "search",
+      "value": "Tafuta"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Inaonyesha matokeo ya:%s"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Fast-forward/-rewind seek duration"
+    },
+    {
+      "name": "settings",
+      "value": "Settings"
+    },
+    {
+      "name": "share",
+      "value": "Share"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Ni baadhi ya vifaa vingine pekee vinavyoweza kucheza video za 2K/4K"
+    },
+    {
+      "name": "show_info",
+      "value": "Onyesha habari"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Onyesha chaguo la kucheza video kupitia kituo cha media cha Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Onyesha chaguo la \"Cheza na Kodi\""
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Subscribe"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Subscribed"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Haikuweza kubadilisha \"subscription\""
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Unsubscribe"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "iliyochapishwa kwa %1$s"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Tumia kicheza sauti cha nje"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Tumia kicheza video cha nje"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Use fast inexact seek"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

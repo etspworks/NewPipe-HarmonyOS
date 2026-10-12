@@ -1,0 +1,82 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d dies"
+        },
+        {
+          "quantity": "other",
+          "value": "%d dies"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d hora"
+        },
+        {
+          "quantity": "other",
+          "value": "%d horae"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s audiens"
+        },
+        {
+          "quantity": "other",
+          "value": "%s audientes"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minutum"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minuta"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d secundus"
+        },
+        {
+          "quantity": "other",
+          "value": "%d secundi"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s signator"
+        },
+        {
+          "quantity": "other",
+          "value": "%s signatores"
+        }
+      ]
+    }
+  ]
+}

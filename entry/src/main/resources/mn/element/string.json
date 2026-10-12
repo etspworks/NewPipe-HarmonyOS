@@ -1,0 +1,208 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "Цуцлах"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Сувгийн бүртгэл цуцлагдсан"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Popup"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Үндсэн popup-ийн хэмжээс"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Үндсэн хэмжээс"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Та \"%1$s\" гэх гэж байсан уу?"
+    },
+    {
+      "name": "download",
+      "value": "Татах"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Дуун файлуудыг татах хавтас сонгоно уу"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Татагдсан дуунууд энд хадгалагдана"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Дуу татах хавтас"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Бичлэгэн файлуудыг хадгалах хавтас сонгоно уу"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Татагдсан бичлэгүүд энд хадгалагдана"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Бичлэг татах хавтас"
+    },
+    {
+      "name": "install",
+      "value": "Суулгах"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Байхгүй Kore апп-ийг суулгах уу?"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Томруулдаг шил дээр даран эхлэнэ үү."
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Үзсэнээр тэмдэглэх"
+    },
+    {
+      "name": "no",
+      "value": "Үгүй"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Тоглуулагч олдсонгүй. VLC суулгах уу?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Тоглуулагч олдсонгүй (VLC суулган тоглуулж болно)."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Вэб хөтөч дээр нээх"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Popup горим дээр нээх"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Kodi-р тоглуулах"
+    },
+    {
+      "name": "search",
+      "value": "Хайх"
+    },
+    {
+      "name": "settings",
+      "value": "Тохиргоо"
+    },
+    {
+      "name": "share",
+      "value": "Хуваалцах"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "2K/4K бичлэгүүдийг зарим төхөөрөмжүүд л тоглуулж чадна"
+    },
+    {
+      "name": "show_info",
+      "value": "Мэдээлэл харах"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "\"Kodi-р тоглуулах\" цэсийг харуулах"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Бүртгэлт цуцалж чадсангүй"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Бүртгэл шинэчлэж чадсангүй"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Тэмдэглэсэн жагсаалт"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Таб сонгох"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Бүртгэлүүд"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Бүртгэлээ цуцлах"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "%1$s-д нийтлэсэн"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Гадны дуу тоглуулагч ашиглах"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Зарим дүрслэл дээр дуугүй болгоно"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Гадны тоглууглагч ашиглах"
+    },
+    {
+      "name": "yes",
+      "value": "Тийм"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

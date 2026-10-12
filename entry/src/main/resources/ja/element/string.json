@@ -1,0 +1,2936 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "同意する"
+    },
+    {
+      "name": "account_terminated",
+      "value": "停止されたアカウント"
+    },
+    {
+      "name": "action_history",
+      "value": "履歴"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "プレイリストに追加"
+    },
+    {
+      "name": "albums",
+      "value": "アルバム"
+    },
+    {
+      "name": "all",
+      "value": "すべて"
+    },
+    {
+      "name": "always",
+      "value": "常に"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "常に確認"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "この解決策は直接コーデックをサーフェスに設定する代わりに、サーフェスが変更された際に映像コーデックを開放し再インスタンス化します。すでにいくつかのデバイスでこの解決策が使用されていますが、Android 6 以降でのみ機能します\n\n\n\nこのオプションを有効化することでプレイヤーを切り替えたり、フルスクリーンに切り替えたりする際の再生エラーを防ぎます"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "常に AVPlayer の映像出力 サーフェス設定の解決策を使用する"
+    },
+    {
+      "name": "any_network",
+      "value": "すべてのネットワーク"
+    },
+    {
+      "name": "app_description",
+      "value": "HarmonyOS 向けのフリーで軽量なストリーミング。"
+    },
+    {
+      "name": "app_language_title",
+      "value": "アプリの言語"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe はコピーレフトなソフトウェアです。あなたは自由にそれを使用し、研究し、共有し、そして改善することができます。あなたは、GNU フリーソフトウェア財団が公開する GNU General Public ライセンス バージョン3以降の下に、自由に再配布・修正を行うことができます。"
+    },
+    {
+      "name": "app_license_title",
+      "value": "NewPipe のライセンス"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "アプリ(UI)がクラッシュしました"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "タップして%sをダウンロード"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "NewPipe のアップデートがあります！"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "新しい NewPipe バージョンの通知"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "アプリの更新通知"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "あなたはNewPipeの最新版を起動しています"
+    },
+    {
+      "name": "artists",
+      "value": "アーティスト"
+    },
+    {
+      "name": "audio",
+      "value": "音声"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "音声が見つかりません"
+    },
+    {
+      "name": "audio_track",
+      "value": "オーディオトラック"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "オーディオトラックは既にこのせせらぎに存在している必要があります"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "音声解説"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "吹き替え"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "オリジナル"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "二次的"
+    },
+    {
+      "name": "auto",
+      "value": "自動"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "自動 (デバイスのテーマ)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "キューに関連動画を追加して再生を続ける (繰り返ししない場合)"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "次の動画を自動でキューに追加する"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "自動でキューに追加"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe は定期的に新しいバージョンを自動的にチェックし、更新可能になると通知します。\n\n有効にしますか？"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "自動的に再生を開始します — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "自動再生"
+    },
+    {
+      "name": "background_player",
+      "value": "バックグラウンドプレイヤー"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "バックグラウンドで再生中"
+    },
+    {
+      "name": "best_resolution",
+      "value": "最高"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "ブラック"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "空白ページ"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "プレイリストをブックマーク"
+    },
+    {
+      "name": "brightness",
+      "value": "明るさ"
+    },
+    {
+      "name": "cancel",
+      "value": "キャンセル"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "自動生成"
+    },
+    {
+      "name": "caption_none",
+      "value": "字幕表示なし"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "プレーヤーのキャプションテキストの縮尺と背景スタイルを変更します。有効にするには、アプリの再起動が必要です"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "字幕"
+    },
+    {
+      "name": "card",
+      "value": "カード"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "%s により作成"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "チャンネルページ"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "詳細"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "アルバム"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "チャンネル"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "ライブ"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "プレイリスト"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "ショート"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "トラック"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "動画"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "チャンネル登録を解除しました"
+    },
+    {
+      "name": "channels",
+      "value": "チャンネル"
+    },
+    {
+      "name": "chapters",
+      "value": "チャプター"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "文字と数字"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "文字と数字と、多くの特殊文字"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "アップデートを確認"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "新しいストリームのチェックを実行"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "アップデートを確認中…"
+    },
+    {
+      "name": "checksum",
+      "value": "チェックサム"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "インスタンスを選択"
+    },
+    {
+      "name": "clear",
+      "value": "消去"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "reCAPTCHA を解いたときに NewPipe が保存した Cookie を消去します"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "reCAPTCHA の Cookie を消去"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "ダウンロード履歴を消去"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "すべての再生位置を削除します"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "再生位置の削除"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "アクティブなプレイヤーのキューが入れ替わります"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "プレイヤーを別のプレイヤーに切り替えるとキューが置き換わる可能性があります"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "キューを消去する前に確認する"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "検索キーワードの履歴を削除します"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "検索履歴を消去"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "再生した動画の履歴と再生位置を削除します"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "再生履歴を消去"
+    },
+    {
+      "name": "close",
+      "value": "閉じる"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "コメントは無効になっています"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "コメント"
+    },
+    {
+      "name": "conferences",
+      "value": "会議"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "ダウンロード履歴、またはダウンロードしたファイルを消去しますか?"
+    },
+    {
+      "name": "content",
+      "value": "コンテンツ"
+    },
+    {
+      "name": "content_language_title",
+      "value": "デフォルトの言語設定"
+    },
+    {
+      "name": "content_not_available",
+      "value": "コンテンツが利用できません"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "このコンテンツはまだ NewPipe でサポートされていません。\n\n\n\n今後のバージョンでサポートされるかもしれません。"
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "翻訳、デザインの変更、コードの整理、動作の重いコードの変更など、アイデアをお持ちではありませんか？ヘルプはいつでも歓迎します。より良いものを一緒に作り上げましょう！"
+    },
+    {
+      "name": "contribution_title",
+      "value": "貢献する"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "プレイリスト"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "バックグラウンド"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "動画をダウンロード"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "ポップアップ"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "整形済みリポートをコピー"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s 作者 %2$s ライセンス %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "警告: すべてのファイルをインポートできませんでした。"
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "全てのサムネイルを読み込めませんでした"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "保存メニューを設定できませんでした"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "アプリのクラッシュ"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "プレイヤーがクラッシュ"
+    },
+    {
+      "name": "create",
+      "value": "作成"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "エラー通知を作成"
+    },
+    {
+      "name": "create_playlist",
+      "value": "新規プレイリスト"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "ダーク"
+    },
+    {
+      "name": "decline",
+      "value": "拒否する"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "デフォルトの音声形式"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "デフォルトの地域設定"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "デフォルトのKiosk"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "デフォルトの画質 (ポップアップ表示)"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "デフォルトの画質"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "デフォルトの動画形式"
+    },
+    {
+      "name": "delete",
+      "value": "削除"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "ダウンロードしたファイルを消去"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "ディスクからダウンロードしたすべてのファイルを削除しますか？"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "このアイテムを検索履歴から削除しますか？"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "すべての再生位置を削除しますか?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "このプレイリストを削除しますか？"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "すべての検索履歴を削除しますか？"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "すべての再生履歴を削除しますか？"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "説明文のテキストの選択を無効にする"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "説明文のテキストの選択を有効にする"
+    },
+    {
+      "name": "description_select_note",
+      "value": "今説明文のテキストを選択できます。選択モード中はページがちらついたりリンクがクリックできなくなったりすることに注意してください。"
+    },
+    {
+      "name": "description_tab_description",
+      "value": "説明"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "低評価"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "ドラッグして並べ替え"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "クリエイターの心をこめて"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "高評価"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "固定されたコメント"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "チャンネルのサムネイル"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "ビデオ再生、時間:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "投稿者アイコンのサムネイル"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "もしかして: 「%1$s」?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "お使いのデバイスのモデルではメディアトンネリングがサポートされていないため、このデバイスではメディアトンネリングがデフォルトで無効になっています。"
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "動画の再生が止まったり動画が出ない場合はメディアトンネリングを無効にしてください。"
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "マルチメディアトンネリングを無効にする"
+    },
+    {
+      "name": "disabled",
+      "value": "無効"
+    },
+    {
+      "name": "dismiss",
+      "value": "破棄"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe は、あなたに最高の体験を提供するために、ボランティアが自分たちの時間を使って開発しています。開発者たちがコーヒーを飲みながら NewPipe を継続的に改良できるよう、ご支援をお願いします。"
+    },
+    {
+      "name": "donation_title",
+      "value": "寄付"
+    },
+    {
+      "name": "done",
+      "value": "完了"
+    },
+    {
+      "name": "dont_show",
+      "value": "表示しない"
+    },
+    {
+      "name": "download",
+      "value": "ダウンロード"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "同じファイル名のダウンロードが既に進行中です"
+    },
+    {
+      "name": "download_already_running",
+      "value": "同じ名前を持つダウンロードが既に進行中です"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "ダウンロード"
+    },
+    {
+      "name": "download_failed",
+      "value": "ダウンロードに失敗しました"
+    },
+    {
+      "name": "download_has_started",
+      "value": "ダウンロードを開始しました"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "音楽ファイルをダウンロードするフォルダーを選択して下さい"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "ダウンロードした音楽ファイルをここに保存します"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "音声を保存するフォルダー"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "動画ファイルをダウンロードするフォルダーを選択して下さい"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "ダウンロードした動画をここに保存します"
+    },
+    {
+      "name": "download_path_title",
+      "value": "動画を保存するフォルダー"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "外部 SD カードにダウンロードできません。ダウンロードフォルダーの場所をリセットしますか?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "外部記憶装置は利用できません"
+    },
+    {
+      "name": "downloads",
+      "value": "ダウンロード"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "ダウンロードのたびに保存する場所を尋ねます。\n\nSD カードにダウンロードしたい場合はシステム フォルダ ピッカー (SAF) を有効化します"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "ダウンロードのたびに保存する場所を尋ねます"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "ダウンロード先を尋ねる"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "ストレージアクセスフレームワークは、外部 SD カードへのダウンロードが可能です"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Android 10 以降は 'Storage Access Framework' のみがサポートされます"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "システム フォルダ ピッカー (SAF) を使用する"
+    },
+    {
+      "name": "downloads_title",
+      "value": "ダウンロード"
+    },
+    {
+      "name": "drawer_close",
+      "value": "ドロワーを閉じる"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "サービスの切り替え、現在の選択:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "ドロワーを開く"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "灰色で表示されているプレイリストには、すでにこのアイテムが含まれています。"
+    },
+    {
+      "name": "duration",
+      "value": "期間"
+    },
+    {
+      "name": "duration_live",
+      "value": "生放送"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "何もありません"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "破棄されたフラグメントまたはアクティビティの、ライフサイクル範囲外での配信不能なRx例外を強制的に報告します"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "ライフサイクルエラーの報告"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "メモリリークの監視は、ヒープダンピング時にアプリが無反応になる原因となります"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "最後に再生した位置を復元します"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "再生を再開"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "リストに再生位置インジケーターを表示します"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "リスト内の位置"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "ダウンロード キューの制限"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "同時に１つのダウンロードが実行されます"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "検索履歴を記憶します"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "検索履歴"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "登録チャンネルの新しいストリームについて通知する"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "新しいストリームの通知"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "再生履歴を記憶します"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "再生履歴"
+    },
+    {
+      "name": "enqueue",
+      "value": "順番に処理する"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "次をキューに追加"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "キューに追加"
+    },
+    {
+      "name": "enqueued",
+      "value": "キューに追加しました"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "次をキューに追加しました"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "サーバに接続できません"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "詳細:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "ダウンロードが修復できません"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "ファイルを作成できません"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "サーバがデータを送信していません"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "見つかりません"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "サーバが同時接続ダウンロードを受け付けません。再試行してください @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "デバイスの空き容量が不足しています"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "デバイスに空き容量がありません"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "エラーが発生しました: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "宛先のフォルダーを作成できません"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "保存処理に失敗しました"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "ファイルの作業中に NewPipe が閉じられました"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "ファイルが削除されたため、進行状況が失われました"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "メールで送る"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "エラーを報告する通知"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "エラー報告通知"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "エラーが発生しました (タップすると報告できます)"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "エラーが発生しました。通知をご覧ください"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "クラッシュを説明する問題がすでに存在しているかどうかを確認してください。重複したチケットを作成する場合、あなたは私たちから実際のバグを修正する時間を奪うことになります。"
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "GitHub で報告する"
+    },
+    {
+      "name": "error_report_title",
+      "value": "不具合報告"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "報告"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "申し訳ありません、不具合が発生しました。"
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "安全な接続に失敗しました"
+    },
+    {
+      "name": "error_timeout",
+      "value": "接続タイムアウト"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "コメントを読み込めませんでした"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "サーバが見つかりませんでした"
+    },
+    {
+      "name": "events",
+      "value": "イベント"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "エクスポートしました"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "再生履歴、登録チャンネル一覧、プレイリストおよび設定をエクスポートします"
+    },
+    {
+      "name": "export_data_title",
+      "value": "データベースをエクスポート"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "エクスポートしています…"
+    },
+    {
+      "name": "export_to",
+      "value": "エクスポート先"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "外部プレイヤーは、これらのタイプのリンクをサポートしていません"
+    },
+    {
+      "name": "faq",
+      "value": "ウェブサイトを表示"
+    },
+    {
+      "name": "faq_description",
+      "value": "アプリの使い方に困ったときは、よくある質問に答えていますので、ぜひご覧ください!"
+    },
+    {
+      "name": "faq_title",
+      "value": "よくある質問"
+    },
+    {
+      "name": "fast_mode",
+      "value": "高速モード"
+    },
+    {
+      "name": "featured",
+      "value": "おすすめ"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "新規"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "チャンネルタブを取得する"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "フィードを更新するときに取得するタブ。 高速モードを使用してチャンネルを更新する場合は、効果がありません。"
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "このグループを削除しますか？"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "グループ名が空です"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "チャンネルが選択されていません"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "チャンネルを選択"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "グループ化されていない登録チャンネルのみ表示"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "チャンネル グループ"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "次のストリームを表示"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "フィードの読み込みエラー"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "'%s' のフィードを読み込めませんでした。"
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "高速モードでこの情報の詳細は提供されません。"
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "この投稿者のアカウントは停止されています。\n\nNewPipe は将来的にこのフィードを読み込めなくなります。\n\nこのチャンネルの登録を解除しますか？"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "新しいフィードアイテム"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "フィードを読み込み中…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "フィードの最終更新: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "フィードを処理中…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "ストリームの表示/非表示"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "一部視聴済み"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "今後"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "完全に視聴済み"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "読み込み失敗: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "常に更新する"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "最後の更新後、登録チャンネルを更新すべきとするまでの時間 ― %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "フィードの更新間隔"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "高速モードを無効化"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "高速モードを有効化"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "フィードの読み込みが遅すぎると思いますか？ その場合、高速読み込みを有効化してみてください (設定、もしくは下のボタンを押して変更することができます)。\n\nNewPipe は2つの読み込み方法を提供します:\n・登録チャンネル全体を取得します。これは低速ですが完全です。\n・専用のサービス エンドポイントを使用します。これは高速ですが、たいていの場合不完全です。\n\n2つの違いとして、高速なものは通常、再生時間や種類 (ライブと通常の動画を区別できない) などの情報が不足して、正しい量の情報より少なく取得することがあります。\n\nYouTubeは、この高速な読み込み方法をRSSフィードで提供するサービスのひとつです。\n\nつまり、読み込み方法の選択は速度または正確さのどちらを優先するか、あなたの好みによります。"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "いくつかのサービスで利用可能。通常よりも高速ですが制限された情報が取得され、たいていの場合不完全です (例: 再生時間、種類、ライブ ステータスなどがない)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "可能ならば専用フィードから取得"
+    },
+    {
+      "name": "file",
+      "value": "ファイル"
+    },
+    {
+      "name": "file_deleted",
+      "value": "ファイルを削除しました"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "ファイル名は空白にできません"
+    },
+    {
+      "name": "forward",
+      "value": "フォワード"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "新着"
+    },
+    {
+      "name": "general_error",
+      "value": "エラー"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "一意の名前を生成します"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "このコンテンツは、お住まいの国ではご利用いただけません。"
+    },
+    {
+      "name": "get_notified",
+      "value": "通知を受け取る"
+    },
+    {
+      "name": "give_back",
+      "value": "支援する"
+    },
+    {
+      "name": "grid",
+      "value": "グリッド"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "動画のハッシュ化進行状況の通知"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "動画のハッシュ化通知"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "高品質 (大)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "長押しでキューに追加"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "たとえば、物理ボタンが壊れたヘッドセットを使用している場合に便利です"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "ハードウェア メディア ボタン イベントを無視する"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "高品質"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "低品質"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "中品質"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "画像を読み込まない"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "画像の品質と画像を読み込むかどうかを選択して、データとメモリの使用量を削減します。 変更により、メモリ内とディスク上の画像キャッシュの両方がクリアされます — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "品質"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "インポートしました"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "既存の履歴、登録チャンネル一覧、プレイリストおよび (任意) 設定は上書きされます"
+    },
+    {
+      "name": "import_data_title",
+      "value": "データベースをインポート"
+    },
+    {
+      "name": "import_file_title",
+      "value": "ファイルからインポート"
+    },
+    {
+      "name": "import_from",
+      "value": "インポート元"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "この操作により通信料金が増えることがあります。ご注意ください。\n\n\n\n続行しますか?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "インポートしています…"
+    },
+    {
+      "name": "import_settings",
+      "value": "設定もインポートしますか？"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "インポートされているエクスポートの設定は、NewPipe 0.27.0以降は非推奨であった脆弱な形式を使用します。 インポートされているエクスポートは信頼できる情報源からであり、将来的にはNewPipe 0.27.0かこれより新しいバージョンから得られるエクスポートのみを優先して使用します。 この脆弱な形式で設定をインポートするための対応はすぐに完全に削除され、新しいバージョンからエクスポートの設定をインポートすることは出来ません。"
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "URL または ID を入力して SoundCloud プロファイルをインポートします:\n\n\n\n1. Web ブラウザーで \"デスクトップモード\" を有効にします (サイトは携帯デバイスで利用できません)\n\n2. この URL に移動します: %1$s\n\n3. 必要に応じてログインします\n\n4. リダイレクトされたプロファイル URL をコピーします。"
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "あなたのID, soundcloud.com/あなたのid"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "3点メニューから登録チャンネルの読み込みまたは書き出しが可能"
+    },
+    {
+      "name": "import_title",
+      "value": "インポート"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Google takeout から YouTube の登録リストをインポート:\n\n\n\n1. この URL を開きます: %1$s\n\n2. ログインしていなければログインします\n\n3. \"すべて選択\" をクリックし、そして \"選択をすべて解除\" をクリック、そして \"登録チャンネル\" のみを選択し、\"OK\" をクリック\n\n4. \"次のステップ\" をクリックし、そして \"エクスポートを作成\" をクリック\n\n5. 表示されたら \"ダウンロード\" ボタンをクリック\n\n6. ファイルからインポートをクリックしてダウンロードした zip ファイルを選択\n\n7. (インポートが失敗したら) csv ファイル (たいてい、\"YouTube と YouTube Music/登録チャンネル/登録チャンネル.csv\" にある) を抽出し、ファイルからインポートをクリックして抽出した csv ファイルを選択"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ の動画"
+    },
+    {
+      "name": "info_labels",
+      "value": "どんな問題:\nリクエスト:\nコンテンツ言語:\nコンテンツ国:\nアプリ言語:\nサービス:\nGMT 時間:\nパッケージ:\nバージョン:\nOSバージョン:"
+    },
+    {
+      "name": "install",
+      "value": "インストール"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "フォルダーが見つかりません"
+    },
+    {
+      "name": "invalid_file",
+      "value": "ファイルが存在しないか、読み書きする権限がありません"
+    },
+    {
+      "name": "invalid_source",
+      "value": "このファイル/コンテンツはありません"
+    },
+    {
+      "name": "just_once",
+      "value": "一度だけ"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "詳細"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "Google は、2026/2027 年から、認定 Android デバイス上のすべてのアプリについて、開発者が個人の身元情報を直接 Google に提出することを必須にすると発表しました。本アプリの開発者はこの要件に同意していないため、このアプリはその時点以降、認定 Android デバイス上で動作しなくなります。"
+    },
+    {
+      "name": "kao_solution",
+      "value": "解決"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Kioskページ"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "インストールされてない Kore アプリをインストールしますか？"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanaryが利用不可能です"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "再生画面の左半分用にジェスチャーを選択"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "左のジェスチャー動作"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "ホワイト"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "制限なし"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "モバイルネットワーク使用時の画質"
+    },
+    {
+      "name": "list",
+      "value": "リスト"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "リストビュー モード"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "メタ情報を読み込んでいます…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "ストリームの詳細を読み込んでいます…"
+    },
+    {
+      "name": "local",
+      "value": "ローカル"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "ローカル検索候補"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "低品質 (小)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "虫眼鏡をタップして開始します。"
+    },
+    {
+      "name": "main_page_content",
+      "value": "メインページのコンテンツ"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "メインページに表示されるタブ"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "アイテムをスワイプして削除"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "メインタブセレクタを下に移動"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "メインタブの場所"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "新しいバージョンを手動で確認します"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "視聴済みとしてマーク"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "ダウンロードを中止するまでの最大再試行回数"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "最大再試行回数"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "年齢制限"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "アバター"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "バナー"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "キャッシュが消去されました"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "アプリ内のキャッシュデータをすべて削除します"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "キャッシュを消去"
+    },
+    {
+      "name": "metadata_category",
+      "value": "カテゴリ"
+    },
+    {
+      "name": "metadata_host",
+      "value": "ホスト"
+    },
+    {
+      "name": "metadata_language",
+      "value": "言語"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "ライセンス"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "プライバシー"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "内部"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "非公開"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "公開"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "限定公開"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "サブチャンネルのアバター"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "登録者"
+    },
+    {
+      "name": "metadata_support",
+      "value": "サポート"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "タグ"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "サムネイル"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "アップローダーのアバター"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "バックグラウンドに変更"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "何もしない"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "ポップアップに変更"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "プレイヤーから他のアプリに切り替え時の動作 — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "アプリ切り替え時の最小化"
+    },
+    {
+      "name": "missing_file",
+      "value": "ファイルが移動または削除されました"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "完了"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "順番に処理中"
+    },
+    {
+      "name": "more_options",
+      "value": "その他のオプション"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100 以上の動画"
+    },
+    {
+      "name": "most_liked",
+      "value": "最も評価された"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "ハッシュを計算中"
+    },
+    {
+      "name": "msg_copied",
+      "value": "クリップボードにコピーしました"
+    },
+    {
+      "name": "msg_error",
+      "value": "エラー"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "クリップボードへのコピーに失敗しました"
+    },
+    {
+      "name": "msg_name",
+      "value": "ファイル名"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "ポップアップモードで開くには\n\n権限の許可が必要です"
+    },
+    {
+      "name": "msg_running",
+      "value": "ダウンロード中 (NewPipe)"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "タップして詳細を表示"
+    },
+    {
+      "name": "msg_threads",
+      "value": "同時接続数"
+    },
+    {
+      "name": "msg_wait",
+      "value": "お待ちください…"
+    },
+    {
+      "name": "mute",
+      "value": "ミュート"
+    },
+    {
+      "name": "name",
+      "value": "プレイリスト名"
+    },
+    {
+      "name": "network_error",
+      "value": "ネットワークエラー"
+    },
+    {
+      "name": "never",
+      "value": "しない"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "新着と人気"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "AVPlayer の制約のためシーク間隔は %d 秒に設定されました"
+    },
+    {
+      "name": "next_stream",
+      "value": "次のストリーム"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "%sがテーマに選択された場合のみ、この選択肢が利用可能です"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "お好みの夜間テーマを選択 — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "夜間テーマ"
+    },
+    {
+      "name": "no",
+      "value": "いいえ"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "お使いのデバイス上のアプリでは、これを開くことはできません"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "この動作に適切なファイルマネージャが見つかりませんでした。\n\nファイルマネージャをインストールするか、ダウンロード設定で '%s' を無効にすることをお試しください"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "この動作に適切なファイルマネージャが見つかりませんでした。\n\nStorage Access Framework と互換性のあるファイルマネージャをインストールしてください"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "外部プレイヤーで利用可能な音声ストリームがありません"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "後ほど、ダウンロードフォルダーを設定してください"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "登録しているチャンネルはありません"
+    },
+    {
+      "name": "no_comments",
+      "value": "コメントなし"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "ダウンロードフォルダーがまだ設定されていません。今すぐデフォルトのフォルダーを選択してください"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "ライブ配信はありません"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "誰も聴いていません"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "誰も見ていません"
+    },
+    {
+      "name": "no_player_found",
+      "value": "動画プレイヤーが見つかりません｡VLC をインストールしますか？"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "動画プレイヤーが見つかりませんでした（VLCをインストールすることで再生できます）。"
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "まだプレイリスト ブックマークはありません"
+    },
+    {
+      "name": "no_streams",
+      "value": "ストリームはありません"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "ダウンロードできる動画はありません"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "チャンネル登録者なし"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "有効な ZIP ファイルではありません"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "外部プレイヤーで利用可能な動画ストリームがありません"
+    },
+    {
+      "name": "no_videos",
+      "value": "動画がありません"
+    },
+    {
+      "name": "no_views",
+      "value": "再生なし"
+    },
+    {
+      "name": "none",
+      "value": "無"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "1 番目のアクションボタン"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "2 番目のアクションボタン"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "3 番目のアクションボタン"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "4 番目のアクションボタン"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "5 番目のアクションボタン"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "バッファリング"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "なし"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "繰り返し"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "シャッフル"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "コンパクトな通知に表示されるアクションは 3 つまで選ぶことができます！"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "以下をタップして通知のアクションを編集します。右側にあるチェックボックスを使用してコンパクトな通知に表示するものを３つまで選択します。"
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "以下の通知アクションをタップして編集します。 最初の３つのアクション （再生/一時停止、前へ、次へ）はシステムによって設定されており、カスタマイズすることはできません。"
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "NewPipe のプレイヤーの通知"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe の通知"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "サムネイルのメインカラーを元に、通知をカラーにします(全てのデバイスで動作するとは限りません)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "色つきの通知"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "通知に表示されるサムネイルを 16:9 から正方形にします"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "サムネイルを正方形にする"
+    },
+    {
+      "name": "notifications",
+      "value": "通知"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "通知は無効化されています"
+    },
+    {
+      "name": "off",
+      "value": "オフ"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "on",
+      "value": "オン"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 つのアイテムが削除されました。"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "ブラウザで開く"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "ポップアップモードで開く"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "再生キューを開く"
+    },
+    {
+      "name": "open_website_license",
+      "value": "ウェブサイトを開く"
+    },
+    {
+      "name": "open_with",
+      "value": "開く"
+    },
+    {
+      "name": "override_current_data",
+      "value": "これにより、現在の設定が上書きされます。"
+    },
+    {
+      "name": "overwrite",
+      "value": "上書き"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "ファイルを上書きできません"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "この名前のダウンロードファイルは既に存在します"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "この名前のファイルは既に存在します"
+    },
+    {
+      "name": "paid_content",
+      "value": "このコンテンツは有料のユーザーのみが利用できるため、NewPipeでのストリーミングやダウンロードはできません。"
+    },
+    {
+      "name": "parsing_error",
+      "value": "ウェブサイトを解析できませんでした"
+    },
+    {
+      "name": "pause",
+      "value": "一時停止"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "ダウンロードの一時停止"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "従量制課金ネットワークの割り込み"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "モバイルデータ通信に切り替える場合に便利ですが、一部のダウンロードは一時停止できません"
+    },
+    {
+      "name": "paused",
+      "value": "一時停止"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "インスタンスはすでに存在しています"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "インスタンスを検証することができませんでした"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "インスタンスの URL を入力"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "HTTPS の URL のみに対応しています"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "インスタンスを追加"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "あなたに最適なインスタンスを探す: %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "PeerTube インスタンスを選択する"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube インスタンス"
+    },
+    {
+      "name": "percent",
+      "value": "パーセント"
+    },
+    {
+      "name": "permission_denied",
+      "value": "操作がシステムによって拒否されました"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "他のアプリの上に表示する権限を与えてください"
+    },
+    {
+      "name": "play",
+      "value": "再生"
+    },
+    {
+      "name": "play_all",
+      "value": "すべて再生"
+    },
+    {
+      "name": "play_audio",
+      "value": "音声"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "音声の設定"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "オーディオ: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "削除"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "詳細"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Kodi で再生"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "音程"
+    },
+    {
+      "name": "playback_reset",
+      "value": "リセット"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "再生速度を変更"
+    },
+    {
+      "name": "playback_step",
+      "value": "音階"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "速度"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "エラーから回復中です"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "動画の再生ができませんでした"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "回復不能なエラーが発生しました"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "プレイリストに追加しました"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "%d 回重複追加されました"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "プレイリストが作成されました"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "自動生成 (アップローダーが見つかりません)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "プレイリスト ページ"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "プレイリストのサムネイルを変更しました。"
+    },
+    {
+      "name": "playlists",
+      "value": "プレイリスト"
+    },
+    {
+      "name": "popup_player",
+      "value": "ポップアッププレイヤー"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "ポップアップモードで再生中"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "ポップアップのサイズと位置を記憶する"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "ポップアップの属性を記憶する"
+    },
+    {
+      "name": "post_processing",
+      "value": "保存処理をしています"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "利用可能な場合に視覚障害者向けの音声解説トラックを選択する"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "音声解説を優先する"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "言語に関係なくオリジナルのオーディオトラックを選択する"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "オリジナル音声を優先する"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "コンテンツを開くときのデフォルト動作 — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "お好みの「開く」アクション"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "コンテンツを読み込んでいます"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "情報を取得しています…"
+    },
+    {
+      "name": "previous_export",
+      "value": "前回のエクスポート先"
+    },
+    {
+      "name": "previous_stream",
+      "value": "前のストリーム"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "NewPipe プロジェクトはあなたのプライバシーを非常に大切にしています。あなたの同意がない限り、アプリはいかなるデータも収集しません。\n\nNewPipe のプライバシー・ポリシーでは、クラッシュリポート送信時にどのような種類のデータが送信・記録されるかを詳細に説明しています。"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "NewPipe プライバシーポリシー"
+    },
+    {
+      "name": "private_content",
+      "value": "このコンテンツは非公開のため、NewPipeでストリーミングやダウンロードすることはできません。"
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "処理中… 少し時間がかかるかもしれません"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer のデフォルト"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "読み込み間隔を変更します。（現在 %s）この値を小さくすると再生開始までの時間が短くなります。変更を適用するには再起動が必要です"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "データの読み込み間隔"
+    },
+    {
+      "name": "question_mark",
+      "value": "？"
+    },
+    {
+      "name": "queued",
+      "value": "順番待ちに追加しました"
+    },
+    {
+      "name": "radio",
+      "value": "ラジオ"
+    },
+    {
+      "name": "read_full_license",
+      "value": "ライセンスを読む"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "プライバシーポリシーを確認"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA の Cookie が消去されました"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "reCAPTCHA を要求しました"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "解決"
+    },
+    {
+      "name": "recent",
+      "value": "最近"
+    },
+    {
+      "name": "recently_added",
+      "value": "最近追加された"
+    },
+    {
+      "name": "recovering",
+      "value": "修復中"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "関連動画"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "リモート検索候補"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "重複を削除"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "この再生リスト内の重複したストリームをすべて削除しますか?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "重複を削除しますか?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "視聴済みを削除"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "はい、部分的に視聴した動画も削除します"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "視聴済みの動画を削除しますか？"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "プレイリストに追加される前も追加された後も視聴した動画はプレイリストから削除されます。 \nよろしいですか？この操作は元に戻せません！"
+    },
+    {
+      "name": "rename",
+      "value": "名前を変更"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "変更"
+    },
+    {
+      "name": "replay",
+      "value": "リプレイ"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "全ての設定をリセットすると、優先設定が全て破棄され、アプリが再起動します。\n\n\n\n続行しますか？"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "全ての設定をデフォルト状態にリセットします"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "設定をリセット"
+    },
+    {
+      "name": "resize_fill",
+      "value": "全画面"
+    },
+    {
+      "name": "resize_fit",
+      "value": "フィット"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "拡大"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "既定値に戻す"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "既定の設定を復元しますか?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "この動画には年齢制限があります。\n\n\n\n閲覧したい場合、設定から \"%1$s\" を有効化してください。"
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "この動画は年齢制限があります。\n\n年齢制限付き動画を含む新しい YouTube ポリシーにより、NewPipe は動画ストリームにアクセスできないため再生できません。"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "電話などによる中断の後、再生を再開します"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "再生の再開"
+    },
+    {
+      "name": "retry",
+      "value": "再試行"
+    },
+    {
+      "name": "rewind",
+      "value": "巻き戻し"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "再生画面の右半分用のジェスチャーを選択"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "右のジェスチャー動作"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "保存されたタブを読み込めないため、デフォルトのタブを使用します"
+    },
+    {
+      "name": "search",
+      "value": "検索"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "検索履歴を削除しました"
+    },
+    {
+      "name": "search_no_results",
+      "value": "一致する結果はありませんでした"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "次の検索結果を表示しています: %s"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "高速早送り/巻き戻し間隔"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "シークバーのサムネイルプレビュー"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "チャンネルを選択"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Kioskを選択"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "プレイリストを選択してください"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "外部プレイヤー用のオーディオトラックを選択"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "以下からお好みの夜間テーマを選択できます"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "外部プレイヤーでの品質を選択"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "選択された動画は外部プレイヤーによってサポートされていません"
+    },
+    {
+      "name": "semitone",
+      "value": "半音"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "プレイリストのサムネイルに設定"
+    },
+    {
+      "name": "settings",
+      "value": "設定"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "外観"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "バックアップと復元"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "データを削除"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "デバッグ"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "保存"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "AVPlayer の設定を管理します。これらの変更を反映するにはプレイヤーの再起動が必要です"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "AVPlayer 設定"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "フィード"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "履歴とキャッシュ"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "動作"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "現在再生しているストリームの通知を構成"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "プレイヤー通知"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "プレイヤー"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "アプリの更新"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "動画と音声"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "ファイル名に使用可能な文字"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "無効な文字はここで指定した文字に置き換えられます"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "ファイル名の自動修正"
+    },
+    {
+      "name": "share",
+      "value": "共有"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "共有"
+    },
+    {
+      "name": "share_playlist",
+      "value": "プレイリストを共有"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "YouTubeの一時的なプレイリストとして共有"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "URLリストで共有"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "タイトル付きで共有"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sB"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "年齢制限 (18+ など) の理由で、子供には不適切な可能性のあるコンテンツを表示する"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "年齢制限のあるコンテンツを表示"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "チャンネルの詳細を表示"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "チャンネルタブ"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "チャンネルページに表示されるタブ"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "無効にするとコメントを非表示にします"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "コメントを表示"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "プレイヤー使用時にクラッシュオプションを表示"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "\"プレイヤーがクラッシュ\"を表示"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "無効にすると動画の概要欄と追加情報を非表示にします"
+    },
+    {
+      "name": "show_description_title",
+      "value": "概要欄を表示"
+    },
+    {
+      "name": "show_error",
+      "value": "エラーを表示する"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "スナックバーにエラーを表示"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "2K/4K動画は一部のデバイスでのみ再生できます"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "より高い画質を表示"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "動画の詳細ページで、「バックグラウンド」または「ポップアップ」ボタンが押されたときにヒントを表示する"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "「長押しでキューに追加」のヒントを表示"
+    },
+    {
+      "name": "show_info",
+      "value": "情報を表示"
+    },
+    {
+      "name": "show_less",
+      "value": "表示を少なくする"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "メモリリークを表示"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "動画作成者、動画コンテンツ、検索リクエストに関する追加情報を含むメタ情報ボックスを非表示にするにはオフにします"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "メタ情報を表示"
+    },
+    {
+      "name": "show_more",
+      "value": "もっと見る"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "「次の動画」と「関連動画」を表示"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "サービスのオリジナルのテキストが生放送に表示されます"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "アイテムに元の時間を表示"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Kodi メディアセンター経由で動画を再生するための設定を表示します"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "「Kodi で再生」オプションを表示"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "検索時に表示する候補を選択します"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "検索候補の表示"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "ロック画面の背景と通知の両方にサムネイルを使用する"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "サムネイルを表示する"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "無音の間に早送り"
+    },
+    {
+      "name": "songs",
+      "value": "曲"
+    },
+    {
+      "name": "sorry_string",
+      "value": "申し訳ありません。想定外のエラーが発生しました。"
+    },
+    {
+      "name": "sort",
+      "value": "並び替え"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "これは SoundCloud Go+ トラックなので、少なくともあなたの国では、NewPipeではストリーミングやダウンロードができません。"
+    },
+    {
+      "name": "start",
+      "value": "開始"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "ヨーロッパの一般データ保護規制（GDPR）に準拠するために、NewPipeの個人情報保護方針にご注意ください。よく読んでください。\n\n私たちに不具合報告を送るためには、これを受け入れなければなりません。"
+    },
+    {
+      "name": "start_downloads",
+      "value": "ダウンロードの開始"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "バックグラウンドで連続再生を開始"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "ポップアップで連続再生を開始"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "直接フルスクリーンモードに切り替えて、ミニプレイヤーで動画を開始しません。自動回転がロックされている場合でも、フルスクリーンを終了することでミニプレイヤーにアクセスできます"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "プレイヤーをフルスクリーンで開始"
+    },
+    {
+      "name": "stop",
+      "value": "停止"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "ダウンローダーによってサポートされてない動画は表示されません"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "購読チャンネルの新しいストリームに関する通知"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "新しいストリーム"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "確認する頻度"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "必要なネットワークの種類"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "チャンネル登録"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "登録済み"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "登録者数は利用できません"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "チャンネル登録を変更できません"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "チャンネル登録を更新できません"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "登録リストがエクスポートできませんでした"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "登録リストがインポートできませんでした"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "解けたら「完了」を押してください"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "バックグラウンド再生を開始"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "メイン再生に切り替え"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "ポップアップ再生を開始"
+    },
+    {
+      "name": "systems_language",
+      "value": "システムの既定"
+    },
+    {
+      "name": "tab_about",
+      "value": "バージョン情報とよくある質問"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "ブックマークしたプレイリスト"
+    },
+    {
+      "name": "tab_choose",
+      "value": "タブを選択"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "ライセンス"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "登録チャンネル"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "タブレットモード"
+    },
+    {
+      "name": "theme_title",
+      "value": "テーマ"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "画像キャッシュを消去しました"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "NewPipe について"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "履歴"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "キューを再生"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA の要求"
+    },
+    {
+      "name": "title_last_played",
+      "value": "最終再生日時"
+    },
+    {
+      "name": "title_licenses",
+      "value": "サードパーティー ライセンス"
+    },
+    {
+      "name": "title_most_played",
+      "value": "最も再生された動画"
+    },
+    {
+      "name": "toggle_all",
+      "value": "すべて切り替え"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "フルスクリーンに切り替える"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "画面の向きを切り替える"
+    },
+    {
+      "name": "top_50",
+      "value": "トップ50"
+    },
+    {
+      "name": "tracks",
+      "value": "トラック"
+    },
+    {
+      "name": "trending",
+      "value": "人気"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "ブックマークを削除"
+    },
+    {
+      "name": "undo",
+      "value": "元に戻す"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "速度と音程を連動せずに変更 (歪むかもしれません)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "不明"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[不明]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "未知の形式"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "未知の品質"
+    },
+    {
+      "name": "unmute",
+      "value": "ミュート解除"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "固定サムネイルの設定を解除"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "登録解除"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "対応していないURLです"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "URL を認識できませんでした。他のアプリで開きますか？"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "新しいバージョンが利用可能なときにアプリの更新を確認する通知を表示します"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "アプリの更新"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "%1$s に公開"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "デコーダの初期化に問題がある場合は、このオプションを有効化してプライマリ デコーダ初期化失敗時に低い優先度のデコーダにフォールバックします。プライマリ デコーダ使用時よりパフォーマンスが悪化する可能性があります"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "AVPlayer のデコーダ フォールバック機能を使用する"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "外部音声プレイヤーを使用する"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "一部の解像度では音声がありません"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "外部動画プレイヤーを使用する"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "おおまかなシークを使用することで精度が下がる代わりに高速にシークができます。5 秒、15 秒または 25 秒間隔のシークはできません"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "おおまかなシーク"
+    },
+    {
+      "name": "users",
+      "value": "ユーザー"
+    },
+    {
+      "name": "video",
+      "value": "動画"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "%s による"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s： %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "動画プレイヤー"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "動画が見つかりません"
+    },
+    {
+      "name": "videos_string",
+      "value": "動画"
+    },
+    {
+      "name": "view_on_github",
+      "value": "GitHub で表示"
+    },
+    {
+      "name": "volume",
+      "value": "音量"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "再生履歴を削除しました"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "再生位置を削除しました"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "NewPipe の詳しい情報や最新情報については、ウェブサイトをご覧ください。"
+    },
+    {
+      "name": "website_title",
+      "value": "Webサイト"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "情報:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "発生した内容:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Wi-Fi のみ"
+    },
+    {
+      "name": "yes",
+      "value": "はい"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "このチャンネルを購読しました"
+    },
+    {
+      "name": "your_comment",
+      "value": "あなたのコメント(英語で):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "この動画は YouTube ミュージック プレミアム会員のみが利用できるようになっているので、NewPipe でストリーミングやダウンロードを行うことはできません。"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube は、成人向けの可能性があるコンテンツを除外する「制限付きモード」を提供しています"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "YouTube 制限付きモードを有効化"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

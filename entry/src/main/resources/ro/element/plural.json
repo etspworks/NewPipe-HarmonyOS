@@ -1,0 +1,293 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d zi"
+        },
+        {
+          "quantity": "few",
+          "value": "%d zile"
+        },
+        {
+          "quantity": "other",
+          "value": "%d de zile"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "S-a șters %1$s descărcare"
+        },
+        {
+          "quantity": "few",
+          "value": "S-au șters %1$s descărcări"
+        },
+        {
+          "quantity": "other",
+          "value": "S-au șters %1$s de descărcări"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Descărcare finalizată"
+        },
+        {
+          "quantity": "few",
+          "value": "%s descărcări finalizate"
+        },
+        {
+          "quantity": "other",
+          "value": "%s de descărcări finalizate"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Se exportă %d abonament…"
+        },
+        {
+          "quantity": "few",
+          "value": "Se exportă %d abonamente…"
+        },
+        {
+          "quantity": "other",
+          "value": "Se exportă %d de abonamente…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d selectat"
+        },
+        {
+          "quantity": "few",
+          "value": "%d selectate"
+        },
+        {
+          "quantity": "other",
+          "value": "%d selectate"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d oră"
+        },
+        {
+          "quantity": "few",
+          "value": "%d ore"
+        },
+        {
+          "quantity": "other",
+          "value": "%d de ore"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Se importă %d abonament…"
+        },
+        {
+          "quantity": "few",
+          "value": "Se importă %d abonamente…"
+        },
+        {
+          "quantity": "other",
+          "value": "Se importă %d de abonamente…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ascultător"
+        },
+        {
+          "quantity": "few",
+          "value": "%s ascultători"
+        },
+        {
+          "quantity": "other",
+          "value": "%s de ascultători"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Se încarcă %d abonament…"
+        },
+        {
+          "quantity": "few",
+          "value": "Se încarcă %d abonamente…"
+        },
+        {
+          "quantity": "other",
+          "value": "Se încarcă %d de abonamente…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minut"
+        },
+        {
+          "quantity": "few",
+          "value": "%d minute"
+        },
+        {
+          "quantity": "other",
+          "value": "%d de minute"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s flux nou"
+        },
+        {
+          "quantity": "few",
+          "value": "%s fluxuri noi"
+        },
+        {
+          "quantity": "other",
+          "value": "%s de fluxuri noi"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s răspuns"
+        },
+        {
+          "quantity": "few",
+          "value": "%s răspunsuri"
+        },
+        {
+          "quantity": "other",
+          "value": "%s de răspunsuri"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d secundă"
+        },
+        {
+          "quantity": "few",
+          "value": "%d secunde"
+        },
+        {
+          "quantity": "other",
+          "value": "%d de secunde"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s abonat"
+        },
+        {
+          "quantity": "few",
+          "value": "%s abonați"
+        },
+        {
+          "quantity": "other",
+          "value": "%s de abonați"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s videoclip"
+        },
+        {
+          "quantity": "few",
+          "value": "%s videoclipuri"
+        },
+        {
+          "quantity": "other",
+          "value": "%s de videoclipuri"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s vizionare"
+        },
+        {
+          "quantity": "few",
+          "value": "%s vizionări"
+        },
+        {
+          "quantity": "other",
+          "value": "%s de vizionări"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s spectator"
+        },
+        {
+          "quantity": "few",
+          "value": "%s spectatori"
+        },
+        {
+          "quantity": "other",
+          "value": "%s spectatori"
+        }
+      ]
+    }
+  ]
+}

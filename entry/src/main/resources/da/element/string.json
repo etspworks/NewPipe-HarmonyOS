@@ -1,0 +1,3000 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Acceptér"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Konto lukket"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Kontoen er blevet lukket\n\n%1$s angiver følgende årsag: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "Historik"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Føj til playliste"
+    },
+    {
+      "name": "albums",
+      "value": "Album"
+    },
+    {
+      "name": "all",
+      "value": "Alle"
+    },
+    {
+      "name": "always",
+      "value": "Altid"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Spørg altid"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Denne løsning frigiver og genindstiller video-codecs, når en overflade ændres, i stedet for at indstille overfladen til codec'en direkte. Denne indstilling bruges allerede af ExoPlayer på nogle enheder med dette problem, men har kun effekt på Android 6 og nyere.\n\n\n\nAktivering af denne indstilling kan forhindre afspilningsfejl, når du skifter den aktuelle videoafspiller eller skifter til fuld skærm"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Brug altid AVPlayers overfladeindstilling til video-output som løsning"
+    },
+    {
+      "name": "any_network",
+      "value": "Alle netværk"
+    },
+    {
+      "name": "app_description",
+      "value": "Fri letvægtsstreaming på HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "App-sprog"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe er copyleft, fri software: Du kan bruge, studere, dele og forbedre den, som du vil. Specifikt kan du redistribuere og/eller ændre den under betingelserne i GNU General Public License som udgivet af Free Software Foundation, enten version 3 af licensen eller (efter dit ønske) en vilkårlig senere version."
+    },
+    {
+      "name": "app_license_title",
+      "value": "NewPipe's Licens"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "App/UI gik ned"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Tryk for at hente %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "En NewPipe-opdatering er tilgængelig!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Notifikationer for nye NewPipe-versioner"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Notifikation om app-opdatering"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Du kører den nyeste version af NewPipe"
+    },
+    {
+      "name": "artists",
+      "value": "Kunstnere"
+    },
+    {
+      "name": "audio",
+      "value": "Lyd"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Ingen lydstreams fundet"
+    },
+    {
+      "name": "audio_track",
+      "value": "Lydspor"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Et lydspor bør allerede være til stede i denne stream"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "beskrivende"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "oversat"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "original"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "sekundær"
+    },
+    {
+      "name": "auto",
+      "value": "Automatisk"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Automatisk (enhedstema)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Fortsæt en afspilningskø, der afsluttes (ikke-gentagende), ved at tilføje en lignende stream"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Føj automatisk næste stream til kø"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Sæt automatisk i kø"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe kan automatisk tjekke efter nye versioner indimellem og give dig besked, når de er tilgængelige.\n\nØnsker du at aktivere dette?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Start afspilning automatisk — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Afspil automatisk"
+    },
+    {
+      "name": "background_player",
+      "value": "Baggrundsafspiller"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Afspiller i baggrunden"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Bedste opløsning"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Sort"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Tom side"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Bogmærk Playliste"
+    },
+    {
+      "name": "brightness",
+      "value": "Lysstyrke"
+    },
+    {
+      "name": "cancel",
+      "value": "Annuller"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Autogenereret"
+    },
+    {
+      "name": "caption_none",
+      "value": "Ingen Undertekster"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Ændr undertekststørrelse og baggrundsstil. Kræver genstart af appen for at træde i kraft"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Undertekster"
+    },
+    {
+      "name": "card",
+      "value": "Kort"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Lavet af %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Kanalside"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Om"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Album"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Kanaler"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Likes"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Live"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Playlister"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Shorts"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Numre"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Videoer"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Kanal afmeldt"
+    },
+    {
+      "name": "channels",
+      "value": "Kanaler"
+    },
+    {
+      "name": "chapters",
+      "value": "Kapitler"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Bogstaver og cifre"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "De fleste specialtegn"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Tjek efter opdateringer"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Tjek efter nye streams"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Tjekker efter opdateringer…"
+    },
+    {
+      "name": "checksum",
+      "value": "Kontrolsum"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Vælg en instans"
+    },
+    {
+      "name": "clear",
+      "value": "Ryd"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Ryd de cookies, som NewPipe opbevarer, når du løser en reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Ryd reCAPTCHA-cookies"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Ryd downloadhistorik"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Sletter alle afspilningspositioner"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Slet afspilningspositioner"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Den aktive afspillerkø bliver udskiftet"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Ændring fra én afspiller til en anden kan erstatte din kø"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Spørg om bekræftelse, før du rydder en kø"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Sletter historik for søgeord"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Ryd søgehistorik"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Sletter historikken over afspillede streams og afspilningspositionerne"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Ryd visningshistorik"
+    },
+    {
+      "name": "close",
+      "value": "Luk"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Kommentarer er slået fra"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Kommentarer"
+    },
+    {
+      "name": "conferences",
+      "value": "Konferencer"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Vil du rydde din downloadhistorik eller slette alle hentede filer?"
+    },
+    {
+      "name": "content",
+      "value": "Indhold"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Standardsprog for indhold"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Indhold utilgængeligt"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Dette indhold understøttes endnu ikke af NewPipe.\n\n\n\nVi håber at kunne understøtte det i en fremtiden."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Uanset om du har idéer til oversættelse, designændringer, oprydning i koden eller virkelig store kodeændringer, er hjælp altid velkommen. Jo mere der bliver gjort, jo bedre bliver det!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Bidrag"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Føj til"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Baggrund"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Hent stream-fil"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Popup"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Kopiér formateret rapport"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s af %2$s under %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Advarsel: Kunne ikke importere alle filer."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Kunne ikke indlæse alle miniaturebilleder"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Kunne ikke opsætte download-menu"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Crash appen"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Crash afspilleren"
+    },
+    {
+      "name": "create",
+      "value": "Opret"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Lav en fejlnotifikation"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Ny Playliste"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Mørk"
+    },
+    {
+      "name": "decline",
+      "value": "Afvis"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Standard lydformat"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Standardland for indhold"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Standard Kiosk"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Standardopløsning til popup"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Standardopløsning"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Standard videoformat"
+    },
+    {
+      "name": "delete",
+      "value": "Slet"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Slet hentede filer"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Slet alle hentede filer fra drevet?"
+    },
+    {
+      "name": "delete_file",
+      "value": "Slet fil"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Vil du slette dette element fra søgehistorikken?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Slet alle afspilningspositioner?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Slet denne playliste?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Slet hele søgehistorik?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Slet hele visningshistorikken?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Deaktivér valg af tekst i beskrivelsen"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Aktivér valg af tekst i beskrivelsen"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Du kan nu vælge tekst inde i beskrivelsen. Bemærk, at siden kan flimre, og links muligvis ikke kan klikkes på, mens du er i markeringstilstand."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Beskrivelse"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Kan ikke lide"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Træk for at omarrangere"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Hjertemarkeret af skaber"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Synes godt om"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Fastgjort kommentar"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Kanalens avatar-miniaturebillede"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Afspil video, varighed:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Uploaders profilbillede"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Mente du \"%1$s\"?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Medietunneling var som standard deaktiveret på din enhed, fordi din enhedsmodel er kendt for ikke at understøtte det."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Deaktivér medietunneling, hvis du oplever en sort skærm eller hakken ved videoafspilning."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Deaktivér medietunneling"
+    },
+    {
+      "name": "disabled",
+      "value": "Deaktiveret"
+    },
+    {
+      "name": "dismiss",
+      "value": "Afvis"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe er udviklet af frivillige, der bruger deres fritid på at give dig den bedste brugeroplevelse. Giv noget tilbage og hjælp udviklerne med at gøre NewPipe endnu bedre, mens de nyder en kop kaffe."
+    },
+    {
+      "name": "donation_title",
+      "value": "Donér"
+    },
+    {
+      "name": "done",
+      "value": "Færdig"
+    },
+    {
+      "name": "dont_show",
+      "value": "Vis ikke"
+    },
+    {
+      "name": "download",
+      "value": "Hent"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "En download med dette navn afventer"
+    },
+    {
+      "name": "download_already_running",
+      "value": "En download med dette navn er i gang"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Hent"
+    },
+    {
+      "name": "download_failed",
+      "value": "Hentning mislykkedes"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Download er begyndt"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Vælg lagringsmappe til lydfiler"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Hentede lydfiler gemmes her"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Lagringsmappe til lydfiler"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Vælg lagringsmappe til videofiler"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Hentede videoer gemmes her"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Lagringsmappe til videoer"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Det er endnu ikke muligt at hente til et eksternt SD-kort. Nulstil lagringsmappens placering?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Eksternt lager utilgængeligt"
+    },
+    {
+      "name": "downloads",
+      "value": "Downloads"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Du vil blive spurgt, hvor du vil gemme hver enkelt download.\n\nAktivér systemets mappevælger (SAF), hvis du vil hente til et eksternt SD-kort"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Du vil blive spurgt, hvor du vil gemme hver enkelt download"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Spørg, hvor filen skal hentes"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "\"Storage Access Framework\" gør det muligt at hente til et eksternt SD-kort"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Fra og med Android 10 understøttes kun \"Storage Access Framework\""
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Brug systemets mappevælger (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Downloads"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Luk Skuffe"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Skift service. Nuværende valg:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Åbn Skuffe"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Playlisterne, der er nedtonede, indeholder allerede dette element."
+    },
+    {
+      "name": "duration",
+      "value": "Varighed"
+    },
+    {
+      "name": "duration_live",
+      "value": "Live"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Ikke andet end fårekyllinger her"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Tving rapportering af ikke-levérbare Rx-undtagelser uden for fragmentets eller aktivitetens livscyklus efter bortskaffelse"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Rapportér out-of-lifecycle-fejl"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Overvågning af hukommelseslækager kan medføre, at appen ikke reagerer, når heap-dumpning udføres"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Gendan sidste afspilningsposition"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Fortsæt afspilning"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Vis indikatorer for afspilningsposition i lister"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Positioner i lister"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Begræns downloadkøen"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Ét download ad gangen"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Gem søgninger lokalt"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Søgehistorik"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Underret om nye streams fra abonnementer"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Notifikationer ved nye streams"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Husk sete videoer"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Visningshistorik"
+    },
+    {
+      "name": "enqueue",
+      "value": "Sæt i kø"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Sæt i kø som næste"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Sæt i kø"
+    },
+    {
+      "name": "enqueued",
+      "value": "Sat i kø"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Sat i kø som næste"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Kan ikke oprette forbindelse til serveren"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Detaljer:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Kan ikke gendanne dette download"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Filen kan ikke oprettes"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Serveren sender ikke data"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Ikke fundet"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Serveren accepterer ikke multitrådede downloads; prøv igen med @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Ikke nok ledig plads på enheden"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Ingen ledig plads på enheden"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "En fejl opstod: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Destinationsmappen kan ikke oprettes"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Efterbehandling mislykkedes"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe blev lukket under arbejde på filen"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Fremskridt tabt, fordi filen blev slettet"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Rapportér via e-mail"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Notifikationer for at rapportere fejl"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Fejlrapport-notifikation"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe stødte ind i en fejl; tryk for at rapportere"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "En fejl opstod; se notifikationen"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Tjek venligst, om der allerede findes et problem, der diskuterer dit nedbrud. Når du opretter flere tickets, tager du tid fra os, som vi kunne bruge på at løse den faktiske fejl."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Rapportér på GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Fejlrapport"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Rapportér"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Beklager, noget gik galt."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Kunne ikke etablere en sikker forbindelse"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Forbindelse afbrudt"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Kunne ikke indlæse kommentarer"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Kunne ikke finde serveren"
+    },
+    {
+      "name": "events",
+      "value": "Hændelser"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Eksporteret"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Eksportér historik, abonnementer, playlister og indstillinger"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Eksportér database"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Eksporterer…"
+    },
+    {
+      "name": "export_to",
+      "value": "Eksportér til"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Eksterne afspillere understøtter ikke disse typer af links"
+    },
+    {
+      "name": "faq",
+      "value": "Se på hjemmesiden"
+    },
+    {
+      "name": "faq_description",
+      "value": "Hvis du har problemer med at bruge appen, bør du tjekke disse svar på almindelige spørgsmål!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Ofte stillede spørgsmål"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Hurtig tilstand"
+    },
+    {
+      "name": "featured",
+      "value": "Fremhævede"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Ny"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Hent kanal-faner"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Faner, der skal hentes, når feedet opdateres. Denne indstilling har ingen effekt, hvis en kanal opdateres i hurtig-tilstand."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Vil du slette denne gruppe?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Tomt gruppenavn"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Ingen abonnementer valgt"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Vælg abonnementer"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Kanalgruppeside"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Vis kun ugrupperede abonnementer"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Kanalgrupper"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Vis følgende streams"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Fejl ved indlæsning af feed"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Kunne ikke indlæse feed for '%s'."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "\"Hurtig feed\"-tilstand oplyser ikke mere info om dette."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Udgiverens konto er blevet lukket.\n\nNewPipe vil ikke være i stand til at indlæse dette feed i fremtiden.\n\nØnsker du at afmelde denne kanal?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Nye feed-elementer"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Indlæser feed…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Feed sidst opdateret: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Behandler feed…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Vis/skjul streams"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Delvist set"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Kommende"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Set helt"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Ikke indlæst: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Opdater altid"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Tid efter sidste opdatering, før et abonnement betragtes som forældet — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Feed opdateringsgrænse"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Deaktivér hurtig-tilstand"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Aktivér hurtig-tilstand"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Synes du, at feed-indlæsning er for langsom? Hvis det er tilfældet, så prøv at aktivere hurtig indlæsning (du kan ændre det i indstillingerne eller ved at trykke på knappen nedenfor).\n\nNewPipe tilbyder to strategier til feed-indlæsning:\n- Hentning af hele abonnementskanalen, hvilket er langsomt, men komplet.\n- Brug af et dedikeret service endpoint, hvilket er hurtigt, men normalt ikke komplet.\n\nForskellen mellem de to, er, at den hurtige metode normalt mangler nogle oplysninger, f.eks. elementets varighed eller type (kan ikke skelne mellem livevideoer og normale videoer), og den returnerer muligvis færre elementer.\n\nYouTube er et eksempel på en tjeneste, der tilbyder denne hurtige metode med sit RSS-feed.\n\nValget er altså et spørgsmål om, hvad du foretrækker: hastighed eller præcise oplysninger."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Tilgængelig i nogle tjenester og er normalt meget hurtigere, men kan returnere en begrænset mængde elementer og ofte ufuldstændige oplysninger (fx ingen varighed, elementtype, ingen live-status)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Hent fra dedikeret feed, når det er tilgængeligt"
+    },
+    {
+      "name": "file",
+      "value": "Fil"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Fil slettet"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Filnavn må ikke være tomt"
+    },
+    {
+      "name": "forward",
+      "value": "Spol frem"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Nyheder"
+    },
+    {
+      "name": "general_error",
+      "value": "Fejl"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Generér unikt navn"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Dette indhold er ikke tilgængeligt i dit land."
+    },
+    {
+      "name": "get_notified",
+      "value": "Få besked"
+    },
+    {
+      "name": "give_back",
+      "value": "Giv tilbage"
+    },
+    {
+      "name": "grid",
+      "value": "Gitter"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Notifikationer om videohashing fremskridt"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Videohash-notifikation"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Høj kvalitet (større)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Hold for at sætte i kø"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Nyttigt, hvis du fx bruger et headset med ødelagte fysiske knapper"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Ignorer hændelser med hardware-medieknap"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Høj kvalitet"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Lav kvalitet"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Middel kvalitet"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Indlæs ikke billeder"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Vælg kvaliteten af billeder, og om billeder overhovedet skal indlæses, for at reducere data- og hukommelsesforbrug. Ændringer rydder både billedcachen i hukommelsen og på disken — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Billedkvalitet"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Importeret"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Overskriver din nuværende historik, abonnementer, playlister og (hvis det ønskes) indstillinger"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Importér database"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Importér fil"
+    },
+    {
+      "name": "import_from",
+      "value": "Importér fra"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Bemærk, at denne operation kan kræve meget netværkstrafik.\n\n\n\nVil du fortsætte?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Importerer…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Vil du også importere indstillinger?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Indstillingerne i den eksport, der importeres, bruger et sårbart format, der er blevet forældet siden NewPipe 0.27.0. Sørg for, at den eksport, der importeres, er fra en pålidelig kilde, og brug helst kun eksport fra NewPipe 0.27.0 eller nyere i fremtiden. Understøttelse af import af indstillinger i dette sårbare format fjernes snart helt, og så vil gamle versioner af NewPipe ikke længere være i stand til at importere indstillinger fra eksport fra nye versioner."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Importér en SoundCloud-profil ved at skrive enten dit URL eller ID:\n\n\n\n1. Slå \"desktop-tilstand\" til i mobilbrowsere.\n\n2. Gå til denne adresse: %1$s\n\n3. Log ind, når du bliver bedt om det\n\n4. Kopiér adressen på den profil, du bliver omdirigeret til."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "ditID, soundcloud.com/ditID"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Importér eller eksportér abonnementer fra 3-punktsmenuen"
+    },
+    {
+      "name": "import_title",
+      "value": "Importér"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Importér YouTube-abonnementer ved at hente eksportfilen:\n\n\n\n1. Gå til denne webadresse: %1$s\n\n2. Log ind, når du bliver bedt om det\n\n3. Klik på \"Alle Youtube-data medtages\", og fravælg alt bortset fra \"abonnementer\".\n\n4. Klik på \"Næste trin\", og derefter \"Opret eksport\".\n\n5. Klik på \"Download\"-knappen efter den popper frem.\n\n6. Klik på \"IMPORTÉR FIL\" nederst på denne side, og vælg den hentede .zip-fil.\n\n7. [Såfremt .zip-importeringen slår fejl] Uddrag .csv-filen (som normalt findes i \"YouTube og YouTube Music/abonnementer/abonnementer.csv\"). Klik på \"IMPORTÉR FIL\" nederst på denne side, og vælg den uddragede .csv-fil"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ videoer"
+    },
+    {
+      "name": "info_labels",
+      "value": "Hvad:\nForespørgsel:\nIndholdssprog:\nIndholdsland:\nApp-sprog:\nTjeneste:\nGMT-tid:\nPakke:\nVersion:\nOS-version:"
+    },
+    {
+      "name": "install",
+      "value": "Installer"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Mappen findes ikke"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Filen findes ikke, ellers mangler der tilladelse til at læse eller skrive til den"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Fil eller indholdskilde findes ikke"
+    },
+    {
+      "name": "just_once",
+      "value": "Kun Én Gang"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Kioskside"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Installer manglende Kore-app?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary er ikke tilgængelig"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Vælg bevægelse til venstre halvdel af afspillerens skærm"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Venstre bevægelseshandling"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Lys"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Ingen begrænsning"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Begræns opløsning, når mobildata bruges"
+    },
+    {
+      "name": "list",
+      "value": "Liste"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Listevisning"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Indlæser Metadata…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Indlæser streamdetaljer…"
+    },
+    {
+      "name": "local",
+      "value": "Lokale"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Lokale søgeforslag"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Lav kvalitet (mindre)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Tryk på forstørrelsesglasset for at komme i gang."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Indhold af hovedside"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Hvilke faner vises på hovedsiden"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Stryg på elementer for at fjerne dem"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Flyt hovedfanens vælger til bunden"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Position for hovedfaner"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Tjek manuelt efter opdateringer"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Markér som set"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Maks. antal forsøg, før downloaden annulleres"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Maks. antal genforsøg"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Aldersbegrænsning"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Avatars"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Bannere"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Metadata-cache ryddet"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Fjern alle cached websidedata"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Ryd metadata-cache"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Kategori"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Vært"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Sprog"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Licens"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Privatliv"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Intern"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Privat"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Offentlig"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Ikke oplyst"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Underkanal-avatars"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Abonnenter"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Support"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Tags"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Miniaturebilleder"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Uploader-avatars"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud har udfaset de oprindelige Top 50-hitlister. Den tilhørende fane er blevet fjernet fra din hovedside."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "SoundCloud Top 50-siden fjernet"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube har udfaset den kombinerede trending-side pr. 21. juli 2025. NewPipe har erstattet standardsiden for trending med trending livestreams.\n\nDu kan også vælge andre trending-sider under \"Indstillinger > Indhold > Indhold på hovedsiden\"."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "YouTube kombineret trending fjernet"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Minimer til baggrundsafspiller"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Ingen"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Minimer til popup-afspiller"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Handling ved skift til anden app fra hovedvideoafspiller — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Minimer ved appskift"
+    },
+    {
+      "name": "missing_file",
+      "value": "Filen er flyttet eller slettet"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Færdig"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Afventer"
+    },
+    {
+      "name": "more_options",
+      "value": "Flere muligheder"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ videoer"
+    },
+    {
+      "name": "most_liked",
+      "value": "Mest likede"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Udregner hash"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Kopieret til udklipsholder"
+    },
+    {
+      "name": "msg_error",
+      "value": "Fejl"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Kunne ikke kopiere til udklipsholder"
+    },
+    {
+      "name": "msg_name",
+      "value": "Filnavn"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Denne tilladelse er nødvendig for\n\nat åbne i popup-tilstand"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe henter"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Tryk for detaljer"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Tråde"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Vent venligst…"
+    },
+    {
+      "name": "mute",
+      "value": "Sæt på lydløs"
+    },
+    {
+      "name": "name",
+      "value": "Navn"
+    },
+    {
+      "name": "network_error",
+      "value": "Netværksfejl"
+    },
+    {
+      "name": "never",
+      "value": "Aldrig"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Nyt og populært"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Grundet AVPlayer-begrænsninger blev søgevarigheden sat til %d sekunder"
+    },
+    {
+      "name": "next_stream",
+      "value": "Næste stream"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Denne indstilling er kun tilgængelig, hvis %s er valgt som tema"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Vælg dit foretrukne nattema — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Nat-tema"
+    },
+    {
+      "name": "no",
+      "value": "Nej"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Ingen app på din enhed kan åbne dette"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Ingen passende filhåndtering blev fundet til denne handling.\n\nInstaller venligst en filhåndtering, eller prøv at deaktivere '%s' i downloadindstillingerne."
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Ingen passende filhåndtering blev fundet til denne handling.\n\nInstaller venligst en Storage Access Framework-kompatibel filhåndtering."
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Ingen lydstreams er tilgængelige for eksterne afspillere"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Angiv venligst en lagringsmappe senere i indstillinger"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Ingen kanalabonnementer endnu"
+    },
+    {
+      "name": "no_comments",
+      "value": "Ingen kommentarer"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Lagringsmappe endnu ikke valgt; vælg standardmappen nu"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Ingen feed-gruppe oprettet endnu"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Ingen livestreams"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Ingen lyttere"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Ingen seere"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Ingen streamafspiller blev fundet. Installer VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Ingen streamafspiller blev fundet (du kan installere VLC for at afspille den)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Ingen playliste-bogmærker endnu"
+    },
+    {
+      "name": "no_streams",
+      "value": "Ingen streams"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Ingen streams tilgængelige til hentning"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Ingen abonnenter"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Ingen gyldig ZIP-fil"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Ingen videostreams er tilgængelige for eksterne afspillere"
+    },
+    {
+      "name": "no_videos",
+      "value": "Ingen videoer"
+    },
+    {
+      "name": "no_views",
+      "value": "Ingen visninger"
+    },
+    {
+      "name": "none",
+      "value": "Ingen"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Første handlingsknap"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Anden handlingsknap"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Tredje handlingsknap"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Fjerde handlingsknap"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Femte handlingsknap"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Buffering"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Ingenting"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Gentag"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Bland"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Du kan kun vælge op til tre handlinger, der kan vises i den lille notifikation!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Rediger hver notifikationshandling nedenfor ved at trykke på den. Vælg op til tre af dem, der skal vises i den lille notifikation, via afkrydsningsfelterne til højre."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Rediger hver notifikationshandling nedenfor ved at trykke på den. De første tre handlinger (afspil/pause, forrige og næste) er indstillet af systemet og kan ikke tilpasses."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Notifikationer for NewPipes afspiller"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe-notifikation"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Få Android til at vælge notifikationens farve ud fra den primære farve i miniaturebilledet (virker ikke på alle enheder)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Farvelæg notifikation"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Beskær video-miniaturebillede i notifikationen fra 16:9 til 1:1 format"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Beskær miniaturebillede til 1:1 format"
+    },
+    {
+      "name": "notifications",
+      "value": "Notifikationer"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Notifikationer er slået fra"
+    },
+    {
+      "name": "off",
+      "value": "Fra"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "on",
+      "value": "Til"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 element slettet."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Åbn i browser"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Åbn i popup-tilstand"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Åbn afspilningskø"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Åbn hjemmeside"
+    },
+    {
+      "name": "open_with",
+      "value": "Åbn med"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Dette vil overskrive dine nuværende indstillinger."
+    },
+    {
+      "name": "overwrite",
+      "value": "Overskriv"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "kan ikke overskrive filen"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "En hentet fil med dette navn eksisterer allerede"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "En fil med dette navn eksisterer allerede"
+    },
+    {
+      "name": "paid_content",
+      "value": "Dette indhold er kun tilgængeligt for brugere, som har betalt for det, så det kan ikke streames eller hentes af NewPipe."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Kunne ikke analysere webside"
+    },
+    {
+      "name": "pause",
+      "value": "Pause"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Sæt downloads på pause"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Afbryd på forbrugsafregnede netværk"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Nyttigt ved skift til mobildata, selv om nogle downloads ikke kan sættes på pause"
+    },
+    {
+      "name": "paused",
+      "value": "sat på pause"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Instansen findes allerede"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Kunne ikke validere instansen"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Indtast instans-URL"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Kun HTTPS-URL'er understøttes"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Tilføj instans"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Find de instanser, du kan lide på %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Vælg dine yndlings PeerTube-instanser"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube-instanser"
+    },
+    {
+      "name": "percent",
+      "value": "Procent"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Handling afvist af systemet"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Giv tilladelse til at vise over andre apps"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "For at kunne bruge pop op-afspilleren skal du vælge %1$s i følgende Android-indstillingsmenu og aktivere %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "“Tillad visning over andre apps”"
+    },
+    {
+      "name": "play",
+      "value": "Afspil"
+    },
+    {
+      "name": "play_all",
+      "value": "Afspil Alle"
+    },
+    {
+      "name": "play_audio",
+      "value": "Lyd"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Lydindstillinger"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Lyd: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Fjern"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Detaljer"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Afspil med Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Tonehøjde"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Nulstil"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Knapper for Afspilningshastighed"
+    },
+    {
+      "name": "playback_step",
+      "value": "Skridt"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Tempo"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Genopretter efter afspillerfejl"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Kunne ikke afspille denne stream"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Uoprettelig afspillerfejl opstod"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Føjet til playliste"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Duplikat tilføjet %d gang(e)"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Playliste oprettet"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Autogenereret (ingen uploader fundet)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Playlisteside"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Ændret playlistens miniaturebillede."
+    },
+    {
+      "name": "playlists",
+      "value": "Playlister"
+    },
+    {
+      "name": "popup_player",
+      "value": "Popup-afspiller"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Afspiller i popup-tilstand"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Husk sidste størrelse og placering af popup-afspiller"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Husk popup-egenskaber"
+    },
+    {
+      "name": "post_processing",
+      "value": "efterbehandling"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Hvis tilgængeligt, brug lydbeskrivelser for personer med nedsat syn"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Foretræk lydbeskrivelser"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Brug det originale lydspor uanset sprog"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Foretræk original lyd"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Standardhandling ved åbning af indhold — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Foretrukken 'åbn'-handling"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Indlæser det ønskede indhold"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Henter info…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Forrige eksport"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Forrige stream"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "NewPipe-projektet tager dit privatliv meget alvorligt. Derfor indsamler appen ikke nogen data uden dit samtykke.\n\nNewPipe's privatlivspolitik forklarer i detaljer, hvilke data der sendes og gemmes, når du sender en nedbrudsrapport."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "NewPipe's Privatlivspolitik"
+    },
+    {
+      "name": "private_content",
+      "value": "Dette indhold er privat, så det kan ikke streames eller hentes af NewPipe."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Behandler… Det kan tage et øjeblik"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer-standard"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Skift intervalstørrelsen for indlæsning af progressivt indhold (i øjeblikket %s). En lavere værdi kan fremskynde den første indlæsning"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Størrelse på afspilningsinterval"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "sat i kø"
+    },
+    {
+      "name": "radio",
+      "value": "Radio"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Læs licens"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Læs privatlivspolitik"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA-cookies blev ryddet"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "reCAPTCHA-udfordring anmodet"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Løs"
+    },
+    {
+      "name": "recent",
+      "value": "Nylige"
+    },
+    {
+      "name": "recently_added",
+      "value": "Nyligt tilføjede"
+    },
+    {
+      "name": "recovering",
+      "value": "gendanner"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Relaterede emner"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Forslag til fjernsøgning"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Fjern duplikater"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Ønsker du at fjerne alle duplikerede streams i denne playliste?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Fjern duplikater?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Fjern sete"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Ja, og delvist sete videoer"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Fjern sete videoer?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Videoer, der er blevet set før og efter tilføjelse til playlisten, vil blive fjernet. \nEr du sikker? Dette kan ikke fortrydes!"
+    },
+    {
+      "name": "rename",
+      "value": "Omdøb"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Omdøb"
+    },
+    {
+      "name": "replay",
+      "value": "Afspil igen"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Hvis du nulstiller alle indstillinger, kasseres alle dine foretrukne indstillinger, og appen genstartes.\n\n\n\nEr du sikker på, at du vil fortsætte?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Nulstil alle indstillinger til deres standardværdier"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Nulstil indstillinger"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Udfyld"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Tilpas"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Zoom"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Gendan standardindstillinger"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Vil du gendanne standardindstillinger?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Denne video er aldersbegrænset.\n\n\n\nSlå \"%1$s\" til i indstillingerne, hvis du vil se den."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Denne video er aldersbegrænset.\n\nGrundet nye YouTube-politikker om aldersbegrænsede videoer har NewPipe ikke adgang til nogen af dens videostreams og kan derfor ikke afspille dem."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Fortsæt afspilning efter afbrydelser (fx telefonopkald)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Fortsæt afspilning"
+    },
+    {
+      "name": "retry",
+      "value": "Prøv igen"
+    },
+    {
+      "name": "rewind",
+      "value": "Spol tilbage"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Vælg bevægelse til højre halvdel af afspillerens skærm"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Højre bevægelseshandling"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Kunne ikke læse gemte faner, så bruger standardfaner"
+    },
+    {
+      "name": "search",
+      "value": "Søg"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Søgehistorik slettet"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Ingen resultater"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Viser resultater for: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Søg %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Søg %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Søgningsvarighed for spole frem/tilbage"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Forhåndsvisning af miniaturebilleder på statuslinje"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Vælg en kanal"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Vælg en feed-gruppe"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Vælg en kiosk"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Vælg en playliste"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Vælg lydspor til eksterne afspillere"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Du kan vælge dit foretrukne nattema nedenfor"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Vælg kvalitet til eksterne afspillere"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Den valgte stream understøttes ikke af eksterne afspillere"
+    },
+    {
+      "name": "semitone",
+      "value": "Halvtone"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Anvend som playlistens miniaturebillede"
+    },
+    {
+      "name": "settings",
+      "value": "Indstillinger"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Udseende"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Sikkerhedskopiering og gendannelse"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Ryd data"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Fejlretning"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Hent"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Administrer nogle AVPlayer-indstillinger. Disse ændringer kræver genstart af afspilleren for at træde i kraft"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "AVPlayer-indstillinger"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Feed"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Historik og cache"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Adfærd"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Konfigurer notifikation om igangværende stream"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Afspiller-notifikation"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Afspiller"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Opdateringer"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Video og lyd"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Tilladte tegn i filnavne"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Ugyldige tegn erstattes med denne værdi"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Erstatningstegn"
+    },
+    {
+      "name": "share",
+      "value": "Del"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Del med"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Del Playliste"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Del som midlertidig YouTube-playliste"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Del URL-liste"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Del med Titler"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sB"
+    },
+    {
+      "name": "short_million",
+      "value": "%sM"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sK"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Vis indhold, der muligvis er uegnet for børn, fordi det har en aldersgrænse (fx 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Vis aldersbegrænset indhold"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Vis kanalens detaljer"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Kanal-faner"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Hvilke faner vises på kanalsiderne"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Slå fra for at skjule kommentarer"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Vis kommentarer"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Vis en crash mulighed, når afspilleren er i brug"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Vis \"Crash afspilleren\""
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Slå fra for at skjule videobeskrivelse og yderligere information"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Vis beskrivelse"
+    },
+    {
+      "name": "show_error",
+      "value": "Vis fejl"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Vis en fejl snackbar"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Kun nogle enheder kan afspille 2K-/4K-videoer"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Vis højere opløsninger"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Vis tip, når du trykker på baggrunden eller popup-knappen i video \"Detaljer:\""
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Vis \"Hold for at sætte i kø\"-tip"
+    },
+    {
+      "name": "show_info",
+      "value": "Vis info"
+    },
+    {
+      "name": "show_less",
+      "value": "Vis mindre"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Vis hukommelseslækager"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Slå fra for at skjule metainfo-bokse med yderligere information om streamskaberen, streamindhold eller en søgeforespørgsel"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Vis metainfo"
+    },
+    {
+      "name": "show_more",
+      "value": "Vis mere"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Vis 'Næste' og 'Lignende' videoer"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Originaltekster fra tjenester vil være synlige i stream-elementer"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Vis oprindelig tid siden på elementer"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Vis en mulighed for at afspille en video via Kodi-mediecenter"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Vis valgmuligheden \"Afspil med Kodi\""
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Vælg forslagene, der vises, når der søges"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Søgeforslag"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Vis miniaturebilleder på både låseskærmen og notifikationer"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Vis miniaturebillede"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Spol forbi stilhed"
+    },
+    {
+      "name": "songs",
+      "value": "Sange"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Undskyld, dette skulle ikke være sket."
+    },
+    {
+      "name": "sort",
+      "value": "Sorter"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Dette er et SoundCloud Go+-nummer, i hvert fald i dit land, så det kan ikke streames eller hentes af NewPipe."
+    },
+    {
+      "name": "start",
+      "value": "Start"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "For at overholde den europæiske databeskyttelsesforordning (GDPR) henviser vi hermed din opmærksomhed til NewPipes privatlivspolitik. Læs den venligst omhyggeligt.\n\nDu skal acceptere den for at kunne sende os fejlrapporten."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Start downloads"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Start afspilning i baggrunden"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Start afspilning i et popup"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Start ikke videoer i miniafspilleren, men skift direkte til fuldskærmstilstand, hvis automatisk rotation er låst. Du kan stadig få adgang til miniafspilleren ved at forlade fuldskærm"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Start hovedafspiller i fuld skærm"
+    },
+    {
+      "name": "stop",
+      "value": "Stop"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Streams, som endnu ikke understøttes af downloaderen, vises ikke"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Notifikationer om nye streams fra abonnementer"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Nye streams"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Kontrolfrekvens"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Netværkskrav"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Abonner"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Abonnerer"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Antal abonnenter utilgængeligt"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Kunne ikke ændre abonnement"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Kunne ikke opdatere abonnement"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Kunne ikke eksportere abonnementer"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Kunne ikke importere abonnementer"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Tryk på \"Færdig\", når den er løst"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Skift til baggrund"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Skift til hovedafspiller"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Skift til popup"
+    },
+    {
+      "name": "systems_language",
+      "value": "Systemstandard"
+    },
+    {
+      "name": "tab_about",
+      "value": "Om & Ofte Stillede Spørgsmål"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Gemte Playlister"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Playlister"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Vælg Fane"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Licenser"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Abonnementer"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Tablet-tilstand"
+    },
+    {
+      "name": "theme_title",
+      "value": "Tema"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Billedcache ryddet"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Om NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Historik"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Afspillerkø"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA-udfordring"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Sidst Afspillet"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Tredjepartslicenser"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Mest Afspillet"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Skift alle"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Skift til fuldskærm"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Skift skærmretning"
+    },
+    {
+      "name": "top_50",
+      "value": "Top 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Numre"
+    },
+    {
+      "name": "trending",
+      "value": "Populært lige nu"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Gaming-trends"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Trending podcasts"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Fjern Bogmærke"
+    },
+    {
+      "name": "undo",
+      "value": "Fortryd"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Aflænk (kan skabe forvrængning)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Ukendt"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Ukendt]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Ukendt format"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Ukendt kvalitet"
+    },
+    {
+      "name": "unmute",
+      "value": "Slå lyd til"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Fjern permanent miniaturebillede"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Afmeld"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Ikke-understøttet URL"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Kunne ikke genkende URL. Åbn med en anden app?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Vis en notifikation for at foreslå opdatering af appen, når en ny version er tilgængelig"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Opdateringer"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Udgivet d. %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Aktivér denne indstilling, hvis du oplever initialiseringsproblemer med dekodere, som falder tilbage til dekodere af lavere prioritet, hvis de primære dekoderes initialisering fejler. Dette kan resultere i dårligere afspilningsydelse end ved brug af primære dekodere"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Brug AVPlayers fallback-funktion til dekoderen"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Brug ekstern lydafspiller"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Fjerner lyd ved nogle opløsninger"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Brug ekstern videoafspiller"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Upræcis søgning lader afspilleren finde positioner hurtigere, men med nedsat præcision. Søgning i 5, 15 eller 25 sekunder fungerer ikke med dette"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Brug hurtig og upræcis søgning"
+    },
+    {
+      "name": "users",
+      "value": "Brugere"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Af %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Videoafspiller"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Ingen videostreams fundet"
+    },
+    {
+      "name": "videos_string",
+      "value": "Videoer"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Se på GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "Lydstyrke"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Visningshistorik slettet"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Afspilningspositioner slettet"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Besøg NewPipe's hjemmeside for flere oplysninger og nyheder."
+    },
+    {
+      "name": "website_title",
+      "value": "Hjemmeside"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Info:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Hvad skete der:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Kun på Wi-Fi"
+    },
+    {
+      "name": "yes",
+      "value": "Ja"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Du abonnerer nu på denne kanal"
+    },
+    {
+      "name": "your_comment",
+      "value": "Din kommentar (på engelsk):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Denne video er kun tilgængelig for YouTube Musik Premium-medlemmer, så den kan ikke streames eller hentes af NewPipe."
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube tilbyder en \"Begrænset Tilstand\", som skjuler potentielt voksenindhold"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Slå YouTubes \"Begrænset Tilstand\" til"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

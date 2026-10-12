@@ -1,0 +1,147 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d օր"
+        },
+        {
+          "quantity": "other",
+          "value": "%d օր"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d նշված"
+        },
+        {
+          "quantity": "other",
+          "value": "%d նշված"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ժամ"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ժամ"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s լսող"
+        },
+        {
+          "quantity": "other",
+          "value": "%s լսող"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d րոպե"
+        },
+        {
+          "quantity": "other",
+          "value": "%d րոպե"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s պատասխան"
+        },
+        {
+          "quantity": "other",
+          "value": "%s պատասխաններ"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d վրկ"
+        },
+        {
+          "quantity": "other",
+          "value": "%d վրկ"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s հետևորդ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s հետևորդ"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s տեսանյութ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s տեսանյութ"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s դիտում"
+        },
+        {
+          "quantity": "other",
+          "value": "%s դիտում"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s դիտում է"
+        },
+        {
+          "quantity": "other",
+          "value": "%s դիտում են"
+        }
+      ]
+    }
+  ]
+}

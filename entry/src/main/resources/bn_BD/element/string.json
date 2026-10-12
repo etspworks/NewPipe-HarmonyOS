@@ -1,0 +1,1620 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "স্বীকার করো"
+    },
+    {
+      "name": "action_history",
+      "value": "ইতিহাস"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "প্লে লিস্ট এ যুক্ত করুন"
+    },
+    {
+      "name": "albums",
+      "value": "অ্যালবাম গুলি"
+    },
+    {
+      "name": "all",
+      "value": "সবগুলি"
+    },
+    {
+      "name": "always",
+      "value": "সবসময়"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "সবসময় জিজ্ঞেস করুন"
+    },
+    {
+      "name": "any_network",
+      "value": "যেকোন নেটওয়ার্ক"
+    },
+    {
+      "name": "app_language_title",
+      "value": "অ্যাপ এর ভাষা"
+    },
+    {
+      "name": "app_license_title",
+      "value": "নিউপাইপ এর লাইসেন্স"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "অ্যাপ / UI ক্র্যাশ করেছে"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "নিউ পাইপ আপডেট এসেছে!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "নতুন নিউপাইপ ভার্সন এর নোটিফিকেশন"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "অ্যাপ আপডেট নোটিফিকেশন"
+    },
+    {
+      "name": "artists",
+      "value": "শিল্পীরা"
+    },
+    {
+      "name": "audio",
+      "value": "অডিও"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "কোন অডিও স্ট্রিম পাওয়া যায় নি"
+    },
+    {
+      "name": "auto",
+      "value": "অটো"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "স্বয়ংক্রিয় (ডিভাইস থিম)"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "পরবর্তী স্ট্রিম স্বয়ংক্রিয়ংভাবে সংযোজন করো"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "স্বয়ংক্রিয় প্লে"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "ব্যাকগ্রাউন্ডে চলছে"
+    },
+    {
+      "name": "best_resolution",
+      "value": "সেরা রেজুলিউসন"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "কালো"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "খালি পাতা"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "প্লেলিস্ট বুকমার্ক করুন"
+    },
+    {
+      "name": "cancel",
+      "value": "বাতিল"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "স্বয়ংক্রিয়ভাবে-তৈরিকৃত"
+    },
+    {
+      "name": "caption_none",
+      "value": "কোন ক্যাপশন নেই"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "ক্যাপশন"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "চ্যানেল এর পাতা"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "চ্যানেল থেকে আনসাবস্ক্রাইব্ড"
+    },
+    {
+      "name": "channels",
+      "value": "চ্যানেলগুলো"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "শব্দ ও নম্বর"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "আপডেট চেক করো"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "আপডেট চেক করা হচ্ছে …"
+    },
+    {
+      "name": "checksum",
+      "value": "চেকসাম"
+    },
+    {
+      "name": "clear",
+      "value": "পরিষ্কার"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "ডাওন লোড ইতিহাস মুছুন"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "সমস্ত প্লে লিস্ট এর অবস্থান মুছে ফেলুন"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "প্লে লিস্ট এর অবস্থান মুছে ফেলুন"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "সক্রিয় প্লেয়ারের অপেক্ষমাণ সারি প্রতিস্থাপিত হবে"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "এক প্লেয়ার বদলে অন্য প্লেয়ারে যাওয়া আপনার অপেক্ষমাণ সারিকে প্রতিস্থাপন করতে পারে"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "অপেক্ষমাণ সারি বাদ দেওয়ার আগে নিশ্চিত হতে জিজ্ঞেস করো"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "সার্চের ইতিহাস মোছা হয়"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "সার্চ ইতিহাস মুছুন"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "প্লে করা স্ট্রিমসমূহের ইতিহাস এবং প্লেব্যাক অবস্থানসমূহ মুছে দেবে"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "দেখার ইতিহাস মুছে ফেলুন"
+    },
+    {
+      "name": "close",
+      "value": "বন্ধ করুন"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "মন্তব্যসমূহ নিষ্ক্রিয় আছে"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "মতামত"
+    },
+    {
+      "name": "content",
+      "value": "কন্টেন্ট"
+    },
+    {
+      "name": "content_language_title",
+      "value": "কন্টেন্ট এর জন্য পছন্দসই ভাষা"
+    },
+    {
+      "name": "content_not_available",
+      "value": "কন্টেন্ট উপলব্ধ নয়"
+    },
+    {
+      "name": "contribution_title",
+      "value": "স্বেচ্ছাস্বেবা"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "যুক্ত করুন"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "ব্যাকগ্রাউন্ড"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "স্ট্রিম ফাইল ডাউনলোড করুন"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "পপআপ"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "তৈরিকৃত রিপোর্ট কপি করো"
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "সব থাম্বনেইল লোড করা যায়নি"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "ডাউনলোড মেনু সেটআপ করা যায়নি"
+    },
+    {
+      "name": "create",
+      "value": "তৈরি করো"
+    },
+    {
+      "name": "create_playlist",
+      "value": "নতুন প্লে লিস্ট"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "অন্ধকার"
+    },
+    {
+      "name": "decline",
+      "value": "অস্বীকার করো"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "ডিফল্ট অডিও ফরম্যাট"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "কনটেন্টের জন্য পূর্বনির্ধারিত দেশ"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "ডিফল্ট পপআপ রেজ্যুলেশন"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "ডিফল্ট রেজ্যুলেশন"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "ডিফল্ট ভিডিও ফরম্যাট"
+    },
+    {
+      "name": "delete",
+      "value": "ডিলেট"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "ডাউনলোড করা ফাইলগুলো ডিলিট করুন"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "সমস্ত প্লে লিস্ট এর অবস্থান মুছবেন?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "প্লে লিস্ট ডিলিট করতে চান?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "সমগ্র সার্চ ইতিহাস মুছবেন?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "সম্পূর্ণ দেখার ইতিহাস মুছে ফেলুন?"
+    },
+    {
+      "name": "description_tab_description",
+      "value": "বর্ণনা"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "অপছন্দ হয়েছে"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "পুনর্বিন্যাস্ত করতে টান দিন"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "পছন্দ হয়েছে"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "ভিডিও চালাও, সময়:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "আপলোডারের ইউজারপিক থাম্বনেইল"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "আপনি কি %1$s বুঝিয়েছেন?"
+    },
+    {
+      "name": "disabled",
+      "value": "নিস্ক্রীয়"
+    },
+    {
+      "name": "dismiss",
+      "value": "সরাও"
+    },
+    {
+      "name": "donation_title",
+      "value": "দান করো"
+    },
+    {
+      "name": "done",
+      "value": "হয়েছে"
+    },
+    {
+      "name": "dont_show",
+      "value": "দেখিও না"
+    },
+    {
+      "name": "download",
+      "value": "ডাউনলোড"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "ডাউনলোড"
+    },
+    {
+      "name": "download_failed",
+      "value": "ডাউনলোড ব্যর্থ হয়েছে"
+    },
+    {
+      "name": "download_has_started",
+      "value": "ডাউনলোড শুরু হয়েছে"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "অডিও ফাইলের জন্য ডাউনলোড ফোল্ডার বাছুন"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "ডাউনলোড করা অডিও ফাইল এখানে জমা হয়"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "অডিও ডাউনলোড ফোল্ডার"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "ভিডিও ফাইলের জন্য ডাউনলোড ফোল্ডার বাছুন"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "ডাউনলোড করা ভিডিওগুলো এখানে থাকে"
+    },
+    {
+      "name": "download_path_title",
+      "value": "ভিডিও ডাউনলোড ফোল্ডার"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "বাহ্যিক স্টোরেজ নেই"
+    },
+    {
+      "name": "downloads",
+      "value": "ডাউনলোডগুলি"
+    },
+    {
+      "name": "downloads_title",
+      "value": "ডাউনলোডগুলি"
+    },
+    {
+      "name": "drawer_close",
+      "value": "ড্রয়ার বন্ধ করুন"
+    },
+    {
+      "name": "drawer_open",
+      "value": "ড্রয়ার খুলন"
+    },
+    {
+      "name": "duration_live",
+      "value": "লাইভ"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "ঝিঁঝিঁপোকা ছাড়া এখানে কিছু নেই"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "শেষ প্লেব্যাক পজিশন এ যাও"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "পুনরায় প্লে ব্যাক চালু করো"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "প্লেব্যাক অবস্থানের চিহ্নসমূহ তালিকায় দেখাও"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "তালিকা আকারে সাজাও"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "অনুসন্ধানের বিষয়বস্তু স্থানীয়ভাবে জমা করো"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "অনুসন্ধানের ইতিহাস"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "নতুন স্ট্রিমের নোটিফিকেশন"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "দেখা ভিডিওগুলোর হিসেব"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "দেখার ইতিহাস"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_details_headline",
+      "value": "বর্ণনা:"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "পাওয়া যায় নি"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "ডিভাইস এ স্পেস নেই"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "একটা এরর হয়েছেঃ %1$s"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "মেইলের মাধ্যমে ত্রুটি প্রতিবেদন করুন"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "ত্রুটি প্রতিবেদন এর নোটিফিকেশন"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "সমস্যা হয়েছে, নোটিফিকেশন দেখুন"
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "গিটহাব এ এরর রিপোর্ট করুন"
+    },
+    {
+      "name": "error_report_title",
+      "value": "ত্রুটি প্রতিবেদন"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "প্রতিবেদন"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "দুঃখিত, কিছু ত্রুটি ঘটেছে।"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "মন্তব্যগুলি লোড করা যায় নি"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "সার্ভার পাওয়া যায় নি"
+    },
+    {
+      "name": "events",
+      "value": "ইভেন্টগুলো"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "বের করা হয়েছে"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "ইতিহাস, সাবস্ক্রিপশন্স, প্লেলিস্ট ও সেটিংস রপ্তানি করো"
+    },
+    {
+      "name": "export_data_title",
+      "value": "ডাটা বেস এক্সপোর্ট করুন"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "বাইরের প্লেয়ারসমূহ এ ধরনের লিঙ্কসমূহ সমর্থন করে না"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "নতুন"
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "আপনি কি এ গ্রুপটি মুছতে চান?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "খালি গ্রুপ নেম"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "কোন সাবস্ক্রিপশন নির্বাচন হয়নি"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "সাবস্ক্রিপশন নির্বাচন করুন"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "শুধুমাত্র অদলবদ্ধ সদস্যতা দেখাও"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "চ্যানেল গ্রুপ"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "ফিড লোড হচ্ছে…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "ফিড শেষে হালনাগাদ করা হয়েছে: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "ফিড প্রসেস হচ্ছে…"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "লোড হয়নি: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "সবসময় হালনগাদ করুন"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "শেষ হালনাগাদের পর একটি সাবস্ক্রিপশনের আগের সময় সেকেলে বিবেচিত — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "ফিড হালনাগাদ প্রবেশস্থল"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "যখন পর্যাপ্ত নিবেদিত ফিড থেকে ডাটা সংগ্রহ করুন"
+    },
+    {
+      "name": "file",
+      "value": "ফাইল"
+    },
+    {
+      "name": "file_deleted",
+      "value": "ফাইল ডিলিট হয়েছে"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "ফাইল এর নাম খালি থাকতে পারে না"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "নতুন যা কিছু"
+    },
+    {
+      "name": "general_error",
+      "value": "ত্রুটি"
+    },
+    {
+      "name": "give_back",
+      "value": "ফিরিয়ে দিন"
+    },
+    {
+      "name": "grid",
+      "value": "ছক"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "ভিডিও হ্যাশ নোটিফিকেশন"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "উচ্চ মান (বড় আকারের)"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "আনা হয়েছে"
+    },
+    {
+      "name": "import_data_title",
+      "value": "ডাটাবেস আনুন"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ ভিডিও"
+    },
+    {
+      "name": "info_labels",
+      "value": "কি:\nঅনুরোধ:\nকন্টেন্ট ভাষা:\nসার্ভিস:\nসময়(GMT এ):\nপ্যাকেজ:\nসংস্করণ:\nওএস সংস্করণ:\nআইপি পরিসর:"
+    },
+    {
+      "name": "install",
+      "value": "ইনস্টল"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "কোন ফোল্ডার নেই"
+    },
+    {
+      "name": "just_once",
+      "value": "একবার মাত্র"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "হারানো কোর ইনস্টল করবেন?"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "উজ্জ্বল"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "সীমাহীন"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "মোবাইল ডেটা ব্যবহারের সময় রেজুলেশন সীমিত করো"
+    },
+    {
+      "name": "list",
+      "value": "তালিকা"
+    },
+    {
+      "name": "local",
+      "value": "স্থানীয়"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "স্থানীয় অনুসন্ধানের পরামর্শ"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "নিম্ন মান (ছোট আকার)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "শুরু করতে আতস কাঁচটিতে টিপ দাও।"
+    },
+    {
+      "name": "main_page_content",
+      "value": "প্রধান পাতার উপাদান সমূহ"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "দেখা হিসেবে মার্ক করো"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "বয়স সীমা"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "মেটাডেটা ক্যাশ মোছা হয়েছে"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "সব ক্যাশড ওয়েবপেজ ডেটা মুছে ফেলো"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "ক্যাশ করা মেটাডেটা মোছ"
+    },
+    {
+      "name": "metadata_category",
+      "value": "প্রকারভেদ"
+    },
+    {
+      "name": "metadata_language",
+      "value": "ভাষা"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "লাইসেন্স"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "গোপনতা"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "অভ্যন্তরীন"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "গোপন"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "নথিভুক্ত নয়"
+    },
+    {
+      "name": "metadata_support",
+      "value": "সহায়তা"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "ট্যাগসমূহ"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "কোনোটি না"
+    },
+    {
+      "name": "missing_file",
+      "value": "ফাইল সরে গেছে না হয় মুছে ফেলা হয়েছে"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "সম্পন্ন"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "অপেক্ষমাণ"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "১০০+ ভিডিও"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "হ্যাশ হিসাব করা হচ্ছে"
+    },
+    {
+      "name": "msg_copied",
+      "value": "ক্লিপবোর্ডে অনুলিপি করা হয়েছে"
+    },
+    {
+      "name": "msg_error",
+      "value": "ত্রুটি"
+    },
+    {
+      "name": "msg_name",
+      "value": "ফাইলের নাম"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "পপআপ মোডে চালু হতে\n\nএই অনুমতির প্রয়োজন আছে"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe ডাউনলোড হচ্ছে"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "বিস্তারিত জানার জন্য আলতো চাপ"
+    },
+    {
+      "name": "msg_threads",
+      "value": "থ্রেড"
+    },
+    {
+      "name": "msg_wait",
+      "value": "অনুগ্রহপূর্বক অপেক্ষা করো…"
+    },
+    {
+      "name": "mute",
+      "value": "মিউট"
+    },
+    {
+      "name": "name",
+      "value": "নাম"
+    },
+    {
+      "name": "network_error",
+      "value": "নেটওয়ার্ক ত্রুটি"
+    },
+    {
+      "name": "never",
+      "value": "কখনো না"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "নতুন এবং হট"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "প্রিয় রাত্রিকালীন থিম বেছে নিন — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "রাত্রিকালীন থিম"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "পরে সেটিংস থেকে একটি ডাউনলোড ফোল্ডার নির্ধারণ করে দিন"
+    },
+    {
+      "name": "no_comments",
+      "value": "কোন মন্তব্য নেই"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "কোনো ডাউনলোড ফোল্ডার ঠিক করা নেই, এখন ডিফল্ট ডাউনলোড ফোল্ডার বাছুন"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "কেউ শুনছে না"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "কেউ দেখছে না"
+    },
+    {
+      "name": "no_player_found",
+      "value": "কোন স্ট্রিম প্লেয়ার নেই। VLC ইনস্টল করতে চান?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "কোন স্ট্রিম প্লেয়ার নেই (প্লে করতে VLC ইন্সটল করতে পারেন)।"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "ডাউন লোড এর জন্য কোন স্ট্রিম নেই"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "কোন সাবস্ক্রাইবার নেই"
+    },
+    {
+      "name": "no_videos",
+      "value": "কোন ভিডিও নেই"
+    },
+    {
+      "name": "no_views",
+      "value": "কোন ভিউ নেই"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "প্রথম ক্রিয়া বোতাম"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "দ্বিতীয় পদক্ষেপ বোতাম"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "তৃতীয় পদক্ষেপ বোতাম"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "চতুর্থ পদক্ষেপ বোতাম"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "পঞ্চম পদক্ষেপ বোতাম"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "বাফারিং"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "কিছুই না"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "পুনরায়"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "এলোমেলো"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "নিউ পাইপ নোটিফিকেশন"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "অ্যান্ড্রয়েডকে থাম্বনেইলের প্রধান রং অনুযায়ী রঙিন করুন (উল্লেখ্য যে, এটি সব ডিভাইসে উপলব্ধ নয়)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "নোটিফিকেশন বর্ণিল করো"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "থাম্বনেল ১:১ অনুপাতে সেট করো"
+    },
+    {
+      "name": "notifications",
+      "value": "নোটিফিকেশনসমূহ"
+    },
+    {
+      "name": "off",
+      "value": "বন্ধ"
+    },
+    {
+      "name": "ok",
+      "value": "ঠিক আছে"
+    },
+    {
+      "name": "on",
+      "value": "চালু"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "একটি আইটেম ডিলিট হয়েছে।"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "ব্রাউজারে ওপেন করুন"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "পপ-আপ মোডে ওপেন করো"
+    },
+    {
+      "name": "open_website_license",
+      "value": "সক্রিয় ওয়েবসাইট"
+    },
+    {
+      "name": "open_with",
+      "value": "দিয়ে খুলো"
+    },
+    {
+      "name": "overwrite",
+      "value": "ওভাররাইট"
+    },
+    {
+      "name": "parsing_error",
+      "value": "ওয়েবসাইট বিশ্লেষন করা যায়নি"
+    },
+    {
+      "name": "pause",
+      "value": "বিরতি"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "ডাউনলোড পজ করুন"
+    },
+    {
+      "name": "paused",
+      "value": "স্থগিত"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "ইন্সটান্স এর ইউ আর এল"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "শুধুমাত্র HTTPS URL গুলি সাপোর্ট করে"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "ইন্সটান্স যোগ করুন"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "আপনার পছন্দের পিয়ার টিউব ইন্সটান্স"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "পিয়ার টিউব এর ইন্সটান্স সমূহ"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "অন্যান্য অ্যাপের উপরে হাজির হতে অনুমতি দিন"
+    },
+    {
+      "name": "play_all",
+      "value": "সব চালু করুন"
+    },
+    {
+      "name": "play_audio",
+      "value": "অডিও"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "অডিও সেটিং"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "সরাও"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "বিবরণ"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Kodi এর মাধ্যমে চালাও"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "প্লেয়ার এর এরর থেকে বেরিয়ে আসুন"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "স্ট্রিম টি চালানো গেল না"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "প্লেলিস্টকৃত"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "প্লে লিস্ট তৈরি হয়েছে"
+    },
+    {
+      "name": "playlists",
+      "value": "প্লেলিস্ট"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "পপআপ মোডে চলছে"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "পপআপের শেষ আকার ও অবস্থান মনে রাখো"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "পপআপ আকার এবং অবস্থান মনে রাখো"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "নিউপাইপ এর গোপনীয়তা নীতি"
+    },
+    {
+      "name": "queued",
+      "value": "অপেক্ষমাণ"
+    },
+    {
+      "name": "read_full_license",
+      "value": "লাইসেন্স পড়ুন"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "প্রাইভেসি পলিসি পড়ুন"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "রিক্যাপচা কুকিজ মোছা হয়েছে"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "reCAPTCHA চ্যালেঞ্জ অনুরোধ করা হয়েছে"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "সমাধান করো"
+    },
+    {
+      "name": "recently_added",
+      "value": "সাম্প্রতিক যুক্ত"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "সম্পর্কিত আইটেমসমূহ"
+    },
+    {
+      "name": "rename",
+      "value": "নাম পরিবর্তন করুন"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "নাম পাল্টাও"
+    },
+    {
+      "name": "resize_fill",
+      "value": "পূরণ"
+    },
+    {
+      "name": "resize_fit",
+      "value": "আটানো"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "জুম"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "ডিফল্ট এ ফিরে যান"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "আপনি কি ডিফল্ট এ ফিরতে চান?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "এই ভিডিও বয়স দ্বারা সীমিত।\n\n\n\nএটি দেখতে চাইলে সেটিংস থেকে \"%1$s\" চালু করুন।"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "বিঘ্ন ঘটার পরে চালানো অব্যাহত রাখো (যেমন. ফোনকল)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "পুনরায় চালু করো"
+    },
+    {
+      "name": "retry",
+      "value": "পুনরায় চেষ্টা করো"
+    },
+    {
+      "name": "search",
+      "value": "খুঁজুন"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "অনুসন্ধান ইতিহাস মোছা হয়েছে"
+    },
+    {
+      "name": "search_no_results",
+      "value": "কোন রেজাল্ট নেই"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "ফলাফল দেখাচ্ছে: %s এর জন্যে"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "দ্রুত-ফরওয়ার্ড/-পুনরায় সন্ধান সময়কাল"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "একটি চ্যানেল পছন্দ করুন"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "একটি প্লে লিস্ট পছন্দ করুন"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "নিচ থেকে আপনার পছন্দের রাত্রিকালীন থিম বেছে নিতে পারেন"
+    },
+    {
+      "name": "settings",
+      "value": "সেটিংস"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "অ্যাপিয়ারেন্স"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "ডাটা মুছে ফেল"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "ডিবাগ"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "ডাউনলোড"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "ফিড"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "ইতিহাস"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "ব্যাবহার"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "প্লেয়ার নোটিফিকেশন"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "প্লেয়ার"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "আপডেট"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "ভিডিও এবং অডিও"
+    },
+    {
+      "name": "share",
+      "value": "শেয়ার"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "শেয়ার করুন"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "শিশুদের জন্য বয়সসীমার কারণে অনুপযোগী হতে পারে এমন কন্টেন্ট দেখাও (যেমন ১৮+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "বয়সের অনুপযোগী কন্টেন্ট দেখাও"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "মন্তব্যসমূহ লুকাতে বন্ধ করুন"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "মন্তব্যসমূহ দেখাও"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "ভিডিও বর্ণনা ও বাড়তি তথ্য লুকাতে বন্ধ করুন"
+    },
+    {
+      "name": "show_description_title",
+      "value": "বর্ণনা দেখাও"
+    },
+    {
+      "name": "show_error",
+      "value": "এরর দেখান"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "শুধু কিছু ডিভাইস 2K/4K ভিডিও চালাতে পারে"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "উচ্চ রেজ্যুলেশন দেখাও"
+    },
+    {
+      "name": "show_info",
+      "value": "তথ্য দেখাও"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "আনুষঙ্গিক তথ্য দেখাও"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "পরবর্তী এবং অনুরূপ ভিডিওগুলি দেখাও"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Kodi মিডিয়া সেন্টারে এর মাধ্যমে ভিডিও প্লে করার জন্য একটি বিকল্প দেখাও"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "\"Kodi দিয়ে চালাও\" অপশন দেখাও"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "অনুসন্ধানকালীন কী পরামর্শ দেওয়া হবে তা বাছুন"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "অনুসন্ধানের পরামর্শ"
+    },
+    {
+      "name": "songs",
+      "value": "গান গুলি"
+    },
+    {
+      "name": "sorry_string",
+      "value": "দুঃখিত, এটা ঘটা উচিত ছিল না।"
+    },
+    {
+      "name": "start",
+      "value": "শুরু"
+    },
+    {
+      "name": "start_downloads",
+      "value": "ডাউনলোড শুরু করুন"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "মূল প্লেয়ার পুরো পর্দাজুড়ে চালাও"
+    },
+    {
+      "name": "stop",
+      "value": "বন্ধ করুন"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "নতুন স্ট্রিমসমূহ"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "নেটওয়ার্ক সংযোগ দরকার"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "সাবস্ক্রাইব"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "সাবস্ক্রাইবকৃত"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "গ্রাহকসংখ্যা সুলভ নয়"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "সাবস্ক্রিপশন পরিবর্তন করা যায়নি"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "সাবস্ক্রিপশন আপডেট করা যায়নি"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "পেছনে নিয়ে যান"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "মেন এ ফিরে যান"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "পপ-আপ এ খুলুন"
+    },
+    {
+      "name": "systems_language",
+      "value": "সিস্টেম ডিফল্ট"
+    },
+    {
+      "name": "tab_about",
+      "value": "সম্পর্কিত"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "বুকমার্ককৃত প্লেলিস্টসমূহ"
+    },
+    {
+      "name": "tab_choose",
+      "value": "ট্যাব পছন্দ করুন"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "অনুমতিপত্র"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "সাবস্ক্রিপশন"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "ট্যাবলেট মোড"
+    },
+    {
+      "name": "theme_title",
+      "value": "থিম"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "ছবির ক্যাশ মোছা হয়েছে"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "নিউপাইপ এর সম্বন্ধে"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "ইতিহাস"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA চ্যালেঞ্জ"
+    },
+    {
+      "name": "title_last_played",
+      "value": "শেষ চালানো"
+    },
+    {
+      "name": "title_licenses",
+      "value": "থার্ড-পার্টি লাইসেন্স সমূহ"
+    },
+    {
+      "name": "title_most_played",
+      "value": "সবথেকে বেশি চালানো"
+    },
+    {
+      "name": "toggle_all",
+      "value": "সব টগল করো"
+    },
+    {
+      "name": "top_50",
+      "value": "প্রথম ৫০"
+    },
+    {
+      "name": "tracks",
+      "value": "ট্র্যাক"
+    },
+    {
+      "name": "trending",
+      "value": "ট্রেন্ডিং"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "বুকমার্ক মুছুন"
+    },
+    {
+      "name": "undo",
+      "value": "ফিরে যাও"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[অজানা]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "অজানা ধরন"
+    },
+    {
+      "name": "unmute",
+      "value": "আন মিউট"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "আনসাবস্ক্রাইব"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "URL সমর্থিত নয়"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "URL টি বোঝা যায়নি। অন্য অ্যাপ দিয়ে খুলবো?"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "আপডেটসমূহ"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "%1$s তারিখে প্রকাশিত"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "অন্য অডিও প্লেয়ার ব্যবহার করুন"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "কিছু কিছু রেজ্যুলেশনে অডিও বন্ধ করে দেয়"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "বাইরের ভিডিও প্লেয়ার ব্যবহার করুন"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "অনির্দিষ্ট সন্ধান প্লেয়ারকে আরো দ্রুত গতিতে সন্ধান করার সুবিধা দেয়, কিন্তু এটি সম্পূর্ণ নির্ভুল নাও হতে পারে ৷ ৫, ১৫ ও ২৫ সেকেন্ডের জন্য এটা কাজ করবে না ৷"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "দ্রুত টানা ব্যাবহার করুন"
+    },
+    {
+      "name": "users",
+      "value": "ব্যবহারকারীগণ"
+    },
+    {
+      "name": "video",
+      "value": "ভিডিও"
+    },
+    {
+      "name": "video_player",
+      "value": "ভিডিও প্লেয়ার"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "কোন ভিডিও"
+    },
+    {
+      "name": "videos_string",
+      "value": "ভিডিও গুলি"
+    },
+    {
+      "name": "view_on_github",
+      "value": "গিটহাব এ দেখুন"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "দেখা ভিডিওর ইতিহাস মোছা হয়েছে"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "প্লেব্যাক অবস্থানসমূহ মোছা হয়েছে"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "আরও তথ্য এবং খবরের জন্য নিউপাইপ ওয়েবসাইট দেখো।"
+    },
+    {
+      "name": "website_title",
+      "value": "ওয়েবসাইট"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "তথ্য:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "কি হয়েছিল:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "শুধু ওয়াই-ফাই তে"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "আপনি এখন এই চ্যানেলের গ্রাহক"
+    },
+    {
+      "name": "your_comment",
+      "value": "তোমার মন্তব্য (ইংরেজিতে):"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "ইউটিউব একটি \"সীমিত ধরন\" সরবরাহ করে যেটি সম্ভাব্য প্রাপ্তবয়স্ক কন্টেন্ট লুকিয়ে রাখে"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "YouTube-এর \"সীমিত মোড\" চালু করো"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

@@ -1,0 +1,3092 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Setuju"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Akun dinonaktifkan"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Akun dihapus\n\n%1$s menyediakan alasan ini: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "Riwayat"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Tambah ke daftar putar"
+    },
+    {
+      "name": "albums",
+      "value": "Album"
+    },
+    {
+      "name": "all",
+      "value": "Semua"
+    },
+    {
+      "name": "always",
+      "value": "Selalu"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Selalu bertanya"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Solusi ini melepaskan dan memasang kembali codec video ketika terjadi perubahan permukaan, alih-alih mengatur permukaan ke codec secara langsung. Sudah digunakan oleh ExoPlayer pada beberapa perangkat dengan masalah ini, pengaturan ini hanya berpengaruh pada Android 6 dan yang lebih tinggi\n\n\n\nMengaktifkan opsi ini dapat mencegah kesalahan pemutaran saat mengganti pemutar video saat ini atau beralih ke layar penuh"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Selalu gunakan solusi pengaturan permukaan keluaran video AVPlayer"
+    },
+    {
+      "name": "any_network",
+      "value": "Jaringan apa saja"
+    },
+    {
+      "name": "api23_requirement_dialog_blogpost",
+      "value": "Postingan"
+    },
+    {
+      "name": "api23_requirement_dialog_message",
+      "value": "Sayangnya, NewPipe dibuat dengan pustaka yang akan menyudahi dukungan Android 5.0 dan 5.1. Maka, rilis NewPipe berikutnya hanya akan berfungsi pada perangkat Android 6 ke atas. Rincian ada di postingan blog."
+    },
+    {
+      "name": "api23_requirement_dialog_title",
+      "value": "NewPipe akan sudahi dukungan Android 5"
+    },
+    {
+      "name": "app_description",
+      "value": "Streaming ringan Libre di HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Bahasa apl"
+    },
+    {
+      "name": "app_license",
+      "value": "Aplikasi ini adalah perangkat lunak bebas copyleft: Anda dapat menggunakan, mempelajari, membagikan, dan memperbaikinya sesuka hati. Secara khusus, Anda dapat mendistribusikan dan/atau memodifikasinya berdasarkan ketentuan Lisensi Publik Umum GNU sebagaimana diterbitkan oleh Free Software Foundation, baik versi 3 dari Lisensi, atau (sesuai pilihan Anda) versi apapun yang lebih baru."
+    },
+    {
+      "name": "app_license_title",
+      "value": "Lisensi NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "App/UI rusak"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Ketuk untuk mengunduh %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Pembaruan NewPipe telah tersedia!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Notifikasi untuk versi-versi NewPipe baru"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Notifikasi pembaruan apl"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Anda menjalankan NewPipe versi terkini"
+    },
+    {
+      "name": "artists",
+      "value": "Artis"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Audio tidak ditemukan"
+    },
+    {
+      "name": "audio_track",
+      "value": "Trek audio"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Trek audio harus sudah ada dalam aliran ini"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "deskriptif"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "disulih suara"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "asli"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "sekunder"
+    },
+    {
+      "name": "auto",
+      "value": "Otomatis"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Otomatis (tema perangkat)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Melanjutkan akhir dari antrean pemutaran (tak berulang) dengan menambahkan video terkait"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Putar otomatis video berikutnya"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Otomatis antre"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe dapat memeriksa versi baru secara berkala dan memberi tahu Anda ketika ada yang baru.\n\nApakah Anda ingin mengaktifkan ini?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Otomatis mulai pemutaran — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Putar otomatis"
+    },
+    {
+      "name": "background_player",
+      "value": "Pemutar latar belakang"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Memutar di latar belakang"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Kualitas terbaik"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Hitam"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Halaman kosong"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Markah Daftar Putar"
+    },
+    {
+      "name": "brightness",
+      "value": "Kecerahan"
+    },
+    {
+      "name": "cancel",
+      "value": "Batal"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Otomatis dibuat"
+    },
+    {
+      "name": "caption_none",
+      "value": "Tanpa Teks"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Ubah skala teks takarir pemutar dan gaya latar belakang. Perlu memulai ulang apl"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Teks"
+    },
+    {
+      "name": "card",
+      "value": "Kartu"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Dibuat oleh %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Halaman saluran"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Tentang"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Album"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Saluran"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Suka"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Langsung"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Daftar putar"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Shorts"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Trek"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Video"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Batal berlanggan saluran"
+    },
+    {
+      "name": "channels",
+      "value": "Channel"
+    },
+    {
+      "name": "chapters",
+      "value": "Chapter"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Huruf dan angka"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Karakter spesial umum"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Periksa Pembaruan"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Jalankan periksa untuk stream baru"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Memeriksa pembaruan…"
+    },
+    {
+      "name": "checksum",
+      "value": "Ceksum"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Pilih situs"
+    },
+    {
+      "name": "clear",
+      "value": "Bersihkan"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Hapus kuki yang disimpan oleh NewPipe saat Anda memecahkan reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Hapus kuki reCAPTCHA"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Hapus riwayat unduhan"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Hapus semua posisi pemutaran"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Hapus posisi pemutaran"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Antrean dari pemutar yang aktif akan digantikan"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Beralih ke pemutar yang lain mungkin akan mengganti antrean Anda"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Konfirmasikan sebelum mengosongkan antrean"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Hapus riwayat kata kunci pencarian"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Hapus riwayat pencarian"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Hapus riwayat video yang diputar dan posisi pemutaran"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Hapus riwayat tontonan"
+    },
+    {
+      "name": "close",
+      "value": "Tutup"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Komentar dinonaktifkan"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Komentar"
+    },
+    {
+      "name": "conferences",
+      "value": "Konferensi"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Apakah Anda yakin ingin menghapus semua riwayat unduhan dan berkas yang telah diunduh?"
+    },
+    {
+      "name": "content",
+      "value": "Konten"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Bahasa konten"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Konten tidak tersedia"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Konten ini belum didukung oleh NewPipe.\n\n\n\nSemoga akan didukung pada versi berikutnya."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Baik Anda memiliki ide tentang; terjemahan, pengubahan desain, pembersihan kode, atau pengubahan kode yang besar—bantuan selalu diterima. Semakin banyak yang dilakukan, semakin banyak hasilnya!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Kontribusi"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Tambah Ke"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Latar Belakang"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Unduh berkas streaming"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Sembulan"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Salin laporan dengan format"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s oleh %2$s di bawah %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Perhatian: Tidak bisa mengimpor semua berkas."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Tidak bisa memuat semua thumbnail"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Tidak bisa menyiapkan menu unduh"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Hentikan aplikasi"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Hentikan pemutar video"
+    },
+    {
+      "name": "create",
+      "value": "Buat"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Buat sebuah notifikasi kegalatan"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Daftar Putar Baru"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Gelap"
+    },
+    {
+      "name": "decline",
+      "value": "Tolak"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Format audio"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Lokasi Konten"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Kedai Bawaan"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Kualitas sembulan bawaan"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Pilih kualitas"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Format video"
+    },
+    {
+      "name": "delete",
+      "value": "Hapus"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Hapus berkas yang diunduh"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Hapus semua file yang terunduh dari disk?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Hapus entri"
+    },
+    {
+      "name": "delete_file",
+      "value": "Hapus berkas"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Apakah ingin hapus butir ini dari riwayat pencarian?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Hapus semua posisi pemutaran?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Hapus daftar putar ini?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Hapus seluruh riwayat pencarian?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Hapus seluruh riwayat tontonan?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Nonaktifkan dapat memilih teks pada deskripsi"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Aktifkan dapat memilih teks pada deskripsi"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Anda sekarang dapat memilih teks di dalam deskripsi. Perhatikan bahwa halaman mungkin berkedip dan tautan tidak dapat diklik saat dalam mode pemilihan."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Deskripsi"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Tidak suka"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Geser untuk ubah urutan"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Disukai oleh kreator"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Suka"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Komentar dipin"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Thumbnail avatar channel"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Putar video, durasi:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Thumbnail avatar pengunggah"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Maksud Anda \"%1$s\"?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Terowongan media dinonaktifkan secara bawaan di perangkat Anda karena model perangkat Anda tidak mendukungnya."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Nonaktifkan terowongan media (tunnel) jika anda mengalami sebuah layar hitam atau kerusakan dalam memutar video."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Nonaktifkan terowongan media (tunnel)"
+    },
+    {
+      "name": "disabled",
+      "value": "Dinonaktifkan"
+    },
+    {
+      "name": "dismiss",
+      "value": "Abaikan"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe dikembangkan oleh para sukarelawan yang meluangkan waktu luang mereka untuk memberikan Anda pengalaman pengguna terbaik. Berikan dukungan untuk membantu para pengembang membuat NewPipe menjadi lebih baik lagi sementara mereka menikmati secangkir kopi."
+    },
+    {
+      "name": "donation_title",
+      "value": "Donasi"
+    },
+    {
+      "name": "done",
+      "value": "Selesai"
+    },
+    {
+      "name": "dont_show",
+      "value": "Jangan tampilkan"
+    },
+    {
+      "name": "download",
+      "value": "Unduh"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Ada unduhan yang dijeda dengan nama ini"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Ada unduhan yang sedang berlangsung dengan nama ini"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Unduh"
+    },
+    {
+      "name": "download_failed",
+      "value": "Pengunduhan gagal"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Pengunduhan dimulai"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Pilih folder unduhan untuk berkas audio"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Berkas audio yang diunduh disimpan di sini"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Folder unduhan audio"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Pilih folder unduhan untuk berkas video"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Berkas video yang diunduh disimpan di sini"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Folder unduhan video"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Tidak bisa mengunduh ke kartu SD eksternal. Atur ulang lokasi folder unduhan?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Penyimpanan eksternal tidak tersedia"
+    },
+    {
+      "name": "downloads",
+      "value": "Unduhan"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Anda akan ditanya lokasi penyimpanan berkas unduhan.\n\nAktifkan pencomot folder sistem (SAF) jika Anda ingin mengunduh ke kartu SD eksternal"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Anda akan ditanya lokasi penyimpanan berkas unduhan"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Tanyakan lokasi unduhan"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "'Storage Access Framework' memungkinkan unduhan ke kartu SD eksternal"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Mulai Android 10, hanya 'Storage Access Framework' yang didukung"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Gunakan pencomot folder sistem (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Unduhan"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Tutup Laci"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Aktif/Nonaktifkan layanan, saat ini aktif:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Buka Laci"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Daftar putar yang bewarna abu-abu sudah berisi item ini."
+    },
+    {
+      "name": "duration",
+      "value": "Durasi"
+    },
+    {
+      "name": "duration_live",
+      "value": "Langsung"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Tidak ada apa pun di sini selain jangkrik"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Paksa pelaporan eksepsi Rx yang tak terkirim di luar fragmen atau siklus hidup aktivitas setelah dibuang"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Laporkan galat out-of-lifecycle"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Pemantauan kebocoran memori dapat menyebabkan apl menjadi tidak responsif saat heap dumping"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Pulihkan posisi pemutaran terakhir"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Lanjutkan pemutaran"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Tampilkan indikator posisi pemutaran di dalam daftar"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Posisi dalam daftar"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Batasi antrean unduhan"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Satu unduhan akan berjalan pada waktu yang bersamaan"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Simpan pencarian di perangkat"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Riwayat pencarian"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Beri tahu tentang stream baru dari notifikasi"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Notifikasi stream baru"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Simpan daftar video yang telah ditonton"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Riwayat tontonan"
+    },
+    {
+      "name": "enqueue",
+      "value": "Antre"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "tambahkan ke selanjutnya"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Tambahkan"
+    },
+    {
+      "name": "enqueued",
+      "value": "Ditambahkan"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "telah ditambahkan ke selanjutnya"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Entri dihapus"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Tidak dapat terhubung ke server"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Detail:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Tidak bisa memulihkan unduhan ini"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "File tidak dapat dibuat"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Server tidak mengirim data"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Tidak ditemukan"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Server tidak menerima unduhan multi-utas, coba lagi dengan @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Tidak ada ruang yang cukup pada perangkat"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Tidak ada ruang kosong tersisa pada perangkat"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Telah terjadi galat: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Folder tujuan tidak dapat dibuat"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Pengolahan-pasca gagal"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe telah ditutup saat sedang memproses berkas"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Kehilangan laju, karena berkas telah dihapus"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Laporkan via surel"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Notifikasi untuk melaporkan kegalatan"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Notifikasi laporan kegalatan"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe mengalami sebuah kegalatan, ketuk untuk melaporkan"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Sebuah kegalatan terjadi, lihat notifikasinya"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Harap periksa apakah masalah yang sama sudah ada atau belum. Ketika laporan Anda ternyata sudah ada, Anda membuat kami menghabiskan waktu yang seharusnya bisa kami gunakan untuk meningkatkan aplikasi menjadi lebih baik."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Laporkan di GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Laporan galat"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Lapor"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Maaf, telah terjadi kesalahan."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Tidak bisa membuat koneksi yang aman"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Batas waktu koneksi"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Tidak bisa memuat komentar"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Tidak dapat menemukan server"
+    },
+    {
+      "name": "events",
+      "value": "Acara"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Diekspor"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Ekspor riwayat, langganan, daftar putar dan pengaturan"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Ekspor basis data"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Mengekspor…"
+    },
+    {
+      "name": "export_subscriptions_summary",
+      "value": "Ekspor langganan Anda ke berkas .json"
+    },
+    {
+      "name": "export_subscriptions_title",
+      "value": "Ekspor langganan"
+    },
+    {
+      "name": "export_to",
+      "value": "Ekspor ke"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Pemutar eksternal tidak mendukung tipe tautan ini"
+    },
+    {
+      "name": "faq",
+      "value": "Lihat di situs web"
+    },
+    {
+      "name": "faq_description",
+      "value": "Jika Anda mengalami kesulitan menggunakan aplikasi, pastikan untuk memeriksa jawaban atas pertanyaan umum ini!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Pertanyaan yang sering diajukan"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Mode cepat"
+    },
+    {
+      "name": "featured",
+      "value": "Unggulan"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Baru"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Dapatkan tab saluran"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Tab untuk didapatkan ketika memperarui umpan. Opsi ini tidak memiliki efek jika saluran diperbarui menggunakan mode cepat."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Apakah Anda ingin menghapus grup ini?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Nama grup kosong"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Tidak ada langganan yang dipilih"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Pilih langganan"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Halaman grup saluran"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Hanya tampilkan langganan tanpa grup"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Grup channel"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Tampilkan saluran berikut"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Galat memuat langganan"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Tidak bisa memuat langganan untuk '%s'."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Mode langganan cepat tidak menyediakan lebih banyak info tentang ini."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Akun kreator telah dinonaktifkan.\n\nNewPipe tidak akan bisa memuat langganan ini lagi.\n\nApakah Anda ingin berhenti berlangganan channel ini?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Item feed baru"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Memuat langganan…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Terakhir diperbarui: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Memproses langganan…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Tampilkan/Sembunyikan saluran"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Ditonton sebagian"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Mendatang"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Ditonton secara lengkap"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Tidak dimuat: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Selalu perbarui"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Waktu setelah pembaruan terakhir sebelum langganan dianggap kedaluwarsa — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Rentang pembaruan langganan"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Nonaktifkan mode cepat"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Aktifkan mode cepat"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Apakah Anda merasa pemuatan langganan sangat lambat? Jika iya, coba nyalakan pemuatan cepat (Anda bisa mengubahnya di dalam pengaturan atau dengan menekan tombol di bawah)\n\nNewPipe menyediakan dua strategi pemuatan langganan:\n• Mengambil semua kanal langganan, yang lebih lambat tapi lengkap.\n• Menggunakan layanan endpoint khusus, yang lebih cepat namun terkadang tidak lengkap.\n\nPerbedaan di antara keduanya adalah yang lebih cepat biasanya kekurangan beberapa informasi, seperti durasi atau tipe item (tidak bisa membedakan antara video siaran langsung atau yang biasa) dan mungkin menampilkan lebih sedikit item.\n\nYouTube adalah contoh layanan yang menyediakan metode pengambilan cepat dengan layanan RSS mereka.\n\nJadi pilihlah yang sesuai yang Anda inginkan: kecepatan atau kelengkapan informasi."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Tersedia pada beberapa layanan, biasanya lebih cepat tetapi memperbarui lebih sedikit item dan sering kali dengan informasi yang tidak lengkap (mis. tanpa durasi, tanpa tipe item, tanpa status live)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Ambil dari langganan aslinya jika tersedia"
+    },
+    {
+      "name": "file",
+      "value": "Berkas"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Berkas dihapus"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Nama berkas tidak boleh kosong"
+    },
+    {
+      "name": "forward",
+      "value": "Maju"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Apa Yang Baru"
+    },
+    {
+      "name": "general_error",
+      "value": "Galat"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Hasilkan nama unik"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Konten ini tidak tersedia di negara Anda."
+    },
+    {
+      "name": "get_notified",
+      "value": "Beri tahu saya"
+    },
+    {
+      "name": "give_back",
+      "value": "Berikan"
+    },
+    {
+      "name": "grid",
+      "value": "Kisi"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Notifikasi untuk laju pemrosesan hash video"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Notifikasi hash video"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Kualitas tinggi (lebih besar)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Tahan untuk mengantre"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Berguna, misalnya, jika kamu menggunakan sebuah set kepala dengan tombol fisik yang rusak"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Abaikan peristiwa tombol media perangkat keras"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Kualitas tinggi"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Kualitas rendah"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Kualitas sedang"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Jangan tampilkan gambar"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Pilih kualitas dan visibilitas gambar, untuk mengurangi penggunaan data dan memori. Perubahan menghapus cache dalam diska dan memori - %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Kualitas gambar"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Diimpor"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Timpa riwayat, langganan, daftar putar dan (opsional) pengaturan Anda saat ini"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Impor basis data"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Impor berkas"
+    },
+    {
+      "name": "import_from",
+      "value": "Impor dari"
+    },
+    {
+      "name": "import_from_previous_export",
+      "value": "Impor dari ekspor sebelumnya"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Perlu diingat operasi ini membutuhkan bandwidth yang besar.\n\n\n\nApakah Anda ingin melanjutkan?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Mengimpor…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Apakah Anda juga ingin mengimpor pengaturan?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Pengaturan dalam ekspor yang diimpor menggunakan format rentan yang tidak digunakan lagi sejak NewPipe 0.27.0. Pastikan ekspor yang diimpor berasal dari sumber tepercaya, dan lebih memilih hanya menggunakan ekspor yang diperoleh dari NewPipe 0.27.0 atau yang lebih baru di masa mendatang. Dukungan untuk mengimpor pengaturan dalam format rentan ini akan segera dihapus sepenuhnya, dan NewPipe versi lama tidak akan dapat lagi mengimpor pengaturan ekspor dari versi baru."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Impor profil SoundCloud dengan mengetik URL atau ID Anda:\n\n\n\n1. Aktifkan \"mode desktop\" di peramban web (situs tidak tersedia untuk perangkat seluler)\n\n2. Kunjungi URL ini: %1$s\n\n3. Masuk ketika ditanya\n\n4. Salin URL profil Anda ketika dialihkan."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "idAnda, soundcloud.com/idAnda"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Impor atau ekspor langganan dari menu 3 titik"
+    },
+    {
+      "name": "import_subscriptions_summary",
+      "value": "Impor langganan dari ekspor .json sebelumnya"
+    },
+    {
+      "name": "import_subscriptions_title",
+      "value": "Impor langganan"
+    },
+    {
+      "name": "import_title",
+      "value": "Impor"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Impor langganan YouTube dari Google takeout:\n\n\n\n1. Kunjungi URL ini: %1$s\n\n2. Masuk ketika ditanyakan\n\n3. Klik \"Semua data disertakan\", lalu \"Batalkan semua pilihan\", lalu hanya pilih \"langganan\" dan klik \"OKE\"\n\n4. Klik \"Langkah berikutnya\" dan kemudian \"Buat ekspor\"\n\n5. Klik tombol \"Unduh\"\n\n6. Klik IMPOR FILE di bawah dan pilih file .zip yang terunduh\n\n7. [Jika impor .zip gagal] Ekstrak file .csv (biasanya di \"YouTube dan YouTube Music/langganan/langganan.csv\"), klik IMPOR FILE di bawah dan pilih file csv yang diekstrak"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ video"
+    },
+    {
+      "name": "info_labels",
+      "value": "Apa:\nPermintaan:\nBahasa Konten:\nNegara Konten:\nBahasa Apl:\nLayanan:\nWaktu GMT:\nPaket:\nVersi:\nVersi OS:"
+    },
+    {
+      "name": "install",
+      "value": "Pasang"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Folder tidak ada"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Berkas tidak tersedia atau tidak memiliki izin baca atau tulis"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Tidak ada sumber berkas/konten"
+    },
+    {
+      "name": "just_once",
+      "value": "Hanya Sekali"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "Rincian"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "Pada Agustus 2025, Google mengumumkan bahwa mulai September 2026, pemasangan aplikasi akan memerlukan verifikasi pengembang untuk semua aplikasi Android pada perangkat bersertifikasi, termasuk yang dipasang di luar Play Store. Karena pengembang NewPipe tidak menyetujui persyaratan ini, NewPipe tidak akan lagi berfungsi pada perangkat Android bersertifikasi setelah waktu tersebut."
+    },
+    {
+      "name": "kao_solution",
+      "value": "Solusi"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Halaman kiosk"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Pasang aplikasi Kore yang hilang?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary tidak tersedia"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Pilih gestur untuk bagian kiri layar pemutar"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Tindakan gestur kiri"
+    },
+    {
+      "name": "license",
+      "value": "Oleh %1$s di bawah %2$s"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Terang"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Tanpa batas"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Batasi kualitas saat dengan data seluler"
+    },
+    {
+      "name": "list",
+      "value": "Daftar"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Mode tampilan berdaftar"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Memuat Metadata…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Memuat detail penjaliran …"
+    },
+    {
+      "name": "local",
+      "value": "Lokal"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Saran pencarian setempat"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Kualitas rendah (lebih kecil)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Sentuh kaca pembesar untuk memulai."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Konten halaman utama"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Tab apa yang ditampilkan di halaman utama"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Geser agar item terbuang"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Pindahkan pemilih tab utama ke bawah"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Posisi tab utama"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Periksa secara manual untuk melihat aplikasi versi baru"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Tandai 'sudah tonton'"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Jumlah upaya maksimum sebelum unduhan dibatalkan"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Percobaan maksimum"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Batas umur"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Avatar"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Panji"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Tembolok metadata dihapus"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Hapus semua data laman web tembolok"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Hapus metadata tembolok"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Kategori"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Host"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Bahasa"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Lisensi"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Privasi"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Internal"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Privasi"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Publik"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Tidak didaftar"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Avatar sub-channel"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Pelanggan"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Dukungan"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Tag"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Keluku"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Avatar pengunggah"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud telah menghentikan dukungan tangga lagu Top 50. Tab terkait telah dihapus dari halaman utama Anda."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "Halaman Top 50 SoundCloud dihapus"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube telah mengakhiri halaman tren terpadu pada 21 Juli 2025. NewPipe mengganti halaman tren bawaan dengan tren siaran langsung.\n\nAnda juga dapat memilih halaman tren berbeda dalam \"Pengaturan > Konten > Konten di halaman utama\"."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "Tren terpadu YouTube dihilangkan"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Minimalkan ke pemutar latar belakang"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Nihil"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Minimalkan ke pemutar popup"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Tindakan ketika beralih ke apl lain dari pemutar video utama — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Minimalkan saat beralih apl"
+    },
+    {
+      "name": "missing_file",
+      "value": "Berkas dipindah atau dihapus"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Selesai"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Tertunda"
+    },
+    {
+      "name": "more_options",
+      "value": "Pilihan tambahan"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ video"
+    },
+    {
+      "name": "most_liked",
+      "value": "Disukai terbanyak"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Menghitung pilah"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Disalin ke papan klip"
+    },
+    {
+      "name": "msg_error",
+      "value": "Galat"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Gagal menyalin ke papan klip"
+    },
+    {
+      "name": "msg_name",
+      "value": "Nama berkas"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Izin ini dibutuhkan untuk\n\nmembuka di mode sembul"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe Sedang Mengunduh"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Sentuh untuk melihat detail"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Thread"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Mohon tunggu…"
+    },
+    {
+      "name": "mute",
+      "value": "Bisukan"
+    },
+    {
+      "name": "name",
+      "value": "Nama"
+    },
+    {
+      "name": "navigate_back",
+      "value": "Kembali"
+    },
+    {
+      "name": "network_error",
+      "value": "Galat jaringan"
+    },
+    {
+      "name": "never",
+      "value": "Tidak pernah"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Baru dan aktual"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Karena kendala AVPlayer, durasi pencarian ditetapkan ke %d detik"
+    },
+    {
+      "name": "next_stream",
+      "value": "Saluran berikutnya"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Opsi ini hanya tersedia jika %s dipilih untuk Tema"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Pilih tema malam favoritmu — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Tema malam"
+    },
+    {
+      "name": "no",
+      "value": "Tidak"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Tidak ada apl di perangkat Anda yang bisa membuka ini"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Tidak ada pengelola berkas yang ditemukan untuk tindakan ini.\n\nSilakan pasang pengelola berkas atau coba nonaktifkan '%s' di pengaturan unduhan"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Tidak ada pengelola berkas yang ditemukan untuk tindakan ini.\n\nSilakan pasang pengelola berkas yang kompatibel dengan Storage Access Framework"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Tidak ada stream audio yang tersedia untuk pemain eksternal"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Silakan pilih folder unduhan di pengaturan"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Belum ada saluran langganan"
+    },
+    {
+      "name": "no_comments",
+      "value": "Tidak ada komentar"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Belum ada folder unduhan terpasang, pilih folder unduhan sekarang"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Belum ada grup umpan yang dibuat"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Tidak ada siaran langsung"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Tidak ada yang mendengarkan"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Tidak ada yang menonton"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Pemutar streaming tidak ketemu. Pasang VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Pemutar streaming tidak ketemu (boleh pasang VLC untuk video)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Belum ada markah daftar putar"
+    },
+    {
+      "name": "no_streams",
+      "value": "Tidak ada saluran"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Tidak ada video yang tersedia untuk diunduh"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Tidak ada pelanggan"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Berkas ZIP tidak valid"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Tidak ada stream video yang tersedia untuk pemain eksternal"
+    },
+    {
+      "name": "no_videos",
+      "value": "Tidak ada video"
+    },
+    {
+      "name": "no_views",
+      "value": "Belum ditonton"
+    },
+    {
+      "name": "none",
+      "value": "Tidak ada"
+    },
+    {
+      "name": "not_available",
+      "value": "Tidak tersedia"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Tombol tindakan pertama"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Tombol tindakan kedua"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Tombol tindakan ketiga"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Tombol tindakan keempat"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Tombol tindakan kelima"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Bufer"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Tidak ada"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Ulangi"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Aduk"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Anda bisa memilih hingga tiga tindakan untuk ditampilkan dalam notifikasi ringkas!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Sentuh tindakan notifikasi di bawah untuk menyunting. Pilih hingga tiga di antaranya untuk di notifikasi ringkas menggunakan kotak centang di sebelah kanan."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Sentuh tindakan notifikasi di bawah untuk menyunting. Tiga tindakan pertama (putar/jeda, sebelum, dan selanjutnya) diatur oleh sistem dan tidak bisa dikustom."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Notifikasi untuk pemutar NewPipe"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "Notifikasi NewPipe"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Minta Android menyesuaikan warna notifikasi sesuai dengan warna utama di thumbnail (perhatikan bahwa ini tidak tersedia di semua perangkat)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Warnai notifikasi"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Ubah ukuran keluku yang ditampilkan pada notifikasi dari rasio aspek 16:9 ke 1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Ubah ukuran thumbnail ke rasio aspek 1:1"
+    },
+    {
+      "name": "notifications",
+      "value": "Notifikasi"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Notifikasi dinonaktifkan"
+    },
+    {
+      "name": "off",
+      "value": "Nonaktif"
+    },
+    {
+      "name": "ok",
+      "value": "Baik"
+    },
+    {
+      "name": "on",
+      "value": "Aktif"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 item dihapus."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Buka di peramban"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Buka di mode sembulan"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Buka antrean pemain"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Buka situs web"
+    },
+    {
+      "name": "open_with",
+      "value": "Buka dengan"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Ini akan menimpa pengaturan Anda saat ini."
+    },
+    {
+      "name": "overwrite",
+      "value": "Timpa"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "tidak bisa menimpa ulang berkas"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "File yang diunduh dengan nama ini sudah ada"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Berkas dengan nama yang sama sudah ada"
+    },
+    {
+      "name": "paid_content",
+      "value": "Konten ini hanya tersedia untuk pengguna yang telah membayar, sehingga tidak bisa diputar atau diunduh oleh NewPipe."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Tidak bisa mengurai situs web"
+    },
+    {
+      "name": "pause",
+      "value": "Jeda"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Jeda unduh"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Berhenti pada jaringan terbatas"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Berguna saat beralih ke data seluler, walaupun beberapa unduhan tidak bisa ditangguhkan"
+    },
+    {
+      "name": "paused",
+      "value": "dijeda"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Situs sudah ada"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Tidak bisa memvalidasi situs"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Masukkan URL situs"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Hanya mendukung URL HTTPS"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Tambah situs"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Temukan situs yang Anda suka di %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Pilih situs PeerTube favorit Anda"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "Situs PeerTube"
+    },
+    {
+      "name": "percent",
+      "value": "Persen"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Tindakan ditolak oleh sistem"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Izinkan untuk ditampilkan di atas aplikasi lain"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "Untuk menggunakan Pemutar Sembul, silakan pilih %1$s dalam menu pengaturan Android berikut dan aktifkan %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "Izinkan menampilkan di atas aplikasi"
+    },
+    {
+      "name": "play",
+      "value": "Putar"
+    },
+    {
+      "name": "play_all",
+      "value": "Putar Semua"
+    },
+    {
+      "name": "play_audio",
+      "value": "Audio"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Pengaturan Audio"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Suara: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Hapus"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Detail"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Putar dengan Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Nada"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Atur ulang"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Kontrol Kecepatan Pemutaran"
+    },
+    {
+      "name": "playback_step",
+      "value": "Langkah"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Tempo"
+    },
+    {
+      "name": "player_http_403",
+      "value": "Kesalahan HTTP 403 diterima dari server saat memutar, dapat disebabkan oleh URL streaming kedaluwarsa atau pemblokiran IP"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "Kesalahan HTTP %1$s diterima dari server saat memutar"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Memulihkan dari galat pemutar"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Tidak bisa memutar video ini"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Telah terjadi galat pemutar yang tidak bisa dipulihkan"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Terdaftar putar"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Duplikat ditambahkan %d kali"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Daftar putar dibuat"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Dibuat otomatis (pengunggah tidak ditemukan)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Halaman daftar putar"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Keluku daftar putar diubah."
+    },
+    {
+      "name": "playlists",
+      "value": "Daftar Putar"
+    },
+    {
+      "name": "popup_player",
+      "value": "Pemutar sembulan"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Memutar dalam mode sembul"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Ingat ukuran dan posisi terakhir sembulan"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Ingat ciri-ciri sembulan"
+    },
+    {
+      "name": "post_processing",
+      "value": "pasca-pengolahan"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Pilih trek audio dengan deskripsi untuk orang tunanetra jika tersedia"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "PIlih audio deskriptif"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Pilih trek audio asli apa pun bahasanya"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Pilih audio asli"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Tindakan bawaan ketika membuka konten — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Tindakan 'buka' yang diinginkan"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Memuat konten yang diminta"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Mendapatkan info…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Ekspor sebelumnya"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Penjaliran sebelumnya"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "Proyek NewPipe sangat memperhatikan privasi kamu. Oleh karena itu, aplikasi ini tidak mengumpulkan data apa pun tanpa persetujuan Anda.\n\nKebijakan privasi NewPipe menjelaskan secara detail data apa saja yang dikirim dan disimpan ketika kamu mengirimkan laporan kerusakan aplikasi."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Kebijakan Privasi NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "Konten ini bersifat privat, sehingga tidak dapat diputar atau diunduh oleh NewPipe."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Memproses… Mungkin butuh waktu sebentar"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer bawaan"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Ubah ukuran selang pemuatan pada konten progresif (saat ini %s). Nilai yang lebih rendah dapat mempercepat pemuatan awal konten"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Ukuran selang pemuatan putar balik"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "antri"
+    },
+    {
+      "name": "radio",
+      "value": "Radio"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Baca lisensi"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Baca kebijakan privasi"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "Kuki reCAPTCHA telah dihapus"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "Meminta kode reCAPTCHA"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Selesaikan"
+    },
+    {
+      "name": "recent",
+      "value": "Baru-baru ini"
+    },
+    {
+      "name": "recently_added",
+      "value": "Baru ditambahkan"
+    },
+    {
+      "name": "recovering",
+      "value": "memulihkan"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Item terkait"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Saran pencarian jauh"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Hapus duplikat"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Apakah Anda ingin menghapus semua saluran duplikat di daftar putar ini?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Hapus duplikat?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Buang ditonton"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Iya, dan video yang ditonton sebagian"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Hapus siaran yang sudah ditonton?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Siaran yang telah ditonton sebelum dan sesudah ditambahkan ke daftar putar akan dihapus.  \nAnda yakin?"
+    },
+    {
+      "name": "rename",
+      "value": "Ubah nama"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Ubah Nama"
+    },
+    {
+      "name": "replay",
+      "value": "Putar ulang"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Mengatur ulang semua pengaturan akan mengabaikan pengaturan Anda yang disukai dan memulai ulang aplikasi.\n\n\n\nApakah Anda yakin ingin melanjutkan?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Atur ulang pengaturan ke nilai bawaan"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Atur ulang pengaturan"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Isi"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Pas"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Perbesar"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Kembali ke awal"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Apakah Anda ingin mengembalikan ke bawaan?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Video ini dibatasi usia.\n\n\n\nAktifkan \"%1$s\" di dalam pengaturan jika Anda ingin melihatnya."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Video ini dibatasi usia.\n\nKarena kebijakan YouTube yang baru dengan video yang dibatasi usia, NewPipe tidak bisa mengakses video dan tidak bisa memutarnya."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Melanjutkan pemutaran setelah interupsi (mis. panggilan telepon)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Lanjutkan pemutaran"
+    },
+    {
+      "name": "retry",
+      "value": "Ulangi"
+    },
+    {
+      "name": "rewind",
+      "value": "Mundur"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Pilih gestur untuk bagian kanan dari layar pemutar"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Tindakan gestur kanan"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Tidak bisa membaca tab yang disimpan, beralih menggunakan tab bawaan"
+    },
+    {
+      "name": "search",
+      "value": "Cari"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Riwayat pencarian dihapus"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Tak ada hasil"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Menampilkan hasil: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Cari %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Cari %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Durasi maju/mundur cepat"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Pratinjau thumbnail bilah laju"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Pilih saluran"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Pilih grup umpan"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Pilih kiosk"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Pilih daftar putar"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Pilih trek audio untuk pemutar eksternal"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Kamu bisa pilih tema malam favoritmu dibawah"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Pilih kualitas untuk pemain eksternal"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Stream yang dipilih tidak didukung oleh pemain eksternal"
+    },
+    {
+      "name": "semitone",
+      "value": "Semiton"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Atur sebagai thumbnail daftar putar"
+    },
+    {
+      "name": "settings",
+      "value": "Pengaturan"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Tampilan"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Cadangkan dan pulihkan"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Hapus data"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Debug"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Unduhan"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Kelola beberapa pengaturan AVPlayer. Perubahan ini mengharuskan pemain memulai ulang agar diterapkan"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "Pengaturan AVPlayer"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Langganan"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Riwayat dan cache"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Perilaku"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Konfigurasi notifikasi permainan stream saat ini"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Notifikasi pemain"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Pemutar"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Pembaruan"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Video dan audio"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Karakter yang diizinkan sebagai nama berkas"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Karakter yang tidak valid akan diganti dengan karakter ini"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Karakter pengganti"
+    },
+    {
+      "name": "share",
+      "value": "Bagikan"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Bagi dengan"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Bagikan Daftar Putar"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Daftar putar"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Bagikan daftar URL"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Bagikan dengan Judul"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sB"
+    },
+    {
+      "name": "short_million",
+      "value": "%sM"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sK"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Menampilkan konten yang mungkin tidak cocok untuk anak-anak karena memiliki batasan umur (seperti 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Tampilkan konten yang dibatasi usia"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Tampilkan detail channel"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Tab saluran"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Tab apa saja yang ditampilkan di halaman saluran"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Nonaktifkan untuk menyembunyikan komentar"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Tampilkan komentar"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Menampilkan opsi penghentian ketika menggunakan pemain video"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Tampilkan \"Mogokkan pemutar\""
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Nonaktifkan untuk menyembunyikan deskripsi dan informasi tambahan"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Tampilkan deskripsi"
+    },
+    {
+      "name": "show_error",
+      "value": "Tunjukkan kesalahan"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Menampilkan sebuah snackbar kegalatan"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Hanya perangkat tertentu mendukung video 2K/4K"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Tampilkan kualitas lebih"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Tampilkan tip ketika menekan tombol latar belakang atau popup di dalam video \"Detail:\""
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Tip \"Tahan untuk menambahkan\""
+    },
+    {
+      "name": "show_info",
+      "value": "Tampilkan info"
+    },
+    {
+      "name": "show_less",
+      "value": "Tampilkan lebih sedikit"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Tampilkan kebocoran memori"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Nonaktifkan untuk menyembunyikan kotak informasi tambahan tentang kreator, konten stream, atau pencarian"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Tampilkan info meta"
+    },
+    {
+      "name": "show_more",
+      "value": "Tampilkan lebih banyak"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Video 'Berikutnya' dan 'Serupa'"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Teks asli dari layanan akan ditampilkan di dalam video"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Tampilkan waktu yang lalu sebenarnya pada item"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Tampilkan opsi untuk memutar video via Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Tampilkan opsi \"Putar dengan Kodi\""
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Menampilkan saran pencarian saat mencari"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Saran pencarian"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Gunakan thumbnail untuk latar layar penguncian dan notifikasi"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Tampilkan thumbnail"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s menolak memberikan data, meminta login untuk memastikan peminta bukan bot.\n\nAlamat IP Anda mungkin telah diblokir sementara oleh %1$s, Anda dapat menunggu beberapa saat atau beralih ke alamat IP yang berbeda (misalnya dengan mengaktifkan/menonaktifkan VPN, atau beralih dari WiFi ke data seluler).\n\nHarap lihat <a href=\"%2$s\"></a>entri Pertanyaan ini</a> untuk informasi lebih lanjut."
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Percepat saat diam"
+    },
+    {
+      "name": "songs",
+      "value": "Lagu"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Maaf, hal tersebut seharusnya tidak terjadi."
+    },
+    {
+      "name": "sort",
+      "value": "Urutan"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Ini adalah sebuah trek SoundCloud Go +, setidaknya di negara Anda, sehingga tidak bisa diputar atau diunduh oleh NewPipe."
+    },
+    {
+      "name": "start",
+      "value": "Mulai"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Agar sesuai dengan Regulasi Perlindungan Data Umum Eropa (GDPR), dengan ini kami tarik perhatian Anda ke kebijakan privasi NewPipe. Silakan baca dengan seksama.\n\nAnda harus menerimanya untuk mengirimkan laporan bug kepada kami."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Mulai unduh"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Mulai putar di latar belakang"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Mulai putar di popup"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Jangan memulai memutar video di mini player, tapi nyalakan langsung di mode layar penuh, jika rotasi otomatis terkunci. Anda tetap dapat mengakses mini player dengan keluar dari layar penuh"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Buka pemutar utama dalam layar penuh"
+    },
+    {
+      "name": "stop",
+      "value": "Berhenti"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Stream yang belum didukung oleh pengunduh tidak ditampilkan"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Notifikasi tentang stream baru untuk langganan"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Stream baru"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Frekuensi pemeriksaan"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Dibutuhkan koneksi jaringan"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Berlanggan"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Dilanggani"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Jumlah pelanggan tidak tersedia"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Tidak dapat ubah langganan"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Tidak dapat perbarui langganan"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Tidak bisa mengekspor langganan"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Tidak bisa mengimpor langganan"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Tekan \"Selesai\" saat selesai"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Alihkan ke Latar Belakang"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Alihkan ke Utama"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Alihkan ke Popup"
+    },
+    {
+      "name": "systems_language",
+      "value": "Bawaan sistem"
+    },
+    {
+      "name": "tab_about",
+      "value": "Tentang & FAQ"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Daftar Markah"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Daftar putar"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Pilih Tab"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Lisensi"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Langganan"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Mode tablet"
+    },
+    {
+      "name": "theme_title",
+      "value": "Tema"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Tembolok gambar dihapus"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Tentang NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Riwayat"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Putar antrean"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "Tantangan reCAPTCHA"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Terakhir Diputar"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Lisensi Pihak-ketiga"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Sering Diputar"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Alih semua"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Saklar layar penuh"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Saklar orientasi layar"
+    },
+    {
+      "name": "top_50",
+      "value": "Top 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Trek"
+    },
+    {
+      "name": "trending",
+      "value": "Sedang Tren"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Tren permainan"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Tren film dan acara"
+    },
+    {
+      "name": "trending_music",
+      "value": "Tren musik"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Tren siniar"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Hapus Markah"
+    },
+    {
+      "name": "undo",
+      "value": "Urungkan"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Batalkan tautan (dapat menyebabkan distorsi)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Tidak diketahui"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Tidak diketahui]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Format tidak diketahui"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Kualitas tidak diketahui"
+    },
+    {
+      "name": "unmute",
+      "value": "Batal bisukan"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Batalkan penetapan gambar kecil permanen"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Batal Berlanggan"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "Konten ini tidak tersedia untuk negara konten yang saat ini dipilih.\n\nUbah pilihan Anda dari “Pengaturan > Konten > Negara konten bawaan”."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "URL tidak didukung"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "URL tidak dikenali. Buka dengan aplikasi lain?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Tampilkan pemberitahuan untuk meminta pembaruan aplikasi saat versi baru tersedia"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Pembaruan"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Diterbitkan pada %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Aktifkan opsi ini jika Anda mengalami masalah inisialisasi dekoder, yang akan kembali ke dekoder dengan prioritas lebih rendah jika inisialisasi dekoder primer gagal. Hal ini dapat mengakibatkan performa pemutaran yang buruk dibandingkan saat menggunakan dekoder primer"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Gunakan fitur fallback dekoder AVPlayer"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Gunakan pemutar audio lain"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Menghapus audio di kualitas tertentu"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Gunakan pemutar video lain"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Intip tak presisi membantu pengguna mengintip posisi video dengan cepat tapi presisi rendah. Mengintip 5, 15, atau 25 detik saja tidak berfungsi"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Pakai intip cepat tak presisi"
+    },
+    {
+      "name": "users",
+      "value": "Pengguna"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Oleh %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Pemutar video"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Video tidak ditemukan"
+    },
+    {
+      "name": "videos_string",
+      "value": "Video"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Lihat di GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "Volume"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Riwayat tontonan dihapus"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Posisi pemutaran dihapus"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Kunjungi Situs Web NewPipe untuk info dan berita lainnya."
+    },
+    {
+      "name": "website_title",
+      "value": "Situs web"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Info:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Yang terjadi:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Hanya pada Wi-Fi"
+    },
+    {
+      "name": "yes",
+      "value": "Iya"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Anda sekarang berlangganan ke channel ini"
+    },
+    {
+      "name": "your_comment",
+      "value": "Komentar Anda (dalam bahasa Inggris):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Video ini hanya tersedia untuk anggota YouTube Music Premium, sehingga tidak bisa diputar atau diunduh oleh NewPipe."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "Kesalahan HTTP 403 diterima dari server saat memutar, dapat disebabkan oleh pemblokiran IP atau masalah deobfuskasi URL streaming"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube menyediakan \"Mode Terbatas\" yang menyembunyikan konten dewasa"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Aktifkan \"Mode Terbatas\""
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

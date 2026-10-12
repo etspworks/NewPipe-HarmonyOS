@@ -1,0 +1,186 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d dies"
+        },
+        {
+          "quantity": "other",
+          "value": "%d die"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%1$s iscarrigamentu iscantzelladu"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s iscarrigamentos iscantzellados"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Iscarrigamentu acabadu"
+        },
+        {
+          "quantity": "other",
+          "value": "%s iscarrigamentos acabados"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ischertadu"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ischertados"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ora"
+        },
+        {
+          "quantity": "other",
+          "value": "%d oras"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ascurtadore"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ascurtadores"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minutu"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minutos"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s flussu nou"
+        },
+        {
+          "quantity": "other",
+          "value": "%s flussos noos"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s risposta"
+        },
+        {
+          "quantity": "other",
+          "value": "%s rispostas"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d segundos"
+        },
+        {
+          "quantity": "other",
+          "value": "%d segundu"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s iscritu"
+        },
+        {
+          "quantity": "other",
+          "value": "%s iscritos"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s vìdeos"
+        },
+        {
+          "quantity": "other",
+          "value": "%s vìdeu"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s visualizatzione"
+        },
+        {
+          "quantity": "other",
+          "value": "%s visualizatziones"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s est pompiende"
+        },
+        {
+          "quantity": "other",
+          "value": "%s sunt pompiende"
+        }
+      ]
+    }
+  ]
+}

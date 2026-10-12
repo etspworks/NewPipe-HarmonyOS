@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="QA scoreboard: 198 cards closed over 182 test cases, 190 accepted against 1 change request, 197 cards citing both handsets, 1681 device screenshots, 157 both-device proof sheets">
+  <style>
+    .f{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+    .h{font-size:15px;font-weight:700;letter-spacing:2.2px;fill:#8b98a8}
+    .v{font-size:42px;font-weight:700;letter-spacing:-1px}
+    .k{font-size:13px;fill:#8b98a8}
+    .cap{font-size:13px;fill:#6f7d8e}
+  </style>
+  <rect width="1200" height="260" rx="18" fill="#0f1620"/>
+  <rect x="1" y="1" width="1198" height="258" rx="18" fill="none" stroke="#1f2a3a" stroke-width="2"/>
+  <text class="f h" x="64" y="52">VERIFIED ON DEVICE &#8212; NOT IN CODE REVIEW</text>
+
+  <rect x="64"  y="76" width="198" height="112" rx="12" fill="#161e2b"/>
+  <text class="f v" x="88"  y="136" fill="#e6edf5">198</text>
+  <text class="f k" x="88"  y="160">cards closed, 182 TC cases</text>
+
+  <rect x="282" y="76" width="198" height="112" rx="12" fill="#231417" stroke="#5c2422"/>
+  <text class="f v" x="306" y="136" fill="#3fb950">190<tspan fill="#4a5666" font-size="26">&#160;/ 1</tspan></text>
+  <text class="f k" x="306" y="160">accepted / changes asked</text>
+
+  <rect x="500" y="76" width="198" height="112" rx="12" fill="#161e2b"/>
+  <text class="f v" x="524" y="136" fill="#e6edf5">197</text>
+  <text class="f k" x="524" y="160">cards citing both handsets</text>
+
+  <rect x="718" y="76" width="198" height="112" rx="12" fill="#161e2b"/>
+  <text class="f v" x="742" y="136" fill="#a371f7">1,681</text>
+  <text class="f k" x="742" y="160">device screenshots attached</text>
+
+  <rect x="936" y="76" width="198" height="112" rx="12" fill="#231417" stroke="#5c2422"/>
+  <text class="f v" x="960" y="136" fill="#E8413F">157</text>
+  <text class="f k" x="960" y="160">both-device proof sheets</text>
+
+  <text class="f cap" x="64" y="222">Huawei BRA-AL00 (Mate X7), HarmonyOS 6.1 &#183; Huawei JNY-LX1, Android 10, NewPipe 0.29.1 &#183; every case replayed on both after the fix, never from old captures</text>
+</svg>

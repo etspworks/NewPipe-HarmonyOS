@@ -1,0 +1,380 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "activity_horizontal_margin",
+      "value": "16vp"
+    },
+    {
+      "name": "activity_vertical_margin",
+      "value": "16vp"
+    },
+    {
+      "name": "appbar_padding_top",
+      "value": "8vp"
+    },
+    {
+      "name": "channel_avatar_size",
+      "value": "70vp"
+    },
+    {
+      "name": "channel_item_card_thumbnail_image_size",
+      "value": "100vp"
+    },
+    {
+      "name": "channel_item_description_to_details_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "channel_item_detail_title_text_size",
+      "value": "16fp"
+    },
+    {
+      "name": "channel_item_grid_min_width",
+      "value": "128vp"
+    },
+    {
+      "name": "channel_item_grid_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "channel_item_grid_thumbnail_image_size",
+      "value": "92vp"
+    },
+    {
+      "name": "channel_rss_title_size",
+      "value": "12fp"
+    },
+    {
+      "name": "comment_item_avatar_right_margin",
+      "value": "9vp"
+    },
+    {
+      "name": "comment_item_content_text_size",
+      "value": "12fp"
+    },
+    {
+      "name": "comment_item_title_text_size",
+      "value": "12fp"
+    },
+    {
+      "name": "comments_horizontal_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "comments_vertical_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "detail_control_height",
+      "value": "55vp"
+    },
+    {
+      "name": "detail_control_padding",
+      "value": "6vp"
+    },
+    {
+      "name": "detail_control_text_size",
+      "value": "12fp"
+    },
+    {
+      "name": "detail_control_width",
+      "value": "80vp"
+    },
+    {
+      "name": "drawer_header_content_min_height",
+      "value": "120vp"
+    },
+    {
+      "name": "drawer_header_newpipe_icon_size",
+      "value": "48vp"
+    },
+    {
+      "name": "drawer_header_newpipe_icon_title_space",
+      "value": "12vp"
+    },
+    {
+      "name": "drawer_header_newpipe_title_default_width",
+      "value": "130vp"
+    },
+    {
+      "name": "drawer_header_newpipe_title_max_text_size",
+      "value": "32fp"
+    },
+    {
+      "name": "drawer_header_newpipe_title_max_width",
+      "value": "200vp"
+    },
+    {
+      "name": "drawer_header_newpipe_title_min_text_size",
+      "value": "18fp"
+    },
+    {
+      "name": "drawer_header_padding_top",
+      "value": "16vp"
+    },
+    {
+      "name": "drawer_header_service_icon_size",
+      "value": "16vp"
+    },
+    {
+      "name": "drawer_header_service_title_text_size",
+      "value": "14fp"
+    },
+    {
+      "name": "file_picker_items_text_size",
+      "value": "14fp"
+    },
+    {
+      "name": "margin_normal",
+      "value": "16vp"
+    },
+    {
+      "name": "margin_small",
+      "value": "8vp"
+    },
+    {
+      "name": "mini_player_height",
+      "value": "60vp"
+    },
+    {
+      "name": "play_queue_thumbnail_height",
+      "value": "35vp"
+    },
+    {
+      "name": "play_queue_thumbnail_width",
+      "value": "62vp"
+    },
+    {
+      "name": "player_main_buttons_min_width",
+      "value": "40vp"
+    },
+    {
+      "name": "player_main_buttons_padding",
+      "value": "6vp"
+    },
+    {
+      "name": "player_main_controls_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "player_main_top_padding",
+      "value": "4vp"
+    },
+    {
+      "name": "player_notification_thumbnail_width",
+      "value": "200vp"
+    },
+    {
+      "name": "player_popup_buttons_padding",
+      "value": "1vp"
+    },
+    {
+      "name": "player_popup_controls_padding",
+      "value": "6vp"
+    },
+    {
+      "name": "playlist_ctrl_height",
+      "value": "50vp"
+    },
+    {
+      "name": "playlist_ctrl_separator_margin",
+      "value": "10vp"
+    },
+    {
+      "name": "playlist_detail_subtext_size",
+      "value": "12fp"
+    },
+    {
+      "name": "playlist_detail_title_text_size",
+      "value": "16fp"
+    },
+    {
+      "name": "playlist_detail_uploader_image_size",
+      "value": "24vp"
+    },
+    {
+      "name": "playlist_detail_uploader_layout_height",
+      "value": "28vp"
+    },
+    {
+      "name": "playlist_item_thumbnail_stream_count_width",
+      "value": "60vp"
+    },
+    {
+      "name": "popup_default_width",
+      "value": "180vp"
+    },
+    {
+      "name": "popup_minimum_width",
+      "value": "150vp"
+    },
+    {
+      "name": "search_suggestion_text_size",
+      "value": "16fp"
+    },
+    {
+      "name": "spacing_micro",
+      "value": "4vp"
+    },
+    {
+      "name": "spacing_mid",
+      "value": "12vp"
+    },
+    {
+      "name": "spacing_nano",
+      "value": "2vp"
+    },
+    {
+      "name": "sub_channel_avatar_size",
+      "value": "35vp"
+    },
+    {
+      "name": "video_item_detail_description_text_size",
+      "value": "13fp"
+    },
+    {
+      "name": "video_item_detail_error_panel_margin",
+      "value": "50vp"
+    },
+    {
+      "name": "video_item_detail_heart_image_size",
+      "value": "18fp"
+    },
+    {
+      "name": "video_item_detail_heart_margin",
+      "value": "5vp"
+    },
+    {
+      "name": "video_item_detail_like_image_height",
+      "value": "18fp"
+    },
+    {
+      "name": "video_item_detail_like_image_width",
+      "value": "18fp"
+    },
+    {
+      "name": "video_item_detail_like_margin",
+      "value": "5vp"
+    },
+    {
+      "name": "video_item_detail_likes_text_size",
+      "value": "12fp"
+    },
+    {
+      "name": "video_item_detail_pinned_image_height",
+      "value": "18fp"
+    },
+    {
+      "name": "video_item_detail_pinned_image_width",
+      "value": "18fp"
+    },
+    {
+      "name": "video_item_detail_pinned_right_margin",
+      "value": "5vp"
+    },
+    {
+      "name": "video_item_detail_sub_channel_image_size",
+      "value": "16vp"
+    },
+    {
+      "name": "video_item_detail_sub_channel_text_size",
+      "value": "14fp"
+    },
+    {
+      "name": "video_item_detail_title_text_size",
+      "value": "15fp"
+    },
+    {
+      "name": "video_item_detail_upload_date_text_size",
+      "value": "13fp"
+    },
+    {
+      "name": "video_item_detail_uploader_image_size",
+      "value": "32vp"
+    },
+    {
+      "name": "video_item_detail_uploader_text_size",
+      "value": "12fp"
+    },
+    {
+      "name": "video_item_detail_views_text_size",
+      "value": "13fp"
+    },
+    {
+      "name": "video_item_grid_thumbnail_image_height",
+      "value": "92vp"
+    },
+    {
+      "name": "video_item_grid_thumbnail_image_width",
+      "value": "164vp"
+    },
+    {
+      "name": "video_item_search_avatar_image_height",
+      "value": "70vp"
+    },
+    {
+      "name": "video_item_search_avatar_image_width",
+      "value": "70vp"
+    },
+    {
+      "name": "video_item_search_avatar_left_margin",
+      "value": "27vp"
+    },
+    {
+      "name": "video_item_search_avatar_right_margin",
+      "value": "33vp"
+    },
+    {
+      "name": "video_item_search_duration_horizontal_padding",
+      "value": "5fp"
+    },
+    {
+      "name": "video_item_search_duration_margin",
+      "value": "2vp"
+    },
+    {
+      "name": "video_item_search_duration_text_size",
+      "value": "11fp"
+    },
+    {
+      "name": "video_item_search_duration_vertical_padding",
+      "value": "1fp"
+    },
+    {
+      "name": "video_item_search_height",
+      "value": "96vp"
+    },
+    {
+      "name": "video_item_search_image_right_margin",
+      "value": "6vp"
+    },
+    {
+      "name": "video_item_search_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "video_item_search_thumbnail_image_height",
+      "value": "70vp"
+    },
+    {
+      "name": "video_item_search_thumbnail_image_width",
+      "value": "124vp"
+    },
+    {
+      "name": "video_item_search_title_text_size",
+      "value": "14fp"
+    },
+    {
+      "name": "video_item_search_upload_date_text_size",
+      "value": "12fp"
+    },
+    {
+      "name": "video_item_search_uploader_text_size",
+      "value": "11fp"
+    }
+  ]
+}

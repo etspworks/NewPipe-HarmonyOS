@@ -1,0 +1,147 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d tago"
+        },
+        {
+          "quantity": "other",
+          "value": "%d tagoj"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d selektita"
+        },
+        {
+          "quantity": "other",
+          "value": "%d selektitaj"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d horo"
+        },
+        {
+          "quantity": "other",
+          "value": "%d horoj"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s aŭskultanto"
+        },
+        {
+          "quantity": "other",
+          "value": "%s aŭskultantoj"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minuto"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minutoj"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s nova fluo"
+        },
+        {
+          "quantity": "other",
+          "value": "%s novaj fluoj"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d sekundo"
+        },
+        {
+          "quantity": "other",
+          "value": "%d sekundoj"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s abonanto"
+        },
+        {
+          "quantity": "other",
+          "value": "%s abonantoj"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s filmeto"
+        },
+        {
+          "quantity": "other",
+          "value": "%s filmetoj"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s spekto"
+        },
+        {
+          "quantity": "other",
+          "value": "%s spektoj"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s spektanto"
+        },
+        {
+          "quantity": "other",
+          "value": "%s spektantoj"
+        }
+      ]
+    }
+  ]
+}

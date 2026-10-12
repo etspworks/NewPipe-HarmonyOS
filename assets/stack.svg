@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 690" width="1200" height="690" role="img" aria-label="Layer-by-layer map from the Android NewPipe source to the ArkTS port">
+  <style>
+    .f{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+    .h{font-size:15px;font-weight:700;letter-spacing:2.2px;fill:#8b98a8}
+    .t{font-size:19px;font-weight:600;fill:#e6edf5}
+    .s{font-size:13.5px;fill:#8b98a8}
+    .cap{font-size:13px;fill:#6f7d8e;letter-spacing:.4px}
+  </style>
+  <rect width="1200" height="690" rx="18" fill="#0f1620"/>
+  <rect x="1" y="1" width="1198" height="688" rx="18" fill="none" stroke="#1f2a3a" stroke-width="2"/>
+
+  <text class="f h" x="64" y="60">SOURCE &#183; KOTLIN / JAVA &#183; ANDROID</text>
+  <text class="f h" x="700" y="60" fill="#F2706D">PORT &#183; ARKTS / ARKUI</text>
+  <line x1="64" y1="76" x2="500" y2="76" stroke="#1f2a3a" stroke-width="2"/>
+  <line x1="700" y1="76" x2="1136" y2="76" stroke="#CD201F" stroke-width="2" opacity=".55"/>
+
+  <g>
+    <rect x="64" y="106" width="436" height="72" rx="12" fill="#161e2b"/>
+    <rect x="64" y="106" width="4" height="72" rx="2" fill="#F2706D"/>
+    <text class="f t" x="90" y="140">Activities, Fragments, XML layouts</text>
+    <text class="f s" x="90" y="162">MainActivity &#183; activity_main.xml &#183; drawer_layout.xml</text>
+    <path d="M530 142h140" stroke="#CD201F" stroke-width="2.5" marker-end="url(#a)"/>
+    <rect x="700" y="106" width="436" height="72" rx="12" fill="#231417" stroke="#5c2422"/>
+    <rect x="700" y="106" width="4" height="72" rx="2" fill="#E8413F"/>
+    <text class="f t" x="726" y="140">ArkUI declarative pages</text>
+    <text class="f s" x="726" y="162">66 <tspan fill="#F2706D">*Page.ets</tspan> + 84 components, 56 routed</text>
+  </g>
+
+  <g>
+    <rect x="64" y="196" width="436" height="72" rx="12" fill="#161e2b"/>
+    <rect x="64" y="196" width="4" height="72" rx="2" fill="#d29922"/>
+    <text class="f t" x="90" y="230">NewPipeExtractor v0.26.5</text>
+    <text class="f s" x="90" y="252">ServiceList &#183; StreamingService &#183; linkhandler &#183; services/*</text>
+    <path d="M530 232h140" stroke="#CD201F" stroke-width="2.5" marker-end="url(#a)"/>
+    <rect x="700" y="196" width="436" height="72" rx="12" fill="#231417" stroke="#5c2422"/>
+    <rect x="700" y="196" width="4" height="72" rx="2" fill="#d29922"/>
+    <text class="f t" x="726" y="230">common/extractor &#8212; 187 files</text>
+    <text class="f s" x="726" y="252">Same 5 service ids, kept because the database stores them</text>
+  </g>
+
+  <g>
+    <rect x="64" y="286" width="436" height="72" rx="12" fill="#161e2b"/>
+    <rect x="64" y="286" width="4" height="72" rx="2" fill="#3fb950"/>
+    <text class="f t" x="90" y="320">ExoPlayer + MediaSessionCompat</text>
+    <text class="f s" x="90" y="342">player.Player &#183; resolver/* &#183; MediaSessionPlayerUi</text>
+    <path d="M530 322h140" stroke="#CD201F" stroke-width="2.5" marker-end="url(#a)"/>
+    <rect x="700" y="286" width="436" height="72" rx="12" fill="#231417" stroke="#5c2422"/>
+    <rect x="700" y="286" width="4" height="72" rx="2" fill="#3fb950"/>
+    <text class="f t" x="726" y="320">AVPlayer + AVSession</text>
+    <text class="f s" x="726" y="342">PlayerService.ts &#183; MediaSessionService.ts</text>
+  </g>
+
+  <g>
+    <rect x="64" y="376" width="436" height="72" rx="12" fill="#161e2b"/>
+    <rect x="64" y="376" width="4" height="72" rx="2" fill="#f778ba"/>
+    <text class="f t" x="90" y="410">Room AppDatabase + DAOs</text>
+    <text class="f s" x="90" y="432">NewPipeDatabase &#183; Migrations.kt &#183; FeedDAO</text>
+    <path d="M530 412h140" stroke="#CD201F" stroke-width="2.5" marker-end="url(#a)"/>
+    <rect x="700" y="376" width="436" height="72" rx="12" fill="#231417" stroke="#5c2422"/>
+    <rect x="700" y="376" width="4" height="72" rx="2" fill="#f778ba"/>
+    <text class="f t" x="726" y="410">relationalStore &#8594; SQLite</text>
+    <text class="f s" x="726" y="432">Schema v9, 12 tables + a separate downloads.db</text>
+  </g>
+
+  <g>
+    <rect x="64" y="466" width="436" height="72" rx="12" fill="#161e2b"/>
+    <rect x="64" y="466" width="4" height="72" rx="2" fill="#a371f7"/>
+    <text class="f t" x="90" y="500">RxJava 3.1.12 + OkHttp</text>
+    <text class="f s" x="90" y="522">Observable &#183; Single &#183; Maybe &#183; Completable &#183; DownloaderImpl</text>
+    <path d="M530 502h140" stroke="#CD201F" stroke-width="2.5" marker-end="url(#a)"/>
+    <rect x="700" y="466" width="436" height="72" rx="12" fill="#231417" stroke="#5c2422"/>
+    <rect x="700" y="466" width="4" height="72" rx="2" fill="#a371f7"/>
+    <text class="f t" x="726" y="500">Rx.ts &#183; Downloader.ts</text>
+    <text class="f s" x="726" y="522">Single &#8594; Promise; the extractor's door on @kit.NetworkKit</text>
+  </g>
+
+  <g>
+    <rect x="64" y="556" width="436" height="72" rx="12" fill="#161e2b"/>
+    <rect x="64" y="556" width="4" height="72" rx="2" fill="#5E9EF4"/>
+    <text class="f t" x="90" y="590">SharedPreferences</text>
+    <text class="f s" x="90" y="612">androidx.preference &#183; settings_keys.xml</text>
+    <path d="M530 592h140" stroke="#CD201F" stroke-width="2.5" marker-end="url(#a)"/>
+    <rect x="700" y="556" width="436" height="72" rx="12" fill="#231417" stroke="#5c2422"/>
+    <rect x="700" y="556" width="4" height="72" rx="2" fill="#5E9EF4"/>
+    <text class="f t" x="726" y="590">@kit.ArkData preferences</text>
+    <text class="f s" x="726" y="612">230 keys carried over verbatim in SettingsKeys.ts</text>
+  </g>
+
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#CD201F"/>
+    </marker>
+  </defs>
+  <text class="f cap" x="64" y="666">154 ArkTS + 303 TypeScript files under entry/src/main/ets &#183; 66 pages &#183; 84 components &#183; 187 extractor files &#183; 12 tables &#183; zero runtime dependencies</text>
+</svg>

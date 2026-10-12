@@ -1,0 +1,692 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "ተቐበል"
+    },
+    {
+      "name": "action_history",
+      "value": "ታሪኽ"
+    },
+    {
+      "name": "albums",
+      "value": "ኣልበማት"
+    },
+    {
+      "name": "all",
+      "value": "ኵሉ"
+    },
+    {
+      "name": "artists",
+      "value": "ስነ-ጥበባውያን"
+    },
+    {
+      "name": "audio",
+      "value": "ብድምጺ"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "ጸሊም"
+    },
+    {
+      "name": "cancel",
+      "value": "ሰረዝ"
+    },
+    {
+      "name": "caption_none",
+      "value": "ብዘይ መግለጺ ጽሑፍ"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "መስመር ኣይትጽንበሩ"
+    },
+    {
+      "name": "channels",
+      "value": "መስመርት"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "ቅድሚ ምጽራይ ተራታት ናይ መረጋገጺ ሕተት"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "ርእይቶታት"
+    },
+    {
+      "name": "conferences",
+      "value": "ኣኼባ"
+    },
+    {
+      "name": "content",
+      "value": "ትሕዝቶ"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "ድምር ምስ"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "ድሕረ ባይታ"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "ስትሪም ፋይል ኣውርድ"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "ፖፕኣፕ"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "ተጻዋታይ ወደቀ"
+    },
+    {
+      "name": "create",
+      "value": "ፍጠር"
+    },
+    {
+      "name": "create_playlist",
+      "value": "ሓድሽ ዝርዝር ጸወታ"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "ጸልማት"
+    },
+    {
+      "name": "decline",
+      "value": "ንጸግ"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "ነባሪ ቅርጺ ድምጺ"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "ትሑዝ ፖፕኣፕ ድንቀት"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "ትሑዝ ድንቀት"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "ነባሪ ቪድዮ ፎርማት"
+    },
+    {
+      "name": "delete",
+      "value": "ደምስስ"
+    },
+    {
+      "name": "description_tab_description",
+      "value": "መብርሂ"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "ጸላእቲ"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "ፈተውቲ"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "\"%1$s\" ማለቱ ድዩ፧"
+    },
+    {
+      "name": "dismiss",
+      "value": "ሰሩዞ"
+    },
+    {
+      "name": "download",
+      "value": "ኣራግፍ"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "ውራድ"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "ናይ ድምጺ ፋይል ኣራግፍ ምረጽ"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "ድምጺ ምውራድ ማህደር ፋይላት ኣብዚ ይኽዘኑ"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "ድምጺ ምውራድ ማህደር"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "ንተንቃሳቀሴ-ምስሌ ፋይላት ዝኸውን ናይ ምውራድ ማህደር ምረጽ"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "ዝወረዱ ናይ ተንቃሳቀሴ-ምስሌ ፋይላት ኣብዚ ይኽዘኑ"
+    },
+    {
+      "name": "download_path_title",
+      "value": "ተንቃሳቀሴ-ምስሌ ፋይል ኣራግፍ"
+    },
+    {
+      "name": "downloads",
+      "value": "ርጋፍታት"
+    },
+    {
+      "name": "downloads_title",
+      "value": "ርጋፍታት"
+    },
+    {
+      "name": "duration_live",
+      "value": "ህያው"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "መስርዕ"
+    },
+    {
+      "name": "enqueued",
+      "value": "ተሰሪዑ"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "ዝርዝራት:"
+    },
+    {
+      "name": "events",
+      "value": "ፍጻመታት"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "ሓድሽ"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "ጉጅለታት መስመር"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "እዞም ዝስዕቡ ውሕጅታት ኣርእዩ"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "ዝተሓደሰ ዕለት: %s"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "ብኸፊል ዝተራእየ"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "ኣብ ዝመጺእ"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "ብምሉእ ዝተራእየ"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "ቅልጡፍ ኣገባብ ኣንቅሕ"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "እንታይ ሓድሽ ኣሎ"
+    },
+    {
+      "name": "install",
+      "value": "ምውራድ"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "ዝጎደለ ኮረ ኣፕፕ ኣውራድ፧"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "ብርሃን"
+    },
+    {
+      "name": "list",
+      "value": "ዝርዝር"
+    },
+    {
+      "name": "local",
+      "value": "ዞባዊ"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "ንኽትጅምር ነቲ ምድላይ ምልክት ጠውቆ።"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "ዚተሪየ ጋባራ"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "ኣቫታራት"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "ባነራት"
+    },
+    {
+      "name": "metadata_category",
+      "value": "ምድብ"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "ፍቓድ"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "ብሕትነት"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "ውሽጣዊ"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "ብሕታዊ"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "ህዝባዊ"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "ዘይተዘርዘረ"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "ተኸታተልቲ"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "መፍለዪ"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "ዋላ-ሓደ"
+    },
+    {
+      "name": "msg_error",
+      "value": "ስሕተት"
+    },
+    {
+      "name": "mute",
+      "value": "ዓባስ"
+    },
+    {
+      "name": "name",
+      "value": "ስም"
+    },
+    {
+      "name": "never",
+      "value": "ብፍጹም"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "ለይታው ቆርበት"
+    },
+    {
+      "name": "no",
+      "value": "ኣይፋልን"
+    },
+    {
+      "name": "no_player_found",
+      "value": "ናይ ዥረት ተጻዋታይ ኣይተረኽበን። VLC ይውርድ፧"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "ወሓይዝ ዚጻወት ኣይተረኽበን። (ንኽትጻወቶ VLC ከተውራድ ትኽእል)።"
+    },
+    {
+      "name": "none",
+      "value": "ዋላ-ሓደ"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "ቀዳማይ ወሰን ተጠዋቃ"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "ካልኣይ ስጉምቲ መጠወቒ"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "ሳልሳይ ስጉምቲ መጠወቒ"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "ራብዓይ ስጉምቲ መጠወቒ"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "ሓሙሻይ ስጉምቲ መጠወቒ"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "ዋላ-ሓንቲ"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "ደገመ"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "ሕንፍሽፍሽ"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "ኣብቲ ውሱን መፍለጢ ንምርኣይ እንተበዝሐ ሰለስተ ተግባራት ክትመርጽ ትኽእል ኢኻ!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "ነፍሲ ወከፍ መፍለጢ ተግባር ኣብ ታሕቲ ብምጥዋቕ ኣርትዖ። ኣብቲ ውህሉል መተሓሳሰቢ ንኽርአ ክሳብ ሰለስተ ካብኣቶም ምረጽ፡ ኣብ የማናይ ሸነኽ ዘሎ ሳጹናት ብምጥቃም።"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Android ሕብሪ ናይቲ መተሓሳሰቢ ብመሰረት እቲ ኣብቲ ንእሽቶ ስእሊ ዘሎ ቀንዲ ሕብሪ ከም ዝጥዕሞ ግበር (እዚ ኣብ ኩሉ መሳርሒታት ከምዘይርከብ ኣስተውዕል)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "መፍለጢ ሕብሪ ልኸ"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "ነቲ ኣብ'ቲ ምልክታ ዝተርኣየ ናይ ቪድዮ ምስሊ ካብ 16:9 ናብ 1:1 ርሕቐት ኣቀራርባ ቅረጽ"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "ናይ እኽሊ ምስሊ ምስ ናይ 1:1 ርክባት"
+    },
+    {
+      "name": "ok",
+      "value": "ሐራይ"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "ኣብ መርበብ-ሓበሬታ ክፉት"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "ኣብ ፖፕኣፕ ኣገባብ ክፉት"
+    },
+    {
+      "name": "open_website_license",
+      "value": "መርበብ-ቦታ ክፈት"
+    },
+    {
+      "name": "open_with",
+      "value": "ክፉቴ ምሲ"
+    },
+    {
+      "name": "play_all",
+      "value": "ኩሉ ተጻወቶ"
+    },
+    {
+      "name": "play_audio",
+      "value": "ድምጺ"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "ኣወግድ"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "ዝርዝር ሓበሬታ"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "ምስ Kodi ተጻወት"
+    },
+    {
+      "name": "playback_step",
+      "value": "ስጉሚ"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "ኣብ ዝርዝር-ጸወታ ኮነ"
+    },
+    {
+      "name": "playlists",
+      "value": "ዝርዝር-ጸወታ"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "ናይ ፖፕኣፕ ዝነበሮ ቦታ ዘክር"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "ናይ ፖፕኣፕ ባህርያት ዘክር"
+    },
+    {
+      "name": "read_full_license",
+      "value": "ፍቓድ ኣንብብ"
+    },
+    {
+      "name": "rename",
+      "value": "ስም ቀያር"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "ስም ቀያር"
+    },
+    {
+      "name": "resize_fill",
+      "value": "ሙሉእ"
+    },
+    {
+      "name": "resize_fit",
+      "value": "ግጡም"
+    },
+    {
+      "name": "retry",
+      "value": "እንደገና ፈትን"
+    },
+    {
+      "name": "search",
+      "value": "ድለ"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "ውጽኢት ናይ፦ %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "%1$s ድለ"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "ድለ %1$sን %2$s"
+    },
+    {
+      "name": "settings",
+      "value": "ቅጥዕታት"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "ትርኢት"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "ኣጻዋታይ"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "እዋናዊታት"
+    },
+    {
+      "name": "share",
+      "value": "ኣካፍሎ"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "ኣካፍሎም ምሲ"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sቢ"
+    },
+    {
+      "name": "short_million",
+      "value": "%sሚ"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sሽ"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "ርእይቶታት ንምሕባእ እዚ ኣጥፍእ"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "ርእይቶታት ኣርእዩ"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "ገለ መሳርሒታት ጥራይ እዮም 2K/4K ተንቃሳቀሴ-ምስሌ ክጻወቱ ዝኽእሉ"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "ዝያዳ ድንቀት ኣርኢ"
+    },
+    {
+      "name": "show_info",
+      "value": "ሓበሬታ ኣርእዩ"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Kodi ሚድያ ማእኸል ቪድዮ ንምጽዋት ዝሕግዝ ኣማራጺ"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "\"Play with Kodi\" ኣማራጺ"
+    },
+    {
+      "name": "songs",
+      "value": "ደርፍታት"
+    },
+    {
+      "name": "start",
+      "value": "ጀምር"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "ሰዓበ"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "ሰዓብካ'ኪ"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "ክቕይር ኣይከኣለን ምዝገብ"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "ክሕደስ ኣይከኣለን ምዝገባ"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "ዝርዝር-ጸወታት"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "ዝርዝር-ጸወታት"
+    },
+    {
+      "name": "tab_choose",
+      "value": "ታብ ምረጽ"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "ፍቓድታት"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "እትስዕቦም"
+    },
+    {
+      "name": "theme_title",
+      "value": "ቆርበት ኣርእስቲ"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "ምስዓብ ኣቋርጽ"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "ዝተሓትመሉ ዕለት %1$s"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "ናይ ደገ ድምጺ መጻወቲ ተጠቐም"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "ድምጺታት ኣብ ገለ ርዝነት የወግድ"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "ናይ ደገ ቪድዮ ተጠቐም መጻወቲ"
+    },
+    {
+      "name": "users",
+      "value": "ተጠቀምቲ"
+    },
+    {
+      "name": "videos_string",
+      "value": "ቪዶ"
+    },
+    {
+      "name": "yes",
+      "value": "እወ"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

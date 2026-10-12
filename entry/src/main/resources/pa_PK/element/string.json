@@ -1,0 +1,544 @@
+{
+  "string": [
+    {
+      "name": "albums",
+      "value": "البم"
+    },
+    {
+      "name": "all",
+      "value": "سارے"
+    },
+    {
+      "name": "always",
+      "value": "ہمیشہ"
+    },
+    {
+      "name": "artists",
+      "value": "کلاکار"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "اِکّ نا دہراؤݨ والی کتار نوں، سمبندھت سٹریم جوڑدیاں، مُکاؤندے رہو"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "آپ‌مُختار کتار کردے"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "ਕਾਲਾ"
+    },
+    {
+      "name": "cancel",
+      "value": "رد کرو"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "چندہ بند کیتا گیا"
+    },
+    {
+      "name": "channels",
+      "value": "چینلاں"
+    },
+    {
+      "name": "clear",
+      "value": "مٹاؤ"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "سرگرم پکیئر کتار جاوےگا"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "پلیئر بدلݨ نال تہاڈی بدل سکدی اے"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "کتار نوں خالی کرن توں پہلاں تصویر کرن لئی پچھو"
+    },
+    {
+      "name": "content",
+      "value": "سمگری"
+    },
+    {
+      "name": "content_language_title",
+      "value": "یوٹوب توں لکھتاں لئی بولی دا مول"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "ایس وچ جوڑو"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "پچھوکڑ"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "سٹریم دی فائل ڈاؤن‌لوڈ کرو"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "تیردی تصویر"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "ویڈیو پلیئر کریش کرو"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "گوڑی"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "آڈیو فارمیٹ دا مول"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "ویڈیواں لئی دیش دا مول"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "تیردی تصویر لئی ریزولوشن دا مول"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "ریزولوشن دا مول"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "وہڈیو فارمیٹ دا مول"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "کیہ تہاڈے مطلب سی ”%1$s“؟"
+    },
+    {
+      "name": "disabled",
+      "value": "بند کیتا"
+    },
+    {
+      "name": "download",
+      "value": "ڈاؤن‌لوڈ کرو"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "ڈاؤن‌لوڈ"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "آڈیو فائلاں لئی ڈاؤن لوڈ فولڈر دا انتخاب کرو"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "ڈاؤن‌لوڈ کیتیاں آڈیو اِتھے جمھاں ہندیاں ہن"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "آڈیو ڈاؤن‌لوڈ فوکڈر"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "ویڈیو فائلاں لئی ڈاؤن‌لوڈ فولڈر چݨو"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "ڈاؤن‌لوڈ کیتیاں ویڈیو اِتھے جمھااں ہندیاں ہن"
+    },
+    {
+      "name": "download_path_title",
+      "value": "ویڈیو ڈاؤن‌لوڈ دا فولڈر"
+    },
+    {
+      "name": "downloads",
+      "value": "ڈاؤن‌لوڈ"
+    },
+    {
+      "name": "downloads_title",
+      "value": "ڈاؤن‌لوڈ"
+    },
+    {
+      "name": "duration_live",
+      "value": "لائیوَ"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "پچھلی پلےبیک ستھتی توں مُڑ چلاؤ"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "پلےبیک دوبارہ شروع کرو"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "لسٹاں دیاں ستھتیاں"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "کھوج دا اتیت"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "دیکھو گئے ویڈیواں دی لسٹ رکھو"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "پہلاں توں ویکھیاں ہوئیاں چیزاں دی لسٹ"
+    },
+    {
+      "name": "file",
+      "value": "فائل"
+    },
+    {
+      "name": "install",
+      "value": "اینسٹال کرو"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "کورے اَیپ اینسٹال نہیں اے؟"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "روشنی"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "شروع کرن لئی وڈدرشی کچ نوں دباؤ۔"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "ویکھیا جا چُکیا چنت کرو"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "میٹا ڈیٹے دی کیش ہٹا دتی گئی اے"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "کیش وچ سارے ویب‌سائیٹ دے ڈیٹے ہٹاؤ"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "کیش وچ میٹا جاݨکاری ہٹاؤ"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "رات والی تھیم"
+    },
+    {
+      "name": "no_player_found",
+      "value": "کوئی سٹریم پلیئر نہیں لبھیا۔ تسیں وی‌ایل‌سی اینسٹال کرنا چاہوگے؟"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "کجھ سٹریم پلیئر نہیں لبھے اے (تسیں وی‌ایل‌سی اینسٹال کرکے ایسنوں چلا سکدے او)۔"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "پہلا کاروائی بٹن"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "دوجا کاروائی بٹن"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "تیجا کاردائی بٹن"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "چوتھا کاروائی بٹن"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "پنجواں کاروائی بٹن"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "بفر کردے"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "کجھ وی نہیں"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "دُہراؤ"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "پھینٹݨا"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "تسیں ودھ توں ودھ تِن کاروائیاں نوں پچیڑیاں اِطلاعاں وچ وِکھاؤݨ لئی چݨ سکدے او!"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "اینڈروئیڈ نوں تھمنیل دے رکھ مطابق نوٹ دا رنگ بدلݨ دیو (دھیان دیو کہ ایہہ ہریک ڈِوائیس تے اًپلبدھ نہیں اے)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "رنگدار نوٹ"
+    },
+    {
+      "name": "ok",
+      "value": "ٹھيک اے"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "براؤزر وچ کھُلھو"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "تیردی تصویر وچ کھُلھو"
+    },
+    {
+      "name": "open_with",
+      "value": "ایس وچ کھُلھو"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "صرف ایچ‌ٹی‌ٹی‌پی‌ایس نال کڑی دا پتہ ہی ماݨنیوگ ہن"
+    },
+    {
+      "name": "play_audio",
+      "value": "آڈیو"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "کوڈی نال چلاؤ"
+    },
+    {
+      "name": "playlists",
+      "value": "پلےلِسٹاں"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "چلاؤݨا مُڑ شروع کرو"
+    },
+    {
+      "name": "search",
+      "value": "کھوجو"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "%s لئی نتیجے وِکھاۓ جا رہے ہن"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "اگے لنگھاؤݨ یا پچھے کرن دی سماں معد"
+    },
+    {
+      "name": "settings",
+      "value": "سیٹنگاں"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "دِکھ"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "ڈیٹا پٹاؤ"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "ڈیبگ کرو"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "اتیت تے کیش"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "ووہار"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "پلیئر"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "ویڈیو تے آڈیو"
+    },
+    {
+      "name": "share",
+      "value": "سانجھا کرو"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "ایس نال سانجھا کرو"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "ٹپݨیاں وکھاؤݨا روکݨ لئی ایسنوں بند کرو"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "ٹپݨیاں دِکھاؤ"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "ویڈیو ویروا تے وادھو جاݨکاری لُکاؤݨ لئی ایس ایسنوں بند کر دیو"
+    },
+    {
+      "name": "show_description_title",
+      "value": "وہروا دِکھاؤ"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "صرف کجھ ہی ڈِوائیس «2k/4k» ویڈیو نوں چلا سکدے ہن"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "وڈیاں ریزولوشن دِکھاؤ"
+    },
+    {
+      "name": "show_info",
+      "value": "جاݨکاری ویکھاؤ"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "میٹا جاݨکاری دِکھاؤ"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "”اگے“ تے ”سمانانتر“ ویڈیو دکھاؤ"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "کوڈی میڈیا کیندر نہیں ویڈیو چلاؤݨ دی چݨ وِکھاؤ"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "”کوڈی نال چلاؤ“ چݨ دِکھاؤ"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "کھوج سُجھا"
+    },
+    {
+      "name": "songs",
+      "value": "گیت"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "چندہ دیݨو"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "چندہ دِتا گیا"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "چندہ بدل نہیں سکیا"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "چندہ نواں کرن نہیں سکیا"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "سامبھیاں پلےلِسٹاں"
+    },
+    {
+      "name": "tab_choose",
+      "value": "ٹیب چݨو"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "چندے"
+    },
+    {
+      "name": "theme_title",
+      "value": "تھیم"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "تصویر دی کیش ہٹا دتی گئی اے"
+    },
+    {
+      "name": "tracks",
+      "value": "ٹریک"
+    },
+    {
+      "name": "undo",
+      "value": "موڑو"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "چندہ بند کرو"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "ایہہ کڑی دا پتہ پچھاݨ نہیں ہویا۔ کسے ہور اَیپ نال کھولھݨا اے؟"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "%1$s نوں جاری کیتی گئی"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "باہری آڈیو پلیئر ورتو"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "کجھ ریزولوشناں تے آواز نوں ہٹا دِندے"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "باہری ویڈیو پکیئر ورتیو"
+    },
+    {
+      "name": "users",
+      "value": "ورتنوالے"
+    },
+    {
+      "name": "videos_string",
+      "value": "ویڈیو"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

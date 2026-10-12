@@ -1,0 +1,3092 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "接受"
+    },
+    {
+      "name": "account_terminated",
+      "value": "账号被终止"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "账户终止\n\n%1$s 提供了这个原因：%2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "历史记录"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "添加至播放列表"
+    },
+    {
+      "name": "albums",
+      "value": "专辑"
+    },
+    {
+      "name": "all",
+      "value": "全部"
+    },
+    {
+      "name": "always",
+      "value": "总是"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "每次询问"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "此变通方法在发生界面更改时会释放并重新初始化视频编解码器，而不是直接将编解码器设置到新界面。在某些有这个问题的设备上，Exoplayer 已经在使用这个方法。此设置仅适用于 Android 6 及更高的系统版本\n\n\n\n启用此选项可防止切换当前视频播放器或切换到全屏播放时出现播放错误"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "始终使用 AVPlayer 的视频输出界面设置变通方法"
+    },
+    {
+      "name": "any_network",
+      "value": "任何网络"
+    },
+    {
+      "name": "api23_requirement_dialog_blogpost",
+      "value": "博客文章"
+    },
+    {
+      "name": "api23_requirement_dialog_message",
+      "value": "NewPipe 依赖几个已经不支持 Android 5 和 5.1 的库文件。下个 NewPipe 版本因此会只在 Android 6 或更高版本上工作。阅读博客文章了解更多信息。"
+    },
+    {
+      "name": "api23_requirement_dialog_title",
+      "value": "NewPipe 正放弃对 Android 5 的支持"
+    },
+    {
+      "name": "app_description",
+      "value": "自由且小巧的 HarmonyOS 媒体播放器。"
+    },
+    {
+      "name": "app_language_title",
+      "value": "应用语言"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe 是 Copyleft 的自由软件：您可以随时使用、研究共享和改进它。您可以根据自由软件基金会发布的 GNU 通用公共许可证 GPLv3 或（由您选择的）任何更高版本的许可证重新分发或修改该许可证。"
+    },
+    {
+      "name": "app_license_title",
+      "value": "NewPipe 的许可证"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "App/UI 崩溃"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "轻按下载 %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "NewPipe 可更新！"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "NewPipe 新版本的通知"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "应用更新通知"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "你正在运行最新版的 NewPipe"
+    },
+    {
+      "name": "artists",
+      "value": "艺术家"
+    },
+    {
+      "name": "audio",
+      "value": "音频"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "找不到音频串流"
+    },
+    {
+      "name": "audio_track",
+      "value": "音轨"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "此串流中应该已经有音轨"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "描述"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "配音"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "原始"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "第二"
+    },
+    {
+      "name": "auto",
+      "value": "自动"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "自动（系统主题）"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "播放完（非循环）队列中的最后一个视频后，自动将一个相关视频添加到当前播放队列"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "自动将“接下来”视频加入播放队列"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "自动加入播放队列"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe 可以自动时不时地检查新版本并在新版本可用时通知你。\n\n你想开启该功能吗？"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "自动开始播放 — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "自动播放"
+    },
+    {
+      "name": "background_player",
+      "value": "后台播放器"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "后台播放"
+    },
+    {
+      "name": "best_resolution",
+      "value": "最佳分辨率"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "暗黑"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "空白页"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "收藏播放列表"
+    },
+    {
+      "name": "brightness",
+      "value": "亮度"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "自动生成"
+    },
+    {
+      "name": "caption_none",
+      "value": "无字幕"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "修改播放器字幕文本比例和背景样式。重启应用后生效"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "字幕"
+    },
+    {
+      "name": "card",
+      "value": "卡片"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "由 %s 创建"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "频道页"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "关于"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "专辑"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "频道"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "赞"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "直播"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "播放列表"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "短视频"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "歌曲"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "视频"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "已取消订阅频道"
+    },
+    {
+      "name": "channels",
+      "value": "频道"
+    },
+    {
+      "name": "chapters",
+      "value": "章节"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "字母和数字"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "特殊字符"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "检查更新"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "检查新串流"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "检查更新中…"
+    },
+    {
+      "name": "checksum",
+      "value": "校验"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "选择一个服务器"
+    },
+    {
+      "name": "clear",
+      "value": "清除"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "清空与本地存储的 reCAPTCHA 验证码有关的 cookie"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "清空 reCAPTCHA cookie"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "清空下载记录"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "删除所有播放痕迹历史"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "删除播放痕迹历史"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "当前播放队列将被替换"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "从一个播放器切换到另一个播放器后，你的播放队列可能会被替换"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "清空播放队列前再次确认"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "清空搜索历史关键词"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "清空搜索历史"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "删除串流播放历史和播放痕迹记录"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "清空播放历史"
+    },
+    {
+      "name": "close",
+      "value": "关闭"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "评论功能已停用"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "评论"
+    },
+    {
+      "name": "conferences",
+      "value": "会议大会"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "是否清空下载记录或删除所有下载的文件？"
+    },
+    {
+      "name": "content",
+      "value": "内容"
+    },
+    {
+      "name": "content_language_title",
+      "value": "视频默认语言"
+    },
+    {
+      "name": "content_not_available",
+      "value": "内容不可用"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "NewPipe 尚不支持该内容。\n\n\n\n也许未来版本会支持它。"
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "你是否想过要翻译、设计、清理或重构代码——我们始终欢迎你来贡献！"
+    },
+    {
+      "name": "contribution_title",
+      "value": "贡献"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "添加至"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "后台"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "下载串流文件"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "悬浮窗播放"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "复制已整理的报告"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s 由 %2$s 遵循 %3$s 协议发布"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "警告：无法导入所有文件。"
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "无法加载所有缩略图"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "无法设置下载菜单"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "让应用崩溃"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "使播放器崩溃"
+    },
+    {
+      "name": "create",
+      "value": "新建"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "创建一条错误通知"
+    },
+    {
+      "name": "create_playlist",
+      "value": "新建播放列表"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "深色"
+    },
+    {
+      "name": "decline",
+      "value": "拒绝"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "默认音频格式"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "视频默认国家/地区"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "『时下流行』页-默认"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "悬浮窗默认分辨率"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "默认分辨率"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "默认视频格式"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "删除下载文件"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "清除所有下载的文件？"
+    },
+    {
+      "name": "delete_entry",
+      "value": "删除条目"
+    },
+    {
+      "name": "delete_file",
+      "value": "删除文件"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "是否删除此条搜索历史记录？"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "是否删除全部播放痕迹历史？"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "是否删除此播放列表？"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "是否删除全部搜索历史？"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "删除全部播放历史？"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "停用简介中的文本选择功能"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "启用简介中的文本选择功能"
+    },
+    {
+      "name": "description_select_note",
+      "value": "你现在可以选择简介中的文本，注意，在选择模式下，页面可能会闪烁，链接可能无法点击。"
+    },
+    {
+      "name": "description_tab_description",
+      "value": "简介"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "不喜欢"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "拖动以重新排序"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "被创作者喜爱"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "喜欢"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "置顶评论"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "频道的头像缩略图"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "播放视频，时长："
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "视频上传者的头像缩略图"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "您要找的是不是“%1$s”？"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "媒体隧道功能在你的设备上默认停用，因为已知你的设备型号不支持它。"
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "如果在视频播放中遇到黑屏或卡顿的情况，请停用媒体隧道。"
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "停用媒体隧道"
+    },
+    {
+      "name": "disabled",
+      "value": "已停用"
+    },
+    {
+      "name": "dismiss",
+      "value": "退出"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe 由志愿者开发，他们利用自己的空闲时间，为您带来最佳的用户体验。是时候回馈他们，让他们享受一杯咖啡，帮助开发者们让 NewPipe 变得更好。"
+    },
+    {
+      "name": "donation_title",
+      "value": "捐赠"
+    },
+    {
+      "name": "done",
+      "value": "完成"
+    },
+    {
+      "name": "dont_show",
+      "value": "不显示"
+    },
+    {
+      "name": "download",
+      "value": "下载"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "已暂停下载包含此名称的任务"
+    },
+    {
+      "name": "download_already_running",
+      "value": "已存在一进行中并使用该名称的下载任务"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "下载"
+    },
+    {
+      "name": "download_failed",
+      "value": "下载失败"
+    },
+    {
+      "name": "download_has_started",
+      "value": "下载已开始"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "选择下载音频的储存位置"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "已下载的音频将存储于此"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "音频下载文件夹"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "请选择下载视频的保存位置"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "已下载的视频将存储于此"
+    },
+    {
+      "name": "download_path_title",
+      "value": "视频下载路径"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "无法下载到外部 SD 卡，修改下载文件夹位置？"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "外置存储不可用"
+    },
+    {
+      "name": "downloads",
+      "value": "下载"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "系统将询问您将每次下载的保存位置。\n\n如果要下载到外部 SD 卡，请启用系统文件夹选择器 (SAF)"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "你会被问到在哪里保存每个下载"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "总是询问下载位置"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "存储访问框架（SAF）允许下载文件到外部 SD 卡"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "仅 Android 10 及以上版本支持“存储访问框架”"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "使用系统文件夹选择器 (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "下载"
+    },
+    {
+      "name": "drawer_close",
+      "value": "关闭抽屉"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "切换服务，当前选择："
+    },
+    {
+      "name": "drawer_open",
+      "value": "打开抽屉"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "变灰的播放列表已经包含此项目。"
+    },
+    {
+      "name": "duration",
+      "value": "持续时间"
+    },
+    {
+      "name": "duration_live",
+      "value": "直播"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "空空如也"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "强制报告处理后的未送达的 Activity 或 Fragment 生命周期之外的 Rx 异常"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "报告超出生命周期的错误"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "内存泄漏监测可能会导致应用在堆转储时无响应"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "再次打开播放过的视频时, 自动定位到上次播放时位置"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "记录播放痕迹历史"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "在列表中，使用底端进度条显示某一视频上次播放时的播放位置"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "在列表中显示历史播放位置"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "限制下载并行任务数"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "同一时间内只允许进行一个下载任务"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Newpipe 将在本地存储搜索历史记录"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "记录搜索历史"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "来自订阅的新串流的通知"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "新串流通知"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Newpipe 将保留播放记录"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "记录播放记录"
+    },
+    {
+      "name": "enqueue",
+      "value": "加入队列"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "下一个播放"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "加入播放队列"
+    },
+    {
+      "name": "enqueued",
+      "value": "已加入播放队列"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "已添加为下一个播放"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "删除了条目"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": "，"
+    },
+    {
+      "name": "error_connect_host",
+      "value": "无法连接至服务器"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "详细信息："
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "无法恢复此下载"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "无法创建文件"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "服务器未发送数据"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "找不到"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "服务器不接受多线程下载, 使用 @string/msg_threads = 1 重试"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "设备剩余空间不足"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "设备上没有剩余储存空间"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "发生错误：%1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "无法创建目标文件夹"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "后期处理失败"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe 在处理文件时被关闭"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "进度丢失，文件已被删除"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "使用电子邮件反馈"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "提示报告错误的通知"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "错误报告通知"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe 遇到了一个错误，点击此处报告此错误"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "发生错误，详见通知"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "请先检查您的要提交的问题是否已经存在。如果你创建了重复的反馈, 就会额外耗费我们用来修复这个问题的宝贵时间。"
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "在 GitHub 上反馈"
+    },
+    {
+      "name": "error_report_title",
+      "value": "反馈错误"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "反馈"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "抱歉，发生了一些错误。"
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "建立安全连接失败"
+    },
+    {
+      "name": "error_timeout",
+      "value": "连接超时"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "无法加载评论"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "找不到服务器"
+    },
+    {
+      "name": "events",
+      "value": "事件"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "导出成功"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "导出历史记录、订阅、播放列表和设置"
+    },
+    {
+      "name": "export_data_title",
+      "value": "导出数据库"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "正在导出…"
+    },
+    {
+      "name": "export_subscriptions_summary",
+      "value": "导出订阅到 .json 文件"
+    },
+    {
+      "name": "export_subscriptions_title",
+      "value": "导出订阅"
+    },
+    {
+      "name": "export_to",
+      "value": "导出到"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "第三方播放器不支持此类型链接"
+    },
+    {
+      "name": "faq",
+      "value": "在网站上查看"
+    },
+    {
+      "name": "faq_description",
+      "value": "如果你在使用本应用时遇到问题，请务必查看这些常见问题的答案！"
+    },
+    {
+      "name": "faq_title",
+      "value": "常见问题"
+    },
+    {
+      "name": "fast_mode",
+      "value": "快速模式"
+    },
+    {
+      "name": "featured",
+      "value": "精选"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "新建"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "获取频道标签页"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "更新数据源时要获取的标签页。如果使用快速模式更新频道，则该选项无效果。"
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "您要删除该组吗？"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "清空组名"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "未选中任何订阅"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "选择订阅"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "频道组页面"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "仅显示未分组订阅"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "频道组"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "显示下列音视频流"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "加载 Feed 时出错"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "无法加载“%s”的 Feed。"
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "快速 Feed 模式不提供关于这个的更多信息。"
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "作者账号已被终止。\n\nNewPipe 今后将无法加载此 Feed。\n\n你要退订此频道吗？"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "新订阅源条目"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "正在加载 feed…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "订阅最后更新：%s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "正在处理 feed…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "显示/隐藏音视频流"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "只看了一部分"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "即将到来"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "完整看过"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "未加载：%d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "始终更新"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "上次更新后，订阅被视为过期的时间 — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Feed 更新阈值"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "停用快速模式"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "启用快速模式"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "您是否觉得 feed 加载太慢？如果是这样，请尝试启用快速加载（可在设置中修改，也可使用下面的按钮修改）\n\nNewPipe 提供两种 feed 加载策略:\n•获取整个订阅频道，很慢但是很完整。\n•使用专用的服务端点，比较快但通常不完整\n\n两者之间的区别在于，后者通常缺少一些信息，如视频的持续时间或类型（无法区分直播视频和普通视频），并且可能返回更少的视频条目。\n\nYouTube 是一个通过其 RSS feed 提供这种快速方法的服务示例。\n\n因此，选择哪种方式取决于您的偏好：加载速度还是信息准确。"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "仅在某些服务中可用，通常速度更快，但返回的视频数量可能有限，而且信息通常不完整（如无视频时长、类型，无直播状态）"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "可用时使用专用 feed 获取"
+    },
+    {
+      "name": "file",
+      "value": "文件"
+    },
+    {
+      "name": "file_deleted",
+      "value": "文件已删除"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "文件名不能为空"
+    },
+    {
+      "name": "forward",
+      "value": "前进"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "最新"
+    },
+    {
+      "name": "general_error",
+      "value": "错误"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "生成唯一名称"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "此内容在你所在的国家/地区不可用。"
+    },
+    {
+      "name": "get_notified",
+      "value": "获取通知"
+    },
+    {
+      "name": "give_back",
+      "value": "回馈"
+    },
+    {
+      "name": "grid",
+      "value": "网格"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "正在计算视频哈希值时显示的通知"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "视频哈希值计算通知"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "高品质（较大）"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "长按加入播放队列"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "如果你在使用一副物理按钮坏掉的耳机，该选项应该会有帮助"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "忽略硬件媒体按钮事件"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "高质量"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "低质量"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "中等质量"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "不加载图片"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "选择图片质量以及是否根本不加载图片来降低数据和内存使用。更改选项会清除内存中和磁盘上的图片缓存 - %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "图片质量"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "导入成功"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "覆盖您的当前播放历史、订阅、播放列表和设置（可选）"
+    },
+    {
+      "name": "import_data_title",
+      "value": "导入数据库"
+    },
+    {
+      "name": "import_file_title",
+      "value": "导入文件"
+    },
+    {
+      "name": "import_from",
+      "value": "导入自"
+    },
+    {
+      "name": "import_from_previous_export",
+      "value": "从之前的导出文件导入"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "该操作消耗大量流量，\n\n\n\n你想继续吗？"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "正在导入…"
+    },
+    {
+      "name": "import_settings",
+      "value": "是否要导入设置？"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "正导入的导出文件中的设置使用了有漏洞的格式，该格式已从 NewPipe 0.27.0 版本起被弃用。请确保导入的导出文件来自可信来源，今后最好只使用从 NewPipe 0.27.0 或更新版本获取的导出文件。不久后将完全不支持导入这一有漏洞格式的设置，到时旧版 NewPipe 再不能导入来自新版应用的设置导出文件。"
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "通过输入网址或你的 ID 导入 SoundCloud 配置文件：\n\n\n\n1. 在浏览器中启用“电脑模式“（该网站未适配移动设备）；\n\n2. 打开该网站：%1$s；\n\n3. 登录（如果需要）；\n\n4. 复制得到的配置文件下载地址。"
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "你的 ID：soundcloud.com/［你的ID］"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "从三点菜单导入或导出订阅"
+    },
+    {
+      "name": "import_subscriptions_summary",
+      "value": "从之前的 .json 导出文件导入订阅"
+    },
+    {
+      "name": "import_subscriptions_title",
+      "value": "导入订阅"
+    },
+    {
+      "name": "import_title",
+      "value": "导入"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "从 Google takeout 导入 YouTube 订阅：\n\n\n\n1. 打开这个网址：%1$s\n\n2. 登录谷歌账号\n\n3. 单击“包含所有数据”，然后单击“取消全选”，然后仅选择“订阅”并单击“确定”\n\n4. 点击“下一步”，然后点击“创建导出作业”\n\n5. 出现“下载”按钮后点击它\n\n6. 单击下面的导入文件并选择下载的 .zip 文件\n\n7.（如果 .zip 导入失败）解压 .csv文件（通常在“YouTube和YouTube Music/subscriptions/subscriptions.csv”下），点击下方的导入文件，选择解压出来的 csv 文件"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ 部视频"
+    },
+    {
+      "name": "info_labels",
+      "value": "详情：\n请求：\n内容语言：\n内容国家：\n客户端语言：\n服务：\nGMT时间：\n包名：\n版本：\n操作系统版本："
+    },
+    {
+      "name": "install",
+      "value": "安装"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "没有该文件夹"
+    },
+    {
+      "name": "invalid_file",
+      "value": "文件不存在，或缺少读写文件权限"
+    },
+    {
+      "name": "invalid_source",
+      "value": "无相似文件/内容源"
+    },
+    {
+      "name": "just_once",
+      "value": "仅一次"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "详情"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "2025 年 8 月，Google 宣布自 2026 年 9 月起，在已认证设备上安装所有安卓应用都需要开发者验证身份，包括在 Play 商店之外安装的应用。由于 NewPipe 开发者反对此要求，NewPipe 在此时间点后不会再在已认证设备上工作。"
+    },
+    {
+      "name": "kao_solution",
+      "value": "解决方案"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Kiosk 页面"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "未找到 Kore。是否安装 Kore？"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary 不可用"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "选择播放器屏幕左半边手势"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "左半边手势动作"
+    },
+    {
+      "name": "license",
+      "value": "由%1$s制作，在%2$s协议下发行"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "浅色"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "无限制"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "使用移动数据播放时降低分辨率"
+    },
+    {
+      "name": "list",
+      "value": "列表"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "列表视图模式"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "正在加载元数据…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "正在加载串流详情…"
+    },
+    {
+      "name": "local",
+      "value": "本地"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "本地搜索建议"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "低品质（较小）"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "点击放大镜图标即可开始使用。"
+    },
+    {
+      "name": "main_page_content",
+      "value": "主页面的显示内容"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "自定义主页显示的标签页"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "滑动即可删除项目"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "将主标签页选择器移到底部"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "主标签页位置"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "手动检查新版本"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "标记为已观看"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "取消下载前的最多重试次数"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "最大重试次数"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "年龄限制"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "头像"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "横幅"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "清空元数据缓存成功"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "清空已缓存的网页数据"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "清空已缓存的元数据"
+    },
+    {
+      "name": "metadata_category",
+      "value": "类别"
+    },
+    {
+      "name": "metadata_host",
+      "value": "所在服务器"
+    },
+    {
+      "name": "metadata_language",
+      "value": "语言"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "许可"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "私密性"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "内部"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "私享"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "公开"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "未分类"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "子频道头像"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "订阅者"
+    },
+    {
+      "name": "metadata_support",
+      "value": "支持"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "标签"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "缩略图"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "上传者头像"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud 已停止发布原创 Top 50 榜单。相应的标签页已从你的主页移除。"
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "移除了 SoundCloud Top 50 页面"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "自 2025.7.21 起， Youtube 下线了合并的“时下流行”标签页。Newpipe 用“时下流行”的直播替代了默认的“时下流行”页。\n\n你也可以在 “设置 > 内容> 主页内容”中选择不同的“时下流行”页。"
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "移除了 Youtube 合并的“时下流行”标签页"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "最小化至后台播放"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "无"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "最小化至悬浮窗播放"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "从主播放器切换到其他应用时的操作 — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "退出应用时最小化"
+    },
+    {
+      "name": "missing_file",
+      "value": "文件已被移动或被删除"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "已完成"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "等待中"
+    },
+    {
+      "name": "more_options",
+      "value": "更多选项"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ 部视频"
+    },
+    {
+      "name": "most_liked",
+      "value": "最受欢迎"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "正在计算哈希值"
+    },
+    {
+      "name": "msg_copied",
+      "value": "已复制到剪贴板"
+    },
+    {
+      "name": "msg_error",
+      "value": "错误"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "无法复制到剪贴板"
+    },
+    {
+      "name": "msg_name",
+      "value": "文件名"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "使用悬浮窗模式\n\n需要该权限"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe 正在下载"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "点击了解详情"
+    },
+    {
+      "name": "msg_threads",
+      "value": "线程数"
+    },
+    {
+      "name": "msg_wait",
+      "value": "请稍候…"
+    },
+    {
+      "name": "mute",
+      "value": "静音"
+    },
+    {
+      "name": "name",
+      "value": "名称"
+    },
+    {
+      "name": "navigate_back",
+      "value": "返回"
+    },
+    {
+      "name": "network_error",
+      "value": "网络错误"
+    },
+    {
+      "name": "never",
+      "value": "从不"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "最新与热门"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "由于 AVPlayer 的限制，寻址间隔置为 %d 秒"
+    },
+    {
+      "name": "next_stream",
+      "value": "下一条串流"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "只有在主题中选择了 %s 该选项才可用"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "选择你最喜欢的夜间主题 — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "夜间主题"
+    },
+    {
+      "name": "no",
+      "value": "否"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "设备上没有应用可以打开"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "找不到适合此操作的文件管理器。\n\n请安装一文件管理器或尝试在下载设置中禁用“%s”"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "找不到适合此操作的文件管理器。\n\n请安装兼容存储访问框架(SAF)的文件管理器"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "没有音频流可用于外部播放器"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "请稍后在设置中设定下载目录"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "尚未订阅频道"
+    },
+    {
+      "name": "no_comments",
+      "value": "没有评论"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "尚未设置下载文件夹，现在选择默认下载文件夹"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "尚未创建订阅源组"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "无直播"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "没有人在听"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "没有人在观看"
+    },
+    {
+      "name": "no_player_found",
+      "value": "找不到串流播放器。是否安装 VLC？"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "找不到串流播放器（您可以安装 VLC 以播放串流）。"
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "尚无收藏"
+    },
+    {
+      "name": "no_streams",
+      "value": "无音视频流"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "没有可下载的串流"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "无人订阅"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "没有有效的 ZIP 文件"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "没有视频流可用于外部播放器"
+    },
+    {
+      "name": "no_videos",
+      "value": "无视频"
+    },
+    {
+      "name": "no_views",
+      "value": "无人观看过"
+    },
+    {
+      "name": "none",
+      "value": "无"
+    },
+    {
+      "name": "not_available",
+      "value": "不可用"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "第一操作按钮"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "第二操作按钮"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "第三操作按钮"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "第四操作按钮"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "第五操作按钮"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "正在缓冲"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "无"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "单曲循环"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "随机播放"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "最多可以选择三个操作显示在紧凑通知中！"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "轻按下面的每一个通知操作进行编辑。使用右方的复选框选择在紧凑通知中显示的操作，最多可以选择三个。"
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "轻按下方的每个通知操作进行编辑。头三个动作（播放/暂停、上一个和下一个）是系统设置的，不能自定义。"
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "NewPipe 播放器的通知"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe 通知"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "让 Android 系统根据视频缩略图的主色彩给通知着色（注意，该特性仅在部分设备上可用）"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "自动着色通知"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "将通知中视频缩略图的长宽比从 16:9 裁剪到 1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "裁剪缩略图至 1:1 比例"
+    },
+    {
+      "name": "notifications",
+      "value": "通知"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "通知已被禁用"
+    },
+    {
+      "name": "off",
+      "value": "关闭"
+    },
+    {
+      "name": "ok",
+      "value": "确定"
+    },
+    {
+      "name": "on",
+      "value": "开启"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "已删除一个项目。"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "在浏览器中打开"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "在悬浮窗中打开"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "打开播放队列"
+    },
+    {
+      "name": "open_website_license",
+      "value": "打开网站"
+    },
+    {
+      "name": "open_with",
+      "value": "打开方式"
+    },
+    {
+      "name": "override_current_data",
+      "value": "此操作会覆盖当前设置。"
+    },
+    {
+      "name": "overwrite",
+      "value": "覆盖"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "无法覆盖文件"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "同名的已下载文件已经存在"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "同名文件已存在"
+    },
+    {
+      "name": "paid_content",
+      "value": "此内容仅对已付费的用户可用，因此 NewPipe 无法流式传输或下载该内容。"
+    },
+    {
+      "name": "parsing_error",
+      "value": "无法解析网址"
+    },
+    {
+      "name": "pause",
+      "value": "暂停"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "暂停下载"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "切换到按流量计费的网络后中断下载"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "切换至移动数据时可能有用，虽然部分下载无法被暂停"
+    },
+    {
+      "name": "paused",
+      "value": "已暂停"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "该服务器已存在"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "无法验证服务器"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "输入服务器网址（URL）"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "仅支持 HTTPS URL"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "添加服务器"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "查找你需要的服务器 %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "设置自定义 PeerTube 服务器"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube 服务器"
+    },
+    {
+      "name": "percent",
+      "value": "百分比"
+    },
+    {
+      "name": "permission_denied",
+      "value": "操作已被系统拒绝"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "授予在其他应用上层显示的权限"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "要使用弹窗播放器，请在接下来的安卓设置中选择 %1$s 并开启 %2$s。"
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "“允许显示在其他应用上方”"
+    },
+    {
+      "name": "play",
+      "value": "播放"
+    },
+    {
+      "name": "play_all",
+      "value": "播放全部"
+    },
+    {
+      "name": "play_audio",
+      "value": "音频"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "音频设置"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "音频：%s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "移除"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "详情"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "使用 Kodi 播放"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "音调"
+    },
+    {
+      "name": "playback_reset",
+      "value": "重置"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "播放速度控制"
+    },
+    {
+      "name": "playback_step",
+      "value": "比例调整"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "节奏"
+    },
+    {
+      "name": "player_http_403",
+      "value": "播放时从服务器收到 HTTP 403 错误，可能因串流 URL 过期或 IP 封锁导致"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "播放时从服务器收到 HTTP %1$s 错误"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "播放器错误 自动恢复"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "无法播放此串流"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "发生无法处理的播放器错误"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "加入播放列表成功"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "重复添加了 %d 次"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "新建播放列表成功"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "自动生成的（找不到上传者）"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "播放列表页"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "播放列表封面已更改。"
+    },
+    {
+      "name": "playlists",
+      "value": "播放列表"
+    },
+    {
+      "name": "popup_player",
+      "value": "悬浮窗播放器"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "在悬浮窗中播放"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "记住上一次使用悬浮窗的大小和位置"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "记住悬浮窗属性（大小与位置）"
+    },
+    {
+      "name": "post_processing",
+      "value": "处理中"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "如果可用，为视障人群选择带描述的音轨"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "偏好描述性音频"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "不管何种语言都选择原始音轨"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "偏好原始音频"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "打开内容时的默认操作 — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "首选“打开”操作"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "正在加载请求的内容"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "正在获取信息…"
+    },
+    {
+      "name": "previous_export",
+      "value": "先前的导出"
+    },
+    {
+      "name": "previous_stream",
+      "value": "上一条串流"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "NewPipe 项目非常重视您的隐私。因此，未经您的同意，应用程序不会收集任何数据。\n\nNewPipe 的隐私政策详细解释了发送崩溃报告时会发送和存储的数据。"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "NewPipe 隐私政策"
+    },
+    {
+      "name": "private_content",
+      "value": "此内容是私有的，因此 NewPipe 无法流式传输或下载该内容。"
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "处理中…可能需要一些时间"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer 默认"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "更改渐进式内容的加载间隔大小（当前为 %s）。较低的值可加快初始加载"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "播放加载间隔大小"
+    },
+    {
+      "name": "question_mark",
+      "value": "？"
+    },
+    {
+      "name": "queued",
+      "value": "已加入队列"
+    },
+    {
+      "name": "radio",
+      "value": "电台"
+    },
+    {
+      "name": "read_full_license",
+      "value": "阅读许可证"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "阅读隐私政策"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA cookie 已被清空"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "已请求新的 reCAPTCHA 验证"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "处理"
+    },
+    {
+      "name": "recent",
+      "value": "最近"
+    },
+    {
+      "name": "recently_added",
+      "value": "最近添加"
+    },
+    {
+      "name": "recovering",
+      "value": "正在恢复"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "相关视频"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "远程搜索建议"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "删除重复"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "你想删除这个播放列表中所有重复项吗？"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "删除重复吗？"
+    },
+    {
+      "name": "remove_watched",
+      "value": "移除看过的视频"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "是的，包括没看完的视频"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "移除看过的视频？"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "已经看过且在之后被加入播放列表的视频将被删除。 \n您确定吗？"
+    },
+    {
+      "name": "rename",
+      "value": "重命名"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "重命名"
+    },
+    {
+      "name": "replay",
+      "value": "重放"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "重置所有设置会取消你所有的偏好设置并重启应用。\n\n\n\n你确定想要继续吗？"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "将所有设置重置为默认值"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "重置设置"
+    },
+    {
+      "name": "resize_fill",
+      "value": "填充屏幕"
+    },
+    {
+      "name": "resize_fit",
+      "value": "适应屏幕"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "缩放画面"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "恢复默认"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "是否恢复默认值？"
+    },
+    {
+      "name": "restricted_video",
+      "value": "该视频有年龄限制!\n\n\n\n如果您想要观看，请在设置中启用“%1$s”。"
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "这个视频有年龄限制。\n\n由于 YouTube 针对此类视频的新政策，NewPipe 无法访问其任何视频流，因此无法播放该视频。"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "在播放被打断（例如突然来电）后恢复播放"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "自动恢复播放"
+    },
+    {
+      "name": "retry",
+      "value": "重试"
+    },
+    {
+      "name": "rewind",
+      "value": "后退"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "选择播放器屏幕右半边手势"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "右半边手势动作"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "读取已保存标签时发生错误，因此使用默认标签"
+    },
+    {
+      "name": "search",
+      "value": "搜索"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "搜索历史已删除"
+    },
+    {
+      "name": "search_no_results",
+      "value": "没有结果"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "显示结果：%s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "搜索%1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "搜索 %1$s （%2$s）"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "快进 / 快退的寻址定位时间间隔"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "进度条缩略图预览"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "选择一个频道"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "选择一个订阅源组"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "选择一个时下流行页"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "选择播放列表"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "选择外部播放器音轨"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "在此选择您最喜欢的夜间主题"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "选择外部播放器画质"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "外部播放器不支持所选串流"
+    },
+    {
+      "name": "semitone",
+      "value": "半音"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "设为播放列表封面"
+    },
+    {
+      "name": "settings",
+      "value": "设置"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "外观"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "备份和恢复"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "清空数据"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "调试"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "下载"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "管理一些 AVPlayer 设置。这些更改需要重启播放器才能生效"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "AVPlayer 设置"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "订阅"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "历史记录和缓存"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "行为"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "配置当前正在播放的串流的通知"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "播放器通知"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "播放器"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "更新"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "音视频"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "文件名中允许的字符"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "无效字符将会被替换为该字符"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "替换字符"
+    },
+    {
+      "name": "share",
+      "value": "分享"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "分享给"
+    },
+    {
+      "name": "share_playlist",
+      "value": "分享播放列表"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "分享为 YouTube 临时播放列表"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "只包含视频网址"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "分享时带视频标题"
+    },
+    {
+      "name": "short_billion",
+      "value": "%s十亿"
+    },
+    {
+      "name": "short_million",
+      "value": "%s百万"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%s千"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "展示有年龄限制的、可能不适合儿童观看的内容（比如 18+）"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "显示年龄限制的内容"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "显示频道详情"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "频道标签页"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "展示在频道页面上的标签页"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "是否隐藏评论"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "显示评论"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "在使用播放器时显示一个崩溃选项"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "显示\"使播放器崩溃\""
+    },
+    {
+      "name": "show_description_summary",
+      "value": "显示视频描述和其他信息"
+    },
+    {
+      "name": "show_description_title",
+      "value": "显示简介"
+    },
+    {
+      "name": "show_error",
+      "value": "显示错误"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "显示错误警示SnackBar"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "仅部分设备支持播放 2K 或 4K 视频"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "使用更高的分辨率"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "在视频详情页中，按下后台播放或悬浮窗播放按钮时显示提示"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "显示“长按加入播放队列”提示"
+    },
+    {
+      "name": "show_info",
+      "value": "显示信息"
+    },
+    {
+      "name": "show_less",
+      "value": "显示较少"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "显示内存泄漏"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "关闭以隐藏包含有关流创建者、流内容或搜索请求的附加信息的元信息框"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "显示元数据信息"
+    },
+    {
+      "name": "show_more",
+      "value": "显示较多"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "显示“接下来”和“相似视频”"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "来自服务的原始文本将在串流项目中可见"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "在项目上显示原始时间"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "显示“通过 Kodi 媒体中心播放视频”选项"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "显示“使用 Kodi 播放”选项"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "选择搜索时显示的建议"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "显示搜索建议"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "锁屏背景和通知中使用缩略图"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "显示缩略图"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s 拒绝提供数据， 要求登录确认请求方不是机器人。\n\n你的 IP 可能已经暂时被 %1$s 封禁，你可以等待一段时间或切换到不同 IP （比如开/关 VPN, 或者从 WiFi 连接切换到移动数据）。\n\n请见 <a href=\"%2$s\">此 FAQ条目</a> 获取更多信息。"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "静音时快进"
+    },
+    {
+      "name": "songs",
+      "value": "歌曲"
+    },
+    {
+      "name": "sorry_string",
+      "value": "抱歉, 这本不该发生。"
+    },
+    {
+      "name": "sort",
+      "value": "排序"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "这是 SoundCloud Go +曲目，至少在你所在的国家/地区是这样，因此 NewPipe 无法流式传输或下载它。"
+    },
+    {
+      "name": "start",
+      "value": "开始"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "为了遵守欧盟的《通用数据保护条例 (GDPR)》，我们特此提醒您注意 NewPipe 的隐私政策，请您仔细阅读。\n\n您必须在同意以后才能向我们发送错误报告。"
+    },
+    {
+      "name": "start_downloads",
+      "value": "开始下载"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "开始后台播放"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "开始在悬浮窗中播放"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "若自动旋转被锁定，不在以小窗播放器形式中播放视频，而直接切换到全屏模式。仍可以通过退出全屏以切换至小窗播放器"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "以全屏启动主播放器"
+    },
+    {
+      "name": "stop",
+      "value": "停止"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "不显示下载器尚不支持的串流"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "被订阅的新串流的通知"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "新的串流"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "检查频率"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "所需的网络连接"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "订阅"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "已订阅"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "无法得知订阅人数"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "无法修改订阅"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "无法更新订阅"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "无法导出订阅"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "无法导入订阅"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "完成后请点击“完成”"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "切换到后台播放"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "切换到主页面"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "切换到悬浮窗播放"
+    },
+    {
+      "name": "systems_language",
+      "value": "系统默认"
+    },
+    {
+      "name": "tab_about",
+      "value": "关于和常见问题"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "收藏"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "播放列表"
+    },
+    {
+      "name": "tab_choose",
+      "value": "选择标签"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "许可证"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "订阅"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "平板模式"
+    },
+    {
+      "name": "theme_title",
+      "value": "主题"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "清空图像缓存成功"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "关于 NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "历史记录"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "播放队列"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA 验证"
+    },
+    {
+      "name": "title_last_played",
+      "value": "最近观看"
+    },
+    {
+      "name": "title_licenses",
+      "value": "第三方许可"
+    },
+    {
+      "name": "title_most_played",
+      "value": "最多观看"
+    },
+    {
+      "name": "toggle_all",
+      "value": "全选"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "切换全屏"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "切换全屏方向"
+    },
+    {
+      "name": "top_50",
+      "value": "前 50"
+    },
+    {
+      "name": "tracks",
+      "value": "曲目"
+    },
+    {
+      "name": "trending",
+      "value": "时下流行"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "“时下流行”的游戏视频"
+    },
+    {
+      "name": "trending_movies",
+      "value": "“时下流行”的电影和娱乐节目"
+    },
+    {
+      "name": "trending_music",
+      "value": "“时下流行”的音乐"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "“时下流行”的播客"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "删除收藏"
+    },
+    {
+      "name": "undo",
+      "value": "撤销"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "解除音视挂钩（可能导致失真）"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "未知"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[未知]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "未知格式"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "未知画质"
+    },
+    {
+      "name": "unmute",
+      "value": "取消静音"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "取消设置永久缩略图"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "取消订阅"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "此内容对当前选中的内容地区不可用。\n\n要更改选择，请前往 “设置 > 内容 > 默认内容地区”。"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "不支持的 URL"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "无法识别此 URL。是否用其他应用打开?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "有新版本时，显示通知提示更新应用"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "更新"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "发布于 %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "如遇解码器初始化方面的问题可开启此选项。启用后，如主解码器初始化失败，ExoPlayer 将使用较低优先级的解码器进行播放。请注意，这可能导致播放性能下降"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "使用 AVPlayer 的编码器回退功能"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "使用外部音频播放器"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "部分分辨率下没有音频"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "使用外部视频播放器"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "快速寻址定位允许播放器以较低精确度为代价换取更快的寻址定位速度。此功能不适用于以 5、15 或 25 秒为隔的寻址定位"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "使用快速寻址（不精确）"
+    },
+    {
+      "name": "users",
+      "value": "用户"
+    },
+    {
+      "name": "video",
+      "value": "视频"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "由 %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "视频播放器"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "未找到视频串流"
+    },
+    {
+      "name": "videos_string",
+      "value": "视频"
+    },
+    {
+      "name": "view_on_github",
+      "value": "在 GitHub 上查看"
+    },
+    {
+      "name": "volume",
+      "value": "音量"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "播放历史已删除"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "已删除播放痕迹历史"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "请访问 NewPipe 网站以了解更多信息和新闻。"
+    },
+    {
+      "name": "website_title",
+      "value": "官网"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "信息："
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "发生了什么："
+    },
+    {
+      "name": "wifi_only",
+      "value": "仅在 Wi-Fi 下"
+    },
+    {
+      "name": "yes",
+      "value": "是"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "你刚刚订阅了此频道"
+    },
+    {
+      "name": "your_comment",
+      "value": "您的附加说明（请用英文）："
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "该视频仅供 YouTube Music Premium 会员使用，NewPipe 无法流式传输或下载该视频。"
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "播放时从服务器收到 HTTP 403 错误，可能因 IP 封锁或串流 URL 解密问题导致"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube提供了“受限模式”，可以隐藏潜在的成人内容"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "启用 YouTube“受限模式”"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

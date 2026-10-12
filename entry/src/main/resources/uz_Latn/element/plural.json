@@ -1,0 +1,134 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d kun"
+        },
+        {
+          "quantity": "other",
+          "value": "%d kunlar"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d tanlangan"
+        },
+        {
+          "quantity": "other",
+          "value": "%d tanlanganlar"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d soat"
+        },
+        {
+          "quantity": "other",
+          "value": "%d soatlar"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s tinglovchi"
+        },
+        {
+          "quantity": "other",
+          "value": "%s tinglovchilar"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minut"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minutlar"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d sekond"
+        },
+        {
+          "quantity": "other",
+          "value": "%d sekondlar"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s bunachisi"
+        },
+        {
+          "quantity": "other",
+          "value": "%s obunachilar"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s video"
+        },
+        {
+          "quantity": "other",
+          "value": "%s videolar"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ko'rish"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ko'rishlar"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ko'ryapti"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ko'ryaptilar"
+        }
+      ]
+    }
+  ]
+}

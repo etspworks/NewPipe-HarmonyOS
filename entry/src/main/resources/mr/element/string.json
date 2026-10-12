@@ -1,0 +1,976 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "स्वीकार करा"
+    },
+    {
+      "name": "action_history",
+      "value": "इतिहास"
+    },
+    {
+      "name": "albums",
+      "value": "अल्बम"
+    },
+    {
+      "name": "all",
+      "value": "सर्व"
+    },
+    {
+      "name": "always",
+      "value": "दरवेळी"
+    },
+    {
+      "name": "artists",
+      "value": "कलाकार"
+    },
+    {
+      "name": "audio",
+      "value": "ऑडिओ"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "डब केलेला"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "मूळ"
+    },
+    {
+      "name": "auto",
+      "value": "स्वयं"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "स्वयं सूचीबद्ध करा"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "स्वयं सुरु करा"
+    },
+    {
+      "name": "best_resolution",
+      "value": "सर्वोत्तम क्वालिटी"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "काळा"
+    },
+    {
+      "name": "brightness",
+      "value": "उजेट"
+    },
+    {
+      "name": "cancel",
+      "value": "रद्द करा"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "स्वयंउत्तपण झालेले"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "कॅपशन"
+    },
+    {
+      "name": "card",
+      "value": "कार्ड"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "बद्दल"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "अल्बमस्"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "चॅनेलस्"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "थेट"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "प्लेलिस्ट"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "शॉर्ट्स"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "व्हिडिओज"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "चॅनलचे सबस्क्राईब काढले"
+    },
+    {
+      "name": "channels",
+      "value": "चॅनेल"
+    },
+    {
+      "name": "chapters",
+      "value": "धडे"
+    },
+    {
+      "name": "checksum",
+      "value": "चेकसम"
+    },
+    {
+      "name": "clear",
+      "value": "साफ करा"
+    },
+    {
+      "name": "close",
+      "value": "बंद करा"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "टिप्पण्या"
+    },
+    {
+      "name": "conferences",
+      "value": "परिषद"
+    },
+    {
+      "name": "content",
+      "value": "सामग्री"
+    },
+    {
+      "name": "content_not_available",
+      "value": "सामग्री उपलब्ध नाही"
+    },
+    {
+      "name": "contribution_title",
+      "value": "योगदान करा"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "मध्ये टाका"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "पार्श्वभाग"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "फाईल डाउनलोड"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "पॉप अप"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "प्लेअर क्रॅश करा"
+    },
+    {
+      "name": "create",
+      "value": "बनवा"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "गडद"
+    },
+    {
+      "name": "decline",
+      "value": "नकार करा"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "डिफॉल्ट पॉप अप रेसिल्युशन"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "डीफॉल्ट रेसोल्युशन निवडा"
+    },
+    {
+      "name": "delete",
+      "value": "हटवा"
+    },
+    {
+      "name": "description_tab_description",
+      "value": "वर्णन"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "आवडले नाही"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "आवडले"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "तुम्हाला \"%1$s\" म्हणायचे आहे का?"
+    },
+    {
+      "name": "disabled",
+      "value": "बंद झालेले"
+    },
+    {
+      "name": "dismiss",
+      "value": "रद्द करा"
+    },
+    {
+      "name": "donation_title",
+      "value": "दान करा"
+    },
+    {
+      "name": "done",
+      "value": "झाल"
+    },
+    {
+      "name": "download",
+      "value": "डाउनलोड"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "डाऊनलोड"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "ऑडिओ फाईल साठी डाउनलोड फोल्डर निवडा"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "डाउनलोड केलेल्या ऑडियो फाईल येथे साठवल्या जातात"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "ऑडिओ डाउनलोड फोल्डर"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "व्हिडिओ फाईल डाऊनलोड करण्याचे फोल्डर निवडा"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "डाउनलोड केलेल्या फाईल येथे साठवल्या जातात"
+    },
+    {
+      "name": "download_path_title",
+      "value": "व्हिडिओ डाउनलोड फोल्डर"
+    },
+    {
+      "name": "downloads",
+      "value": "डाऊनलोडस्"
+    },
+    {
+      "name": "duration",
+      "value": "वेळ"
+    },
+    {
+      "name": "duration_live",
+      "value": "थेट"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "शोधण्याचा इतिहास"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "इतिहास पाहा"
+    },
+    {
+      "name": "enqueue",
+      "value": "रांग"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "रांग"
+    },
+    {
+      "name": "enqueued",
+      "value": "रांगेत आहे"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_details_headline",
+      "value": "तपशील:"
+    },
+    {
+      "name": "error_report_title",
+      "value": "चुकांचा अहवाल द्या"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "अहवाल करा"
+    },
+    {
+      "name": "events",
+      "value": "कार्यक्रम"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "बाहेर काढा"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "बाहेर काढत आहोत…"
+    },
+    {
+      "name": "featured",
+      "value": "सर्वात भारी"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "नवीन"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "पुढील"
+    },
+    {
+      "name": "file",
+      "value": "फाईल"
+    },
+    {
+      "name": "file_deleted",
+      "value": "File हटवली आहे"
+    },
+    {
+      "name": "forward",
+      "value": "पुढेजा"
+    },
+    {
+      "name": "general_error",
+      "value": "त्रुटी"
+    },
+    {
+      "name": "grid",
+      "value": "ग्रिड"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "आत टाका"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "आत टाकत आहोत…"
+    },
+    {
+      "name": "import_title",
+      "value": "आत टाका"
+    },
+    {
+      "name": "install",
+      "value": "स्थापित करा"
+    },
+    {
+      "name": "just_once",
+      "value": "फक्त एकदा"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "गहाळ Kode ॲप इंस्टॉल करायचे?"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "पांढरा"
+    },
+    {
+      "name": "list",
+      "value": "यादी"
+    },
+    {
+      "name": "local",
+      "value": "स्थानिक"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "प्रारंभ करण्यासाठी मॅग्निफाइंग ग्लासवर टॅप करा."
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "पाहिले म्हणून चिन्हांकित करा"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "अवतार"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "बॅनर"
+    },
+    {
+      "name": "metadata_category",
+      "value": "श्रेणी"
+    },
+    {
+      "name": "metadata_host",
+      "value": "यजमान"
+    },
+    {
+      "name": "metadata_language",
+      "value": "भाषा"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "परवाना"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "गोपनीयता"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "आंतरिक"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "खासगी"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "सार्वजनिक"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "असूचीबद्ध केलेले"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "सदस्य"
+    },
+    {
+      "name": "metadata_support",
+      "value": "पाठींबा"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "टॅग्ज"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "थंबनेल"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "काहीही नाही"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "समाप्त झाले"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "प्रलंबित"
+    },
+    {
+      "name": "msg_error",
+      "value": "चुक झाली"
+    },
+    {
+      "name": "msg_name",
+      "value": "फाईल चे नाव"
+    },
+    {
+      "name": "msg_threads",
+      "value": "धागे"
+    },
+    {
+      "name": "mute",
+      "value": "गप्प करा"
+    },
+    {
+      "name": "name",
+      "value": "नाव"
+    },
+    {
+      "name": "network_error",
+      "value": "नेटवर्क बंद आहे"
+    },
+    {
+      "name": "never",
+      "value": "कधीही नाही"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "रात्रीची थीम"
+    },
+    {
+      "name": "no",
+      "value": "नाही"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "कोणीही पाहत नाही आहे"
+    },
+    {
+      "name": "no_player_found",
+      "value": "प्लेअर सापडले नाही. VLC प्लेअर इंस्टॉल करू इच्छिता का?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "प्लेअर सापडले नाही (तुम्ही VLC player वापरून फाईल चालवू शकता)."
+    },
+    {
+      "name": "none",
+      "value": "काही नाही"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "प्रथम क्रिया बटण"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "दुसरे क्रिया बटण"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "तिसरे क्रिया बटण"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "चौथे क्रिया बटण"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "पाचवे क्रिया बटण"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "अडकत आहे"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "काही नाहीं"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "पुन्हा पहा"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "शफल"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "नोटिफिकेशनला रंगीत करा"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "16:9 ते 1:1 आस्पेक्ट रेशो पर्यंत नोटिफिकेशनमध्ये दाखवलेली व्हिडिओ थंबनेल क्रॉप करा"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "1:1 आस्पेक्ट रेशोवर थंबनेल क्रॉप करा"
+    },
+    {
+      "name": "notifications",
+      "value": "सूचना"
+    },
+    {
+      "name": "off",
+      "value": "बंद"
+    },
+    {
+      "name": "ok",
+      "value": "ठीक आहे"
+    },
+    {
+      "name": "on",
+      "value": "सुरू"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "हा मेन्यू नमुना व्हिडिओ किंवा ऑडियो वेब ब्राउजर मध्ये चालवू शकतो"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "पॉप अप मोड मध्ये उघडा"
+    },
+    {
+      "name": "open_with",
+      "value": "याचा वापर करून उघडा"
+    },
+    {
+      "name": "overwrite",
+      "value": "आधी वर दबाव टाका"
+    },
+    {
+      "name": "pause",
+      "value": "थांबवा"
+    },
+    {
+      "name": "paused",
+      "value": "थांबलेला आहे"
+    },
+    {
+      "name": "percent",
+      "value": "टक्केवारी"
+    },
+    {
+      "name": "play",
+      "value": "सुरू"
+    },
+    {
+      "name": "play_all",
+      "value": "सर्व सुरु करा"
+    },
+    {
+      "name": "play_audio",
+      "value": "ऑडिओ"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "काढून टाका"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "माहिती"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "कोडी वापरून चालवा"
+    },
+    {
+      "name": "playback_reset",
+      "value": "रीसेट करा"
+    },
+    {
+      "name": "playback_step",
+      "value": "पाऊल"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "टेम्पो"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "सूचीबद्ध करा"
+    },
+    {
+      "name": "playlists",
+      "value": "प्लेलिस्ट"
+    },
+    {
+      "name": "post_processing",
+      "value": "पोस्ट प्रोसेसींग करत आहे"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "रांगेत आहे"
+    },
+    {
+      "name": "radio",
+      "value": "रेडिओ"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "सोडवा"
+    },
+    {
+      "name": "recent",
+      "value": "ताजा"
+    },
+    {
+      "name": "recovering",
+      "value": "रिकवर होत आहे"
+    },
+    {
+      "name": "rename",
+      "value": "नाव बदला"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "नाव बदला"
+    },
+    {
+      "name": "replay",
+      "value": "पुन: पहा"
+    },
+    {
+      "name": "resize_fill",
+      "value": "भरुन"
+    },
+    {
+      "name": "resize_fit",
+      "value": "फिट"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "झूम"
+    },
+    {
+      "name": "retry",
+      "value": "पुन्हा प्रयत्न करा"
+    },
+    {
+      "name": "rewind",
+      "value": "माघे घ्या"
+    },
+    {
+      "name": "search",
+      "value": "शोधा"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "%sसाठी निकाल दाखवत आहे"
+    },
+    {
+      "name": "semitone",
+      "value": "अर्धस्वर"
+    },
+    {
+      "name": "settings",
+      "value": "सेटिंग"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "दिखावा"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "डेटा साफ करा"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "डेबग"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "डाउनलोड करा"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "वागणूक"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "प्लेअर"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "अपडेट"
+    },
+    {
+      "name": "share",
+      "value": "शेअर"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "शेअर करा"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "प्रतिक्रिया दाखवा"
+    },
+    {
+      "name": "show_description_title",
+      "value": "वर्णन दाखवा"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "फक्त काही उपकरणे 2k/4k व्हिडिओ चालवू शकतात"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "वरचे रेसॉल्युशन दाखवा"
+    },
+    {
+      "name": "show_info",
+      "value": "माहिती दाखवा"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "कोडी मीडिया सेंटरद्वारे व्हिडिओ प्ले करण्याचा पर्याय प्रदर्शित करा"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "\"कोडीबरोबर प्ले करा\" हा पर्याय दाखवा"
+    },
+    {
+      "name": "songs",
+      "value": "गाणी"
+    },
+    {
+      "name": "sort",
+      "value": "क्रम"
+    },
+    {
+      "name": "start",
+      "value": "सुरुवात करा"
+    },
+    {
+      "name": "stop",
+      "value": "थांबवा"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "सबस्क्राईब"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "सबस्क्राईब केले"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "सबस्क्रिप्शन मध्ये बदल करू शकलो नाही"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "सबस्क्रिप्शन अद्यतनित करू शकले नाही"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "बुकमार्क केलेली प्लेलिस्ट"
+    },
+    {
+      "name": "tab_choose",
+      "value": "टॅब निवडा"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "परवाना"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "सबस्क्रिप्शन"
+    },
+    {
+      "name": "theme_title",
+      "value": "थीम"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "इतिहास"
+    },
+    {
+      "name": "tracks",
+      "value": "गाणी"
+    },
+    {
+      "name": "trending",
+      "value": "चर्चेचा विषय"
+    },
+    {
+      "name": "undo",
+      "value": "परत करा"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "अज्ञात"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[अनोळखी]"
+    },
+    {
+      "name": "unmute",
+      "value": "बोलके करा"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "सबस्क्राईब काढा"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "असमर्थित लिंक"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "अपडेट करा"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "%1$s रोजी प्रकाशित केला"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "बाहेरील ऑडियो प्लेअर वापरा"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "काही रेसॉल्युशनवर ऑडिओ काढून टाकते"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "बाहेरील व्हिडिओ प्लेअर वापरा"
+    },
+    {
+      "name": "users",
+      "value": "वापरकर्ते"
+    },
+    {
+      "name": "video",
+      "value": "व्हिडिओ"
+    },
+    {
+      "name": "videos_string",
+      "value": "व्हिडिओज"
+    },
+    {
+      "name": "volume",
+      "value": "आवाज"
+    },
+    {
+      "name": "website_title",
+      "value": "वेबसाईट"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "माहिती:"
+    },
+    {
+      "name": "yes",
+      "value": "होय"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

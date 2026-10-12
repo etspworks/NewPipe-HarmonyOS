@@ -1,0 +1,225 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d päev"
+        },
+        {
+          "quantity": "other",
+          "value": "%d päeva"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Kustutasin %1$s allalaadimise"
+        },
+        {
+          "quantity": "other",
+          "value": "Kustutasin %1$s allalaadimist"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Allalaadimine lõppes"
+        },
+        {
+          "quantity": "other",
+          "value": "%s allalaadimist lõppesid"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Eksportimisel on %d tellimus…"
+        },
+        {
+          "quantity": "other",
+          "value": "Eksportimisel on %d tellimust…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d valitud"
+        },
+        {
+          "quantity": "other",
+          "value": "%d valitud"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d tund"
+        },
+        {
+          "quantity": "other",
+          "value": "%d tundi"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Importimisel on %d tellimus…"
+        },
+        {
+          "quantity": "other",
+          "value": "Importimisel on %d tellimust…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s kuulaja"
+        },
+        {
+          "quantity": "other",
+          "value": "%s kuulajat"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Laadimisel on %d tellimus…"
+        },
+        {
+          "quantity": "other",
+          "value": "Laadimisel on %d tellimust…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minut"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minutit"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s uus meediavoog"
+        },
+        {
+          "quantity": "other",
+          "value": "%s uut meediavoogu"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s vastus"
+        },
+        {
+          "quantity": "other",
+          "value": "%s vastust"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d sekund"
+        },
+        {
+          "quantity": "other",
+          "value": "%d sekundit"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s tellija"
+        },
+        {
+          "quantity": "other",
+          "value": "%s tellijat"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s video"
+        },
+        {
+          "quantity": "other",
+          "value": "%s videot"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s vaatamine"
+        },
+        {
+          "quantity": "other",
+          "value": "%s vaatamist"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s vaataja"
+        },
+        {
+          "quantity": "other",
+          "value": "%s vaatajat"
+        }
+      ]
+    }
+  ]
+}

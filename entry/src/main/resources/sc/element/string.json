@@ -1,0 +1,2980 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Atzeto"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Contu serradu"
+    },
+    {
+      "name": "action_history",
+      "value": "Cronologia"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Annanghe a s'iscalita"
+    },
+    {
+      "name": "albums",
+      "value": "Albums"
+    },
+    {
+      "name": "all",
+      "value": "Totu"
+    },
+    {
+      "name": "always",
+      "value": "Semper"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Pedi semper"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Custa solutzione alternativa lìberat e torrat a istantziare sos codificadores de vìdeu cando acontesset unu càmbiu de superfìtzie, in càmbiu de impostare sa superfìtzie e su codificadore in manera direta. Giai impreada dae ExoPlayer in unos cantos dispositivos cun custu problema, custa impostatziones tenet un'efetu petzi in Android 6 e versiones prus noas.\n\n\n\nS'abilitatzione de custa optzione diat pòdere prevènnere faddinas de riprodutzione cando si càmbiat su riproduidore vìdeu atuale o si colat a s'ischermu intreu"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Imprea semper sa solutzione alternativa de s'impostatzione de superfìtzie de s'essida vìdeu de AVPlayer"
+    },
+    {
+      "name": "any_network",
+      "value": "Cale si siat retze"
+    },
+    {
+      "name": "app_description",
+      "value": "Riprodutzione lìbera e lèbia de trasmissiones (streaming) in HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Limba de s'aplicatzione"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe est unu programma lìberu cun litzèntzia copyleft: lu podes impreare, cumpartzire e megiorare comente cheres. Pro èssere prus craros, lu podes torrare a intregare in suta de sos tèrmines de sa Litzèntzia Generale Pùblica GNU publicada dae sa Free Software Foundation, sa versione 3 de sa litzèntzia o, si preferis, una prus noa."
+    },
+    {
+      "name": "app_license_title",
+      "value": "Litzèntzia de NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "S'apl./s'IU s'est serrada"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Toca pro iscarrigare %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "B'est un'agiornamentu de NewPipe disponìbile!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Notìficas pro sas versiones noas de NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Notìfica de agiornamentu de s'aplicatzione"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Ses impreende s'ùrtima versione de NewPipe"
+    },
+    {
+      "name": "artists",
+      "value": "Artista"
+    },
+    {
+      "name": "audio",
+      "value": "Àudio"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Peruna trasmissione àudio agatada"
+    },
+    {
+      "name": "audio_track",
+      "value": "Rasta àudio"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Una rasta àudio diat dèpere èssere giai presente in custu flussu"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "descritivu"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "dopiadu"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "originale"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "segundàriu"
+    },
+    {
+      "name": "auto",
+      "value": "Automàtica"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Automàticu (tema de su dispositivu)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Sighi a riproduire (chene ripetitziones) annanghende unu vìdeu correladu a sa lista"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Annanghe in automàticu su flussu imbeniente a sa lista"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Annanghidura automàtica a sa lista"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe podet chircare in automàticu versiones noas cada tantu e notificare·ti cando sunt a disponimentu.\n\nLu boles abilitare?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Incumintza cun sa riprodutzione automaticamente — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Riprodutzione automàtica"
+    },
+    {
+      "name": "background_player",
+      "value": "Riproduidore in s'isfundu"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Riproduende in s'isfundu"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Risolutzione mègius"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Nieddu"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Pàgina bòida"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Annanghe s'iscalita a sos preferidos"
+    },
+    {
+      "name": "brightness",
+      "value": "Luminosidade"
+    },
+    {
+      "name": "cancel",
+      "value": "Annulla"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Ingendradu automaticamente"
+    },
+    {
+      "name": "caption_none",
+      "value": "Perunu suta-titulu"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Muda sa mannària e sos istiles de isfundu de su testu de sos suta-tìtulos. Depes torrare a allùghere s'aplicatzione pro chi tèngiat efetu"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Suta-tìtulos"
+    },
+    {
+      "name": "card",
+      "value": "Carta"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Creadu dae %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Pàgina de su canale"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Informatziones"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Albums"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Canales"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Agradessimentos"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Diretas"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Iscalitas"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Curtzos"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Rastas"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Vìdeos"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Non ses prus iscritu a su canale"
+    },
+    {
+      "name": "channels",
+      "value": "Canales"
+    },
+    {
+      "name": "chapters",
+      "value": "Capìtulos"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Lìteras e tzifras"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Majoria de sos caràteres ispetziales"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Chirca agiornamentos"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Avia una verìfica pro flussos noos"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Controllende sos agiornamentos…"
+    },
+    {
+      "name": "checksum",
+      "value": "Summa de verìfica"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Issèbera un'istàntzia"
+    },
+    {
+      "name": "clear",
+      "value": "Isbòida"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Iscantzella sos testimòngios chi NewPipe sarvat cando risolves unu reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Isbòida sos testimòngios reCAPTCHA"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Isbòida sa cronologia de sos iscarrigamentos"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Iscantzella totu sas positziones de riprodutzione"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Iscantzella sas positziones de riprodutzione"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Sa lista dae su riproduidore ativu at a èssere remplasada"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Colende dae unu riproduidore a s'àteru dias pòdere remplasare sa lista tua"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Pedi una cunfirma in antis de iscantzellare una lista"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Iscantzella sa cronologia de sas paràulas chircadas"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Iscantzella sa cronologia de chirca"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Iscantzellat sa cronologia de sos cuntenutos riproduidos e sas positziones de riprodutzione"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Isbòida sa cronologia de sos pompiados"
+    },
+    {
+      "name": "close",
+      "value": "Serra"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Sos cummentos sunt disabilitados"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Cummentos"
+    },
+    {
+      "name": "conferences",
+      "value": "Cunferèntzias"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Cheres isboidare sa cronologia de sos iscarrigamentos tuos o iscantzellare totu sos documentos iscarrigados?"
+    },
+    {
+      "name": "content",
+      "value": "Cuntenutos"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Limba predefinida pro sos cuntenutos"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Cuntenutu no a disponimentu"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Custu cuntenutu no est galu suportadu dae NewPipe.\n\n\n\n Isperamus chi at a èssere suportadu in una versione benidora."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Si tenes ideas pro sa tradutzione, modìficas de su progetu, pro s'innetadura de su còdighe o pro modìficas de su còdighe mannas, s'agiudu est semper benebènnidu. Prus si faghet e mègius est!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Contribui"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Annanghe a"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Isfundu"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Iscàrriga su documentu de trasmissione"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Ventanedda"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Còpia su raportu formatadu"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s de %2$s cun litzèntzia %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Avisu: no est istadu possìbile importare totu sos documentos."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "No est istadu possìbile carrigare totu sas miniaduras"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Impostatzione de su menù de iscarrigamentu fallida"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Faghe serrare s'aplicatzione"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Faghe serrare su riproduidore"
+    },
+    {
+      "name": "create",
+      "value": "Crea"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Crea una notìfica de errore"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Iscalita noa"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Iscuru"
+    },
+    {
+      "name": "decline",
+      "value": "Refuda"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Formadu àudio predefinidu"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Istadu predefinidu pro sos cuntenutos"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Cuntenutos in evidèntzia predefinidos"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Risolutzione predefinida de sa ventanedda"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Risolutzione predefinida"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Formadu vìdeu predefinidu"
+    },
+    {
+      "name": "delete",
+      "value": "Iscantzella"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Iscantzella sos documentos iscarrigados"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Iscantzellare totu sos archìvios iscarrigados dae su discu?"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Cheres iscantzellare custu elementu dae sa cronologia de chirca?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Cheres iscantzellare totu sas positziones de riprodutzione?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Iscantzellare custa iscalita\\?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Cheres iscantzellare totu sa cronologia de sas chircas?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Cheres iscantzellare totu sa cronologia de sos pompiados?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Disabìlita s'ischerta de su testu in sa descritzione"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Abìlita s'ischerta de su testu in sa descritzione"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Como podes ischertare su testu in intro de sa descritzione. Ammenta·ti chi sa pàgina diat pòdere trèmere e sos ligàmenes si diant pòdere no abèrrere cando ses in modalidade de ischerta."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Descritzione"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Disagradessimentos"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Traga pro torrare a ordinare"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Su creadore b'at postu unu coro"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Agradessimentos"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Cummentu apicadu"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Miniadura de avatar de su canale"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Riprodui su vìdeu, longària:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Miniadura de s'avatar de su carrigadore"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Cherias nàrrere \"%1$s\"?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Sa tunnellizatzione multimediale est istada disabilitada comente cunfiguratzione predefinida ca su modellu de dispositivu tuo s'ischit chi non la suportat."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Disabìlita sa tunnellizatzione de sos elementos multimediales si durante sa riprodutzione bi sunt ischermadas nieddas o su flussu de su vìdeu no est regulare."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Disabìlita sa tunnellizatzione de sos mèdios"
+    },
+    {
+      "name": "disabled",
+      "value": "Disabilitadu"
+    },
+    {
+      "name": "dismiss",
+      "value": "Ignora"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe benit isvilupadu dae voluntàrios chi impreant su tempus lìberu issoro batende·ti sa mègius esperièntzia de impreadore. Torra·li su favore pro agiudare sos isvilupadores a megiorare NewPipe galu de prus, in su mentres chi si gosant una tzìchera de cafè."
+    },
+    {
+      "name": "donation_title",
+      "value": "Dona"
+    },
+    {
+      "name": "done",
+      "value": "Fatu"
+    },
+    {
+      "name": "dont_show",
+      "value": "No ammustres"
+    },
+    {
+      "name": "download",
+      "value": "Iscarriga"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "B'est un'iscarrigamentu in isetu cun custu nùmene"
+    },
+    {
+      "name": "download_already_running",
+      "value": "B'est un'iscarrigamentu in cursu cun custu nùmene"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Iscàrriga"
+    },
+    {
+      "name": "download_failed",
+      "value": "Iscarrigamentu fallidu"
+    },
+    {
+      "name": "download_has_started",
+      "value": "S'iscarrigamentu est incumintzadu"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Issèbera sa cartella de iscarrigamentu pro sos documentos àudio"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Sos documentos àudio iscarrigados benint sarvados inoghe"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Cartella de iscarrigamentu de s'àudio"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Issèbera sa cartella de iscarrigamentu pro sos documentos de sos vìdeos"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Sos documentos de sos vìdeos benint sarvados inoghe"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Cartella de iscarrigamentu de sos vìdeos"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Impossìbile iscarrigare in s'ischeda SD esterna. Cheres resetare sa positzione de sa cartella de iscarrigamentu?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Memòria esterna non disponìbile"
+    },
+    {
+      "name": "downloads",
+      "value": "Iscarrigamentos"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "T'at a bènnere pedidu in ue sarvare cada documentu.\n\nAbìlita s'ischertadore de cartellas de sistema (SAF) si cheres iscarrigare in un'ischeda SD esterna"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "T'at a bènnere pedidu in ue sarvare cada documentu"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Pedi in ue iscarrigare"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "Sa 'Storage Access Framework' (Istrutura de Atzessu a s'Archiviatzione) permitet sos iscarrigamentos in un'ischeda SD esterna"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Incumintzende dae Android 10 petzi sa 'Storage Access Framework' (Istrutura de Atzessu a s'Archiviatzione) est suportada"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Imprea s'ischertadore de cartellas de sistema (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Iscarrigamentos"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Serra su pannellu"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Allughe/istuda su servìtziu. Ischertadu como:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Aberi su pannellu"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Sas iscalitas in colore murru tenent giai custu elementu."
+    },
+    {
+      "name": "duration",
+      "value": "Longària"
+    },
+    {
+      "name": "duration_live",
+      "value": "In direta"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Non b'at nudda inoghe"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Fortzat sinnalatziones de etzetziones Rx non cunsinnàbiles in foras de su tziclu de bida de sos framnentos o de sas atividades a pustis de s'ismaltimentu"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Sinnala sos errores in foras de su tziclu de bida"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Sa compidada de sa pèrdida de memòria diat pòdere causare blocos de s'aplicatzione durante d'iscarrigamentu de sa memòria (heap dumping)"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Riprìstina s'ùrtima positzione de riprodutzione"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Sighi cun sa riprodutzione"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Ammustra sos indicadores de sa positzione de riprodutzione in sas listas"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Positziones in sas listas"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Lìmita s'elencu de iscarrigamentu"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "B'at a èssere petzi un'iscarrigamentu a sa borta"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Sarva sas chircas in locale"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Cronologia de sas chircas"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Notìfica de flussos noos dae sas iscritziones"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Notìficas pro sos flussos noos"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Sarva sa cronologia de sos elementos pompiados"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Cronologia de sos pompiados"
+    },
+    {
+      "name": "enqueue",
+      "value": "Pone in lista"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Pone in lista comente imbeniente"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Pone in lista"
+    },
+    {
+      "name": "enqueued",
+      "value": "Annànghidu a sa lista"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Postu in lista comente imbeniente"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Connessione a su serbidore impossìbile"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Detàllios:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Impossìbile recuperare custu iscarrigamentu"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Su documentu non podet èssere creadu"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Su serbidore no imbiat datos"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "No agatadu"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Custu serbidore no atzetat iscarrigamentos a filos mùltiplos, torra a proare cun @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Non b'at ispàtziu lìberu bastante in su dispositivu"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Perunu ispàtziu abarradu in su dispositivu"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "B'at àpidu un'errore: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Sa cartella de destinatzione non podet èssere creada"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Post-protzessamentu fallidu"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe est istadu serradu in su mentres chi fiat traballende a su documentu"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Su progressu s'est pèrdidu, ca su documentu est istadu iscantzelladu"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Sinnala cun sa posta eletrònica"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Notìficas pro sinnalare errores"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Notìfica de sinnalatzione de errores"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe at rilevadu un'errore, toca pro lu sinnalare"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "B'at àpidu un'errore, pòmpia sa notìfica"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Pro praghere verìfica si esistit giai una sinnalatzione chi chistionat de s'arrestu anòmalu tuo. Creende sinnalatziones dòpias nos pigas tempus chi diamus pòdere impreare pro acontzare su problema."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Sinnala in GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Sinnalatzione de errores"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Sinnala"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "A dolu mannu b'at àpidu carchi problema."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "No est istadu possìbile istabilire una connessione segura"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Connessione iscadida"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Carrigamentu de sos cummentos fallidu"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "No est istadu possìbile agatare su serbidore"
+    },
+    {
+      "name": "events",
+      "value": "Eventos"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Esportatzione acabada"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Esporta sa cronologia, sos abbonamentos, sas iscalitas e sas impostatziones"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Esporta sa base de datos"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Esportende…"
+    },
+    {
+      "name": "export_to",
+      "value": "Esporta in"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Sos riproduidores esternos non suportant custas castas de ligàmenes"
+    },
+    {
+      "name": "faq",
+      "value": "Pòmpia in su situ web"
+    },
+    {
+      "name": "faq_description",
+      "value": "Si ses tenende problemas impreende s'aplicatzione assegura·ti de consultare custas rispostas a preguntas fitianas!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Preguntas fitianas"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Modalidade lestra"
+    },
+    {
+      "name": "featured",
+      "value": "In evidèntzia"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Nou"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Recùpera sas ischedas de su canale"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Ischedas de recuperare cando agiornas sa fonte. Custa optzione non tenet efetu si unu canale benit agiornadu impreende sa modalidade lestra."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Cheres iscantzellare custu grupu?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Su nùmene de su grupu est bòidu"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Perunu abbonamentu ischertadu"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Ischerta sas iscritziones"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Pàgina de grupu de canales"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Ammustra petzi sas iscritziones no agrupadas"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Grupos de canales"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Ammustra sos flussos chi sighint"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Errore carrighende su flussu"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Carrigamentu de su flussu pro '%s' fallidu."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Su recùperu lestru de sos flussos non frunit àteras informatziones in subra de custu."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Su contu de s'autore l'ant serradu.\n\nNewPipe no at a èssere prus in gradu de carrigare custu flussu in su tempus benidore.\n\nCheres bogare s'iscritzione a custu canale?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Elementos noos de su flussu"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Carrighende sa fonte de cuntenutos…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Ùrtimu agiornamentu de sa fonte (feed): %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Protzessende sa fonte de cuntenutos…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Ammustra/Cua flussos"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Bidu in parte"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Luego"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Bidu de su totu"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Non carrigadas: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Agiorna semper"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Tempus chi depet colare a pustis de s'ùrtimu agiornamentu, in antis chi un'abbonamentu bèngiat cunsideradu tropu betzu — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Lìmite de agiornamentu de sa fonte de cuntenutos"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Disabìlita sa modalidade lestra"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Abìlita sa modalidade lestra"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Pensas chi su carrigamentu de sa fonte de cuntenutos (su feed) siat tropu lentu? Si est gasi, proa a abilitare su carrigamentu lestru (lu podes mudare in sas impostatziones o incarchende su butone inoghe in suta).\n\nNewPipe oferit duas istrategias de carrigamentu de sas fontes de cuntenutos:\n• Recuperende totu su canale de iscritzione, cosa chi est lenta ma prus cumprida.\n• Impreende unu puntu de essida de unu servìtziu dedicadu, cosa chi est lestra ma, de sòlitu, non cumprida.\n\nSa diferèntzia printzipale intre sas duas est su fatu chi cun sa lestra, de sòlitu, unas cantas informatziones mancant, che a sa longària de s'elementu o sa casta sua (non podet bìdere sa diferèntzia intre sos vìdeos indireta e sos chi sunt normales) diat pòdere frunire prus pagos elementos.\n\nYouTube est un'esèmpiu de unu servìtziu chi frunit custu mètodu lestru cun sa fonte de cuntenutos RSS sua.\n\nDuncas s'issèberu dipendet dae su chi preferis tue: sa lestresa o sas informatziones a sa minuda."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "A disponimentu in unos cantos servìtzios, de sòlitu est meda prus lestru ma diat pòdere frunire unu nùmeru limitadu de elementos e, fatu-fatu, informatziones no intreas (es. peruna longària, casta de elementu, indicadore de istadu in direta)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Recùperu dae una fonte de cuntenutos dedicada, cando est a disponimentu"
+    },
+    {
+      "name": "file",
+      "value": "Documentu"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Documentu iscantzelladu"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Su nùmene de su documentu non podet èssere bòidu"
+    },
+    {
+      "name": "forward",
+      "value": "A dae in antis"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Ite b'at de nou"
+    },
+    {
+      "name": "general_error",
+      "value": "Errore"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Ingendra unu nùmene ùnivocu"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Custu cuntenutu no est a disponimentu in su paisu tuo."
+    },
+    {
+      "name": "get_notified",
+      "value": "Retzi notìficas"
+    },
+    {
+      "name": "give_back",
+      "value": "Retribui"
+    },
+    {
+      "name": "grid",
+      "value": "Grìllia"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Notìficas pro su protzessu de hashàgiu de su vìdeu"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Notìfica de hash de su vìdeu"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Calidade arta (prus manna)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Mantene incarcadu pro pònnere in s'elencu"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Ùtile, a esempru, si ses impreende cùfias cun butones fìsicos segados"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Ignora eventos de sos butones multimediales fìsicos"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Calidade arta"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Calidade bassa"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Calidade mesana"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Non càrrighes immàgines"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Issèbera sa calidade de sas immàgines e si las carrigare, pro minimare s'impreu de datos e memòria. Sas modìficas isbòidant sa memòria temporànea de sas immàgines siat in sa memòria siat in su discu — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Calidade de s'immàgine"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Importatzione acabada"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Subraiscriet sa cronologia, sos abbonamentos, sas iscalita e (optzionalmente) sas impostatziones tuas atuales"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Importa sa base de datos"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Importa su documentu"
+    },
+    {
+      "name": "import_from",
+      "value": "Importa dae"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Ammenta·ti chi custa operatzione diat pòdere impreare meda sa retza tua.\n\n\n\n Cheres sighire?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Importende…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Cheres fintzas importare sas impostatziones?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Sas impostatziones in s'esportatzione chi benit importada impreant unu formadu vulneràbile chi est disusadu dae sa versione 0.27.0 de NewPipe. Assegura·ti chi s'esportatzione importada bèngiat dae una fonte fidada, e preferi a impreare petzi esportatziones otentas dae NewPipe 0.27.0 o prus nou, in su benidore. Su suportu a s'importatzione de impostatziones in custu formadu vulneràbile at a èssere luego bogadu de su totu, e dae cussu momentu sas versiones de NewPipe prus betzas no ant a èssere prus in gradu de importare impostatziones pro mèdiu de esportatziones de versiones prus noas."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Importa unu profilu de SoundCloud iscriende o s'URL o su còdighe identificativu (ID) tuo:\n\n\n\n 1. Abìlita sa modalidade \"pro elaboradores de iscrivania\" in unu navigadore web (custu situ no est a disponimentu pro dispositivos mòbiles)\n\n 2. Bae a custu URL: %1$s\n\n 3. Intra in su contu tuo cando ti lu benit pedidu\n\n 4. Còpia s'URL de su profilu a ue ses istadu mandadu."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "IDtuo, soundcloud.com/IDtuo"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Importa o esporta iscritziones dae su menù a 3 puntos"
+    },
+    {
+      "name": "import_title",
+      "value": "Importa"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Importa sas iscritziones dae Google takeout:\n\n\n\n1. Bae a custu URL: %1$s\n\n2. Intra cando ti l'ant a pedire\n\n3. Incarca in \"Totu sos datos incluidos\", a pustis in \"Boga sa seletzione a totus\" e a pustis galu ischerta petzi \"iscritziones\" e incarca \"AB\"\n\n4. Incarca in \"Passu imbeniente\" e a pustis in \"Crea un'esportatzione\"\n\n5. Cando aparit, incarca in su butone \"Iscarrigamentu\"\n\n6. Incarca in IMPORTA SU DOCUMENTU in suta e ischerta su documentu .zip iscarrigadu\n\n6. [Si s'importatzione fallit] Estrae su documentu .csv (de sòlitu tenet su nùmene\"\"YouTube and YouTube Music/subscriptions/subscriptions.csv\"), incarca in IMPORTA SU DOCUMENTU in suta e ischerta su documentu csv estratu"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ vìdeos"
+    },
+    {
+      "name": "info_labels",
+      "value": "Ite:\nRechesta:\nLimba de su cuntenutu\nIstadu de su cuntenutu:\nLimba de s'aplicatzione:\nServìtziu:\nOràriu GMT:\nPachete:\nVersione:\nVersione SO:"
+    },
+    {
+      "name": "install",
+      "value": "Installa"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Sa cartella no esistit"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Su documentu no esistit o mancat su permissu pro lèghere e pro b'iscrìere cosa"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Custa fonte de documentos o cuntenutos no esistit"
+    },
+    {
+      "name": "just_once",
+      "value": "Una borta ebbia"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Cuntenutos in evidèntzia personalizados"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Cheres installare s'aplicatzione Kore chi mancat?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary no est a disponimentu"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Issèbera unu gestu pro sa metade de manca de s'ischermu de su riproduidore"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Atzione de su gestu de manca"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Craru"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Perunu lìmite"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Lìmita sa risolutzione durante s'impreu de sos datos mòbiles"
+    },
+    {
+      "name": "list",
+      "value": "Lista"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Modalidade de vista de sa lista"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Carrighende sos metadatos…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Carrighende sos detàllios de su flussu…"
+    },
+    {
+      "name": "local",
+      "value": "Locale"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Impòsitos de chirca locales"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Calidade bassa (prus minore)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Toca sa lente de ismanniamentu pro incumintzare."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Cuntenutu de sa pàgina printzipale"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Ischedas benint ammustradas in sa pàgina printzipale"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Trìsina sos elementos pro los bogare"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Moe su seletzionadore de s'ischeda printzipale a fundu"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Positzione de sas ischedas printzipales"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Verìfica in manera manuale pro versiones noas"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Marca comente pompiadu"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Nùmeru màssimu de tentativos in antis chi s'annullet s'iscarrigamentu"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Tentativos màssimos"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Lìmite de edade"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Avatars"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Insignas"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Memòria temporànea de sos metadatos iscarrigada"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Boga totu sos datos de sa pàgina web in sa memòria temporànea"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Iscantzella sos metadatos in sa memòria temporànea"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Categoria"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Istrangiadore"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Limba"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Litzèntzia"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Riservadesa"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Internu"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Privadu"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Pùblicu"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "No elencadu"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Avatars de sos suta-canales"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Iscritos"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Suportu"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Etichetas"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Miniaduras"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Avatars de su carrigadore"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud at abbandonadu sos gràficos Top 50 originales. S'ischeda currispondente est istada bogada dae sa pàgina printzipale tua."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "Pàgina Top 50 de SoundCloud bogada"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube at abbandonadu sa pàgina de sas tendèntzias cumbinadas in su 21 de trìulas de su 2025. NewPipe at sostituidu sa pàgina de sas tendèntzias printzipales cun sas diretas de tendèntzia.\n\nPodes fintzas seletzionare pàginas de sas tendèntzias diferentes in \"Impostatziones > Cuntenutos > Cuntenutu de sa pàgina printzipale\"."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "Tendèntzias cumbinadas de YouTube bogadas"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Mìnima in s'isfundu"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Nudda"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Mìnima in su riproduidore a ventanedda"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Atzione cando colas a un'àtera aplicatzione dae su riproduidore de vìdeos printzipale — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Mìnima mudende aplicatzione"
+    },
+    {
+      "name": "missing_file",
+      "value": "Documentu iscostiadu o iscantzelladu"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Acabadu"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "In isetu"
+    },
+    {
+      "name": "more_options",
+      "value": "Prus optziones"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ vìdeos"
+    },
+    {
+      "name": "most_liked",
+      "value": "Prus agradèssidos"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Carculende s'hash"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Copiadu in punta de billete"
+    },
+    {
+      "name": "msg_error",
+      "value": "Errore"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Còpia in punta de billete fallida"
+    },
+    {
+      "name": "msg_name",
+      "value": "Nùmene de su documentu"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "B'at bisòngiu de custu permissu pro\n\nabèrrere sa modalidade ventanedda"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe est iscarrighende"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Toca pro detàllios"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Connessiones simultàneas"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Iseta…"
+    },
+    {
+      "name": "mute",
+      "value": "Pone a sa muda"
+    },
+    {
+      "name": "name",
+      "value": "Nùmene"
+    },
+    {
+      "name": "network_error",
+      "value": "Errore de retza"
+    },
+    {
+      "name": "never",
+      "value": "Mai"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Noos e Populares"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Pro more de sos lìmites de AVPlayer sa longària de s'iscostiamentu lestru est istada impostada a %d segundos"
+    },
+    {
+      "name": "next_stream",
+      "value": "Flussu imbeniente"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Custa optzione est a disponimentu petzi si %s est seletzionadu comente tema"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Ischerta su tema pro sa note preferidu tuo — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Tema pro sa note"
+    },
+    {
+      "name": "no",
+      "value": "Nono"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Peruna aplicatzione in su dispositivu tuo podet abèrrere custu"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "No est istadu agatadu perunu gestore de documentos pro custa atzione.\n\nPro praghere installa·nde unu o proa a inabilitare '%s' in sas impostatziones de iscarrigamentu"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "No est istadu agatadu perunu gestore de documentos pro custa atzione.\n\nPro praghere installa unu gestore de documentos cumpatìbile cun su \"Sistema de Atzessu a s'Archiviatzione\""
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Non b'est perunu flussu sonoru a disponimentu pro letores esternos"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Issèbera una cartella de iscarrigamentu prus a tardu in sas impostatziones"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Galu peruna iscritzione a sos canales"
+    },
+    {
+      "name": "no_comments",
+      "value": "Perunu cummentu"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Non b'at galu peruna cartella de iscarrigamentu impostada. Issèbera como sa cartella de iscarrigamentu predefinida"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Galu perunu grupu de flussos creadu"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Perunu flussu in direta"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Nemos est ascurtende"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Nemos est pompiende"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Perunu riproduidore de flussos agatadu. Cheres installare VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Perunu riproduidore de flussos agatadu (pro lu riproduire podes installare VLC)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Galu perunu sinnalibru de iscalitas"
+    },
+    {
+      "name": "no_streams",
+      "value": "Perunu flussu"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Perunu flussu a disponimentu pro s'iscarrigamentu"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Perunu iscritu"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Perunu documentu ZIP vàlidu"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Non bi sunt flussos de vìdeu a disponimentu pro letores esternos"
+    },
+    {
+      "name": "no_videos",
+      "value": "Perunu vìdeu"
+    },
+    {
+      "name": "no_views",
+      "value": "Peruna visualizatzione"
+    },
+    {
+      "name": "none",
+      "value": "Perunu"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Su de unu butone de atzione"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Su de duos butones de atzione"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Su de tres butones de atzione"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Su de bator butones de atzione"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Su de chimbe butones de atzione"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Carrighende"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Nudda"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Repite"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Òrdine casuale"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Podes ischertare a su màssimu tres atziones de ammustrare in sas notìficas cumpatas!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Modìfica cada atzione de notìfica inoghe in suta incarchende·la. Ischerta·nde finas a tres de ammustrare in sa notìfica cumpata impreende sas casellas de controllu a destra."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Modìfica cada atzione de notìfica inoghe in suta tochende·la. Sas primas tres atziones (riprodutzione/pàusa, antepostu e imbeniente) sunt impostadas dae su sistema e non si podent personalizare."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Notìficas pro su riproduidore de NewPipe"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "Notìficas de NewPipe"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Pedi a Android de personalizare su colore de sa notìfica sighende su colore printzipale de sa miniadura (ammenta·ti chi custu no est a disponimentu pro totu sos dispositivos)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Colora sas notìficas"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Sega sa miniadura ammustrada in sa notìfica dae su formadu in 16:9 a cussu 1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Sega sa miniadura in formadu 1:1"
+    },
+    {
+      "name": "notifications",
+      "value": "Notìficas"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Sas notìficas sunt disabilitadas"
+    },
+    {
+      "name": "off",
+      "value": "Istudadu"
+    },
+    {
+      "name": "ok",
+      "value": "AB"
+    },
+    {
+      "name": "on",
+      "value": "Allutu"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 elementu iscantzelladu."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Aberi in su navigadore web"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Aberi in sa modalidade a ventanedda"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Aberi sa lista de riprodutzione"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Aberi su situ web"
+    },
+    {
+      "name": "open_with",
+      "value": "Aberi cun"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Custu at a subraiscrìere sas impostatziones tuas de como."
+    },
+    {
+      "name": "overwrite",
+      "value": "Subraiscrie"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "impossìbile subraiscrìere su documentu"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "B'est giai unu documentu iscarrigadu cun custu nùmene"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "B'est giai unu documentu cun custu nùmene"
+    },
+    {
+      "name": "paid_content",
+      "value": "Custu vìdeu est a disponimentu petzi pro sos impreadores chi ant pagadu, e duncas non podet èssere riproduidu o iscarrigadu dae NewPipe."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Anàlisi de su situ web fallida"
+    },
+    {
+      "name": "pause",
+      "value": "Pàusa"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Pone in pàusa sos iscarrigamentos"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Firma cun sas connessiones a consumu"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Discansosu cando colas a sos datos mòbiles, fintzas si unoscantos iscarrigamentos non podent èssere postos in pàusa"
+    },
+    {
+      "name": "paused",
+      "value": "in pàusa"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "S'istàntzia esistit giai"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Impossìbile cunvalidare s'istàntzia"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Inserta s'URL de s'istàntzia"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Petzi sos URL HTTPS sunt suportados"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Annanghe un'istàntzia"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Agata sas istàntzias chi t'agradant in %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Ischerta sas istàntzias de PeerTube preferidas tuas"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "Istàntzias de PeerTube"
+    },
+    {
+      "name": "percent",
+      "value": "Pertzentuale"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Atzione vietada dae su sistema"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Fruni su permissu pro l'ammustrare in subra de àteras aplicatziones"
+    },
+    {
+      "name": "play",
+      "value": "Riprodue"
+    },
+    {
+      "name": "play_all",
+      "value": "Riprodui totu"
+    },
+    {
+      "name": "play_audio",
+      "value": "Àudio"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Impostatziones àudio"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Àudio: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Boga"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Detàllios"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Riprodui cun Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Tonu"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Reseta"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Controllos de sa lestresa de riprodutzione"
+    },
+    {
+      "name": "playback_step",
+      "value": "Passu"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Ritmu"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Riprìstinu a pustis de s'errore de su riproduidore"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Riprodutzione de custu flussu fallida"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "B'at àpidu un'errore de su riproduidore non recuperàbile"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Postu in s'iscalita"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Duplicadu annantu %d borta(s)"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Iscalita creada"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Ingendradu automaticamente (perunu carrigadore agatadu)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Pàgina de s'iscalita"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Miniadura de s'iscalita mudada."
+    },
+    {
+      "name": "playlists",
+      "value": "Iscalitas"
+    },
+    {
+      "name": "popup_player",
+      "value": "Riproduidore a ventanedda"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Riproduende in modalidade a ventanedda"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Ammenta s'ùrtima mannària e sa positzione in sa ventanedda"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Ammenta sas propriedades de sa ventanedda"
+    },
+    {
+      "name": "post_processing",
+      "value": "post-protzessamentu"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Seletziona una rasta àudio cun descritziones pro persones cun problemas de vista, si bi nd'at a disponimentu"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Preferi un'àudio descritivu"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Seletziona sa rasta sonora originale in manera indipendente dae sa limba"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Preferi s'àudio originale"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Atzione predefinida cando aberis unu cuntenutu — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Atzione de abertura predefinida"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Carrighende su cuntenutu pedidu"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Otenende informatziones…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Esportatzione anteposta"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Flussu antepostu"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "Su progetu NewPipe pigat sa riservadesa tua in manera sèria a beru. Pro custa resone s'aplicatzione non collit perunu datu chene su cunsensu tuo.\n\n Sa polìtica de riservadesa de NewPipe ispiegat a sa minuda ite genia de datos benint imbiados cando imbias unu raportu de errore."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Polìtica de riservadesa de NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "Custu cuntenutu est privadu, e duncas non podet èssere riproduidu o iscarrigadu dae NewPipe."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Protzessende… Bi diat pòdere chèrrere unu pagu de tempus"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "Valore AVPlayer predefinidu"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Modìfica sa mannària de s'intervallu de càrriga de cuntenutos consecutivos (como %s). Unu valore prus bassu diat pòdere allestrare su carrigamentu initziale issoro"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Mannària de s'intervallu de carrigamentu de sa riprodutzione"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "postu in lista"
+    },
+    {
+      "name": "radio",
+      "value": "Ràdiu"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Leghe sa litzèntzia"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Leghe sa polìtica de riservadesa"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "As isboidadu sos testimòngios reCAPTCHA"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "B'at bisòngiu de risòlvere unu reCAPTCHA"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Risolve"
+    },
+    {
+      "name": "recent",
+      "value": "Reghente"
+    },
+    {
+      "name": "recently_added",
+      "value": "Annànghidos dae pagu"
+    },
+    {
+      "name": "recovering",
+      "value": "recuperende"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Flussos ligados"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Impòsitos de chirca remota"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Boga sos duplicados"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Boles bogare totu sos flussos duplicados in custa iscalita?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Bogare sos duplicados?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Boga sos elementos pompiados"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Eja, e fintzas sos vìdeos pompiados in parte"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Bogare sos elementos pompiados?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Sos vìdeos pompiados in antis e a pustis de los àere annànghidos a s'iscalita ant a èssere bogados. \n Seguru ses? Custu no est reversìbile!"
+    },
+    {
+      "name": "rename",
+      "value": "Càmbia de nùmene"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Càmbia de nùmene"
+    },
+    {
+      "name": "replay",
+      "value": "Torra a reprodùere"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Resetende totu sas impostatziones as a iscartare totu sas impostatziones preferidas tuas e a torrare a allùghere s'aplicatzione.\n\n\n\nSes seguru de bòlere sighire?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Reseta totu sas impostatziones a sos valores predefinidos issoro"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Reseta sas impostatziones"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Prenu"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Adata"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Ismànnia"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Riprìstina sos predefinidos"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Cheres ripristinare sos valores predefinidos?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Custu vìdeu tenet unu lìmite de edade.\n\n\n\nAllughe \"%1$s\" in sas impostatziones si lu cheres pompiare."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Custu vìdeu tenet unu lìmite de edade.\n\nPro neghe de sas polìticas noas de YouTube in subra de sos vìdeos limitados pro edade, NewPipe non podet atzèdere a perunu flussu vìdeu de custa genia e duncas non los podet riproduire."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Sighi a riproduire a pustis de sas interrutziones (a es. una mutida)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Sighi a riproduire"
+    },
+    {
+      "name": "retry",
+      "value": "Torra a proare"
+    },
+    {
+      "name": "rewind",
+      "value": "Torra in segus"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Issèbera unu gestu pro sa metade de destra de s'ischermu de su riproduidore"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Atzione de su gestu de destra"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "No est istadu possìbile lèghere sas ischedas sarbadas. S'ant a impreare sas predefinidas"
+    },
+    {
+      "name": "search",
+      "value": "Chirca"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Cronologia de chirca iscantzellada"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Perunu resurtadu"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Ammustrende sos resurtados pro: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Chirca in %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Chirca %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Longària de s'avantzamentu e de sa torrada in segus lestros"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Antiprima in sa barra de avantzamentu"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Ischerta unu canale"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Seletziona unu grupu de flussos"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Ischerta una pàgina de cuntenutos in evidèntzia personalizados"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Ischerta un'iscalita"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Seletziona una rasta àudio pro riproduidores esternos"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Podes ischertare su tema pro sa note preferidu tuo inoghe in suta"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Seletziona sa calidade pro sos letores esternos"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Su flussu seletzionadu no est galu suportadu dae letores esternos"
+    },
+    {
+      "name": "semitone",
+      "value": "Semitonu"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Imposta che a miniadura de s'iscalita"
+    },
+    {
+      "name": "settings",
+      "value": "Impostatziones"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Aparèntzia"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Còpia de seguresa e riprìstinu"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Isbòida sos datos"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Depuratzione de errores"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Iscàrriga"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Manìgia unas cantas impostatziones de AVPlayer. Custas modìficas tenent bisòngiu de torrare a allùghere su riproduidore pro chi tèngiant efetu"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "Impostatziones pro AVPlayer"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Fonte de cuntenutos"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Cronologia e memòria temporànea"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Cumportamentu"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Cunfigura sa notìfica de su flussu in cursu de riprodutzione"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Notìfica de su riproduidore"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Riproduidore"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Agiornamentos"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Vìdeos e àudio"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Caràteres permìtidos in sos nùmenes de sos documentos"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Sos caràteres non vàlidos benint remplasados cun custu valore"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Caràtere de remplasamentu"
+    },
+    {
+      "name": "share",
+      "value": "Cumpartzi"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Cumpartzi cun"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Cumpartzi s'iscalita"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Cumpartzi comente un'iscalita temporànea de YouTube"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Cumpartzi una lista de URL"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Cumpartzi cun sos tìtulos"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Ammustra sos cuntenutos chi diant pòdere no èssere adatos pro sos pitzinnos ca tenent unu lìmite de edade (che a 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Ammustra sos cuntenutos limitados pro edade"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Ammustra sos detàllios de su canale"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Ischedas de su canale"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Ite ischedas benint ammustradas in sas pàginas de su canale"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Istuda pro cuare sos cummentos"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Ammustra sos cummentos"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Ammustra un'optzione pro fàghere serrare de repente su riproduidore cando l'impreas"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Ammustra \"faghe serrare su riproduidore\""
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Istuda pro cuare sa descritzione de su vìdeu e sas informatziones additzionales"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Ammustra sa descritzione"
+    },
+    {
+      "name": "show_error",
+      "value": "Ammustra s'errore"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Ammustra una barra de errore"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Petzi unos cantos dispositivos podent riproduire vìdeos in 2K/4K"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Ammustra sas risolutziones prus artas"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Ammustra un'impòsitu cando incarcas in su butone de isfundu o de sa ventanedda in sa pàgina de sos detàllios de unu vìdeu"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Ammustra s'impòsitu \"Mantene incarcadu pro pònnere in lista\""
+    },
+    {
+      "name": "show_info",
+      "value": "Ammustra sas informatziones"
+    },
+    {
+      "name": "show_less",
+      "value": "Mustra de mancu"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Ammustra sas pèrdidas de memòria"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Istuda·lu pro cuare sas iscatuleddas cun informatziones additzionales in subra de su creadore de su flussu, de su cuntenutu de su flussu o de una rechesta de chirca"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Ammustra informatziones meta"
+    },
+    {
+      "name": "show_more",
+      "value": "Mustra de prus"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Ammustra sos vìdeos imbenientes e simigiantes"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Su testu originale dae sos servìtzios at a èssere visìbile in sos elementos de flussu"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Ammustra sa data originale in sos elementos"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Ammustra un'optzione pro riproduire unu vìdeu pro mèdiu de su tentru multimediale Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Ammustra s'optzione \"Riprodui cun Kodi\""
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Issèbera sos consìgios de ammustrare in sas chircas"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Cussìgios de chirca"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Imprea sa miniatura siat comente isfundu de s'ischermada de blocu e siat in sas notìficas"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Ammustra sa miniatura"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Avantzamentu lestru durante su silèntziu"
+    },
+    {
+      "name": "songs",
+      "value": "Cantzones"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Iscusa, custu non diat dèpere èssere acontèssidu."
+    },
+    {
+      "name": "sort",
+      "value": "Òrdina"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Custa est una rasta SoundCloud Go+, a su mancu in su paisu tuo, e duncas non podet èssere riproduida o iscarrigada dae NewPipe."
+    },
+    {
+      "name": "start",
+      "value": "Incumintza"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Pro pòdere rispetare su Regulamentu Europeu Generale de Amparu de sos Datos (GDPR) ti pedimus de dare cara a sa polìtica de riservadesa de NewPipe.\n\n La depes atzetare pro nos pòdere imbiare sa sinnalatzione de errore."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Faghe incumintzare sos iscarrigamentos"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Incumintza a riproduire in s'isfundu"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Incumintza a riproduire in una ventanedda"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Si sa rotatzione automàtica est blocada no avies sos vìdeos in su riproduidore mini ma diretamente in sa modalidade a ischermu intreu. Podes atzèdere su matessi a su riproduidore mini essende dae s'ischermu intreu"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Allughe su letore printzipale a ischermu intreu"
+    },
+    {
+      "name": "stop",
+      "value": "Firma"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Sos flussos chi non sunt galu suportados dae s'iscarrigadore non sunt ammustrados"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Notìficas de flussos noos dae sas iscritziones"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Flussos noos"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Frecuèntzia de controllu"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Connessione de retze rechesta"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Iscrie·ti"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Iscritu"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Contadore de sos iscritos non disponìbile"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Mudadura de s'iscritzione fallida"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Agiornamentu de s'iscritzione fallidu"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Esportatzione de s'iscritzione fallida"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Importatzione de s'iscritzione fallida"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Incarca \"Fatu\" cando est risoltu"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Cola a s'isfundu"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Cola a sa modalidade printzipale"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Cola a sa ventanedda"
+    },
+    {
+      "name": "systems_language",
+      "value": "Predefinida de su sistema"
+    },
+    {
+      "name": "tab_about",
+      "value": "Informatziones e PF"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Iscalitas sarvadas"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Iscalitas"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Issèbera un'ischeda"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Litzèntzias"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Iscritziones"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Modalidade tauledda"
+    },
+    {
+      "name": "theme_title",
+      "value": "Tema"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Memòria temporànea de sas immàgines isboidada"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "In subra de NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Cronologia"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Lista de riprodutzione"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "Disafiu reCAPTCHA"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Ùrtima riprodutzione"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Litzèntzias de tertzas partes"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Prus riproduidos"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Ativa/disativa totu"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Allughe/istuda s'ischermu intreu"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Càmbia s'orientamentu de s'ischermu"
+    },
+    {
+      "name": "top_50",
+      "value": "Sos mègius 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Rastas"
+    },
+    {
+      "name": "trending",
+      "value": "Tendèntzias"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Giogos de tendèntzia"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Films e programmas de tendèntzia"
+    },
+    {
+      "name": "trending_music",
+      "value": "Mùsica de tendèntzia"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Podcasts de tendèntzia"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Boga su sinnalibru"
+    },
+    {
+      "name": "undo",
+      "value": "Annulla"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Iscollega (diat pòdere causare istorchimentos)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Disconnotu"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Disconnotu]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Formadu disconnotu"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Calidade disconnota"
+    },
+    {
+      "name": "unmute",
+      "value": "Allughe su sonu"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Disativa sa miniadura permanente"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Boga s'iscritzione"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "URL non suportadu"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Reconnoschimentu de s'URL fallidu. Lu cheres abèrrere cun un'àtera aplicatzione?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Ammustra una notìfica pro cussigiare un'agiornamentu de s'aplicatzione cando b'est una versione noa a disponimentu"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Agiornamentos"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Publicadu su %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Abìlita custa optzione si tenes problemas de initzializatzione de su decodificadore, chi colat a decodificadores a prioridade prus bassa si s'initzializatzione de sos decodificadores primàrios fallit. Custu diat pòdere causare unu rendimentu de riprodutzione bassu cunfronta a s'impreu de decodificadores primàrios"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Imprea sa funtzionalidade de riserva de su decodificadore de AVPlayer"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Imprea unu riproduidore àudio esternu"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Bogat s'àudio pro unas cantas risolutziones"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Imprea unu riproduidore de vìdeos esternu"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Su moimentu inesatu permitit a su riproduidore de si mòere cara a una positzione in manera prus lestra ma prus pagu pretzisa. Su de si mòere de 5, 15 o 25 segundos non funtzionat, cun custa optzione"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Imprea su moimentu inesatu lestru"
+    },
+    {
+      "name": "users",
+      "value": "Impreadores"
+    },
+    {
+      "name": "video",
+      "value": "Vìdeu"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "De %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Riproduidore de vìdeos"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Perunu flussu de vìdeu agatadu"
+    },
+    {
+      "name": "videos_string",
+      "value": "Vìdeos"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Pòmpia in GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "Volume"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Cronologia de sos pompiados iscantzellada"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Positziones de riprodutzione iscantzelladas"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Bìsita su situ web de NewPipe pro àteras informatziones e noas."
+    },
+    {
+      "name": "website_title",
+      "value": "Situ web"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Informatziones:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Ite est acontèssidu:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Cun su Wi-Fi ebbia"
+    },
+    {
+      "name": "yes",
+      "value": "Eja"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Como ses iscritu a custu canale"
+    },
+    {
+      "name": "your_comment",
+      "value": "Su cummentu tuo (in inglesu):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Custu vìdeu est a disponimentu petzi pro sos membros de YouTube Music Premium, e duncas non podet èssere riproduidu o iscarrigadu dae NewPipe."
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube frunit una \"Modalidade cun restritziones\" chi cuat sos cuntenudos chi diant pòdere èssere pro adultos"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Allughe sa modalidade cun restritziones de YouTube"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

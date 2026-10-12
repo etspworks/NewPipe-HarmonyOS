@@ -1,0 +1,3072 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Chấp nhận"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Tài khoản đã bị chấm dứt"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Tài khoản bị vô hiệu hóa. \n\n%1$s cung cấp lý do này: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "Lịch sử"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Thêm vào danh sách phát"
+    },
+    {
+      "name": "albums",
+      "value": "Album"
+    },
+    {
+      "name": "all",
+      "value": "Tất cả"
+    },
+    {
+      "name": "always",
+      "value": "Luôn luôn"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Luôn hỏi"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Giải pháp thay thế này giải phóng và khởi tạo lại codec video khi xảy ra thay đổi bề mặt, thay vì cài đặt trực tiếp bề mặt vào codec. Đã được ExoPlayer sử dụng trên một số thiết bị gặp sự cố này, cài đặt này chỉ ảnh hưởng đến Android 6 trở lên\n\n\n\nBật tùy chọn này có thể ngăn lỗi phát lại khi chuyển đổi trình phát video hiện tại hoặc chuyển sang chế độ toàn màn hình"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Luôn dùng biện pháp thay thế cho bề mặt đầu ra video cho AVPlayer"
+    },
+    {
+      "name": "any_network",
+      "value": "Bất kỳ loại mạng nào (có thể tính phí)"
+    },
+    {
+      "name": "api23_requirement_dialog_blogpost",
+      "value": "Bài đăng"
+    },
+    {
+      "name": "api23_requirement_dialog_message",
+      "value": "Vì NewPipe phụ thuộc vào vài libs của Google nhưng đã ngừng hỗ trợ cho Android 5.x. Bản cập nhật sau sẽ chỉ hỗ trợ cho Android 6 trở lên, thật đáng tiếc. Chi tiết tại blog của NewPipe."
+    },
+    {
+      "name": "api23_requirement_dialog_title",
+      "value": "NewPipe sẽ ngừng hỗ trợ phiên bản Android 5.x vào bản cập nhật sau"
+    },
+    {
+      "name": "app_language_title",
+      "value": "Ngôn ngữ ứng dụng"
+    },
+    {
+      "name": "app_license_title",
+      "value": "Giấy phép của NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Ứng dụng/Giao diện người dùng bị lỗi"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Nhấn để tải %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Đã có bản cập nhật mới!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Thông báo phiên bản NewPipe mới"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Thông báo cập nhật ứng dụng"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Bạn đang dùng phiên bản mới nhất"
+    },
+    {
+      "name": "artists",
+      "value": "Nghệ sĩ"
+    },
+    {
+      "name": "audio",
+      "value": "Âm thanh"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Không tìm thấy luồng âm thanh nào"
+    },
+    {
+      "name": "audio_track",
+      "value": "Bản âm thanh"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Một bản âm thanh đã có sẵn trong luồng này"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "mô tả"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "lồng tiếng"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "nguyên gốc"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "phụ"
+    },
+    {
+      "name": "auto",
+      "value": "Tự động"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Tự động (giao diện hệ thống)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Tiếp tục hàng đợi (không lặp lại) bằng cách thêm một luồng phát liên quan"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Tự động thêm vào hàng đợi luồng phát tiếp theo"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Tự động thêm vào hàng đợi"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe có thể tự động kiểm tra các phiên bản mới theo thời gian và thông báo cho bạn khi chúng có sẵn.\n\nBạn có muốn kích hoạt tính năng này không?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Bắt đầu phát lại tự động — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Tự động phát"
+    },
+    {
+      "name": "background_player",
+      "value": "Trình phát trong nền"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Đang phát trong nền"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Độ phân giải tốt nhất"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Đen"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Trang trống"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Đánh dấu danh sách phát"
+    },
+    {
+      "name": "brightness",
+      "value": "Độ sáng"
+    },
+    {
+      "name": "cancel",
+      "value": "Hủy"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Tự động tạo ra"
+    },
+    {
+      "name": "caption_none",
+      "value": "Không có phụ đề"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Thay đổi tỷ lệ văn bản và kiểu nền phụ đề trình phát. Yêu cầu khởi động lại ứng dụng để có hiệu lực"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Phụ đề"
+    },
+    {
+      "name": "card",
+      "value": "Dạng thẻ"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Được tạo bởi %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Trang kênh"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Giới thiệu"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Album"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Kênh"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Thích"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Trực tiếp"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Danh sách phát"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Video ngắn"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Track"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Các video"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Đã hủy đăng ký kênh"
+    },
+    {
+      "name": "channels",
+      "value": "Kênh"
+    },
+    {
+      "name": "chapters",
+      "value": "Chương"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Chỉ chữ cái và chữ số"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Hầu hết các ký tự đặc biệt"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Kiểm tra cập nhật"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Chạy kiểm tra luồng truyền mới"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Đang kiểm tra cập nhật…"
+    },
+    {
+      "name": "checksum",
+      "value": "Mã tổng kiểm (checksum)"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Chọn một thực thể"
+    },
+    {
+      "name": "clear",
+      "value": "Xóa"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Xoá Cookie mà NewPipe lưu trữ sau khi bạn hoàn thành nó"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Xóa Cookie của reCAPCHA"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Xóa lịch sử tải về"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Xóa tất cả vị trí phát"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Xóa vị trí phát"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Hàng đợi của trình phát hiện tại sẽ bị thay thế"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Việc chuyển từ trình phát này sang trình phát khác có thể sẽ thay thế hàng đợi"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Yêu cầu xác nhận trước khi xóa hàng đợi"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Xóa lịch sử tìm kiếm mà bạn đã ghi"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Xóa lịch sử tìm kiếm"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Xóa lịch sử các luồng đã phát và các vị trí phát lại"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Xóa lịch sử xem"
+    },
+    {
+      "name": "close",
+      "value": "Đóng"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Bình luận đã bị tắt"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Bình luận"
+    },
+    {
+      "name": "conferences",
+      "value": "Hội thảo"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Bạn muốn xóa lịch sử tải về hay xóa tất cả những file đã tải về?"
+    },
+    {
+      "name": "content",
+      "value": "Nội dung"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Ngôn ngữ nội dung ưu tiên"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Nội dung không khả dụng"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "NewPipe chưa hỗ trợ loại nội dung này.\n\n\n\nCó thể nó sẽ được hỗ trợ bởi một phiên bản mới hơn trong tương lai."
+    },
+    {
+      "name": "contribution_title",
+      "value": "Đóng góp"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Thêm vào"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Nền"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Tải tệp luồng về"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Bật lên"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Sao chép bản báo cáo đã được định dạng"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s bởi %2$s dưới %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Cảnh báo: Không thể nhập tất cả các tệp."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Không thể tải tất cả hình thu nhỏ"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Không thể thiết lập menu tải về"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Làm văng ứng dụng"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Làm sập trình phát"
+    },
+    {
+      "name": "create",
+      "value": "Tạo"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Tạo thông báo lỗi"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Danh sách phát mới"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Tối"
+    },
+    {
+      "name": "decline",
+      "value": "Từ chối"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Định dạng âm thanh mặc định"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Quốc gia nội dung mặc định"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Trang chính mặc định"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Độ phân giải cửa sổ bật lên mặc định"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Độ phân giải mặc định"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Định dạng video mặc định"
+    },
+    {
+      "name": "delete",
+      "value": "Xóa"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Xóa file đã tải về"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Xóa tất cả các tệp đã tải xuống khỏi bộ nhớ?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Xóa entry"
+    },
+    {
+      "name": "delete_file",
+      "value": "Xóa file"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Bạn có muốn xóa mục này khỏi lịch sử tìm kiếm không?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Xóa tất cả vị trí phát?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Xóa danh sách phát này?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Xóa toàn bộ lịch sử tìm kiếm?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Xóa toàn bộ lịch sử xem?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Tắt chọn văn bản trong mô tả"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Bật chọn văn bản trong mô tả"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Bây giờ bạn có thể chọn văn bản trong mô tả. Lưu ý rằng trang có thể nhấp nháy và các liên kết có thể không nhấn vào được trong khi ở chế độ chọn."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Mô tả"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Lượt không thích"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Kéo để sắp xếp lại"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Đã được chủ kênh thả \"thính\""
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Lượt thích"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Bình luận được ghim"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Ảnh đại diện của kênh"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Phát video, thời lượng:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Hình thu nhỏ của avatar người tải lên"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Ý bạn là \"%1$s\"?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Đường hầm phương tiện đã bị tắt theo mặc định trên thiết bị của bạn vì kiểu thiết bị của bạn được biết là không hỗ trợ tính năng này."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Tắt tính năng truyền tải phương tiện nếu bạn gặp phải tình trạng màn hình đen hoặc giật hình khi phát lại video."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Tắt truyền phương tiện qua đường hầm"
+    },
+    {
+      "name": "disabled",
+      "value": "Vô hiệu"
+    },
+    {
+      "name": "dismiss",
+      "value": "Bỏ qua"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "Newpipe được phát triển bởi các tình nguyện viên dành thời gian rảnh để mang trải nghiệm người dùng tốt nhất. Gửi lại để giúp nhà phát triển làm NewPipe tốt hơn nữa trong khi họ tận hưởng một ly cà phê."
+    },
+    {
+      "name": "donation_title",
+      "value": "Quyên góp"
+    },
+    {
+      "name": "done",
+      "value": "Đã xong"
+    },
+    {
+      "name": "dont_show",
+      "value": "Không hiện"
+    },
+    {
+      "name": "download",
+      "value": "Tải xuống"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Có một bản tải xuống đang chờ xử lý với tên này"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Có một tệp trùng tên đang tải về"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Tải xuống"
+    },
+    {
+      "name": "download_failed",
+      "value": "Tải xuống thất bại"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Tệp đang được tải xuống"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Chọn thư mục tải xuống cho các tệp âm thanh"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Các tệp âm thanh đã tải xuống được lưu trữ tại đây"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Thư mục tải xuống âm thanh"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Chọn thư mục tải xuống cho các tệp video"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Video đã tải về được lưu ở đây"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Thư mục video tải về"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Không thể tải vào thẻ SD ngoài. Đặt lại vị trí tải về?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Bộ nhớ ngoài không khả dụng"
+    },
+    {
+      "name": "downloads",
+      "value": "Tải xuống"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Bạn sẽ được hỏi nơi lưu vào mỗi lần tải xuống.\n\nHãy bật trình chọn thư mục của hệ thống (SAF) nếu bạn muốn tải xuống vào một cái thẻ nhớ"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Bạn sẽ được hỏi nơi bạn muốn lưu mỗi mục tải xuống"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Hỏi nơi thư mục để tải xuống"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "'Khung truy cập lưu trữ' cho phép tải xuống một thẻ SD bên ngoài"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "'Khung truy cập lưu trữ' chỉ được hỗ trợ từ Android 10 trở lên"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Sử dụng trình chọn thư mục của hệ thống (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Tải xuống"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Đóng ngăn"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Chọn dịch vụ; dịch vụ hiện tại:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Mở ngăn kéo"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Danh sách phát màu xám thì đã chứa mục này."
+    },
+    {
+      "name": "duration",
+      "value": "Thời lượng"
+    },
+    {
+      "name": "duration_live",
+      "value": "Trực tiếp"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Không có gì cả :P"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Buộc báo cáo ngoại lệ Rx không thể gửi được bên ngoài vòng đời của mảnh hoặc hoạt động sau khi xử lý"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Báo cáo lỗi ngoài vòng đời"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Giám sát rò rỉ bộ nhớ có thể khiến ứng dụng không phản hồi khi tải vùng lưu trữ"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Khôi phục vị trí phát lại cuối cùng"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Tiếp tục phát lại"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Hiển chỉ báo vị trí phát lại trong danh sách"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Vị trí phát trong danh sách"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Giới hạn hàng chờ tải xuống"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Chỉ một lần tải mỗi lượt"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Lưu trữ truy vấn tìm kiếm cục bộ"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Lịch sử tìm kiếm"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Thông báo về các luồng mới từ các kênh đăng ký"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Thông báo về luồng mới"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Theo dõi các video đã xem"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Lịch sử xem"
+    },
+    {
+      "name": "enqueue",
+      "value": "Xếp hàng"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Xếp kế tiếp vào hàng"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Thêm vào hàng đợi"
+    },
+    {
+      "name": "enqueued",
+      "value": "Đã thêm vào hàng đợi"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Đã xếp kế tiếp vào hàng"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Entry đã xóa"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Không thế kết nối với máy chủ"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Chi tiết:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Không thể khôi phục bản tải xuống này"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Không thể tạo tệp"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Máy chủ không gửi dữ liệu về"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Không tìm thấy"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Máy chủ không chấp nhận tải đa luồng, thử lại với số luồng = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Không đủ dung lượng trống trên thiết bị"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Không đủ dung lượng trên máy"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Đã xảy ra lỗi: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Không thể tạo thư mục đích"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Xử lý thất bại"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe đã bị đóng khi đang xử lý tệp"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Quá trình tải bị hủy, vì tập tin đã bị xoá"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Báo lỗi qua email"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Thông báo để báo cáo lỗi"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Thông báo lỗi"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe đã gặp sự cố, nhấn để xem và báo cáo"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Có lỗi xảy ra, hãy xem thông báo"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Vui lòng kiểm tra xem vấn đề mà bạn đang gặp đã báo cáo trước đó hay chưa. Nếu bạn tạo quá nhiều báo cáo trùng lặp, bạn sẽ khiến cho chúng tôi tốn thời gian để đọc chúng thay vì sửa lỗi bạn gặp."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Báo cáo trên GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Báo lỗi"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Báo cáo"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Rất tiếc, đã xảy ra lỗi."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Không thể thiết lập kết nối an toàn"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Kết nối hết thời gian"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Không thể tải bình luận"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Không thể tìm máy chủ"
+    },
+    {
+      "name": "events",
+      "value": "Sự kiện"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Đã xuất"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Xuất lịch sử, đăng ký, danh sách phát và các cài đặt"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Xuất cơ sở dữ liệu"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Đang xuất…"
+    },
+    {
+      "name": "export_subscriptions_summary",
+      "value": "Xuất kênh đăng ký của bạn thành file .json"
+    },
+    {
+      "name": "export_subscriptions_title",
+      "value": "Xuất kênh đăng ký"
+    },
+    {
+      "name": "export_to",
+      "value": "Xuất sang"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Trình phát ngoài không hỗ trợ các loại liên kết này"
+    },
+    {
+      "name": "faq",
+      "value": "Xem trên trang web"
+    },
+    {
+      "name": "faq_description",
+      "value": "Nếu bạn gặp vấn đề khi sử dụng ứng dụng, hãy chắc chắn rằng bạn kiểm tra câu trà lời cho câu hỏi thường gặp!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Câu hỏi thường gặp"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Chế độ tăng tốc"
+    },
+    {
+      "name": "featured",
+      "value": "Nổi bật"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Tạo mới"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Tìm nạp các tab kênh"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Các tab cần tìm nạp khi cập nhật nguồn cấp dữ liệu. Tùy chọn này không có hiệu lực nếu kênh được cập nhật bằng chế độ nhanh."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Bạn có muốn xóa nhóm này?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Tên nhóm trống"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Chưa chọn kênh đăng ký nào"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Chọn kênh đăng ký"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Trang nhóm kênh"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Chỉ hiển thị các đăng ký chưa được nhóm"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Nhóm kênh"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Hiển thị các luồng phát sau"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Lỗi tải nguồn cấp dữ liệu"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Không thể tải nguồn cấp dữ liệu cho '%s'."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Chế độ nạp nhanh không cung cấp thêm thông tin về điều này."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Tài khoản của tác giả đã bị chấm dứt.\n\nNewPipe sẽ không thể tải nguồn cấp dữ liệu này trong tương lai.\n\nBạn có muốn hủy đăng ký khỏi kênh này không?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Mục nguồn cấp dữ liệu mới"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Đang tải nguồn cấp dữ liệu…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Nguồn cấp được cập nhật lần cuối: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Đang xử lý nguồn cấp dữ liệu…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Hiện/Ẩn luồng phát"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Đã xem một phần"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Sắp tới"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Đã xem đầy đủ"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Chưa tải được: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Luôn cập nhật"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Thời gian sau lần cập nhật cuối cùng trước khi đăng ký được coi là lỗi thời — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Ngưỡng cập nhật nguồn cấp dữ liệu"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Tắt chế độ nhanh"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Bật chế độ nhanh"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Bạn có nghĩ rằng tải nguồn cấp dữ liệu quá chậm? Nếu vậy, hãy thử bật tải nhanh (bạn có thể thay đổi nó này trong cài đặt hoặc bằng cách nhấn nút bên dưới).\n\nNewPipe cung cấp hai chiến lược tải nguồn cấp dữ liệu:\n• Tìm nạp toàn bộ kênh đăng ký, tuy chậm nhưng đầy đủ.\n• Sử dụng điểm cuối dịch vụ chuyên dụng, nhanh nhưng thường không hoàn thiện.\n\nSự khác biệt giữa hai loại này là cái nào nhanh thường thiếu một số thông tin, chẳng hạn như thời lượng hoặc loại mục (không thể phân biệt giữa các video trực tiếp và bình thường) và nó có thể trả về ít mục hơn.\n\nYouTube là một ví dụ về dịch vụ cung cấp phương pháp nhanh này với nguồn cấp RSS.\n\nVì vậy, sự lựa chọn tập trung vào những gì bạn thích: tốc độ hoặc thông tin chính xác."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Có sẵn trong một số dịch vụ, nó thường nhanh hơn nhiều nhưng có thể trả về một số lượng mục hạn chế và thông tin thường không đầy đủ (ví dụ: không có thời lượng, loại mục, trạng thái không trực tiếp)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Tìm nạp từ nguồn cấp dữ liệu chuyên dụng khi có sẵn"
+    },
+    {
+      "name": "file",
+      "value": "Tập tin"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Đã xóa tập tin"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Tên tệp không được để trống"
+    },
+    {
+      "name": "forward",
+      "value": "Tua đi"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Có gì mới"
+    },
+    {
+      "name": "general_error",
+      "value": "Lỗi"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Tạo tên riêng biệt"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Nội dung này không có sẵn ở quốc gia của bạn."
+    },
+    {
+      "name": "get_notified",
+      "value": "Được thông báo"
+    },
+    {
+      "name": "give_back",
+      "value": "Gửi lại"
+    },
+    {
+      "name": "grid",
+      "value": "Lưới"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Thông báo cho quá trình băm video"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Thông báo băm video"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Chất lượng cao (lớn hơn)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Chờ để thêm vào hàng đợi"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Hữu ích trong trường hợp phím bấm âm lượng trên tai nghe hoặc thiết bị của bạn bị hỏng"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Bỏ qua nhận nút phương tiện vật lý"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Chất lượng cao"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Chất lượng thấp"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Chất lượng trung bình"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Không tải ảnh"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Chọn chất lượng hình ảnh và chọn có tải chất lượng ảnh hay không, để giảm mức sử dụng dữ liệu và bộ nhớ. Thay đổi xoá cache ảnh cho cả trong bộ nhớ lẫn ổ cứng - %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Chất lượng ảnh"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Đã nhập"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Ghi đè lịch sử, đăng ký, danh sách phát và các cài đặt (tùy chọn) hiện tại của bạn"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Nhập cơ sở dữ liệu"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Nhập tệp"
+    },
+    {
+      "name": "import_from",
+      "value": "Nhập từ"
+    },
+    {
+      "name": "import_from_previous_export",
+      "value": "Nhập từ bản đã xuất trước đó"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Hãy nhớ rằng hoạt động này có thể khiến bạn bị mất kênh bạn đã đăng ký trước đó.\n\n\n\nBạn có muốn tiếp tục không?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Đang nhập…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Bạn có muốn cũng nhập các cài đặt không?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Cài đặt trong xuất đang được nhập sử dụng định dạng dễ bị tấn công và không được dùng nữa kể từ NewPipe 0.27.0. Đảm bảo rằng bản xuất đang được nhập là từ một nguồn đáng tin cậy và chỉ ưu tiên sử dụng các bản xuất lấy từ NewPipe 0.27.0 hoặc mới hơn trong tương lai. Hỗ trợ nhập cài đặt ở định dạng dễ bị tấn công này sẽ sớm bị xóa hoàn toàn và khi đó các phiên bản cũ của NewPipe sẽ không thể nhập cài đặt xuất từ phiên bản mới nữa."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Để nhập hồ sơ SoundCloud bằng cách nhập URL hoặc ID của bạn, hãy làm các bước như sau:\n\n\n\n1. Bật \"chế độ máy tính\" trong trình duyệt web (trang web không khả dụng cho thiết bị di động)\n\n2. Truy cập URL này: %1$s\n\n3. Đăng nhập khi được hỏi\n\n4. Sao chép URL tiểu sử mà bạn đã được chuyển hướng đến."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "Nhập ID SoundCloud hoặc link soundcloud.com/<ID của bạn>"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Nhập hoặc xuất các kênh bạn đăng ký bằng cách nhấn nút 3 chấm ở góc trên màn hình"
+    },
+    {
+      "name": "import_subscriptions_summary",
+      "value": "Nhập kênh đăng ký từ file .json đã xuất trước đó"
+    },
+    {
+      "name": "import_subscriptions_title",
+      "value": "Nhập kênh đăng ký"
+    },
+    {
+      "name": "import_title",
+      "value": "Nhập"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Nhập danh sách đăng ký YouTube từ Google Takeout:\n\n\n\n1. Vào URL này: %1$s\n\n2. Đăng nhập khi được yêu cầu\n\n3. Nhấn chọn \"Bao gồm tất cả dữ liệu trên YouTube\", sau đó nhấn \"Bỏ chọn tất cả\", sau đó chỉ chọn mục \"đăng ký\" rồi nhấn OK\n\n4. Nhấn nút \"Bước tiếp theo\" rồi nhấn \"Tạo tệp xuất\"\n\n5. Nhấn nút \"Tải xuống\" khi nó xuất hiện\n\n6. Từ file zip mới tải về, trích xuất file .json ra (thường nằm ở đường dẫn \"YouTube và YouTube Music/đăng ký/subscriptions.json\") rồi nhập vào đây.\n\n7. [Nếu nhập file .zip không thành công] Hãy giải nén tệp .csv (thường nó được để dưới phần \"YouTube and YouTube Music/subscriptions/subscriptions.csv\"), nhấn vào nút NHẬP TỆP ở phía bên dưới rồi chọn tệp csv đã được giải nén"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ video"
+    },
+    {
+      "name": "info_labels",
+      "value": "Loại lỗi:\nYêu cầu:\nNgôn ngữ của nội dung:\nVùng miền (quốc gia) của nội dung:\nNgôn ngữ của ứng dụng:\nDịch vụ:\nThời gian GMT:\nTên gói:\nPhiên bản:\nPhiên bản hệ điều hành:"
+    },
+    {
+      "name": "install",
+      "value": "Cài đặt"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Thư mục không hợp lệ"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Tệp không tồn tại hoặc không có quyền đọc/ghi"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Tệp/nguồn nội dung không hợp lệ"
+    },
+    {
+      "name": "just_once",
+      "value": "Chỉ một lần"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "Chi tiết"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "Từ tháng 8 năm 2025, Google đã thông báo rằng kể từ tháng 9 năm 2026, việc cài app sẽ yêu cầu các nhà phát triển phải xác minh trên những thiết bị đã chứng nhận, kể cả đối với các ứng dụng ngoài Play Store. Vì các nhà phát triển của NewPipe không đồng ý với điều kiện này, nên có lẽ NewPipe sẽ không còn hoạt động trên các máy Android được chứng nhận sau thời điểm ấy."
+    },
+    {
+      "name": "kao_solution",
+      "value": "Giải pháp"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Trang chủ"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Cài đặt ứng dụng Kore bị thiếu?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary không khả dụng"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Chọn cử chỉ vuốt cho nửa bên trái màn hình của trình phát"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Hành động cho cử chỉ trái"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Sáng"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Không giới hạn"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Giới hạn độ phân giải khi sử dụng dữ liệu di động"
+    },
+    {
+      "name": "list",
+      "value": "Danh sách"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Chế độ hiển thị danh sách"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Đang tải siêu dữ liệu…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Đang tải chi tiết luồng phát trực tiếp…"
+    },
+    {
+      "name": "local",
+      "value": "Cục bộ"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Đề xuất tìm kiếm cục bộ"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Chất lượng thấp (nhỏ hơn)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Nhấn vào kính lúp để bắt đầu."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Nội dung trang chính"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Chọn các tab để hiện trên trang chủ"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Vuốt các mục để loại bỏ chúng"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Di chuyển bộ chọn tab chính xuống dưới cùng"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Vị trí tab chính"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Kiểm tra phiên bản mới theo cách thủ công"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Đánh dấu là đã xem"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Số lượt thử lại trước khi hủy tải về"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Số lượt thử lại tối đa"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Giới hạn độ tuổi"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Hình đại diện"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Băng rôn"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Đã xóa bộ nhớ cache siêu dữ liệu"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Xóa tất cả dữ liệu trang web được lưu trong bộ nhớ cache"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Xóa sạch siêu dữ liệu đã lưu đệm"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Thể loại"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Nơi chứa"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Ngôn ngữ"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Giấy phép"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Chế độ"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Nội bộ"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Riêng tư"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Công khai"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Chưa được liệt kê"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Hình đại diện kênh phụ"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Người đăng ký"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Hỗ trợ"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Thẻ"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Ảnh xem trước"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Hình đại diện của người tải lên"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud đã ngừng hiển thị bảng xếp hạng Top 50 ban đầu. Tab tương ứng đã bị xóa khỏi trang chính của bạn."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "SoundCloud 50 trang hàng đầu đã xóa"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube đã ngừng cung cấp trang thịnh hành kết hợp kể từ ngày 21 tháng 7 năm 2025. NewPipe đã thay thế trang xu hướng mặc định bằng các buổi phát trực tiếp theo thịnh hành.\n\nBạn cũng có thể chọn các trang thịnh hành khác nhau trong \"Cài đặt > Nội dung > Nội dung của trang chính\"."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "Đã xóa kết hợp đang thịnh hành của YouTube"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Thu nhỏ xuống trình phát nền"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Không"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Thu nhỏ xuống trình phát bật lên"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Hành động khi chuyển sang ứng dụng khác từ trình phát video chính — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Thu nhỏ khi chuyển qua ứng dụng khác"
+    },
+    {
+      "name": "missing_file",
+      "value": "Tệp đã di chuyển hoặc đã xoá"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Xong"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Đang chờ xử lý"
+    },
+    {
+      "name": "more_options",
+      "value": "Lựa chọn khác"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ video"
+    },
+    {
+      "name": "most_liked",
+      "value": "Được yêu thích nhất"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Đang tính hash"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Đã sao chép vào khay nhớ tạm"
+    },
+    {
+      "name": "msg_error",
+      "value": "Lỗi"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Không thể sao chép vào khay nhớ tạm"
+    },
+    {
+      "name": "msg_name",
+      "value": "Tên file"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Sự cho phép này là cần thiết để\n\nmở trong chế độ bật lên"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe đang tải xuống"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Chạm để biết chi tiết"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Chủ đề"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Vui lòng chờ…"
+    },
+    {
+      "name": "mute",
+      "value": "Tắt tiếng"
+    },
+    {
+      "name": "name",
+      "value": "Tên"
+    },
+    {
+      "name": "navigate_back",
+      "value": "Quay lại"
+    },
+    {
+      "name": "network_error",
+      "value": "Lỗi kết nối mạng"
+    },
+    {
+      "name": "never",
+      "value": "Không bao giờ"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Mới và phổ biến"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Do các hạn chế của AVPlayer, đã đặt lại thời lượng tua thành %d giây"
+    },
+    {
+      "name": "next_stream",
+      "value": "Luồng tiếp theo"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Tùy chọn này chỉ được bật khi chủ đề %s được dùng"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Chọn giao diện ban đêm của bạn — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Chủ đề đêm"
+    },
+    {
+      "name": "no",
+      "value": "Không"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Thiết bị của bạn không có ứng dụng để mở tệp này"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Không tìm thấy trình quản lý tệp nào thích hợp cho hành động này.\n\nVui lòng cài đặt một trình quản lý tệp hoặc thử tắt '%s' trong thiết đặt tải xuống"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Không tìm thấy ứng dụng quản lý tệp phù hợp nào để thực hiện hành động.\n\nVui lòng cài đặt ứng dụng quản lý tệp tương thích với Storage Access Framework"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Không có luồng âm thanh nào khả dụng cho máy phát bên ngoài"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Vui lòng xác định thư mục tải xuống sau trong cài đặt"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Chưa đăng ký kênh nào"
+    },
+    {
+      "name": "no_comments",
+      "value": "Không có bình luận nào"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Chưa có thư mục tải xuống nào được đặt, hãy chọn thư mục tải xuống mặc định ngay"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Chưa có nhóm nguồn cấp dữ liệu nào được tạo"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Không có luồng trực tiếp"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Không có người nghe"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Không có người xem"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Không tìm thấy trình phát trực tuyến. Cài đặt VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Không tìm thấy trình phát trực tuyến nào (bạn có thể cài đặt VLC để phát)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Chưa đánh dấu danh sách phát nào"
+    },
+    {
+      "name": "no_streams",
+      "value": "Không có luồng"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Không có luồng nào để tải về"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Không có người đăng ký"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Không có tệp ZIP hợp lệ"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Không có luồng video nào khả dụng cho trình phát bên ngoài"
+    },
+    {
+      "name": "no_videos",
+      "value": "Không có video nào"
+    },
+    {
+      "name": "no_views",
+      "value": "Không có lượt xem nào"
+    },
+    {
+      "name": "none",
+      "value": "Không"
+    },
+    {
+      "name": "not_available",
+      "value": "Không khả dụng"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Nút hành động đầu tiên"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Nút hành động thứ hai"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Nút hành động thứ ba"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Nút hành động thứ tư"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Nút hành động thứ năm"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Đang tải"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Để trống"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Lặp lại"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Ngẫu nhiên"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Bạn có thể chọn tối đa ba hành động để hiện trong thông báo thu gọn!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Chỉnh sửa từng hành động thông báo bên dưới bằng cách nhấn vào nó. Chọn tối đa ba trong số chúng để hiển thị trong thông báo thu gọn bằng cách sử dụng các hộp kiểm ở bên phải."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Chỉnh sửa từng hành động thông báo bên dưới bằng cách nhấn vào nó. Ba hành động đầu tiên (phát/tạm dừng, trước đó và tiếp theo) do hệ thống thiết lập và không thể tùy chỉnh."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Thông báo cho trình phát của NewPipe"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "Thông báo NewPipe"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Yêu cầu Android tùy chỉnh màu của thông báo theo màu chính của ảnh thu nhỏ (lưu ý rằng việc này không khả dụng trên tất cả thiết bị)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Tô màu thông báo"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Cắt bớt hình thu nhỏ video hiển thị trong thông báo từ tỷ lệ khung hình 16:9 xuống 1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Chỉnh ảnh thu nhỏ thành tỉ lệ 1:1"
+    },
+    {
+      "name": "notifications",
+      "value": "Thông báo"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Thông báo bị tắt"
+    },
+    {
+      "name": "off",
+      "value": "Tắt"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "on",
+      "value": "Bật"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "Đã xóa 1 mục."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Mở trong trình duyệt"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Mở trong cửa sổ bật lên"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Mở phát hàng chờ"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Mở trang web"
+    },
+    {
+      "name": "open_with",
+      "value": "Mở bằng"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Thao tác này sẽ ghi đè cài đặt hiện tại của bạn."
+    },
+    {
+      "name": "overwrite",
+      "value": "Ghi đè"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "Không thể ghi đè lên tệp"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Có một tệp đã tải về trùng tên"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Tên file này đã tồn tại"
+    },
+    {
+      "name": "paid_content",
+      "value": "Nội dung này chỉ dành cho người dùng trả phí, nên NewPipe không thể phát hay tải xuống."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Không thể phân tích cú pháp web."
+    },
+    {
+      "name": "pause",
+      "value": "Dừng"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Tạm dừng tải xuống"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Tạm dừng tải khi trên dữ liệu di động"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Hữu ích khi chuyển sang dữ liệu di động, nhưng một số tải xuống không thể bị đình chỉ"
+    },
+    {
+      "name": "paused",
+      "value": "đã tạm dừng"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Thực thể đã tồn tại"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Không thể xác nhận thực thể"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Nhập URL thực thể"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Chỉ URL HTTPS được hỗ trợ"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Thêm thực thể"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Tìm thực thể bạn thích trên %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Chọn thực thể PeerTube ưa thích"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "Thực thể PeerTube"
+    },
+    {
+      "name": "percent",
+      "value": "Phần trăm"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Thao tác bị từ chối bởi hệ thống"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Cho phép hiển thị trên các ứng dụng khác"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "Để sử dụng tính năng phát video nổi, hãy chọn %1$s trong Cài đặt Android và bật tính năng %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "Cho phép hiển thị trên ứng dụng khác"
+    },
+    {
+      "name": "play",
+      "value": "Phát"
+    },
+    {
+      "name": "play_all",
+      "value": "Phát tất cả"
+    },
+    {
+      "name": "play_audio",
+      "value": "Âm thanh"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Cài đặt âm thanh"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Âm thanh: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Loại bỏ"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Chi tiết"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Phát với Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Độ cao"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Đặt lại"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Điều khiển tốc độ phát lại"
+    },
+    {
+      "name": "playback_step",
+      "value": "Bước"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Tốc độ"
+    },
+    {
+      "name": "player_http_403",
+      "value": "Đã xảy ra lỗi HTTP 403 trong khi phát, có thể do URL phát sóng đã hết hạn hoặc bị ban IP"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "Đã xảy ra lỗi HTTP %1$s trong khi phát"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Phục hồi lại trình phát bị lỗi"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Không thể phát luồng này"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Đã xảy ra lỗi trình phát không thể khôi phục"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Đã thêm danh sách phát"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Đã thêm trùng lặp %d lần"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Đã tạo danh sách phát"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Được tạo tự động (không tìm thấy người tải lên)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Trang danh sách phát"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Hình thu nhỏ của danh sách phát đã thay đổi."
+    },
+    {
+      "name": "playlists",
+      "value": "Danh sách phát"
+    },
+    {
+      "name": "popup_player",
+      "value": "Trình phát cửa sổ nổi"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Đang phát trong chế độ bật lên"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Ghi nhớ kích thước và vị trí cuối cùng của cửa sổ bật lên"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Ghi nhớ thuộc tính cửa sổ bật lên"
+    },
+    {
+      "name": "post_processing",
+      "value": "đang xử lý"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Chọn một bản âm thanh có mô tả cho người khiếm thị nếu có"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Ưu tiên âm thanh mô tả"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Chọn bản âm thanh gốc kể cả nhiều ngôn ngữ"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Ưu tiên âm thanh gốc"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Hành động mặc định khi mở nội dung — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Ưu tiên hành động 'mở'"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Đang tải nội dung được yêu cầu"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Đang nhận thông tin…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Xuất trước"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Luồng trước đó"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "NewPipe rất coi trọng quyền riêng tư của bạn. Do đó, ứng dụng không thu thập bất kỳ dữ liệu nào mà không có sự đồng ý của bạn.\n\nChính sách bảo mật của NewPipe giải thích chi tiết dữ liệu nào được gửi và lưu trữ khi bạn gửi báo cáo sự cố."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Chính sách Quyền riêng tư của NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "Nội dung này được để ở chế độ riêng tư, nên NewPipe không thể phát hay tải xuống."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Đang xử lý... Có thể mất chút thời gian"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "Mặc định AVPlayer"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Thay đổi kích thước khoảng thời gian tải trên nội dung lũy tiến (hiện tại là %s). Giá trị thấp hơn có thể tăng tốc độ tải ban đầu của chúng"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Kích thước tải thời lượng phát lại"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "trong hàng đợi"
+    },
+    {
+      "name": "radio",
+      "value": "Radio"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Đọc giấy phép"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Đọc chính sách quyền riêng tư"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "Cookie reCAPTCHA đã được xóa"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "Yêu cầu reCAPTCHA"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Hoàn thành"
+    },
+    {
+      "name": "recent",
+      "value": "Gần đây"
+    },
+    {
+      "name": "recently_added",
+      "value": "Đã thêm gần đây"
+    },
+    {
+      "name": "recovering",
+      "value": "đang khôi phục"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Các mục liên quan"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Đề xuất tìm kiếm trên mạng"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Loại bỏ các bản trùng lặp"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Bạn có muốn loại bỏ mọi luồng trùng lặp trong danh sách phát này?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Loại bỏ các bản trùng lặp?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Loại bỏ đã xem"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Có, và video đã xem một phần"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Xóa các video đã xem?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Những video đã xem trước và sau khi thêm vào danh sách phát sẽ bị loại bỏ. \nBạn có chắc không? Điều này không thể được hoàn tác!"
+    },
+    {
+      "name": "rename",
+      "value": "Đổi tên"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Đổi tên"
+    },
+    {
+      "name": "replay",
+      "value": "Phát lại"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Việc đặt lại tất cả cài đặt sẽ loại bỏ tất cả các cài đặt mà bạn đã đặt và khởi động lại ứng dụng. \n \nBạn có chắc muốn tiếp tục?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Đặt lại tất cả cài đặt về giá trị mặc định"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Đặt lại cài đặt"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Lấp đầy"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Phù hợp"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Thu phóng"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Khôi phục về mặc định"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Bạn có muốn khôi phục về mặc định?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Video này bị giới hạn độ tuổi.\n\n\n\nBật \"%1$s\" trong cài đặt nếu bạn muốn xem video này."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Video này bị giới hạn độ tuổi.\n\nDo chính sách mới của YouTube với các video bị giới hạn độ tuổi, NewPipe không thể truy cập bất kỳ luồng video nào của nó và do đó không thể phát nó."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Tiếp tục phát lại sau khi bị gián đoạn (ví dụ: cuộc gọi)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Tiếp tục đang phát"
+    },
+    {
+      "name": "retry",
+      "value": "Thử lại"
+    },
+    {
+      "name": "rewind",
+      "value": "Tua lại"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Chọn cử chỉ vuốt cho nửa bên phải màn hình của trình phát"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Hành động cho cử chỉ phải"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Không thể đọc tab đã lưu, sử dụng tab mặc định"
+    },
+    {
+      "name": "search",
+      "value": "Tìm kiếm"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Đã xóa lịch sử tìm kiếm"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Không tìm thấy"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Đang hiện kết quả cho: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Tìm kiếm %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Tìm kiếm %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Thời lượng tua-nhanh tới/-lùi"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Xem trước hình thu nhỏ trên thanh tua"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Chọn kênh"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Chọn một nhóm nguồn cấp dữ liệu"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Chọn Trang chủ"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Chọn danh sách phát"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Chọn bản âm thanh cho máy phát bên ngoài"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Bạn có thể chọn giao diện ban đêm cho mình phía bên dưới"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Chọn chất lượng cho trình chạy ngoài"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Luồng phát đã chọn không được trình phát ngoài hỗ trợ"
+    },
+    {
+      "name": "semitone",
+      "value": "Nửa cung"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Đặt làm hình thu nhỏ của danh sách phát"
+    },
+    {
+      "name": "settings",
+      "value": "Cài đặt"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Vẻ ngoài"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Sao lưu và khôi phục"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Xóa dữ liệu"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Gỡ lỗi"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Tải xuống"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Quản lý một số cài đặt AVPlayer. Những thay đổi này yêu cầu khởi động lại trình phát để có hiệu lực"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "Cài đặt AVPlayer"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Nguồn cấp dữ liệu"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Lịch sử và bộ nhớ đệm"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Hành vi"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Cấu hình thông báo hiện đang phát trực tuyến"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Thông báo trình phát"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Trình phát"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Cập nhật"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Video và âm thanh"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Các ký tự được cho phép trong tên tệp"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Ký tự không hợp lệ được thay thế bằng giá trị này"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Ký tự thay thế"
+    },
+    {
+      "name": "share",
+      "value": "Chia sẻ"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Chia sẻ với"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Chia sẻ danh sách phát"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Chia sẻ dưới dạng danh sách phát tạm thời của YouTube"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Chia sẻ danh sách URL"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Chia sẻ với Tiêu đề"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sTỷ"
+    },
+    {
+      "name": "short_million",
+      "value": "%sTr"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sN"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Hiển thị nội dung không phù hợp vì có giới hạn độ tuổi (18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Hiển thị nội dung bị giới hạn độ tuổi"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Hiện chi tiết kênh"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Thẻ kênh"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Những thẻ nào được hiển thị trên các trang kênh"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Tắt để ẩn bình luận"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Hiện bình luận"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Hiện tùy chọn dừng đột ngột khi sử dụng trình phát"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Hiện \"làm trình phát dừng\""
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Tắt để ẩn mô tả video và các thông tin bổ sung"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Hiện mô tả"
+    },
+    {
+      "name": "show_error",
+      "value": "Hiện lỗi"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Hiện thanh báo lỗi"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Chỉ một số thiết bị có thể phát video 2K/4K"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Hiện độ phân giải cao hơn"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Hiển thị mẹo khi nhấn vào nút nền hoặc nút bật lên trong \"Chi tiết:\" video"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Hiển thị mẹo \"Giữ để thêm vào hàng đợi\""
+    },
+    {
+      "name": "show_info",
+      "value": "Hiện thông tin"
+    },
+    {
+      "name": "show_less",
+      "value": "Hiện ít hơn"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Kiểm tra bộ nhớ"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Tắt để ẩn các hộp siêu dữ liệu có thông tin bổ sung về người tạo luồng, nội dung luồng hoặc yêu cầu tìm kiếm"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Hiển thị thông tin meta"
+    },
+    {
+      "name": "show_more",
+      "value": "Hiện nhiều hơn"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Hiện các video \"Tiếp theo\" và \"Tương tự\""
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Dòng chữ mô tả thời gian gốc từ các dịch vụ sẽ được hiển thị thay thế"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Hiển thị thời gian ban đầu trước đây trên các mục"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Hiển thị tùy chọn phát video qua trung tâm truyền thông Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Hiển thị tùy chọn \"Phát với Kodi\""
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Chọn các đề xuất để hiển thị khi tìm kiếm"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Đề xuất tìm kiếm"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Hiện ảnh thu nhỏ (thumbnail) trên nền màn hình khóa và trong thông báo"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Xem hình thu nhỏ"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s đã từ chối cung cấp dữ liệu, cần phải đăng nhập để xác nhận requester của NewPipe ko phải là bot.\n\nIP này có vẻ đã bị ban tạm thời bởi %1$s, bạn có thể đợi một lúc hoặc chuyển sang IP khác (ví dụ như việc tắt / bật lại VPN, hoặc là chuyển mạng từ WIFI sang 4G/5G).\n\nXem qua <a href=\"%2$s\">phần FAQ này</a> đẻ biết thêm chi tiết"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Chuyển nhanh qua khoảng lặng"
+    },
+    {
+      "name": "songs",
+      "value": "Bài hát"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Có vẻ NewPipe đã xảy ra lỗi, lướt xuống kiểm tra xem."
+    },
+    {
+      "name": "sort",
+      "value": "Thể loại"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Đây là bản nhạc SoundCloud Go+, ít nhất là ở quốc gia của bạn, vì vậy NewPipe không thể phát trực tuyến hoặc tải xuống bản nhạc này."
+    },
+    {
+      "name": "start",
+      "value": "Bắt đầu"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Để tuân thủ Quy định bảo vệ dữ liệu chung của châu Âu (GDPR), chúng tôi sẽ thu hút sự chú ý của bạn đến chính sách bảo mật của NewPipe. Vui lòng đọc kỹ.\n\nBạn phải chấp nhận nó để gửi cho chúng tôi báo cáo lỗi."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Bắt đầu tải xuống"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Bắt đầu phát trong nền"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Bắt đầu phát trong cửa sổ bật lên"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Không bắt đầu các video ở trình phát mini, mà chuyển trực tiếp thành chế độ toàn màn hình, nếu tự động xoay bị khóa. Bạn vẫn có thể truy cập trình phát mini bằng cách thoát khỏi toàn màn hình"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Khởi động trình phát chính ở toàn màn hình"
+    },
+    {
+      "name": "stop",
+      "value": "Dừng"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Các luồng chưa được trình tải xuống hỗ trợ sẽ không được hiển thị"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Thông báo về luồng mới của kênh đăng ký"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Luồng truyền mới"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Thời gian kiểm tra"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Yêu cầu kết nối mạng"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Đăng ký"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Đã đăng ký"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Số người đăng ký không khả dụng"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Không thể thay đổi tình trạng đăng ký"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Không thể cập nhật tình trạng đăng ký"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Không thể xuất kênh đăng ký"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Không thể nhập kênh đăng ký"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Bấm \"Xong\" khi hoàn thành"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Chuyển sang nền"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Chuyển sang Chính"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Chuyển sang Cửa sổ bật lên"
+    },
+    {
+      "name": "systems_language",
+      "value": "Mặc định hệ thống"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Đã đánh dấu danh sách phát"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Danh sách phát"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Chọn tab"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Giấy phép"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Kênh đăng ký"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Chế độ máy tính bảng"
+    },
+    {
+      "name": "theme_title",
+      "value": "Chủ đề"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Đã xóa bộ nhớ cache hình ảnh"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Về NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Lịch sử"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Phát hàng đợi"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Lần phát cuối"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Các giấy phép Bên thứ ba"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Được phát nhiều nhất"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Bật/tắt tất cả"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Chuyển đổi toàn màn hình"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Chuyển đổi hướng màn hình"
+    },
+    {
+      "name": "top_50",
+      "value": "Top 50 phổ biến"
+    },
+    {
+      "name": "tracks",
+      "value": "Bản nhạc"
+    },
+    {
+      "name": "trending",
+      "value": "Đang thịnh hành"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Trò chơi thịnh hành"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Phim và chương trình đang thịnh hành"
+    },
+    {
+      "name": "trending_music",
+      "value": "Âm nhạc đang thịnh hành"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Podcasts đang thịnh hành"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Loại bỏ đánh dấu"
+    },
+    {
+      "name": "undo",
+      "value": "Hoàn tác"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Bỏ gắn (có thể gây méo)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Không rõ"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Không xác định]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Định dạng không xác định"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Độ phân giải không xác định"
+    },
+    {
+      "name": "unmute",
+      "value": "Bật tiếng"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Bỏ đặt vĩnh viễn hình thu nhỏ"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Hủy đăng ký"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "Nội dung này không được hỗ trợ tại quốc gia mà bạn chọn.\n\nHãy đổi quốc gia trong phần \"Cài đặt > Nội dung > Quốc gia nội dung mặc định\"."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "URL không hỗ trợ"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Không thể đọc URL này. Mở với ứng dụng khác?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Hiển thị thông báo để nhắc cập nhật ứng dụng khi có phiên bản mới"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Cập nhật"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Đăng vào %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Bật tùy chọn này nếu bạn gặp sự cố khởi tạo bộ giải mã, vấn đề này sẽ quay trở lại bộ giải mã có mức độ ưu tiên thấp hơn nếu quá trình khởi tạo bộ giải mã chính thất bại. Điều này có thể dẫn đến hiệu suất phát lại kém hơn so với khi sử dụng bộ giải mã chính"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Sử dụng tính năng bộ giải mã dự phòng của AVPlayer"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Sử dụng trình phát âm thanh bên ngoài"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Loại bỏ âm thanh ở một số độ phân giải"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Sử dụng trình phát video bên ngoài"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Tua ít chính xác cho phép trình phát giảm độ chính xác để tua tới vị trí nhanh hơn. Tua khoảng 5, 15 hoặc 25 giây không hoạt động với điều này"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Dùng tua nhanh ít chính xác"
+    },
+    {
+      "name": "users",
+      "value": "Người dùng"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Bởi %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Trình phát video"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Không tìm thấy luồng video nào"
+    },
+    {
+      "name": "videos_string",
+      "value": "Các video"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Xem trên Github"
+    },
+    {
+      "name": "volume",
+      "value": "Âm lượng"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Đã xoá lịch sử xem"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Đã xoá vị trí phát"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Ghé thăm Trang web NewPipe để biết thêm thông tin và tin tức."
+    },
+    {
+      "name": "website_title",
+      "value": "Trang web"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Thông tin:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Chuyện gì đã xảy ra:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Chỉ trên Wi-Fi"
+    },
+    {
+      "name": "yes",
+      "value": "Có"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Bạn hiện đã đăng ký kênh này"
+    },
+    {
+      "name": "your_comment",
+      "value": "Nhận xét của bạn (bằng tiếng Anh):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Video này chỉ được dành cho thành viên YouTube Music Premium, nên NewPipe không thể phát hay tải xuống."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "Đã xảy ra lỗi HTTP 403 trong khi phát, có thể IP này đã bị ban hoặc vấn đề phát URL deobfuscation"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube cung cấp \"Chế độ hạn chế\" để ẩn nội dung có khả năng dành cho người trưởng thành"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Bật chế độ hạn chế YouTube"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

@@ -1,0 +1,1784 @@
+{
+  "string": [
+    {
+      "name": "action_history",
+      "value": "చరిత్ర"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "ప్లేజాబితాకు చేర్చు"
+    },
+    {
+      "name": "albums",
+      "value": "ఆల్బమ్‌లు"
+    },
+    {
+      "name": "all",
+      "value": "అన్ని"
+    },
+    {
+      "name": "always",
+      "value": "ఎల్లప్పుడూ"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "ప్రతిసారీ అడుగు"
+    },
+    {
+      "name": "app_description",
+      "value": "HarmonyOS‌లో లిబ్రే తేలికపాటి స్ట్రీమింగ్."
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe అనేది కాపీ లెఫ్ట్ లిబ్రే సాఫ్ట్‌వేర్: మీరు దీన్ని ఇష్టానుసారంగా ఉపయోగించవచ్చు, అధ్యయనం చేయవచ్చు మరియు మెరుగుపరచవచ్చు. ప్రత్యేకంగా మీరు ఫ్రీ సాఫ్ట్‌వేర్ ఫౌండేషన్ ద్వారా ప్రచురించబడిన GNU జనరల్ పబ్లిక్ లైసెన్స్ నిబంధనల ప్రకారం, లైసెన్స్ యొక్క వెర్షన్ 3 లేదా (మీ ఐచ్ఛికం ప్రకారం) ఏదైనా తర్వాతి సంస్కరణలో దాన్ని పునఃపంపిణీ చేయవచ్చు మరియు/లేదా సవరించవచ్చు."
+    },
+    {
+      "name": "app_license_title",
+      "value": "న్యూపెయిప్ యొక్క లైసెన్స్"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "యాప్/UI విఫలమైనది"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "%sని డౌన్‌లోడ్ చేయడానికి నొక్కండి"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "NewPipe నవీకరణ అందుబాటులో ఉంది!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "కొత్త NewPipe వెర్షన్ కోసం నోటిఫికేషన్‌లు"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "యాప్‌ నవీకరణ నోటిఫికేషన్"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "మీరు NewPipe యొక్క తాజా సంస్కరణను అమలు చేస్తున్నారు"
+    },
+    {
+      "name": "artists",
+      "value": "కళాకారులు"
+    },
+    {
+      "name": "audio",
+      "value": "ఆడియో"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "ఆడియో స్ట్రీమ్‌లు ఏవీ కనుగొనబడలేదు"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "సంబంధిత స్ట్రీమ్‌ను జోడించడం ద్వారా (పునరావృతం కాని) ప్లేబ్యాక్ క్యూను ముగించడాన్ని కొనసాగించండి"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "తదుపరి స్ట్రీమ్‌ను స్వీయ-ఎన్క్యూ"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "ఆటోప్లే"
+    },
+    {
+      "name": "background_player",
+      "value": "తేలియాడే ప్లేయర్"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "వెనకవైపులో ఆడుతున్నారు"
+    },
+    {
+      "name": "best_resolution",
+      "value": "ఉత్తమ స్పష్టత"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "నలుపు"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "ఖాళీ పేజీ"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "వినోదజాబితాను ఇష్టంశంగా మార్చుము"
+    },
+    {
+      "name": "cancel",
+      "value": "రద్దు చేయి"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "స్వయంచాలకంగా రూపొందించబడింది"
+    },
+    {
+      "name": "caption_none",
+      "value": "శీర్షికలు వద్దు"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "ప్లేయర్ శీర్షిక వచన స్థాయి మరియు నేపథ్య శైలులను సవరించండి. అమలులోకి రావడానికి యాప్ రీస్టార్ట్ అవసరం"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "శీర్షికలు"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "ఛానెల్ పేజీ"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "ఛానెల్ సభ్యత్వం తీసివేయబడినది"
+    },
+    {
+      "name": "channels",
+      "value": "ఛానెల్లు"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "లెటర్స్ మరియు అంకెలు"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "చాలా ప్రత్యేక పాత్రలు"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "కొత్త స్ట్రీమ్‌ల కోసం తనిఖీని అమలు చేయండి"
+    },
+    {
+      "name": "checksum",
+      "value": "చెక్సమ్"
+    },
+    {
+      "name": "clear",
+      "value": "శుభ్రపరచు"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "మీరు reCAPTCHAని పరిష్కరించినప్పుడు NewPipe స్టోర్ చేసే కుక్కీలను క్లియర్ చేయండి"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "reCAPTCHA కుక్కీలను క్లియర్ చేయండి"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "అన్ని ప్లేబ్యాక్ స్థానాలను తొలగిస్తుంది"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "ప్లేబ్యాక్ స్థానాలను తొలగించండి"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "క్రియాశీల ప్లేయర్ క్యూ భర్తీ చేయబడుతుంది"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "ఒక ప్లేయర్ నుండి మరొక ప్లేయర్‌కు మారడం వలన మీ క్యూను భర్తీ చేయవచ్చు"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "క్యూను క్లియర్ చేయడానికి ముందు నిర్ధారణ కోసం అడగండి"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "శోధన కీలకపదాల చరిత్రను తొలగిస్తుంది"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "శోధన చరిత్రను శుభ్రపరచు"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "ప్లే చేసిన స్ట్రీమ్‌ల చరిత్ర మరియు ప్లేబ్యాక్ స్థానాలను తొలగిస్తుంది"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "వీక్షణ చరిత్రను శుభ్రపరచుము"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "వ్యాఖ్యలు నిలిపివేయబడ్డాయి"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "వ్యాఖ్యలు"
+    },
+    {
+      "name": "conferences",
+      "value": "సమావేశాలు"
+    },
+    {
+      "name": "content",
+      "value": "విషయము"
+    },
+    {
+      "name": "content_language_title",
+      "value": "డిఫాల్ట్ భాష"
+    },
+    {
+      "name": "content_not_available",
+      "value": "కంటెంట్ అందుబాటులో లేదు"
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "మీకు ఆలోచనలు ఉన్నాయా; అనువాదం, డిజైన్ మార్పులు, కోడ్ శుభ్రపరచడం లేదా నిజమైన భారీ కోడ్ మార్పులు-సహాయం ఎల్లప్పుడూ స్వాగతం. ఎంత ఎక్కువ చేస్తే అంత మంచిది!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "సహకరించటానికి"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "జోడించండి"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "వెనుకగా"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "ప్రసార ఫైలుని డౌన్లోడ్ చేయండి"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "పాపప్"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "ఫార్మాట్ చేసిన నివేదికను కాపీ చేయండి"
+    },
+    {
+      "name": "copyright",
+      "value": "© %3$s కింద %2$s ద్వారా %1$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "హెచ్చరిక: అన్ని ఫైల్‌లను దిగుమతి చేయడం సాధ్యపడలేదు."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "అన్ని సూక్ష్మచిత్రాలను లోడ్ చేయలేకపోయాము"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "డౌన్లోడ్ మెనుని సెటప్ చేయడం సాధ్యపడలేదు"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "యాప్‌ను పతనం చేయండి"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "ప్లేయర్ క్రాష్ చేయండి"
+    },
+    {
+      "name": "create",
+      "value": "సృష్టించు"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "ఎర్రర్ నోటిఫికేషన్‌ను సృష్టించండి"
+    },
+    {
+      "name": "create_playlist",
+      "value": "కొత్త ప్లేజాబితా"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "చీకటి"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "డిఫాల్ట్ ఆడియో ఫార్మాట్"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "డిఫాల్ట్ కంటెంట్ దేశం"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "డిఫాల్ట్ కియోస్క్"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "డిఫాల్ట్ పాపప్ స్పష్టత"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "డిఫాల్ట్ స్పష్టత"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "డిఫాల్ట్ వీడియో ఫార్మాట్"
+    },
+    {
+      "name": "delete",
+      "value": "తొలగించు"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "మీరు ఈ అంశాన్ని శోధన చరిత్ర నుండి తొలగించాలనుకుంటున్నారా?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "అన్ని ప్లేబ్యాక్ స్థానాలను తొలగించాలా?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "ఇష్టంశాన్ని నాశనం చేయాలా?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "మొత్తం శోధన చరిత్రను తొలగించాలా?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "మొత్తం వీక్షణ చరిత్రను తొలగించాలా?"
+    },
+    {
+      "name": "description_tab_description",
+      "value": "వివరణ"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "మంది ఇష్టపడలేదు"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "క్రమాన్ని మార్చడానికి లాగండి"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "ఇష్టాలు"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "వీడియోని ప్లే చేయండి, వ్యవధి:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "అప్‌లోడర్ అవతార్ థంబ్‌నెయిల్"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "మీ ఉద్దేశ్యం \"%1$s\"?"
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "మీరు బ్లాక్ స్క్రీన్ లేదా చలనచిత్రం ప్లేబ్యాక్‌లో అంతరాయాన్ని అనుభవిస్తే మీడియా టన్నెలింగ్‌ను నిలిపివేయండి"
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "మీడియా టన్నెలింగ్‌ని నిలిపివేయండి"
+    },
+    {
+      "name": "disabled",
+      "value": "నిలిపివేయబడినది"
+    },
+    {
+      "name": "dismiss",
+      "value": "రద్దుచేయుము"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "వాలంటీర్లు తమ ఖాళీ సమయాన్ని వెచ్చిస్తూ మీకు ఉత్తమ వినియోగదారు అనుభవాన్ని అందించడం ద్వారా NewPipe అభివృద్ధి చేయబడింది. డెవలపర్‌లు ఒక కప్పు కాఫీని ఆస్వాదిస్తున్నప్పుడు న్యూపైప్‌ని మరింత మెరుగ్గా చేయడంలో సహాయపడటానికి తిరిగి ఇవ్వండి."
+    },
+    {
+      "name": "donation_title",
+      "value": "విరాళం ఇవ్వండి"
+    },
+    {
+      "name": "done",
+      "value": "పూర్తి"
+    },
+    {
+      "name": "dont_show",
+      "value": "చూపించవద్దు"
+    },
+    {
+      "name": "download",
+      "value": "డౌన్లోడ్"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "డౌన్‌లోడ్"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "ఆడియో ఫైల్లకు డౌన్లోడ్ మార్గాన్ని ఇవ్వండి"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "ఆడియో కోసం డౌన్లోడ్ మార్గాన్ని నమోదు చేయండి"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "ఆడియో డౌన్లోడ్ మార్గం"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "వీడియోల కోసం డౌన్లోడ్ మార్గాన్ని నమోదు చేయండి"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "డౌన్లోడ్ చేసిన వీడియోలను నిల్వ చేయడానికి మార్గం"
+    },
+    {
+      "name": "download_path_title",
+      "value": "వీడియో డౌన్లోడ్ మార్గం"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "బాహ్య SD కార్డ్‌కి డౌన్‌లోడ్ చేయడం సాధ్యం కాదు. డౌన్‌లోడ్ ఫోల్డర్ స్థానాన్ని రీసెట్ చేయాలా?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "బాహ్య నిల్వ అందుబాటులో లేదు"
+    },
+    {
+      "name": "downloads",
+      "value": "డౌన్ లోడ్ల"
+    },
+    {
+      "name": "downloads_title",
+      "value": "డౌన్ లోడ్"
+    },
+    {
+      "name": "drawer_close",
+      "value": "డ్రాయర్‌ని మూసివేయండి"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "టోగుల్ సేవ, ప్రస్తుతం ఎంపిక చేయబడింది:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "డ్రాయర్ తెరవండి"
+    },
+    {
+      "name": "duration_live",
+      "value": "ప్రత్యక్ష (ప్రసారం)"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "ఇక్కడ క్రికెట్‌లు తప్ప మరేమీ లేదు"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "పారవేయడం తర్వాత ఫ్రాగ్మెంట్ లేదా యాక్టివిటీ లైఫ్‌సైకిల్ వెలుపల బట్వాడా చేయలేని Rx మినహాయింపులను బలవంతంగా నివేదించడం"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "జీవితచక్రం లేని లోపాలను నివేదించండి"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "మెమరీ లీక్ మానిటరింగ్ హీప్ డంపింగ్ చేసినప్పుడు యాప్ స్పందించక పోవడానికి కారణం కావచ్చు"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "చివరి ప్లేబ్యాక్ స్థానాన్ని పునరుద్ధరించండి"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "ప్లేబ్యాక్ పునఃప్రారంభించండి"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "జాబితాలలో ప్లేబ్యాక్ స్థాన సూచికలను చూపు"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "జాబితాలలో స్థానాలు"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "శోధన ప్రశ్నలను స్థానికంగా నిల్వ చేయండి"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "శోధన చరిత్ర"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "వీక్షించిన వీడియోలను ట్రాక్ చేయండి"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "చరిత్రను చూడండి"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "తదుపరి ఎన్క్యూ"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "ఎన్క్యూ"
+    },
+    {
+      "name": "enqueued",
+      "value": "క్యూలో ఉంచారు"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "తదుపరి క్యూలో ఉంచారు"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "వివరములు:"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "లోపం సంభవించింది: %1$s"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "ఇ-మెయిల్ ద్వారా లోపాన్ని నివేదించుము"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "లోపాలు నివేదించడానికి నోటిఫికేషన్‌లు"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "లోపనివేదన నోటిఫికేషన్"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe లోపాన్ని ఎదుర్కొంది, నివేదించడానికి నొక్కండి"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "లోపం సంభవించింది, నోటిఫికేషన్ చూడండి"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "దయచేసి మీ క్రాష్‌ను చర్చిస్తున్న సమస్య ఇప్పటికే ఉందో లేదో తనిఖీ చేయండి. డూప్లికేట్ టిక్కెట్‌లను క్రియేట్ చేస్తున్నప్పుడు, అసలు బగ్‌ని పరిష్కరించడానికి మేము వెచ్చించే సమయాన్ని మీరు మా నుండి తీసుకుంటారు."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "GitHubపై నివేదించు"
+    },
+    {
+      "name": "error_report_title",
+      "value": "లోపం నివేదిక"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "నివేదిక"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "క్షమించండి, ఏదో తప్పు జరిగింది."
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "వ్యాఖ్యలను లోడ్ చేయడం సాధ్యపడలేదు"
+    },
+    {
+      "name": "events",
+      "value": "ఈవెంట్స్"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "ఎగుమతి చేయబడింది"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "చరిత్ర, సభ్యత్వాలు, ప్లేజాబితాలు మరియు అమరికలను ఎగుమతిచేయుము"
+    },
+    {
+      "name": "export_data_title",
+      "value": "డాటాబేసుని ఎగుమతిచేయుము"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "బాహ్య ప్లేయర్‌లు ఈ రకమైన లింక్‌లకు మద్దతు ఇవ్వవు"
+    },
+    {
+      "name": "file",
+      "value": "ఫైల్"
+    },
+    {
+      "name": "file_deleted",
+      "value": "ఫైల్ తొలగించబడింది"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "ఫైల్ పేరు ఖాళీగా ఉండకూడదు"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "కొత్తది ఏమిటి"
+    },
+    {
+      "name": "general_error",
+      "value": "లోపం"
+    },
+    {
+      "name": "give_back",
+      "value": "తిరిగి ఇవ్వండి"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "వీడియో హ్యాషింగ్ పురోగతి కోసం నోటిఫికేషన్‌లు"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "వీడియో హాష్ నోటిఫికేషన్"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "ఎన్క్యూలో పట్టుకోండి"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "ఉదాహరణకు, మీరు విరిగిన భౌతిక బటన్‌లతో హెడ్‌సెట్‌ని ఉపయోగిస్తుంటే ఉపయోగకరంగా ఉంటుంది"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "హార్డ్‌వేర్ మీడియా బటన్ ఈవెంట్‌లను విస్మరించండి"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "దిగుమతి చేయబడింది"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "మీ ప్రస్తుత చరిత్ర, సభ్యత్వాలు, ప్లేజాబితాలు మరియు (ఐచ్ఛికంగా) సెట్టింగ్‌లను భర్తీ చేస్తుంది"
+    },
+    {
+      "name": "import_data_title",
+      "value": "డాటాబేసుని దిగుమతిచేయుము"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "ఈ చర్య నెట్‌వర్క్ ఖరీదైనదని గుర్తుంచుకోండి.\n\n\n\nమీరు కొనసాగించాలనుకుంటున్నారా?"
+    },
+    {
+      "name": "import_settings",
+      "value": "మీరు అమరికలను కూడా దిగుమతి చేయాలనుకుంటున్నారా?"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "3-చుక్కల మెనూలో సభ్యత్వాలను ఎగుమతి లేదా దిగుమతి చేయండి"
+    },
+    {
+      "name": "import_title",
+      "value": "దిగుమతి"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ వీడియోలు"
+    },
+    {
+      "name": "install",
+      "value": "ఇన్స్టాల్"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "అటువంటి ఫోల్డర్ లేదు"
+    },
+    {
+      "name": "invalid_file",
+      "value": "ఫైల్ ఉనికిలో లేదు లేదా దానిని చదవడానికి లేదా వ్రాయడానికి అనుమతి లేదు"
+    },
+    {
+      "name": "invalid_source",
+      "value": "అటువంటి ఫైల్/కంటెంట్ సోర్స్ లేదు"
+    },
+    {
+      "name": "just_once",
+      "value": "ఒక్కసారి మాత్రమే"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "కియోస్క్ పేజీ"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "కోరే ఆప్ కనుగొనబడలేదు. దీన్ని ఇన్స్టాల్ చెయ్యాలా?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary అందుబాటులో లేదు"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "ప్రకాశం"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "మొబైల్ డేటా వాడుతున్నప్పుడు స్పష్టతకు హద్దుపెట్టు"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "స్ట్రీమ్ వివరాలను లోడ్ చేస్తోంది…"
+    },
+    {
+      "name": "local",
+      "value": "స్థానిక"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "స్థానిక శోధన సూచనలు"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "తక్కువ నాణ్యత (చిన్నది)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "మొదలుపెట్టుటకు బూతద్దము గురుతుని తట్టండి."
+    },
+    {
+      "name": "main_page_content",
+      "value": "ప్రధాన పేజీ యొక్క కంటెంట్"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "ప్రధాన పేజీలో ఏ ట్యాబ్‌లు చూపబడతాయి"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "వాటిని తీసివేయడానికి వాటిని స్వైప్ చేయండి"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "వీక్షించినట్లు గుర్తుపెట్టుము"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "మెటాడేటా కాష్ తుడిచివేయబడింది"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "కాష్ చేసిన వెబ్‌పేజీ డేటా మొత్తాన్ని తీసివేయండి"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "కాష్ చేయబడిన మెటాడేటాను తుడిచివేయండి"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "ఏమిలేదు"
+    },
+    {
+      "name": "missing_file",
+      "value": "ఫైల్ తరలించబడింది లేదా తొలగించబడింది"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "పూర్తయింది"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "వేలాడుతున్న"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ వీడియోలు"
+    },
+    {
+      "name": "most_liked",
+      "value": "చాలా నచ్చింది"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "హాష్‌ని లెక్కిస్తోంది"
+    },
+    {
+      "name": "msg_copied",
+      "value": "క్లిప్బోర్డ్కు కాపీ చేయబడింది"
+    },
+    {
+      "name": "msg_error",
+      "value": "లోపం"
+    },
+    {
+      "name": "msg_name",
+      "value": "ఫైలుపేరు"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "దీనికి ఈ అనుమతి అవసరం\n\nతేలియాడే పద్ధతిలో తెరవండి"
+    },
+    {
+      "name": "msg_running",
+      "value": "న్యూపిప్ డౌన్లోడ్ అవుతంది"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "వివరాల కోసం నొక్కండి"
+    },
+    {
+      "name": "msg_threads",
+      "value": "థ్రెడ్లు"
+    },
+    {
+      "name": "msg_wait",
+      "value": "దయచేసి వేచి ఉండండి…"
+    },
+    {
+      "name": "mute",
+      "value": "మూగ"
+    },
+    {
+      "name": "name",
+      "value": "పేరు"
+    },
+    {
+      "name": "network_error",
+      "value": "నెట్వర్క్ లోపం"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "క్రొత్తది మరియు వేడి"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "చీకటి థీమ్"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "డౌన్లోడ్ ఫోల్డర్ను అమరికలలో తరువాత ఎంచుకోండి"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "ఇంకా ఏ ఛానెల్ సభ్యత్వం లేదు"
+    },
+    {
+      "name": "no_comments",
+      "value": "వ్యాఖ్యలు లేవు"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "ఇంకా డౌన్‌లోడ్ ఫోల్డర్ సెట్ చేయబడలేదు, ఇప్పుడే డిఫాల్ట్ డౌన్‌లోడ్ ఫోల్డర్‌ను ఎంచుకోండి"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "ఎవరూ వినడం లేదు"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "ఎవరూ చూడటం లేదు"
+    },
+    {
+      "name": "no_player_found",
+      "value": "మీదగ్గర వీడియోకి కావాల్సిన ప్లేయర్ లేదు. VLC ప్లేయర్ని ఇన్స్టాల్ చేసుకుంటారా?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "మీదగ్గర వీడియోకి కావాల్సిన ప్లేయర్ లేదు (మీరు VLCని ఇన్స్టాల్ చేసుకోండి )."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "ప్లేజాబితా బుక్‌మార్క్‌లు ఇంకా లేవు"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "డౌన్‌లోడ్ చేయడానికి స్ట్రీమ్‌లు ఏవీ అందుబాటులో లేవు"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "సభ్యులు లేరు"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "చెల్లుబాటు అయ్యే జిప్ ఫైల్ లేదు"
+    },
+    {
+      "name": "no_videos",
+      "value": "వీడియోలు లేవు"
+    },
+    {
+      "name": "no_views",
+      "value": "వీక్షణలు లేవు"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "మొదటి చర్య బటన్"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "రెండవ చర్య బటన్"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "మూడవ చర్య బటన్"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "నాల్గవ చర్య బటన్"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "ఐదవ చర్య బటన్"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "బఫరింగ్"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "ఏమిలేదు"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "పునరావృతం చేయండి"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "షఫుల్ చేయండి"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "మీరు కాంపాక్ట్ నోటిఫికేషన్‌లో చూపడానికి గరిష్టంగా మూడు చర్యలను ఎంచుకోవచ్చు!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "దిగువన ఉన్న ప్రతి నోటిఫికేషన్ చర్యను దానిపై నొక్కడం ద్వారా సవరించండి. కుడివైపు ఉన్న చెక్‌బాక్స్‌లను ఉపయోగించడం ద్వారా కాంపాక్ట్ నోటిఫికేషన్‌లో చూపబడే వాటిలో మూడు వరకు ఎంచుకోండి"
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "దిగువన ఉన్న ప్రతి నోటిఫికేషన్ చర్యను దానిపై నొక్కడం ద్వారా సవరించండి. మొదటి మూడు చర్యలు (ప్లే/పాజ్, మునుపటి మరియు తదుపరి) సిస్టమ్ ద్వారా సెట్ చేయబడ్డాయి మరియు అనుకూలీకరించబడవు."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "NewPipe ప్లేయర్‌ నోటిఫికేషన్‌లు"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "న్యూప్యాప్ నోటిఫికేషన్"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "థంబ్‌నెయిల్‌లోని ప్రధాన రంగు ప్రకారం నోటిఫికేషన్ రంగును Android అనుకూలీకరించండి (ఇది అన్ని పరికరాల్లో అందుబాటులో లేదని గమనించండి)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "నోటిఫికేషన్‌ను రంగులమయం చేయండి"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "నోటిఫికేషన్‌లో చూపబడిన వీడియో థంబ్‌నెయిల్‌ను 16:9 నుండి 1:1 కారక నిష్పత్తికి మార్చుము"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "సూక్ష్మచిత్రాన్ని 1:1 కారక నిష్పత్తికి మార్చుము"
+    },
+    {
+      "name": "ok",
+      "value": "అలాగే"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 అంశం తొలగించబడింది."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "బ్రౌజర్ లో తెరవండి"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "పాపప్ మోడ్లో తెరవండి"
+    },
+    {
+      "name": "open_with",
+      "value": "దీనితో తెరువుము"
+    },
+    {
+      "name": "override_current_data",
+      "value": "ఇది మీ ప్రస్తుత సెటప్‌ను భర్తీ చేస్తుంది."
+    },
+    {
+      "name": "parsing_error",
+      "value": "వెబ్సైట్ను అన్వయించడం సాధ్యం కాలేదు"
+    },
+    {
+      "name": "pause",
+      "value": "విరామం"
+    },
+    {
+      "name": "paused",
+      "value": "ఆగిపోయింది"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "ఉదాహరణ ఇప్పటికే ఉంది"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "ఉదాహరణను ధృవీకరించడం సాధ్యపడలేదు"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "ఉదాహరణ URLని నమోదు చేయండి"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "HTTPS URLలకు మాత్రమే మద్దతు ఉంది"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "సందర్భాన్ని జోడించండి"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "%sలో మీకు నచ్చిన సందర్భాలను కనుగొనండి"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "మీకు ఇష్టమైన పీర్‌ట్యూబ్ సందర్భాలను ఎంచుకోండి"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "పీర్‌ట్యూబ్ ఉదాహరణలు"
+    },
+    {
+      "name": "percent",
+      "value": "శాతం"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "ఇతర యాప్‌లలో ప్రదర్శించడానికి అనుమతి ఇవ్వండి"
+    },
+    {
+      "name": "play_all",
+      "value": "అన్నింటినీ ప్లే చేయండి"
+    },
+    {
+      "name": "play_audio",
+      "value": "ఆడియో"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "ఆడియో సెట్టింగ్లు"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "తొలగించు"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "వివరాలు"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "కోడితో ప్లే చేయండి"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "శృతి"
+    },
+    {
+      "name": "playback_reset",
+      "value": "స్థితి పునరుద్ధరణ"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "ప్లేబ్యాక్ స్పీడ్ నియంత్రణలు"
+    },
+    {
+      "name": "playback_step",
+      "value": "అడుగు"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "లయ"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "ప్లేయర్ లోపం నుండి పునరుద్ధరించబడుతున్నది"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "ఈ స్ట్రీమ్ని ప్లే చేయడం విఫలమైంది"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "ప్లేయర్లో కోలుకోలేని లోపం సంభవించింది"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "వినోదజాబితా చేయబడింది"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "వినోదజాబితా రూపొందించబడింది"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "స్వయంచాలకంగా రూపొందించబడింది (ఎక్కించినవారు కనబడుటలేదు)"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "వినోదజాబితా సూక్ష్మచిత్రం మార్చబడింది."
+    },
+    {
+      "name": "playlists",
+      "value": "ప్లేజాబితాలు"
+    },
+    {
+      "name": "popup_player",
+      "value": "తేలియాడే ప్లేయర్"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "పాపప్ రీతిలో ప్లే చేస్తోంది"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "పాప్అప్ చివరి పరిమాణం మరియు స్థానాన్ని గుర్తుంచుకోండి"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "పాప్అప్ లక్షణాలను గుర్తుంచుకో"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "వివరణాత్మక ఆడియోకు ప్రాధాన్యత ఇవ్వండి"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "భాషతో సంబంధం లేకుండా అసలు ఆడియో ట్రాక్‌ని ఎంచుకోండి"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "అసలు శ్రావ్యయానికి ప్రాధాన్యత ఇవ్వండి"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "కంటెంట్‌ని తెరిచేటప్పుడు డిఫాల్ట్ చర్య — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "ప్రాధాన్య 'తెరవండి' చర్య"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "అభ్యర్థించిన కంటెంట్ లోడ్ అవుతోంది"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "సమాచారాన్ని పొందుతోంది…"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "NewPipe ప్రాజెక్ట్ మీ గోప్యతను చాలా తీవ్రంగా పరిగణిస్తుంది. కాబట్టి, మీ సమ్మతి లేకుండా యాప్ ఎలాంటి డేటాను సేకరించదు.\n\nNewPipe యొక్క గోప్యతా విధానం మీరు క్రాష్ నివేదికను పంపినప్పుడు ఏ డేటా పంపబడుతుందో మరియు నిల్వ చేయబడుతుందో వివరంగా వివరిస్తుంది."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "NewPipe యొక్క గోప్యతా విధానం"
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "ప్రాసెస్ చేస్తోంది... కొంత సమయం పట్టవచ్చు"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "ప్రగతిశీల విషయాలపై లోడ్ విరామం పరిమాణాన్ని మార్చండి (ప్రస్తుతం %s). తక్కువ విలువ వాటి ప్రారంభ లోడింగ్‌ను వేగవంతం చేయవచ్చు"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "ప్లేబ్యాక్ లోడ్ విరామం పరిమాణం"
+    },
+    {
+      "name": "read_full_license",
+      "value": "లైసెన్స్‌ను చదువు"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "గోప్యతా విధానాన్ని చదవండి"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA కుక్కీలను క్లియర్ చేయండి"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "reCAPTCHA సవాలు అభ్యర్థించబడింది"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "పరిష్కరించండి"
+    },
+    {
+      "name": "recently_added",
+      "value": "ఇటీవల జోడించినవి"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "సంబంధిత అంశాలు"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "రిమోట్ శోధన సూచనలు"
+    },
+    {
+      "name": "rename",
+      "value": "పేరు మార్చండి"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "పేరు మార్చండి"
+    },
+    {
+      "name": "resize_fill",
+      "value": "పూరించండి"
+    },
+    {
+      "name": "resize_fit",
+      "value": "తగినది"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "పరివీక్షణ"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "డిఫాల్ట్‌ విలువలకు మార్చు"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "మీరు డిఫాల్ట్‌లను పునరుద్ధరించాలనుకుంటున్నారా?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "ఈ వీడియోకు వయో పరిమితి ఉంది.\n\n\n\nమీరు దీన్ని చూడాలనుకుంటే సెట్టింగ్‌లలో \"%1$s\"ని ఆన్ చేయండి."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "ఈ వీడియో వయో పరిమితి విధించబడింది.\n\nవయో-నియంత్రిత వీడియోలతో కూడిన కొత్త YouTube విధానాల కారణంగా, NewPipe దాని వీడియో స్ట్రీమ్‌లలో దేనినీ యాక్సెస్ చేయదు మరియు దానిని ప్లే చేయడం సాధ్యం కాదు."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "అంతరాయాలు (ఉదా. ఫోన్‌కాల్స్) తర్వాత ప్లే చేయడం కొనసాగించండి"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "ప్లే చేయడం కొనసాగించండి"
+    },
+    {
+      "name": "retry",
+      "value": "మళ్ళీ ప్రయత్నించు"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "సేవ్ చేసిన ట్యాబ్‌లను చదవడం సాధ్యం కాలేదు, కాబట్టి డిఫాల్ట్ వాటిని ఉపయోగిస్తోంది"
+    },
+    {
+      "name": "search",
+      "value": "వెతుకు"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "శోధన చరిత్ర తొలగించబడింది"
+    },
+    {
+      "name": "search_no_results",
+      "value": "ఫలితాలు లేవు"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "దీని కోసం ఫలితాలను చూపుతోంది: %s"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "ఫాస్ట్-ఫార్వర్డ్/-రివైండ్ సీక్ వ్యవధి"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "ఛానెల్ని ఎంచుకోండి"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "కియోస్క్‌ని ఎంచుకోండి"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "ప్లేజాబితాను ఎంచుకోండి"
+    },
+    {
+      "name": "semitone",
+      "value": "అర్ధరాగం"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "వినోదజాబితాకు సూక్ష్మచిత్రంగా మార్చుము"
+    },
+    {
+      "name": "settings",
+      "value": "అమరికలు"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "స్వరూపం"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "డేటాను క్లియర్ చేయండి"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "డీబగ్ చేయండి"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "డౌన్లోడ్"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "చరిత్ర మరియు కాష్"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "ప్రవర్తన"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "ప్లేయర్"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "నవీకరణలు"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "వీడియో & ఆడియో"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "ఫైల్ పేర్లలో అనుమతించిన అక్షరాలు"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "చెల్లని అక్షరాలు ఈ విలువతో భర్తీ చేయబడతాయి"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "ప్రత్యామ్నాయ అక్షరం"
+    },
+    {
+      "name": "share",
+      "value": "షేర్"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "పంచుకో"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "కంటెంట్‌కి వయస్సు పరిమితి (18+ వంటివి) ఉన్నందున పిల్లలకు అనుచితమైన కంటెంట్‌ను చూపండి"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "వయో పరిమితి ఉన్న కంటెంట్‌ని చూపండి"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "ఛానెల్ వివరాలను చూపు"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "వ్యాఖ్యలను దాచడాన్ని ఆఫ్ చేయండి"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "వ్యాఖ్యలను చూపించు"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "ప్లేయర్‌ని ఉపయోగిస్తున్నప్పుడు పతనం ఎంపికను చూపుము"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "\"ప్లేయర్ పతనం\" చూపించు"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "వీడియో వివరణ మరియు అదనపు సమాచారాన్ని దాచడాన్ని ఆఫ్ చేయండి"
+    },
+    {
+      "name": "show_description_title",
+      "value": "వివరణను చూపు"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "లోపం స్నాక్‌బార్‌ని చూపండి"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "కొన్ని పరికరాలు మాత్రమే 2K/4K వీడియోలను ప్లే చేయగలవు"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "అధిక స్పష్టతను చూపుము"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "వీడియో \"వివరాలు:\"లో బ్యాక్‌గ్రౌండ్ లేదా పాప్‌అప్ బటన్‌ను నొక్కినప్పుడు చిట్కాను చూపు"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "చిట్కాను అనుబంధించడానికి హోల్డ్ను చూపు"
+    },
+    {
+      "name": "show_info",
+      "value": "సమాచారాన్ని చూపుము"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "మెమరీ లీక్‌లను చూపించు"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "స్ట్రీమ్ సృష్టికర్త, స్ట్రీమ్ కంటెంట్ లేదా శోధన అభ్యర్థన గురించి అదనపు సమాచారంతో మెటా సమాచార పెట్టెలను దాచడానికి ఆఫ్ చేయండి"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "మెటా సమాచారాన్ని చూపు"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "'తదుపరి' మరియు 'ఇలాంటి' వీడియోలను చూపించు"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "సర్వీస్‌ల నుండి ఒరిజినల్ టెక్స్ట్‌లు స్ట్రీమ్ ఐటెమ్‌లలో కనిపిస్తాయి"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "వస్తువులపై అసలు క్రిత సమయాన్ని చూపుము"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "కోడి మీడియా సెంటర్ ద్వారా వీడియోను ప్లే చేయడానికి ఎంపికను ప్రదర్శించండి"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "కోరే అనువర్తనం కనుగొనబడలేదు. దీన్ని ఇన్స్టాల్ చేయండి"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "శోధిస్తున్నప్పుడు చూపాల్సిన సూచనలను ఎంచుకోండి"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "సూచనలను శోధించండి"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "నిశ్శబ్ద సమయంలో వేగంగా ముందుకు వెళ్లుము"
+    },
+    {
+      "name": "songs",
+      "value": "పాటలు"
+    },
+    {
+      "name": "sorry_string",
+      "value": "క్షమించాలి, అది జరగకూడదు"
+    },
+    {
+      "name": "sort",
+      "value": "క్రమం"
+    },
+    {
+      "name": "start",
+      "value": "ప్రారంభం"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "వెనుకగా ప్లే చేయడం ప్రారంభించండి"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "తేలియాడే విధంగా ప్లే చేయడం ప్రారంభించండి"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "మినీ ప్లేయర్‌లో వీడియోలను ప్రారంభించవద్దు, ఆటో రొటేషన్ లాక్ చేయబడితే, నేరుగా పూర్తి స్క్రీన్ మోడ్‌కి మారండి. మీరు పూర్తి స్క్రీన్ నుండి నిష్క్రమించడం ద్వారా ఇప్పటికీ మినీ ప్లేయర్‌ని యాక్సెస్ చేయవచ్చు"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "పూర్తి స్క్రీన్‌లో ప్రధాన ప్లేయర్‌ని ప్రారంభించండి"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "సభ్యత్వాల కోసం కొత్త స్ట్రీమ్‌ల గురించి నోటిఫికేషన్‌లు"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "కొత్త స్ట్రీమ్స్"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "సభ్యత్వం"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "సబ్ స్క్రైబ్"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "సభ్యుల సంఖ్య అందుబాటులో లేదు"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "సబ్ స్క్రైబ్ సాధ్యం కాలేదు"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "సబ్ స్క్రైబ్ నవీకరించలేరు"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "పరిష్కరించబడినప్పుడు \"పూర్తయింది\" నొక్కండి"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "వెనుకగా మార్చు"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "తేలియాడే విధంగా మార్చు"
+    },
+    {
+      "name": "tab_about",
+      "value": "గురించి"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "బుక్‌మార్క్ చేయబడిన వినోదజాబితాలు"
+    },
+    {
+      "name": "tab_choose",
+      "value": "ట్యాబ్‌ని ఎంచుకోండి"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "లైసెన్సులు"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "సభ్యత్వం"
+    },
+    {
+      "name": "theme_title",
+      "value": "థీమ్"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "చిత్రం కాష్ తుడిచివేయబడింది"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "న్యూపిప్ గురించి"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "చరిత్ర"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "ప్లే క్యూ"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA సవాలు"
+    },
+    {
+      "name": "title_last_played",
+      "value": "చివరిగా ఆడింది"
+    },
+    {
+      "name": "title_licenses",
+      "value": "మూడవ పార్టీ లైసెన్స్"
+    },
+    {
+      "name": "title_most_played",
+      "value": "ఎక్కువగా ఆడినవి"
+    },
+    {
+      "name": "top_50",
+      "value": "టాప్ 50"
+    },
+    {
+      "name": "tracks",
+      "value": "ట్రాక్స్"
+    },
+    {
+      "name": "trending",
+      "value": "ట్రెండింగ్"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "ఇష్టంశాన్ని తొలగించండి"
+    },
+    {
+      "name": "undo",
+      "value": "చెరుపు"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "అన్‌హుక్ (వక్రీకరణకు కారణం కావచ్చు)"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[తెలియదు]"
+    },
+    {
+      "name": "unmute",
+      "value": "అన్‌మ్యూట్ చేయండి"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "సభ్యత్వాన్ని తొలగించుము"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Url మద్దతు లేదు"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "URLని గుర్తించడం సాధ్యపడలేదు. మరొక యాప్‌తో తెరవాలా?"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "%1$sన ప్రచురించబడింది"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "బాహ్య ఆడియో ప్లేయర్ని ఉపయోగించండి"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "కొన్ని స్పష్టతల్లో ఆడియోను తొలగిస్తుంది"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "బాహ్య వీడియో ప్లేయర్ని ఉపయోగించండి"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "ఖచ్చితమైన శోధన తగ్గిన ఖచ్చితత్వంతో వేగంగా స్థానాలను పొందేందుకు ఆటగాడిని అనుమతిస్తుంది. 5, 15 లేదా 25 సెకన్ల పాటు కోరడం దీనితో పని చేయదు"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "వేగవంతమైన ఖచ్చితమైన శోధనను ఉపయోగించండి"
+    },
+    {
+      "name": "users",
+      "value": "వినియోగదారులు"
+    },
+    {
+      "name": "video",
+      "value": "వీడియో"
+    },
+    {
+      "name": "video_player",
+      "value": "చలనచిత్ర ప్లేయర్"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "వీడియో స్ట్రీమ్‌లు ఏవీ కనుగొనబడలేదు"
+    },
+    {
+      "name": "videos_string",
+      "value": "వీడియోలు"
+    },
+    {
+      "name": "view_on_github",
+      "value": "GitHub పై చూడండి"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "వీక్షణ చరిత్ర తొలగించబడింది"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "ప్లేబ్యాక్ స్థానాలు తొలగించబడ్డాయి"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "మరింత సమాచారం మరియు వార్తల కోసం NewPipe వెబ్‌సైట్‌ని సందర్శించండి."
+    },
+    {
+      "name": "website_title",
+      "value": "వెబ్సైట్"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "సమాచారం:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "ఏం జరిగింది:"
+    },
+    {
+      "name": "your_comment",
+      "value": "మీ వ్యాఖ్య(ఆంగ్లం లో):"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube \"పరిమితం చేయబడిన మోడ్\"ని అందిస్తుంది, ఇది పరిణతి చెందిన కంటెంట్‌ను దాచిపెడుతుంది"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "YouTube యొక్క \"పరిమితం చేయబడిన మోడ్\"ని ఆన్ చేయండి"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "string": [
+    {
+      "name": "auto_queue_summary",
+      "value": "Pokoke teruske muter suara/video"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Antri otomatis stream bare"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Ireng"
+    },
+    {
+      "name": "cancel",
+      "value": "Orasido"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Wes ora langganan saluran"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Tambah nang"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Latar mburi"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Unduh file"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Ngambang"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Peteng"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Format audio standar"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Resolusi ngambang standar"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Resolusi standar"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Format video standar"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Maksude: %1$s?"
+    },
+    {
+      "name": "download",
+      "value": "Unduh"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Pilih tempat kanggo nyimpen suara"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Suara sing diunduh disimpen nang kene"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Tempat nyimpen suara"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Pilih tempat nyimpen video"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Video unduhan disimpen nang kene"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Folder video unduhan"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Teruske, loske wae lur"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Posisi nang daftar"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Riwayatmu biyen cuk"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Delok sejarah mantan"
+    },
+    {
+      "name": "install",
+      "value": "Pasang"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Aplikasi Kore rung ono, pasang?"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Padhang"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Pencet lup kanggo nglekasi"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Sampah metadata wes dibusak"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Busak kabeh sampah ora kanggo"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Pamuter ora ditemokke. Pasang VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Ra ono pamuter (Sampeyan iso masang VLC kanggo muter iku)."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Buka nang Browser"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Buka nang mode nyembul"
+    },
+    {
+      "name": "play_audio",
+      "value": "Suara ati"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Puter nganggo Kodi"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Eling-eling ukuran lan posisi ngambang terakhir"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Eling-eling ukuran lan posisi ngambang"
+    },
+    {
+      "name": "search",
+      "value": "Goleki"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Durasi cepet maju/mundure"
+    },
+    {
+      "name": "settings",
+      "value": "Setelan"
+    },
+    {
+      "name": "share",
+      "value": "Bagi"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Bagi nganggo"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Pateni gawe ngumpetke komentar"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Duduhke komentar"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Mung piranti tertentu sing iso muter video 2K/4K"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Duduhke resolusi luwih gedhe"
+    },
+    {
+      "name": "show_info",
+      "value": "Ndeloke info"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Duduhke pilihan muter video nganggo Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Duduhke pilihan \"Puter nganggo Kodi\""
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Duduhke saran nalika nggoleki"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Goleki saran"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Langganan"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Pelanggan"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Ora iso ngubah langganan"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Ora iso nganyari langganan"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Daftar sing ditandai"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Pilih Tab"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Langganan"
+    },
+    {
+      "name": "theme_title",
+      "value": "Tema"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Sampah gambar wes resik"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Rasido langganan"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Diterbitake ing %1$s"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Gunake pemuter suara liyane"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Busak suara ing resolusi cuk"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Gunake pemuter video liyane"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

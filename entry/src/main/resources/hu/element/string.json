@@ -1,0 +1,3092 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Elfogadás"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Fiók eltávolítva"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Fiók megszüntetve\n\n%1$s az alábbi ok miatt: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "Előzmények"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Lejátszási listához adás"
+    },
+    {
+      "name": "albums",
+      "value": "Albumok"
+    },
+    {
+      "name": "all",
+      "value": "Összes"
+    },
+    {
+      "name": "always",
+      "value": "Mindig"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Mindig kérdezzen"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Ez a kerülőmegoldás elengedi és újból előkészíti a videokodekeket, ha felületváltozás történik, ahelyett, hogy közvetlenül a kodeknél állítaná be a felületet. Ez már alapból használatban van egyes, az ezzel a problémával érintett eszközöknél, a beállításnak Android 6 vagy újabb esetén van hatása\n\nA beállítás bekapcsolása megakadályozhatja a lejátszási hibákat abban az esetben, ha átváltja a jelenlegi videolejátszót, vagy teljes képernyőre vált"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Kerülőmegoldás: mindig az AVPlayer videokimeneti felületének használata"
+    },
+    {
+      "name": "any_network",
+      "value": "Bármilyen hálózat"
+    },
+    {
+      "name": "api23_requirement_dialog_blogpost",
+      "value": "Blogbejegyzés"
+    },
+    {
+      "name": "api23_requirement_dialog_message",
+      "value": "Sajnos a NewPipe néhány olyan programkönyvtárra támaszkodik, amelyek megszüntették az Android 5.0 és 5.1 verziójának támogatását. A NewPipe következő verziója ezért sajnos csak Android 6 vagy újabb rendszerrel rendelkező eszközökön fog működni. További információt a blogbejegyzésben olvashat."
+    },
+    {
+      "name": "api23_requirement_dialog_title",
+      "value": "A NewPipe megszünteti az Android 5 támogatását"
+    },
+    {
+      "name": "app_description",
+      "value": "Szabad és könnyed közvetítés HarmonyOS-en."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Alkalmazás nyelve"
+    },
+    {
+      "name": "app_license",
+      "value": "A NewPipe copyleft, szabad szoftver: Ön szabadon használhatja, tanulmányozhatja, megoszthatja és továbbfejlesztheti. Különösen jogosult arra, hogy a Free Software Foundation által közzétett GNU General Public License feltételei szerint terjessze és/vagy módosítsa, akár a licenc 3-as verziója, akár – saját belátása szerint – bármely későbbi verziója alapján."
+    },
+    {
+      "name": "app_license_title",
+      "value": "A NewPipe licence"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Az alkalmazás/kezelőfelület összeomlott"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Nyomjon a %s letöltéséhez"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "NewPipe frissítés érhető el!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Értesítések az új NewPipe verziókról"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Alkalmazásfrissítés értesítése"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Ön a Newpipe legfrissebb verzióját futtatja"
+    },
+    {
+      "name": "artists",
+      "value": "Előadók"
+    },
+    {
+      "name": "audio",
+      "value": "Hang"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Nem található hangfolyam"
+    },
+    {
+      "name": "audio_track",
+      "value": "Hangsáv"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Egy hangsáv már jelen van ebben a közvetítésben"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "leíró"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "szinkronizált"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "eredeti"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "másodlagos"
+    },
+    {
+      "name": "auto",
+      "value": "Automatikus"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Automatikus (rendszertéma)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Egy hasonló videó hozzáadása a befejeződő (nem ismétlődő) lejátszási sorhoz"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Következő videó automatikus sorba állítása"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Automatikus sorba állítás"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "A NewPipe időről időre automatikusan ellenőrzi az új verziókat, és értesít, amint azok elérhetővé válnak.\n\nSzeretné engedélyezni ezt?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Lejátszás automatikus indítása — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Automatikus lejátszás"
+    },
+    {
+      "name": "background_player",
+      "value": "Háttérbeli lejátszó"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Lejátszás a háttérben"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Legjobb felbontás"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Fekete"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Üres oldal"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Lejátszási lista könyvjelzőzése"
+    },
+    {
+      "name": "brightness",
+      "value": "Fényerő"
+    },
+    {
+      "name": "cancel",
+      "value": "Mégse"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Automatikusan létrehozott"
+    },
+    {
+      "name": "caption_none",
+      "value": "Nincs felirat"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Feliratok méretének és hátterének stílusbeli módosítása. A módosítások életbe lépésehez az alkalmazás újraindítása szükséges"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Feliratok"
+    },
+    {
+      "name": "card",
+      "value": "Kártya"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Készítette: %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Csatornaoldal"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Névjegy"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Albumok"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Csatornák"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Kedvelések"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Élő"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Lejátszási listák"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Rövidek"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Zeneszámok"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Videók"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Csatornáról leiratkozva"
+    },
+    {
+      "name": "channels",
+      "value": "Csatornák"
+    },
+    {
+      "name": "chapters",
+      "value": "Fejezetek"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Betűk és számok"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Legtöbb speciális karakter"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Frissítések keresése"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Keressen új élő közvetítést"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Frissítések keresése…"
+    },
+    {
+      "name": "checksum",
+      "value": "Ellenőrzőösszeg"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Válasszon egy példányt"
+    },
+    {
+      "name": "clear",
+      "value": "Törlés"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Sütik törlése, amelyeket a NewPipe akkor ment, amikor megold egy reCAPTCHA-t"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "reCAPTCHA sütik törlése"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Letöltési előzmények törlése"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Összes lejátszási pozíció törlése"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Lejátszási pozíciók törlése"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "A jelenleg aktív lejátszási sor le lesz cserélve"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Az egyik lejátszóról a másikra váltás törölheti a lejátszási sort"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Megerősítés kérése a lejátszási sor törlése előtt"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Eltávolítja a keresési kulcsszavakat az előzményekből"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Keresési előzmények törlése"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Törli a megtekintési előzményeket és a lejátszási pozíciókat"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Megtekintési előzmények törlése"
+    },
+    {
+      "name": "close",
+      "value": "Bezárás"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "A hozzászólások ki vannak kapcsolva"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Hozzászólások"
+    },
+    {
+      "name": "conferences",
+      "value": "Konferenciák"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Törli a letöltési előzményeket, vagy törli az összes letöltött fájlt?"
+    },
+    {
+      "name": "content",
+      "value": "Tartalom"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Tartalom alapértelmezett nyelve"
+    },
+    {
+      "name": "content_not_available",
+      "value": "A tartalom nem érhető el"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Ezt a tartalmat még nem támogatja a NewPipe.\n\n\n\nRemélhetőleg egy következő verzióban már támogatott lesz."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Legyen szó fordításról, dizájnmódosításokról, kódtisztításról vagy komolyabb fejlesztésekről, minden segítséget szívesen fogadunk. Minél többen járulnak hozzá, annál jobb lesz a projekt!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Közreműködés"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Hozzáadás ehhez"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Háttér"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Közvetítési fájl letöltése"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Felugró ablak"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Formázott jelentés másolása"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s %2$s, %3$s licenc alatt"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Figyelmeztetés: nem sikerült az összes fájl importálása."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Nem sikerült az összes bélyegkép betöltése"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Nem sikerült a letöltési menü beállítása"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Alkalmazás összeomlasztása"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Lejátszó összeomlasztása"
+    },
+    {
+      "name": "create",
+      "value": "Létrehozás"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Hibaértesítés létrehozása"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Új lejátszási lista"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Sötét"
+    },
+    {
+      "name": "decline",
+      "value": "Elutasítás"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Alapértelmezett hangformátum"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Tartalom alapértelmezett országa"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Alapértelmezett témagyűjtemény"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Felugró ablak alapértelmezett felbontása"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Alapértelmezett felbontás"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Alapértelmezett videóformátum"
+    },
+    {
+      "name": "delete",
+      "value": "Törlés"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Letöltött fájlok törlése"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Törli az összes letöltött fájlt a lemezről?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Bejegyzés törlése"
+    },
+    {
+      "name": "delete_file",
+      "value": "Fájl törlése"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Törli ezt az elemet a keresési előzmények közül?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Törli az összes lejátszási pozíciót?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Törli ezt a lejátszási listát?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Törli az összes keresési előzményt?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Törli az összes megtekintési előzményt?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Szöveg kijelölésének letiltása a leírásban"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Szöveg kijelölésének engedélyezése a leírásban"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Most már kijelölheti a leírásban lévő szöveg. Vegye figyelembe, hogy kijelölési módban az oldal villoghat, és a hivatkozások nem biztos, hogy kattinthatók lesznek."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Leírás"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Nem tetszik"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Húzza az átrendezéshez"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Készítő által szívecskézve"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Tetszik"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Kitűzött hozzászólás"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Csatorna profilképének bélyegképe"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Videó lejátszása, hossz:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Fetöltő profilképének bélyegképe"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Erre gondolt: „%1$s”?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "A médiacsatornázás alapértelmezetten le van tiltva az eszközén, mivel a saját eszközmodellje nem támogatja azt."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Tiltsa le a médiacsatornázást, ha fekete képernyőt vagy akadozást tapasztal videólejátszáskor."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Médiacsatornázás letiltása"
+    },
+    {
+      "name": "disabled",
+      "value": "Letiltva"
+    },
+    {
+      "name": "dismiss",
+      "value": "Eltüntetés"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "A NewPipe-ot önkéntesek fejlesztik a szabadidejükben, hogy a lehető legjobb felhasználói élményt nyújtsák. Támogatásával hozzájárulhat ahhoz, hogy a fejlesztők egy csésze kávé mellett még jobbá tehessék a NewPipe-ot."
+    },
+    {
+      "name": "donation_title",
+      "value": "Adakozás"
+    },
+    {
+      "name": "done",
+      "value": "Kész"
+    },
+    {
+      "name": "dont_show",
+      "value": "Ne jelenítse meg"
+    },
+    {
+      "name": "download",
+      "value": "Letöltés"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Ezzel a névvel egy letöltés már várakozik"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Ezzel a névvel egy letöltés már folyamatban van"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Letöltés"
+    },
+    {
+      "name": "download_failed",
+      "value": "A letöltés sikertelen"
+    },
+    {
+      "name": "download_has_started",
+      "value": "A letöltés elkezdődött"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Válassza ki a hangfájlok letöltési helyét"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "A letöltött hangfájlok itt lesznek tárolva"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Hangfájlok letöltési mappája"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Válasszon letöltési mappát a videófájloknak"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "A letöltött videófájlok itt lesznek tárolva"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Videófájlok letöltési mappája"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "A külső SD-kártyára történő mentés nem lehetséges. Visszaállítja a letöltési mappa helyét?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "A külső tárhely nem érhető el"
+    },
+    {
+      "name": "downloads",
+      "value": "Letöltések"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Meg fogja kérdezni, hogy hova mentse el az egyes letöltéseket.\n\nEngedélyezze a rendszermappa-választót (SAF), ha külső SD-kártyára akar letölteni"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Minden letöltésnél meg fogja kérdezni, hogy hova mentse el"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Kérdezze meg, hova töltse le"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "A „Storage Access Framework” lehetővé teszi a letöltések külső SD-kártyára történő mentését"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Az Android 10-től kezdve, csak a „Storage Access Framework” támogatott"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Rendszermappa-választó (SAF) használata"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Letöltések"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Fiók bezárása"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Szolgáltatás be/ki, jelenleg kiválasztott:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Fiók megnyitása"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "A kiszürkített lejátszólisták már tartalmazzák ezt az elemet."
+    },
+    {
+      "name": "duration",
+      "value": "Időtartam"
+    },
+    {
+      "name": "duration_live",
+      "value": "Élő"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Nincs itt semmi pár tücskön kívül"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Az eltávolítás utáni, fragment vagy activity életcikluson kívüli, nem kézbesíthető Rx kivételek jelentésének kényszerítése"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Életciklusából kifutott hibák jelentése"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "A memóriaszivárgás-monitorozás az alkalmazás megállását okozhatja, amíg a dinamikus memória mentése folyik"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Utolsó lejátszási pozíció visszaállítása"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Lejátszás folytatása"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Lejátszási pozíciók megjelenítése a listákban"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Pozíciók a listákban"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Letöltési sor korlátozása"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Egyszerre csak egy letöltés fog futni"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Keresési előzmények helyi tárolása"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Keresési előzmények"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Értesítésen új élő közvetítés esetén a feliratkozott csatornákhoz"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Új közvetítések értesítései"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Megtekintett videók nyomon követése"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Megtekintési előzmények"
+    },
+    {
+      "name": "enqueue",
+      "value": "Sorba állítás"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "A következő sorba állítása"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Sorba állítás"
+    },
+    {
+      "name": "enqueued",
+      "value": "Sorba állítva"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "A következő sorba állítva"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Bejegyzés törölve"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "A kiszolgáló szerver nem elérhető"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Részletek:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "A letöltést nem lehet helyrehozni"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "A fájlt nem sikerült létrehozni"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "A kiszolgáló nem küld adatokat"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Nincs talalat"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "A kiszolgáló nem fogad többszálú letöltést, próbálkozzon újra ezzel: @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Nincs elég szabad hely az eszközön"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Nincs hely az eszközön"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Hiba történt: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "A célmappa nem hozható létre"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Az utófeldolgozás sikertelen"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "A NewPipe leállt a fájl feldolgozása közben"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Az előrehaladás elveszett, mert a fájlt törölték"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Jelentés e-mailben"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Értesítések a hibák jelentéséhez"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Hibajelentési értesítés"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "A NewPipe hibát észlelt, koppintson a jelentéséhez"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Hiba történt, lásd az értesítést"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Ellenőrizze, hogy létezik-e már hibajegy a leírt összeomlással kapcsolatban. Az ismétlődő hibajegyek létrehozása feleslegesen elvonja az erőforrásokat a hiba tényleges javításától."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Jelentés a GitHubon"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Hibajelentés"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Jelentés"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Elnézést, valami balul sült el."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Nem sikerült biztonságos kapcsolatot létesíteni"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Kapcsolati időtúllépés"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "A megjegyzések betöltése sikertelen"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "A kiszolgáló nem található"
+    },
+    {
+      "name": "events",
+      "value": "Események"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Exportálva"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Előzmények, feliratkozások, lejátszási listák és beállítások exportálása"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Adatbázis exportálása"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Exportálás…"
+    },
+    {
+      "name": "export_subscriptions_summary",
+      "value": "Feliratkozások exportálása .json-fájlba"
+    },
+    {
+      "name": "export_subscriptions_title",
+      "value": "Feliratkozások exportálása"
+    },
+    {
+      "name": "export_to",
+      "value": "Exportálás a következőbe"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "A külső lejátszó nem támogatja az ilyen típusú hivatkozásokat"
+    },
+    {
+      "name": "faq",
+      "value": "Megtekintés a weboldalon"
+    },
+    {
+      "name": "faq_description",
+      "value": "Ha problémái adódnak az alkalmazás használata során, érdemes áttekintenie a gyakori kérdésekre adott válaszokat!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Gyakran ismételt kérdések"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Gyors mód"
+    },
+    {
+      "name": "featured",
+      "value": "Kiemelt"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Új"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Csatornalapok lekérése"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "A hírfolyam frissítésekor lekérendő lapok. Ennek a beállításnak nincs hatása, ha egy csatorna frissítése gyors módban történik."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Törli ezt a csoportot?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Üres csoportnév"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Nem lett feliratkozás kiválasztva"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Feliratkozások kiválasztása"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Csatornacsoport-oldal"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Csak a nem csoportosított feliratkozások megjelenítése"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Csatornacsoportok"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "A következő közvetítések megjelenítése"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Hiba a hírfolyam betöltésekor"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "A(z) „%s” hírfolyam nem tölthető be."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "A gyors hírfolyammód nem szolgáltat több információt."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "A szerző fiókját eltávolították. \nA NewPipe nem fogja tudni betölteni ezt a hírfolyamot a jövőben. \nLeiratkozik erről a csatornáról?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Új hírfolyamelemek"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Hírfolyam betöltése…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Hírfolyam utoljára frissítve: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Hírfolyam feldolgozása…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Közvetítések be/ki"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Részben megtekintett"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Közelgő"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Teljesen megtekintett"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Nincs betöltve: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Mindig frissítsen"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "A legutóbbi frissítés óta eltelt idő, ami után a feliratkozás elavultnak számít – %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Hírfolyam frissítési küszöb"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Gyors mód letiltása"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Gyors mód engedélyezése"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Úgy gondolja, hogy a hírfolyam betöltése lassú? Ha így van, akkor próbálja engedélyezni a gyors betöltést (ezt a beállításokban változtathatja meg, vagy a lenti gomb megnyomásával).\n\nA NewPipe két hírfolyam betöltési stratégiát kínál:\n• A teljes feliratkozott csatorna lekérése, amely lassú, de teljes.\n• Egy dedikált szolgáltatási végpont, amely gyors, de általában nem teljes.\n\nA különbség a kettő között az, hogy a gyorsból általában hiányoznak egyes információk, mint az elem hossza vagy a típusa (nem lehet megkülönböztetni az élő videókat a normálaktól), valamint kevesebb elemet adhat vissza.\n\nA YouTube például egy olyan szolgáltatás, amely ezt a gyors módot RSS hírcsatornával kínálja.\n\nÍgy a választása azon múlik, hogy melyiket tartja fontosabbnak: a sebességet vagy a pontos információkat."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Egyes szolgáltatásoknál érhető el, általában sokkal gyorsabb, és korlátozott számú elemet adhat vissza, gyakran hiányos információkkal (például nincs hossz, elemtípus, vagy élő videó állapot)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Lekérés egy dedikált hírfolyamból, ha lehetséges"
+    },
+    {
+      "name": "file",
+      "value": "Fájl"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Fájl törölve"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "A fájlnév nem lehet üres"
+    },
+    {
+      "name": "forward",
+      "value": "Előre"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Újdonságok"
+    },
+    {
+      "name": "general_error",
+      "value": "Hiba"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Egyedi név előállítása"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Ez a tartalom nem érhető el az országában."
+    },
+    {
+      "name": "get_notified",
+      "value": "Értesítsen"
+    },
+    {
+      "name": "give_back",
+      "value": "Támogatás"
+    },
+    {
+      "name": "grid",
+      "value": "Rács"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Értesítések a videók ujjlenyomatkészítési folyamatához"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Videó ujjlenyomat-készítési értesítése"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Magas minőségű (nagyobb)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Tartsa a sorba állításhoz"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Hasznos, ha olyan fülhallgatót használ, melyen meghibásodtak a fizikai gombok"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Hardveres médialejátszó gombok eseményeinek figyelmen kívül hagyása"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Magas minőségű"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Alacsony minőség"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Közepes minőség"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Ne töltsön be képeket"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Az adat- és memóriahasználat csökkentése érdekében válassza ki a képek minőségét valamint azt, hogy a képek egyáltalán betöltésre kerüljenek. A változtatások törlik a memóriában és a lemezen lévő képgyorsítótárat – %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Képminőség"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Importálva"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Felülírja a jelenlegi előzményeket, feliratkozásokat, lejátszási listákat és (választhatóan) a beállításokat"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Adatbázis importálása"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Fájl importálása"
+    },
+    {
+      "name": "import_from",
+      "value": "Importálás a következőből"
+    },
+    {
+      "name": "import_from_previous_export",
+      "value": "Importálás korábbi exportból"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Ez a művelet adatforgalom-igényes lehet.\n\n\n\nBiztos, hogy folytatja?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Importálás…"
+    },
+    {
+      "name": "import_settings",
+      "value": "A beállításokat is importálja?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Az importálandó exportban lévő beállítások sérülékeny formátumot használnak, amely a NewPipe 0.27.0-ás verziója óta elavult. Győződjön meg arról, hogy megbízható forrásból importálja, és a jövőben csak a NewPipe 0.27.0-ás vagy újabb verziójából származó exportokat használjon. A beállítások ebből a sérülékeny forrásból történő importálása hamarosan végleg el lesz távolítva, és a NewPipe régi verziói nem fogják tudni importálni az újabb verziókból származó exportokat."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "SoundCloud-profil importálása a webcím vagy az azonosítójának begépelésével: \n \n1. A webböngészőben engedélyezze az „asztali módot” (az oldal nem érhető el mobileszközökön) \n2. Navigáljon a következő webcímre: %1$s \n3. Jelentkezzen be, ha kéri \n4. Másolja ki a profil webcímét, ahova át lett irányítva."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "saját azonosítója, soundcloud.com/azonosító"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Feliratkozások importálása vagy exportálása a 3 pontos menüből"
+    },
+    {
+      "name": "import_subscriptions_summary",
+      "value": "Feliratkozások importálása korábbi .json-fájlból"
+    },
+    {
+      "name": "import_subscriptions_title",
+      "value": "Feliratkozások importálása"
+    },
+    {
+      "name": "import_title",
+      "value": "Importálás"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "YouTube feliratkozások importálása a Google Takeoutból: \n \n1. Navigáljon erre az oldalra: %1$s \n2. Jelentkezzen be, ha kérik \n3. Kattintson „Az összes adatot tartalmazza” gombra, majd a „Kijelölések megszüntetése” gombra, majd válassza ki a „feliratkozások” lehetőséget és kattintson az „OK” gombra \n4. Kattintson a „Következő lépés”, majd az \"Exportálás indítása” gombra \n5. Kattintson a „Letöltés” gombra, amikor megjelenik, \n6. Kattintson a lenti FÁJL IMPORTÁLÁSA gombra, és válassza ki a letöltött ZIP-fájlt \n7. [Ha a ZIP-fájl importálása nem sikerül] Bontsa ki a .csv fájlt (általában: „YouTube és YouTube Music/feliratkozások/feliratkozások.csv”), majd kattintson lent a FÁJL IMPORTÁLÁSA gombra, és válassza az exportált CSV-fájlt"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ videó"
+    },
+    {
+      "name": "info_labels",
+      "value": "Mi:\nKérés:\nTartalom nyelve:\nTartalom származási országa:\nAlkalmazás nyelve:\nSzolgáltatás:\nGMT idő:\nCsomag:\nVerzió:\nOperációs rendszer verzió:"
+    },
+    {
+      "name": "install",
+      "value": "Telepítés"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Nincs ilyen mappa"
+    },
+    {
+      "name": "invalid_file",
+      "value": "A fájl nem létezik, vagy hiányzik az olvasási vagy írási jogosultság"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Nincs ilyen fájl- vagy tartalomforrás"
+    },
+    {
+      "name": "just_once",
+      "value": "Csak egyszer"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "Részletek"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "2025 augusztusában a Google bejelentette, hogy 2026 szeptemberétől az alkalmazások telepítéséhez fejlesztői ellenőrzésre lesz szükség a tanúsított eszközökön található összes Android-alkalmazáshoz, beleértve a Play Áruházon kívül telepített alkalmazásokat is. Mivel a NewPipe fejlesztői nem értenek egyet ezzel a követelménnyel, a NewPipe ezután nem fog működni a tanúsított Android-eszközökön."
+    },
+    {
+      "name": "kao_solution",
+      "value": "Megoldás"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Témagyűjtemények"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Telepíti a hiányzó Kore alkalmazást?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary nem elérhető"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Válasszon gesztust a lejátszóképernyő bal feléhez"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Bal gesztus művelete"
+    },
+    {
+      "name": "license",
+      "value": "Szerző: %1$s · Licenc: %2$s"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Világos"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Nincs korlát"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Felbontás korlátozása mobil adatkapcsolat használata esetén"
+    },
+    {
+      "name": "list",
+      "value": "Lista"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Lista nézet"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Metaadatok betöltése…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Közvetítés részleteinek betöltése.…"
+    },
+    {
+      "name": "local",
+      "value": "Helyi"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Helyi keresési javaslatok"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Alacsony minőségű (kisebb)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "A kezdéshez koppintson a nagyítóra."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Főoldal tartalma"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Mely oldalak jelennek meg a főoldalon"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Húzza oldalra az elemeket az eltávolításukhoz"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Kezdőlapválasztó alulra helyezése"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Kezdőlap pozíciója"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Új verziók kézi keresése"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Megjelölés megtekintettként"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "A letöltés megszakítása előtti kísérletek legnagyobb száma"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Próbálkozások legnagyobb száma"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Korhatár"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Profilképek"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Borítóképek"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Metaadatok gyorsítótára törölve"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Minden gyorsítótárazott weboldaladat törölve"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Gyorsítótárazott metaadatok törlése"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Kategória"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Kiszolgáló"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Nyelv"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Licenc"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Adatvédelem"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Belső"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Privát"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Nyilvános"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Nem listázott"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Alcsatorna profilképei"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Feliratkozók"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Támogatás"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Címkék"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Miniatűrök"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Feltöltő profilképei"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "A SoundCloud megszüntette az eredeti Top 50-es listákat. A megfelelő lap el lett távolítva a főoldalról."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "SoundCloud Top 50 oldal eltávolítva"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "A YouTube 2025. július 21-től megszüntette a „felkapott” oldalt. A NewPipe a korábbi alapértelmezett „felkapott” oldalt felkapott élő közvetítésekkel helyettesítette.\n\nA „Beállítások > Tartalom > Főoldal tartalma” menüpontban különböző felkapott lapokat is kiválaszthat."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "YouTube „felkapott lapok” eltávolítva"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Lejátszás folytatása a háttérben"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Ne tegyen semmit"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Lejátszás folytatása felugró ablakban"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "A fő videólejátszóról más alkalmazásra történő váltáskor teendő művelet — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Minimalizálás alkalmazásváltáskor"
+    },
+    {
+      "name": "missing_file",
+      "value": "A fájl áthelyezve vagy törölve"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Befejezett"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Függőben lévő"
+    },
+    {
+      "name": "more_options",
+      "value": "További lehetőségek"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ videó"
+    },
+    {
+      "name": "most_liked",
+      "value": "Legkedveltebb"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Ujjlenyomat számítása"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Vágólapra másolva"
+    },
+    {
+      "name": "msg_error",
+      "value": "Hiba"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Nem sikerült a vágólapra másolás"
+    },
+    {
+      "name": "msg_name",
+      "value": "Fájlnév"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Ez az engedély szükséges\n\na felugró ablakban történő megnyitáshoz"
+    },
+    {
+      "name": "msg_running",
+      "value": "A NewPipe letölt"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Koppintson a részletekért"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Szálak"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Kis türelmet…"
+    },
+    {
+      "name": "mute",
+      "value": "Némítás"
+    },
+    {
+      "name": "name",
+      "value": "Név"
+    },
+    {
+      "name": "navigate_back",
+      "value": "Vissza"
+    },
+    {
+      "name": "network_error",
+      "value": "Hálózati hiba"
+    },
+    {
+      "name": "never",
+      "value": "Soha"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Új és népszerű"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Az AVPlayer korlátai miatt az előre- és visszatekerés időtartama %d másodpercre lett állítva"
+    },
+    {
+      "name": "next_stream",
+      "value": "Következő közvetítés"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Ez a beállítás csak a(z) %s téma esetén érhető el"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Válassza ki a kedvenc éjszakai témáját — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Éjszakai téma"
+    },
+    {
+      "name": "no",
+      "value": "Nem"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Az eszközön nincs olyan alkalmazás, amely meg tudja ezt nyitni"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Nem található megfelelő fájlkezelő ehhez a művelethez.\n\nTelepítsen egy fájlkezelőt, vagy próbálja meg letiltani a következőt a letöltési beállításokban: „%s”"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Nem található megfelelő fájlkezelő ehhez a művelethez.\n\nTelepítsen egy olyan fájlkezelőt, amely kompatibilis a Storage Access Frameworkkel"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Külső lejátszók számára nem érhető el hangfolyam"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Adjon meg később egy letöltési mappát a beállításokban"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Még nincs csatornafeliratkozás"
+    },
+    {
+      "name": "no_comments",
+      "value": "Nincsenek hozzászólások"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Még nincs letöltési mappa beállítva, válassza ki az alapértelmezett letöltési mappát most"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Még nincs létrehozott hírfolyamcsoport"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Nincs élő közvetítés"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Senki sem hallgatja"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Senki sem nézi"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Nem található megfelelő médialejátszó. Telepíti a VLC-t?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Nem található lejátszó a közvetítéshez (a lejátszásához telepítheti a VLC-t)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Még nincs könyvjelző lejátszási listához"
+    },
+    {
+      "name": "no_streams",
+      "value": "Nincs adatfolyam"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Nincs letölthető adatfolyam"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Nincs feliratkozó"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Nem érvényes ZIP-fájl"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Külső lejátszók számára nem érhető el videófolyamok"
+    },
+    {
+      "name": "no_videos",
+      "value": "Nincs videó"
+    },
+    {
+      "name": "no_views",
+      "value": "Nincs megtekintés"
+    },
+    {
+      "name": "none",
+      "value": "Egyik sem"
+    },
+    {
+      "name": "not_available",
+      "value": "Nem elérhető"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Első műveletgomb"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Második műveletgomb"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Harmadik műveletgomb"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Negyedik műveletgomb"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Ötödik műveletgomb"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Pufferelés"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Semmi"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Ismétlés"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Keverés"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Legfeljebb három művelet jeleníthető meg a kompakt értesítésben!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Koppintással szerkesztheti az egyes értesítéseken megjelenő műveleteket. Válasszon ki legfeljebb hármat a jobb oldali jelölőnégyzetekkel, amelyek a kompakt értesítéseken is megjelennek."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Az alábbi értesítési műveletek szerkesztéséhez koppintson rá. Az első három műveletet (lejátszás/szünet, előző és következő) a rendszer állítja be, és nem szabhatók testre."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Értesítések a NewPipe lejátszójához"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe értesítés"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Az Android igazítsa az értesítés színét a bélyegkép meghatározó színéhez (nem minden eszközön érhető el)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Értesítés színezése"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Az értesítésben megjelenő bélyegkép levágása 16:9-es helyett 1:1-es képarányra"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Bélyegkép 1:1-es képarányra vágása"
+    },
+    {
+      "name": "notifications",
+      "value": "Értesítések"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Az értesítések le vannak tiltva"
+    },
+    {
+      "name": "off",
+      "value": "Ki"
+    },
+    {
+      "name": "ok",
+      "value": "Rendben"
+    },
+    {
+      "name": "on",
+      "value": "Be"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 elem törölve."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Megnyitás böngészőben"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Megnyitás felugró módban"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Lejátszási sor megnyitása"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Weboldal megnyitása"
+    },
+    {
+      "name": "open_with",
+      "value": "Megnyitás ezzel"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Ez felül fogja írni a jelenlegi beállításokat."
+    },
+    {
+      "name": "overwrite",
+      "value": "Felülírás"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "a fájl nem írható felül"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Ilyen névű letöltött fájl már létezik"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Ilyen névű fájl már létezik"
+    },
+    {
+      "name": "paid_content",
+      "value": "Ez a tartalom csak előfizetőknek érhető el, nem tekinthető meg és nem tölthető le a NewPipe-pal."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Nem sikerült a weblap feldolgozása"
+    },
+    {
+      "name": "pause",
+      "value": "Szüneteltetés"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Letöltések szüneteltetése"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Félbehagyás a forgalomkorlátos hálózatokon"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Hasznos, ha mobil adatkapcsolatra vált, bár néhány letöltést nem lehet felfüggeszteni"
+    },
+    {
+      "name": "paused",
+      "value": "szüneteltetve"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "A példány már létezik"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "A példány érvényesítése sikertelen"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Adja meg a példány webcímét"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Csak a HTTPS webcímek támogatottak"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Példány hozzáadása"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Találjon Önnek tetsző példányokat itt: %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Válassza ki a kedvenc PeerTube példányait"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube példányok"
+    },
+    {
+      "name": "percent",
+      "value": "Százaléka"
+    },
+    {
+      "name": "permission_denied",
+      "value": "A rendszer megtagadta a műveletet"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Adjon engedélyt a más alkalmazások feletti megjelenéshez"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "A felugró ablakos lejátszó használatához válassza ki a(z) %1$s elemet a következő Android beállítások menüben, és engedélyezze a(z) %2$s elemet."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "„Megjelenítés a többi alkalmazás fölött” engedélyezése"
+    },
+    {
+      "name": "play",
+      "value": "Lejátszás"
+    },
+    {
+      "name": "play_all",
+      "value": "Összes lejátszása"
+    },
+    {
+      "name": "play_audio",
+      "value": "Hang"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Hangbeállítások"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Hang: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Eltávolítás"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Részletek"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Lejátszás Kodival"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Hangmagasság"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Visszaállítás"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Lejátszás sebességének beállítása"
+    },
+    {
+      "name": "playback_step",
+      "value": "Lépés"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Ütem"
+    },
+    {
+      "name": "player_http_403",
+      "value": "A lejátszás közben a kiszolgáló 403-as HTTP-hibát adott vissza, valószínűleg a közvetítési hivatkozás érvényessége lejárt vagy a IP-tiltás miatt"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "HTTP-hiba (%1$s) érkezett a kiszolgálótól a lejátszás során"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Lejátszóhiba helyreállítása"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Nem sikerült a videó lejátszása"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Helyreállíthatatlan lejátszóhiba történt"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Lejátszási listához adva"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Ismételt elem %d alkalommal hozzáadva"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Lejátszási lista létrehozva"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Automatikusan létrehozott (feltöltő nem található)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Lejátszási lista oldal"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "A lejátszási lista bélyegképe megváltozott."
+    },
+    {
+      "name": "playlists",
+      "value": "Lejátszási listák"
+    },
+    {
+      "name": "popup_player",
+      "value": "Felugró ablakos lejátszás"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Lejátszás felugró módban"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "A felugró ablak előző helyének és méretének megjegyzése"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Felugró ablak tulajdonságainak megjegyzése"
+    },
+    {
+      "name": "post_processing",
+      "value": "utófeldolgozás"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "A látássérülteknek szóló leírást tartalmazó hangsáv választása, ha van ilyen"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Leíró hanganyag előnyben részesítése"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Az eredeti hangsáv választása, a nyelvtől függetlenül"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Eredeti hang előnyben részesítése"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Alapértelmezett tevékenység „%s” típusú tartalom megnyitásakor"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Előnyben részesített „megnyitási” művelet"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Kért tartalom betöltése"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Információk gyűjtése…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Előző exportálás"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Előző közvetítés"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "A NewPipe projekt komolyan veszi az adatvédelmét. Az alkalmazás nem gyűjt semmilyen adatot a beleegyezése nélkül.\nA NewPipe adatvédelmi irányelve részletesen elmagyarázza, mely adatok kerülnek elküldésre és tárolásra az alkalmazás összeomlásának jelentésekor."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "A NewPipe adatvédelmi irányelvei"
+    },
+    {
+      "name": "private_content",
+      "value": "Ez a tartalom privát, így nem tekinthető meg és nem tölthető le a NewPipe-pal."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Feldolgozás… Ez eltarthat egy ideig"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer alapértelmezett"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Módosítsa a progresszív tartalmak betöltési intervallumának méretét (jelenleg %s). Az alacsonyabb érték felgyorsíthatja a kezdeti betöltésüket."
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Lejátszás betöltési intervallumának mérete"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "sorba állítva"
+    },
+    {
+      "name": "radio",
+      "value": "Rádió"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Licenc megtekintése"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Adatvédelmi irányelvek megtekintése"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA sütik törölve"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "reCAPTCHA rejtvény kérve"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Megoldás"
+    },
+    {
+      "name": "recent",
+      "value": "Legutóbbi"
+    },
+    {
+      "name": "recently_added",
+      "value": "Nemrég hozzáadott"
+    },
+    {
+      "name": "recovering",
+      "value": "helyrehozás"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Kapcsolódó elemek"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Távoli keresési javaslatok"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Ismétlődések eltávolítása"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Eltávolítja az összes ismétlődő közvetítést ebből a lejátszólistáról?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Eltávolítja az ismétlődéseket?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Megtekintettek eltávolítása"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Távolítsa el a részben megtekintett közvetítéseket"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Eltávolítja a megtekintett közvetítéseket?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "A lejátszási listához való hozzáadás előtt és után megtekintett közvetítések el lesznek távolítva.\nBiztos benne?"
+    },
+    {
+      "name": "rename",
+      "value": "Átnevezés"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Átnevezés"
+    },
+    {
+      "name": "replay",
+      "value": "Visszajátszás"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Az összes beállítás visszaállítása elveti az összes preferált beállítást, és újraindítja az alkalmazást.\n\n\n\nBiztosan folytatja?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Minden beállítás visszaállítása alapértelmezett értékre"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Beállítások alaphelyzetbe állítása"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Kitöltés"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Igazítás"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Nagyítás"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Alapértelmezések visszaállítása"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Visszaállítja az alapértelmezéseket?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Ez a videó korhatáros.\n\n\n\nEngedélyezze a(z) „%1$s” beállítást, ha meg szeretné tekinteni."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Ez a videó korhatáros. \nAz új, korhatáros videókkal kapcsolatos YouTube irányelvek miatt a NewPipe nem férhet hozzá a videófolyamokhoz, így nem tudja lejátszani."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Lejátszás folytatása félbeszakítások után (például telefonhívás)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Lejátszás folytatása"
+    },
+    {
+      "name": "retry",
+      "value": "Újra"
+    },
+    {
+      "name": "rewind",
+      "value": "Visszatekerés"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Válasszon gesztust a lejátszóképernyő jobb feléhez"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Jobb gesztus művelete"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Nem sikerült a mentett lapok olvasása, alapértelmezettek használata"
+    },
+    {
+      "name": "search",
+      "value": "Keresés"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Keresési előzmények törölve"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Nincs találat"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Találatok a következőre: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Keresés %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Keresés %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Az előre- és visszatekerés időtartama"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Tekerősáv bélyegkép-előnézete"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Válasszon egy csatornát"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Válasszon ki egy hírfolyamcsoportot"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Válasszon egy témagyűjteményt"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Válasszon egy lejátszási listát"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Hangsáv kiválasztása a külső lejátszók számára"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Lent kiválaszthatja a kedvenc éjszakai témáját"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Válasszon minőséget a külső lejátszókhoz"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "A választott élő adást nem lehet külső lejátszóval lejátszani"
+    },
+    {
+      "name": "semitone",
+      "value": "Félhang"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Beállítás a lejátszási lista bélyegképeként"
+    },
+    {
+      "name": "settings",
+      "value": "Beállítások"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Kinézet"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Biztonsági mentés és visszaállítás"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Adatok törlése"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Hibakeresés"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Letöltés"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Az AVPlayer néhány beállításának kezelése. A változások életbe lépéséhez újra kell indítani a lejátszót."
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "AVPlayer beállítások"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Hírfolyam"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Előzmények és gyorsítótár"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Működés"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Jelenleg játszott közvetítés értesítésének testreszabása"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Lejátszási értesítés"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Lejátszó"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Frissítések"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Videó és hang"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Fájlnevekben engedélyezett karakterek"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Az érvénytelen karakterek erre az értékre lesznek lecserélve"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Cserekarakter"
+    },
+    {
+      "name": "share",
+      "value": "Megosztás"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Megosztás ezzel"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Lejátszási lista megosztása"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Megosztás YouTube ideiglenes lejátszási listaként"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Webcímlista megosztása"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Megosztás címekkel"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sM"
+    },
+    {
+      "name": "short_million",
+      "value": "%sm"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%se"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Gyermekek számára esetlegesen nem megfelelő, korhatáros tartalom megjelenítése (például 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Korhatáros tartalom megjelenítése"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Csatorna részleteinek megjelenítése"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Csatorna fülek"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Milyen lapok jelennek meg a csatornaoldalakon"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Kapcsolja ki a hozzászólások elrejtéséhez"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Hozzászólások megjelenítése"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Megjeleníti az összeomlasztási lehetőséget a lejátszó használatakor"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "A „Lejátszó összeomlasztása” lehetőség megjelenítése"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Kapcsolja ki, hogy elrejtse a videó leírását és a további információkat"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Leírás megjelenítése"
+    },
+    {
+      "name": "show_error",
+      "value": "Hiba megjelenítése"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Hiba üzenetsávjának megjelenítése"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Csak bizonyos eszközök tudnak 2K/4K-s videókat lejátszani"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Magasabb felbontások megjelenítése"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Tipp megjelenítése a háttér vagy a felugró gomb megnyomásakor a videó „Részletek:” lehetőségnél"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "A „Tartsa lenyomva a sorba állításhoz” tipp megjelenítése"
+    },
+    {
+      "name": "show_info",
+      "value": "További információ"
+    },
+    {
+      "name": "show_less",
+      "value": "Mutass kevesebbet"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Memóriaszivárgások megjelenítése"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Kapcsolja ki, hogy elrejtse a metainformációs dobozokat, melyek további információkat tartalmaznak a közvetítés létrehozójáról, annak tartalmáról vagy egy keresési kérésről"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Metainformációk megjelenítése"
+    },
+    {
+      "name": "show_more",
+      "value": "Továbbiak"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "„Következő” és „Hasonló” videók megjelenítése"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "A szolgáltatásokból származó eredeti szövegek láthatók lesznek a közvetítési elemeken"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Eredeti „ennyi ideje” megjelenítése az elemeken"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "A videók Kodi médiaközponttal történő lejátszásának megjelenítése"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "A „Lejátszás Kodival” lehetőség megjelenítése"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Válassza ki a keresési javaslatokat keresés közben"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Keresési javaslatok"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Bélyegkép használata a zárképernyőn és az értesítéseken is"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Bélyegkép megjelenítése"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s visszautasította az adatok szolgáltatását, és bejelentkezést kér annak megerősítésére, hogy a kérés nem robot által érkezik.\n\nElőfordulhat, hogy az IP-címét ideiglenesen letiltotta %1$s, várhat egy keveset, vagy váltson egy másik IP-címre (például VPN be-/kikapcsolásával, vagy Wi-Fi-ről mobiladat-forgalomra váltva).\n\nTovábbi információért tekintse meg <a href=\"%2$s\">ezt a GYIK-bejegyzést</a>."
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Előretekerés csend alatt"
+    },
+    {
+      "name": "songs",
+      "value": "Dalok"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Elnézést, ennek nem kellett volna megtörténnie."
+    },
+    {
+      "name": "sort",
+      "value": "Rendezés"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Ez egy SoundCloud Go+ szám, legalábbis az Ön országában, így nem játszható le vagy tölthető le a NewPipe-pal."
+    },
+    {
+      "name": "start",
+      "value": "Indítás"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Az Általános adatvédelmi rendeletnek (GDPR) való megfelelés érdekében felhívjuk figyelmét a NewPipe adatvédelmi irányelveire. Olvassa el figyelmesen. \nEl kell fogadnia, ha hibajelentést szeretne küldeni."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Letöltések indítása"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Lejátszás indítása a háttérben"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Lejátszás indítása felugró ablakban"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "A videókat ne a kis lejátszóban indítsa el, hanem kapcsolja be a teljes képernyős módot, ha az automatikus forgatás zárolva van. Továbbra is elérheti a kis lejátszót, ha kilép a teljes képernyőből"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "A fő lejátszó teljes képernyős indítása"
+    },
+    {
+      "name": "stop",
+      "value": "Leállítás"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Azok az élő adások melyek nem támogatottak a letöltő által, rejtve vannak"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Értesítések új élő közvetítésekről a feliratkozott csatornák esetén"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Új élő közvetítések"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Ellenőrzési gyakoriság"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Szükséges hálózati kapcsolat"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Feliratkozás"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Feliratkozva"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "A feliratkozók száma nem érhető el"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Nem sikerült megváltoztatni a feliratkozást"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Nem sikerült frissíteni a feliratkozást"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "A feliratkozások exportálása sikertelen"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "A feliratkozások importálása sikertelen"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Nyomja meg a „Kész” gombot, ha megoldotta"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Folytatás a háttérben"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Folytatás főnézetben"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Folytatás felugró ablakban"
+    },
+    {
+      "name": "systems_language",
+      "value": "Rendszer alapértelmezése"
+    },
+    {
+      "name": "tab_about",
+      "value": "Névjegy és GYIK"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Könyvjelzőzött lejátszási listák"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Lejátszási listák"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Válasszon lapot"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Licencek"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Feliratkozások"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Táblagép mód"
+    },
+    {
+      "name": "theme_title",
+      "value": "Téma"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Bélyegkép gyorsítótára törölve"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "A NewPipe névjegye"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Előzmények"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Lejátszási sor"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA rejtvény"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Utoljára lejátszott"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Harmadik féltől származó licencek"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Legtöbbet lejátszott"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Összes be/ki"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Teljes képernyő be/ki"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Képernyő tájolás be/ki"
+    },
+    {
+      "name": "top_50",
+      "value": "Top 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Zeneszámok"
+    },
+    {
+      "name": "trending",
+      "value": "Felkapott"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Felkapott játékok"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Felkapott filmek és sorozatok"
+    },
+    {
+      "name": "trending_music",
+      "value": "Felkapott zenék"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Felkapott podcastok"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Könyvjelző eltávolítása"
+    },
+    {
+      "name": "undo",
+      "value": "Visszavonás"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Hangmagasság megtartása (torzítást okozhat)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Ismeretlen"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Ismeretlen]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Ismeretlen formátum"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Ismeretlen minőség"
+    },
+    {
+      "name": "unmute",
+      "value": "Némítás megszüntetése"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Állandó bélyegkép feloldása"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Leiratkozás"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "Ez a tartalom a jelenleg kiválasztott tartalom országában nem elérhető.\n\nVáltoztassa meg a „Beállítások > Tartalom >Tartalom alapértelmezett országa” menüpontban."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Nem támogatott webcím"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "A webcím nem felismerhető. Megnyitja másik alkalmazással?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Frissítési értesítés megjelenítése, amikor egy új verzió érhető el"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Frissítések"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Közzétéve: %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Engedélyezze ezt a beállítást, ha dekóder előkészítési problémái vannak, ami alacsonyabb prioritású dekóderekre váltást okoz, ha az elsődleges dekóderek előkészítése sikertelen. Ez rosszabb lejátszási teljesítményt eredményezhet, mint az elsődleges dekóderek használata."
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Az AVPlayer dekódoló tartalék funkciójának használata"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Külső hanglejátszó használata"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Néhány felbontásnál eltávolítja a hangot"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Külső videólejátszó használata"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "A pontatlan tekerés lehetővé teszi, hogy gyorsabban ugorjon a pozíciókra, de kisebb pontossággal. Az 5, 15, vagy 25 másodperces tekerés nem működik ebben a módban"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Gyorsabb, de pontatlan tekerés használata"
+    },
+    {
+      "name": "users",
+      "value": "Felhasználók"
+    },
+    {
+      "name": "video",
+      "value": "Videó"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Készítette: %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Videólejátszó"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Nem található videófolyam"
+    },
+    {
+      "name": "videos_string",
+      "value": "Videók"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Megtekintés a GitHubon"
+    },
+    {
+      "name": "volume",
+      "value": "Hangerő"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Megtekintési előzmények törölve"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Lejátszási pozíciók törölve"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Látogassa meg a NewPipe weboldalát további információkért és hírekért."
+    },
+    {
+      "name": "website_title",
+      "value": "Weboldal"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Információ:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Ez történt:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Csak Wi-Fi-hálózaton"
+    },
+    {
+      "name": "yes",
+      "value": "Igen"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Feliratkozott erre a csatornára"
+    },
+    {
+      "name": "your_comment",
+      "value": "Saját megjegyzés (angolul):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Ez a videó csak YouTube Music Prémium előfizetők számára érhető el, így nem tekinthető meg és nem tölthető le a NewPipe-pal."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "HTTP 403-as hiba érkezett a kiszolgálótól a lejátszás közben, valószínűleg IP-tiltás vagy a közvetítési hivatkozás feloldási problémák miatt"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "A YouTube biztosít egy „Korlátozott módot”, amely elrejti a lehetséges felnőtteknek szóló tartalmat"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "A YouTube „Korlátozott mód” bekapcsolása"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

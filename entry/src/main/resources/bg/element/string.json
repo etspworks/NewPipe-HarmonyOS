@@ -1,0 +1,3092 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Приеми"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Профилът е прекратен"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Профилът е прекратен\n\n%1$s предоставя тази причина: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "История"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Добави към плейлист"
+    },
+    {
+      "name": "albums",
+      "value": "Албуми"
+    },
+    {
+      "name": "all",
+      "value": "Всички"
+    },
+    {
+      "name": "always",
+      "value": "Винаги"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Винаги питай"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Това заобиколно решение освобождава и инстанцира отново видео кодеци, когато възникне промяна на повърхността, вместо директно да зададе повърхността на кодека. Вече се използва от ExoPlayer на някои устройства с този проблем, тази настройка има ефект само върху Android 6 и по-нова версия\n\n\n\nАктивирането на тази опция може да предотврати грешки при възпроизвеждане при превключване на текущия видеоплейър или превключване на цял екран"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Винаги използвайте заобикаляне на настройката на повърхността на видеоизхода на AVPlayer"
+    },
+    {
+      "name": "any_network",
+      "value": "Всяка мрежа"
+    },
+    {
+      "name": "api23_requirement_dialog_blogpost",
+      "value": "Публикация в блога"
+    },
+    {
+      "name": "api23_requirement_dialog_message",
+      "value": "За съжаление NewPipe зависи от няколко библиотеки, които спряха поддръжката за Android 5.0 и 5.1. Следователно, за съжаление, следващата версия на NewPipe ще работи само на устройства с Android 6 или по-нова версия. Прочетете повече в публикацията в блога."
+    },
+    {
+      "name": "api23_requirement_dialog_title",
+      "value": "NewPipe спира поддръжката си за Android 5"
+    },
+    {
+      "name": "app_description",
+      "value": "Безплатно леко стрийминг на HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Език на интерфейса"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe е софтуер с авторско право: Можете да го използвате, изучавате, споделяте и подобрявате по ваше желание. По-конкретно, можете да го разпространявате и/или променяте съгласно условията на Общия публичен лиценз на GNU, публикуван от Фондацията за свободен софтуер, или версия 3 на Лиценза, или (по ваш избор) всяка по-късна версия."
+    },
+    {
+      "name": "app_license_title",
+      "value": "Лиценз на NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Приложението или потребителският интерфейс се сринаха"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Цъкнете да изтеглите %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Нова версия на NewPipe е налична!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Известие за нова версия на NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Известие за нова версия"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Ползвате най-новата в ерсия на NewPipe"
+    },
+    {
+      "name": "artists",
+      "value": "Изпълнители"
+    },
+    {
+      "name": "audio",
+      "value": "Аудио"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Не са намерени аудио стриймове"
+    },
+    {
+      "name": "audio_track",
+      "value": "Аудио поток"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Аудиозапис трябва вече да присъства в този поток"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "описателно"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "дублирано"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "оригинално"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "вторичен"
+    },
+    {
+      "name": "auto",
+      "value": "Автоматично"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Автоматична (тази на устройството)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Добавете подобни потоци към опашката при възпроизвеждане на последния поток, освен ако повторението не е активирано"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Автоматично поставяне на следващия поток в опашка"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Автоматично поставяне в опашка"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe може автоматично да проверява за нови версии от време на време и да ви известява при наличие.\n\nИскате ли да го включите?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Автоматично възпроизвеждане — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Автоматично пускане"
+    },
+    {
+      "name": "background_player",
+      "value": "Във фонов режим"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Възпроизвеждане във фонов режим"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Най-добра резолюция"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Черна"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Празна страница"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Миниатюрата на плейлиста е сменена"
+    },
+    {
+      "name": "brightness",
+      "value": "Яркост"
+    },
+    {
+      "name": "cancel",
+      "value": "Отмяна"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Авто-генерирани"
+    },
+    {
+      "name": "caption_none",
+      "value": "Без надписи"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Модифицирай текстовия мащаб на надписите и стила на техния фон. За промените се изисква рестарт на приложението"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Надписи"
+    },
+    {
+      "name": "card",
+      "value": "Карта"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Създаден от %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Страница на канал"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "За канала"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Албуми"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Канали"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Харесвания"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "На живо"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Плейлисти"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Кратки видеоклипове"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Записи"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Видеа"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Премахнат абонамент за канала"
+    },
+    {
+      "name": "channels",
+      "value": "Канали"
+    },
+    {
+      "name": "chapters",
+      "value": "Глави"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Букви и цифри"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Повечето специални символи"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Провери за актуализации"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Стартирайте проверка за нови потоци"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Провери за актуализации…"
+    },
+    {
+      "name": "checksum",
+      "value": "Контролна сума"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Изберете инстанция"
+    },
+    {
+      "name": "clear",
+      "value": "Изчисти"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Изчистете бисквитките, които NewPipe съхранява, когато разрешите reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Изчистване на бисквитките от reCAPTCHA"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Изтрий историята на изтеглянията"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Изтрива всички позиции на възпроизвеждане"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Изтрий позиции за възпроизвеждане"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Опашката на активния плейър ще бъде заменена"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Превключването от един плейър на друг може да замени вашата опашка"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Потвърждение за изтриване на опашката"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Изтрива историята с въвежданите за търсене ключови думи"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Изтрий историята на търсенията"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Изтрива историята на възпроизвежданите стриймове и позицията на възпроизвеждането"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Изтрий историята с изгледани"
+    },
+    {
+      "name": "close",
+      "value": "Затвори"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Коментарите са изключени"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Коментари"
+    },
+    {
+      "name": "conferences",
+      "value": "Конференции"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Искате да изтриете историята на изтеглянията или всички изтеглени файлове?"
+    },
+    {
+      "name": "content",
+      "value": "Съдържание"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Език на съдържание по подразбиране"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Съдържанието не е налично"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Това съдържание не се поддържа от NewPipe.\n\n\n\nЕвентуално може да бъде поддържано в бъдещи версии."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Независимо дали имате идеи за превод, промени в дизайна, почистване на кода или наистина сериозни промени в кода – помощта винаги е добре дошла. Колкото повече се направи, толкова по-добре става!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Допринесете"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Добавяне към"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Фонов режим"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Изтегляне на стрийм файл"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "В прозорец"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Копиране във форматиран вид"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s от %2$s под лиценза %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Внимание: не всички файлове бяха внесени успешно."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Не мога да заредя всички миниатюри"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Не мога да настроя меню за сваляне"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Срив на приложението"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Разбийте плейъра"
+    },
+    {
+      "name": "create",
+      "value": "Създай"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Създай известие за грешка"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Нов Плейлист"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Тъмна"
+    },
+    {
+      "name": "decline",
+      "value": "Откажи"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Аудио формат по подразбиране"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Държава, за която да бъде показвано съдържание"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Kiosk по подразбиране"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Резолюция по подразбиране на прозореца"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Резолюция по подразбиране"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Видео формат по подразбиране"
+    },
+    {
+      "name": "delete",
+      "value": "Изтрий"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Изтрий изтеглените файлове"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Изтрий всички изтеглени файлове от диска?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Изтриване на запис"
+    },
+    {
+      "name": "delete_file",
+      "value": "Изтриване на файл"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Искате ли да изтриете този елемент от историята на търсенията?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Изтрии всички позиции на възпроизвеждане?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Искате ли да изтриете този плейлист?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Изтрий цялата история на търсенията?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Изтрий цялата история с изгледани?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Деактивирайте избора на текст в описанието"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Разрешете избирането на текст в описанието"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Вече можете да изберете текст в описанието. Имайте предвид, че страницата може да трепти и връзките може да не могат да се кликват, докато сте в режим на избор."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Описание"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Нехаресвания"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Пренареди чрез плъзгане"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Отбелязан със сърце от автора"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Харесвания"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Фиксиран коментар"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Миниатюра на аватара на канала"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Възпроизвеждане на видео, продължителност:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Миниатюра на аватара на качилия видео"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Може би имахте предвид „%1$s“?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Мултимедийното тунелиране е деактивирано по подразбиране на вашето устройство, тъй като е известно, че моделът на вашето устройство не го поддържа."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Деактивирайте медийното тунелиране, ако имате черен екран или заекване при възпроизвеждане на видео."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Деактивиране на медийното тунелиране"
+    },
+    {
+      "name": "disabled",
+      "value": "Забранено"
+    },
+    {
+      "name": "dismiss",
+      "value": "Откажи"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe е разработен от доброволци, които прекарват свободното си време, за да ви осигурят най-доброто потребителско изживяване. Дарете, за да помогнете на разработчиците да направят NewPipe още по-добър, докато се наслаждават на чаша кафе."
+    },
+    {
+      "name": "donation_title",
+      "value": "Дарете"
+    },
+    {
+      "name": "done",
+      "value": "Готово"
+    },
+    {
+      "name": "dont_show",
+      "value": "Не показвай"
+    },
+    {
+      "name": "download",
+      "value": "Изтегляне"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Има насрочено изтегляне с това име"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Вече има активно изтегляне с това име"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Изтегли"
+    },
+    {
+      "name": "download_failed",
+      "value": "Изтеглянето се провали"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Изтеглянето започна"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Въведете папка за изтегляния на аудио файлове"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Папка за съхранение на изтеглено аудио"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Директория за изтегляне на аудио"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Въведете път за съхранение на изтеглените клипове"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Папка за съхранение на изтеглените клипове"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Директория за изтегляне на видео"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Изтеглянето от външна SD карта не е възможно. Нулиране на местоположението на папката за изтегляне?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Няма налично външно хранилище"
+    },
+    {
+      "name": "downloads",
+      "value": "Изтегляния"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Ще бъдете попитани къде да запазите всяко изтегляне.\n\nАктивирайте инструмента за избор на системна папка (SAF), ако искате да изтеглите на външна SD карта"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Ще бъдете попитани къде да запазите всяко изтегляне"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Подкана за папка за изтегляне"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "„Storage Access Framework“ позволява изтегляния във външна SD-карта"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Започвайки от Android 10, се поддържа само „Storage Access Framework“"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Използване на системата за избор на папки (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Изтегляния"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Затвори навигационната лента"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Превключване на услуги, текущо избран:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Отвори навигационната лента"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Плейлистите, които са оцветени в сиво, вече съдържат този елемент."
+    },
+    {
+      "name": "duration",
+      "value": "Времетраене"
+    },
+    {
+      "name": "duration_live",
+      "value": "На живо"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Тук няма нищо"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Насили докладването на неизпращаеми Rx изключения извън фрагмента или кръговрата на активност след приключване"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Докладвай за извънредни грешки"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Следенето за пропускане на памет може да направи приложението нестабилно"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Възстанови последната позиция"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Възобнови възпроизвеждането"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Покажи индикатори за позиция на възпроизвеждане в списъци"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Позиции в списъци"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Ограничете опашката за изтегляне"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Едно изтегляне ще се изпълнява едновременно"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Съхранявай заявките за търсене локално"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "История на търсенията"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Известявайте за нови видеоклипове в абонаментите"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Известия за нови потоци"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Запаметявай кои видеота са гледани"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "История на гледане"
+    },
+    {
+      "name": "enqueue",
+      "value": "Добавяне в опашка"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Наредете следващия"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Добави в опашка"
+    },
+    {
+      "name": "enqueued",
+      "value": "Добавено в опашка"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Следващ в опашка"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Записът е изтрит"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Неуспешна връзка със сървъра"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Подробности:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Неуспешно възстановяване на това изтегляне"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Файлът не може да бъде създаден"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Сървърът не предостави данни"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Не е намерено"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Сървърът не приема мулти-нишкови изтегляния, прави се нов опит с @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Няма достатъчно свободно пространство на устройвството"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Няма свободно място на устройството"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Възникна грешка: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Избраната директорие не можа да бъде създадена"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Неуспешна последваща обработка"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe бе затворен, докато обработваше файла"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Прогресът е загубен, защото файлът е изтрит"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Докладвай чрез имейл"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Известия за докладване на грешки"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Известие за доклад за грешка"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe откри грешка, докоснете, за да докладвате"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Възникна грешка, погледнете известието"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Моля проверете дали има създадена дискусия за срив като този. Постъпилите дубликати са в ущърб на така ценното време за разработка."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Доклад в GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Съобщение за грешка"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Доклад"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Съжалявам, нещо се обърка."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Неуспешно установяване на сигурна връзка"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Изчакване на връзката"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Неуспешно зареждане на коментарите"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Неуспешно намиране на сървър"
+    },
+    {
+      "name": "events",
+      "value": "Събития"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Изнасянето приключи"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Изнасяне на история, абонаменти, плейлисти и настройки"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Изнасяне на база данни"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Изнасяне…"
+    },
+    {
+      "name": "export_subscriptions_summary",
+      "value": "Изнесете абонаментите си в .json файл"
+    },
+    {
+      "name": "export_subscriptions_title",
+      "value": "Изнасяне на абонаменти"
+    },
+    {
+      "name": "export_to",
+      "value": "Изнасяне във"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Външните плейъри не поддържат този вид линкове"
+    },
+    {
+      "name": "faq",
+      "value": "Преглед на уебсайта"
+    },
+    {
+      "name": "faq_description",
+      "value": "Ако имате проблеми с използването на приложението, не забравяйте да разгледате тези отговори на често задавани въпроси!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Често задавани въпроси"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Бърз режим"
+    },
+    {
+      "name": "featured",
+      "value": "Представено"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Създай"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Извличане на раздели на канали"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Раздели за извличане при актуализиране на емисията. Тази опция няма ефект, ако каналът се актуализира чрез бърз режим."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Искате ли да изтриете тази група?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Име на празна група"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Няма избрани абонаменти"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Изберете абонаменти"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Страница на групата канали"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Покажи само на негрупирани абонаменти"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Група от канали"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Покажи следните потоци"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Грешка при зареждане на емисия"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Неуспешно зареждане на емисия за '%s'."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Бързият режим на емисията не предостави повече информация за това."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Профилът на автора е бил отстранен. \nNewPipe няма да може да зареди тази емисия вече. \nИскате ли да махнете абонамента от този канал?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Нови неща в емисията"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Зареждане на емисия…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Емисията е последно обновявана: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Обработване на емисия…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Покажи/Скрий потоци"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Частично гледани"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Предстоящи"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Напълно изгледани"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Не са заредени: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Винаги опреснявай"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Време, след което се смята, че един абонамент е остарял — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Праг за актуализиране на емисия"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Спиране на бърз режим"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Пускане на бърз режим"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Смятате ли, че емисията зарежда прекалено бавно? Ако смятате така, може да пробвате да включите режима за бързо зареждане (може да го промените от настройките или чрез бутона по-долу).\n\nNewPipe предлага два режима за зареждане:\n• Зареждане на цялата страница на абонамента, което е бавно, но и пълно.\n• Изпозване на специална страница, предоставена от услугата, което е бързо, но обичайно е и непълно.\n\nРазликата между двете е, че бързият режим няма пълна информация, например времетраенето и вида (не може да различава между видеа на живо и обикновени) и може да върне по-малко видеа.\n\nYoutube е примерна услуга, която предоставя този метод чрез RSS емисия.\n\nНакратко, изборът се свежда до предпочинанието ви: бързина или точна информация."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Налично за някои услуги, обичайно е много по-бързо, но връща ограничено количество видеа и често пъти непълна информация (например няма времетраене, вид на видеото, дали е на живо)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Извличане от специална емисия, когато е налична"
+    },
+    {
+      "name": "file",
+      "value": "Файл"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Файлът е изтрит"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Името на файла не може да бъде празно"
+    },
+    {
+      "name": "forward",
+      "value": "Напред"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Обновления"
+    },
+    {
+      "name": "general_error",
+      "value": "Грешка"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Създай уникално име"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Съдържанието не е налично във Вашата държава."
+    },
+    {
+      "name": "get_notified",
+      "value": "Получавай известия"
+    },
+    {
+      "name": "give_back",
+      "value": "Върни обратно"
+    },
+    {
+      "name": "grid",
+      "value": "Мрежа"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Известия за напредъка на хеширането на видео"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Видео хеш известие"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Висококачествени (големи)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Задръжте, за да поставите на опашката"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Полезно, например, ако използвате слушалки със счупени физически бутони"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Игнорирайте събитията с хардуерни медийни бутони"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Високо качество"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Ниско качество"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Средно качество"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Не зареждай изображения"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Изберете качеството на изображенията и дали изобщо да се зареждат изображения, за да намалите използването на данни и памет. Промените изчистват както кеша на изображенията в паметта, така и на диска — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Качество на изображенията"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Внасянето приключи"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Замества текущата ви история, абонаменти, списъци за възпроизвеждане и (по избор) настройки"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Внасяне на база данни"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Файл с данни за внасяне"
+    },
+    {
+      "name": "import_from",
+      "value": "Внасяне от"
+    },
+    {
+      "name": "import_from_previous_export",
+      "value": "Внасяне от предишно изнасяне"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Това действие може да изразходва голямо количество данни от вашия трафик.\n\n\n\nЖелаете ли да продължите?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Внасяне…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Искате ли да внесете и настройки?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Настройките в изнасяния файл, който се внася, използват уязвим формат, който е отпаднал от NewPipe 0.27.0. Уверете се, че внесеният износ е от надежден източник, и предпочитайте в бъдеще да използвате само изнасяния, получени от NewPipe 0.27.0 или по-нова версия. Поддръжката за внасяне на настройки в този уязвим формат скоро ще бъде напълно премахната и тогава старите версии на NewPipe вече няма да могат да внасят настройки на изнесени от нови версии."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Внесете профил в SoundCloud, като въведете или URL адреса, или вашия ID: \n \n1. Включете „десктоп режим“ в браузър (сайтът е недостъпен за мобилни устройства) \n2. Посетете връзката: %1$s \n3. Влезте в профила си, ако се изисква \n4. Копирайте хипервръзката на профилната страница, към която сте насочени."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "вашиятID, soundcloud.com/вашиятID"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Внасяне или изнасяне на абонаменти от менюто с 3 точки"
+    },
+    {
+      "name": "import_subscriptions_summary",
+      "value": "Внасяне на абонаменти от предишен .json файл"
+    },
+    {
+      "name": "import_subscriptions_title",
+      "value": "Внасяне на абонаменти"
+    },
+    {
+      "name": "import_title",
+      "value": "Внасяне"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Внасяне на абонаменти в YouTube от Google Takeout: \n \n1. Отидете на този URL: %1$s \n2. Влезте, когато бъдете помолени \n3. Щракнете върху „Всички включени данни“, след това върху „Демаркиране на всички“, след това изберете само „абонаменти“ и щракнете върху „OK“ \n4. Кликнете върху „Следваща стъпка“ и след това върху „Създаване на износ“ \n5. Кликнете върху бутона \"Изтегляне\", след като се появи \n6. Кликнете върху ВНАСЯНЕ НА ФАЙЛ по-долу и изберете изтегления .zip файл \n7. [Ако внасянето на .zip е неуспешно] Разархивирайте .csv файла (обикновено под „YouTube и YouTube Music/subscriptions/subscriptions.csv“), щракнете върху ВНАСЯНЕ НА ФАЙЛ по-долу и изберете извлечения csv файл"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ клипове"
+    },
+    {
+      "name": "info_labels",
+      "value": "Какво:\nЗаявка:\nЕзик на съдържанието:\nДържава на съдържанието:\nЕзик на приложението:\nУслуга:\nGMT Време:\nПакет:\nВерсия:\nВерсия на ОС:"
+    },
+    {
+      "name": "install",
+      "value": "Инсталиране"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Невалидна директория"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Файлът не съществува или липсва разрешение за четене и/или запис"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Невалиден файл или източник на съдържание"
+    },
+    {
+      "name": "just_once",
+      "value": "Само веднъж"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "Детайли"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "През август 2025 г. Google обяви, че от септември 2026 г. инсталирането на приложения ще изисква проверка от разработчика за всички приложения за Android на сертифицирани устройства, включително тези, инсталирани извън Play Store. Тъй като разработчиците на NewPipe не са съгласни с това изискване, NewPipe вече няма да работи на сертифицирани устройства с Android след този период."
+    },
+    {
+      "name": "kao_solution",
+      "value": "Решение"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Страница-павилион"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Инсталиране на липсващо приложение Kore?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary не е открито"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Изберете жест за лявата половина на екрана на плейъра"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Действие с жест наляво"
+    },
+    {
+      "name": "license",
+      "value": "От %1$s под %2$s"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Светла"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Без ограничения"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Ограничена резолюция при мобилни данни"
+    },
+    {
+      "name": "list",
+      "value": "Списък"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Вид на списъка"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Зареждане на метаданни…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Подробностите за потока се зареждат…"
+    },
+    {
+      "name": "local",
+      "value": "Местен"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Местни предложения за търсене"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Нискокачествени (малки)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Докоснете лупата, за да започнете."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Съдържание на главната страница"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Кои раздели се показват на началната страница"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Плъзнете елементи, за да ги премахнете"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Преместете основния селектор на раздели най-долу"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Позиция на основните раздели"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Ръчно проверяване за нови версии"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Маркирай като гледан"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Максимален брой опити преди отменяне на изтеглянето"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Максимален брой повторни опити"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Възрастова граница"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Аватари"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Банери"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Кеш-паметта с метаданни бе изтрита"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Премахни всички метаданни за уебстраници от кеш-паметта"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Изтрий кешираните мета данни"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Категория"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Сървър"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Език"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Лиценз"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Поверителност"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Вътрешен"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Частен"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Публичен"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Скрит"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Аватари за подканали"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Абонати"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Поддръжка"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Маркери"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Миниатюри"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Аватари на качващите"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud преустанови оригиналните класации Топ 50. Съответният раздел е премахнат от главната ви страница."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "Страница SoundCloud Top 50 е премахната"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube преустанови комбинираната страница с популярни от 21 юли 2025 г. NewPipe замени стандартната страница с популярни с популярни предавания на живо.\n\nМожете също да изберете различни популярни страници в „Настройки > Съдържание > Съдържание на главната страница“."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "YouTube комбинирани популярни са премахнати"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Минимизирай във фонов режим"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Без минимизиране"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Минимизирай в прозорец"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Действие при преминаване към друго приложение от видео плейъра — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Минимизирай при преход към друго приложение"
+    },
+    {
+      "name": "missing_file",
+      "value": "Файлът е преместен или изтрит"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Завършено"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "В очакване"
+    },
+    {
+      "name": "more_options",
+      "value": "Повече настройки"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ видеа"
+    },
+    {
+      "name": "most_liked",
+      "value": "Най-харесвани"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Калкулиране на хеш"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Копирано в клипборда"
+    },
+    {
+      "name": "msg_error",
+      "value": "Грешка"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Неуспешно копиране в клипборда"
+    },
+    {
+      "name": "msg_name",
+      "value": "Име на файла"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Това разрешение се изисква за\n\nвъзпроизвеждане в отделен прозорец"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe Изтегляне"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Докосни за подробности"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Нишки"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Моля, изчакайте…"
+    },
+    {
+      "name": "mute",
+      "value": "Спри звука"
+    },
+    {
+      "name": "name",
+      "value": "Име"
+    },
+    {
+      "name": "navigate_back",
+      "value": "Назад"
+    },
+    {
+      "name": "network_error",
+      "value": "Проблем с мрежата"
+    },
+    {
+      "name": "never",
+      "value": "Никога"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Ново и горещо"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Поради ограничения в AVPlayer, стъпката за превъртане е зададена на %d секунди"
+    },
+    {
+      "name": "next_stream",
+      "value": "Следващ поток"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Тази настройка е налична само ако %s е избран за тема"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Изберете любимата си нощна тема — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Нощна тема"
+    },
+    {
+      "name": "no",
+      "value": "Не"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Няма подходящо инсталирано приложение за отваряне на файла"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Не е намерен подходящ файлов мениджър за това действие.\n\nМоля, инсталирайте файлов мениджър или опитайте да деактивирате „%s“ в настройките за изтегляне"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Не е намерен подходящ файлов мениджър за това действие.\n\nМоля, инсталирайте файлов мениджър, съвместим с Storage Access Framework"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Няма налични аудио потоци за външни плеъри"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Моля, определете папка за изтегляне по-късно в настройките"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "За момента нямате абонаменти"
+    },
+    {
+      "name": "no_comments",
+      "value": "Няма коментари"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Не е избрана директория за теглене. Изберете директорията за теглене по подразбиране сега"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Все още няма създадена група за емисии"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Няма потоци на живо"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Няма слушатели"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Няма зрители"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Не е намерен стрийм плейър. Инсталиране на VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Липсва стрийм плейър (можете да изтеглите VLC, за да пуснете стрийма)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Няма отметнати плейлисти"
+    },
+    {
+      "name": "no_streams",
+      "value": "Няма потоци"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Не са налични източници за изтегляне"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Няма абонати"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Невалиден ZIP файл"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Няма налични потоци за външни плеъри"
+    },
+    {
+      "name": "no_videos",
+      "value": "Няма клипове"
+    },
+    {
+      "name": "no_views",
+      "value": "Няма гледания"
+    },
+    {
+      "name": "none",
+      "value": "Нищо"
+    },
+    {
+      "name": "not_available",
+      "value": "Не е налично"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Първо действие"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Второ действие"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Трето действие"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Четвърто действие"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Пето действие"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Буфериране"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Нищо"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Повторение"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Разбъркване"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Изберете до три действия за компактното известие!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Редактирайте всяко действие за известяване по-долу, като го докоснете. Изберете до три от тях, които да бъдат показани в компактното известие, като използвате квадратчетата за отметка вдясно."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Редактирайте всяко действие за известяване по-долу, като щракнете върху него. Първите три действия (възпроизвеждане/пауза, предишно и следващо) се задават от системата и не могат да бъдат конфигурирани."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Известия за плейъра на NewPipe"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "Известия от NewPipe"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Цветът на известието да се избира според главния цвят в миниатюрата на видеото (може да не работи на всички устройства)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Оцветяване на известие"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Мащабиране на миниатюрата в известието от 16:9 към 1:1 формат (възможни са изкривявания)"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Миниатюра 1:1"
+    },
+    {
+      "name": "notifications",
+      "value": "Известия"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Известията са спрени"
+    },
+    {
+      "name": "off",
+      "value": "Изключен"
+    },
+    {
+      "name": "ok",
+      "value": "ОК"
+    },
+    {
+      "name": "on",
+      "value": "Включен"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 елемент е изтрит."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Отвори в браузър"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Отваряне в прозорец"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Отваряне на опашка"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Отвори уеб-страницата"
+    },
+    {
+      "name": "open_with",
+      "value": "Отваряне с"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Това ще замени текущата Ви инсталация."
+    },
+    {
+      "name": "overwrite",
+      "value": "Презаписване"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "неуспешно презаписване на файла"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Изтеглен файл с това име вече съществува"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Файл с това име вече съществува"
+    },
+    {
+      "name": "paid_content",
+      "value": "Съдържанието е достъпно само за хора, които са си платили, затова не може да бъде гледано или изтеглено с NewPipe."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Неуспешно пресъздаване на уебсайта"
+    },
+    {
+      "name": "pause",
+      "value": "Пауза"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Прекъсни изтеглянията"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Прекъсване на мрежи с измерване"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Полезно при превключване към мобилни данни, въпреки че някои изтегляния не поддържат възобновяване и ще започнат отначало"
+    },
+    {
+      "name": "paused",
+      "value": "прекъснат"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Инстанцията вече съществува"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Инстанцията не можа да бъде потвърдена"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Въведете URL адреса на инстанцията"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Поддържат се само HTTPS хипервръзки"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Добави инстанция"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Може да си харесате инстанции на %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Изберете любимите си PeerTube инстанции"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube инстанции"
+    },
+    {
+      "name": "percent",
+      "value": "Процент"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Действието отказано от системата"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Дайте разрешение за показване върху други приложения"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "За да използвате изскачащия плейър, моля, изберете %1$s в следното меню с настройки на Android и активирайте %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "“Разреши показване върху други приложения”"
+    },
+    {
+      "name": "play",
+      "value": "Възпроизвеждане"
+    },
+    {
+      "name": "play_all",
+      "value": "Възпроизведи всички"
+    },
+    {
+      "name": "play_audio",
+      "value": "Аудио"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Аудио настройки"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Аудио: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Премахни"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Детайли"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Въпроизвеждане с Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Височина"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Възстанови"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Управление скоростта на възпроизвеждане"
+    },
+    {
+      "name": "playback_step",
+      "value": "Стъпка"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Темпо"
+    },
+    {
+      "name": "player_http_403",
+      "value": "HTTP грешка 403, получена от сървъра по време на възпроизвеждане, вероятно причинена от изтичане на URL адреса за стрийминг или забрана на IP адреса"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "HTTP грешка %1$s получена от сървъра по време на възпроизвеждане"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Опит за възстановяване от възникналия проблем с плейъра"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Неуспех при възпроизвеждането на този поток"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Критичен проблем с плейъра"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Добавено към плейлист"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Добавен дубликат %d път(а)"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Плейлистът е създаден"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Авто-генерирани (не е намерен ъплоудер)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Страница на плейлиста"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Миниатюрата на плейлиста е сменена."
+    },
+    {
+      "name": "playlists",
+      "value": "Плейлисти"
+    },
+    {
+      "name": "popup_player",
+      "value": "Изскачащ плейър"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Възпроизвеждане в подпрозорец"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Използвай размера и позицията на прозореца от предишния път"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Помни размера и позицията на прозореца"
+    },
+    {
+      "name": "post_processing",
+      "value": "пост-обработката"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Изберете аудиозапис с описания за хора с увредено зрение, ако има такъв"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Предпочитай описателно аудио"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Изберете оригиналния аудио запис независимо от езика"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Предпочитай оригинално аудио"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Действие по подразбиране при отваряне на съдържание — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Действие при повикване от друго приложение"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Зареждане на заявеното съдържание"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Получаване на инфо…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Предишно изнасяне"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Предишен поток"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "Проектът NewPipe приема вашата поверителност много сериозно. Затова приложението не събира никакви данни без вашето съгласие.\nПолитиката за поверителност на NewPipe подробно обяснява какви данни се изпращат и съхраняват при изпращане на доклад за срив."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Политика за поверителност на NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "Съдържанието е лично, затова не може да бъде възпроизведено или изтеглено от NewPipe."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Обработка… Ще отнеме момент"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "AVPlayer по подразбиране"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Променете размера на интервала на зареждане на прогресивно съдържание (в момента %s). По-ниска стойност може да ускори първоначалното им зареждане"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Размер на интервала на зареждане при възпроизвеждане"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "на опашка"
+    },
+    {
+      "name": "radio",
+      "value": "Радио"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Прочетете лиценза"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Прочетете политиката за поверителност"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "Бисквитките от reCAPTCHA бяха почистени"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "Изисква се въвеждане на reCAPTCHA"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Решете"
+    },
+    {
+      "name": "recent",
+      "value": "Скорошни"
+    },
+    {
+      "name": "recently_added",
+      "value": "Наскоро добавено"
+    },
+    {
+      "name": "recovering",
+      "value": "възстановяване"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Подобни продукти"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Предложения за отдалечено търсене"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Премахване на дубликати"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Искате ли да премахнете всички дублиращи се потоци в този плейлист?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Премахни повторения?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Премахни изгледаните"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Да, както и само частично изгледаните видеа"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Премахни изгледаните потоци?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Потоците, които са били гледани преди и след добавянето им към плейлиста, ще бъдат премахнати. \nСигурни ли сте?"
+    },
+    {
+      "name": "rename",
+      "value": "Преименувай"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Преименувай"
+    },
+    {
+      "name": "replay",
+      "value": "Повторение"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Нулирането на всички настройки ще отхвърли всички ваши предпочитани настройки и ще рестартира приложението.\n\n\n\nСигурни ли сте, че искате да продължите?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Нулирайте всички настройки до техните стойности по подразбиране"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Нулирайте настройките"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Запълни"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Приспособи"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Увеличи"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Възстанови първоначалните настройки"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Искате ли да възстановите настройките по подразбиране?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Това видео е с възрастова граница.\n\n\n\nВключете „%1$s“ в настройките ако искате да го пуснете."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Това видео е с възрастови ограничения.\n\nПоради новите политики на YouTube за видеа с възрастови ограничения, NewPipe не може да достъпи нито един от видеопотоците на това видео и не може да го възпроизведе."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Продължавай възпроизвеждането след прекъсване (например телефонно обаждане)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Възобновяване"
+    },
+    {
+      "name": "retry",
+      "value": "Опитай отново"
+    },
+    {
+      "name": "rewind",
+      "value": "Превъртане назад"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Изберете жест за дясната половина на екрана на плейъра"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Действие с жест надясно"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Не можах да прочета запазените раздели, така че използвах тези по подразбиране"
+    },
+    {
+      "name": "search",
+      "value": "Търсене"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Историята на търсене е изтрита"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Няма резултати"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Показване на резултати за: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Търсене %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Търсене %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Стъпка на превъртане"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Миниатюри на лентата за превъртане"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Изберете канал"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Изберете група емисии"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Изберете павилион"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Избете плейлист"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Избор на аудио пътечка за външни плеъри"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Можете да изберете любимата си тъмна тема по-долу"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Избор на качество за външни плеъри"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Избраният поток не се поддъжа от външни плеъри"
+    },
+    {
+      "name": "semitone",
+      "value": "Полутон"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Задай като миниатюра на плейлиста"
+    },
+    {
+      "name": "settings",
+      "value": "Настройки"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Външен вид"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Архивиране и възстановяване"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Изтрии данни"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Отстраняване на грешки"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Изтегляне"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Управление на някои настройки за AVPlayer. Тези промени изискват рестартиране на плеъра, за да се отразят"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "Настройки на AVPlayer"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Емисия"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "История и кеш"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Поведение"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Конфигуриране на известивето за текущо възпроизвеждания поток"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Известие на плеъра"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Плейър"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Актуализации"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Видео и аудио"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Позволени символи в името на файловете"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Невалидните символи се заменят с тази стойност"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Символ за замяна"
+    },
+    {
+      "name": "share",
+      "value": "Споделяне"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Споделяне с"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Сподели плейлиста"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Споделяне като временен плейлист в YouTube"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Споделяне на списък с URL"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Споделяне със заглавия"
+    },
+    {
+      "name": "short_billion",
+      "value": "%s млрд."
+    },
+    {
+      "name": "short_million",
+      "value": "%s млн."
+    },
+    {
+      "name": "short_thousand",
+      "value": "%s хил."
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Покажи съдържание, което вероятно е неподходящо за деца, защото има възрастово ограничение (например 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Покажи съдържание с възрастови ограничения"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Покажи информация за канала"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Раздели на канали"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Какви раздели се показват на страниците на канала"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Изключете за скриване на коментарите"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Покажи коментари"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Показва опция за срив при използване на плейъра"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Покажи \"Сриване на плейъра\""
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Изключете за скриване на описанията под видеата и допълнителната информация"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Покажи описание"
+    },
+    {
+      "name": "show_error",
+      "value": "Покажи грешка"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Покажи бърза лента за грешка"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Само някои устройства могат да възпроизвеждат 2K/4K видео"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Покажи по-високи резолюции"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Покажи съвет при натискане на фона или изскачащия бутон във видеоклипа \"Подробности:“"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Покажи съвет „Задръжте за поставяне в опашка“"
+    },
+    {
+      "name": "show_info",
+      "value": "Покажи информация"
+    },
+    {
+      "name": "show_less",
+      "value": "Покажи по-малко"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Покажи къде изтича паметта"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Изключете, за да скриете полетата с мета информация с допълнителна информация за създателя на потока, съдържанието на потока или заявка за търсене"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Покажи мета данни"
+    },
+    {
+      "name": "show_more",
+      "value": "Покажи повече"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Покажи „следващ“ и „подобни“"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Оригиналните текстове от услугите ще се виждат в елементите на потока"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Показване на оригиналното време преди на елементите"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Показване на опция за възпроизвеждане на видео чрез „Kodi media center“"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Покажи „Възпроизвеждане с Kodi“"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Изберете предложенията, които да се показват при търсене"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Предложения за търсене"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Използване на миниатюри за фон на заключения екран и за известия"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Покажи миниатюра"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s отказа да предостави данни, като поиска вход, за да потвърди, че заявителят не е бот.\n\nВашият IP адрес може да е временно забранен от %1$s. Можете да изчакате известно време или да превключите към друг IP адрес (например като включите/изключите VPN или като превключите от WiFi към мобилни данни).\n\nМоля, вижте <a href=\"%2$s\">тази статия с ЧЗВ</a> за повече информация."
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Бързо превъртане при тишина"
+    },
+    {
+      "name": "songs",
+      "value": "Песни"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Съжаляваме, това не би трябвало да се случва."
+    },
+    {
+      "name": "sort",
+      "value": "Подредба"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Това е песен на SoundCloud Go+, поне във вашата страна, така че не може да бъде предавана поточно или изтеглена от NewPipe."
+    },
+    {
+      "name": "start",
+      "value": "Начало"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "За да се съобразим с Европейския общ регламент за защита на данните (GDPR), с настоящото обръщаме внимание на политиката за поверителност на NewPipe. Моля, прочетете го внимателно.\n\nТрябва да го приемете, за да ни изпратите доклада за грешка."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Започни изтеглянията"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Възпроизвеждане от тук при фонов режим"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Започнете да възпроизвеждате в изскачащ прозорец"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Не стартирайте видеоклипове в миниплейъра, а директно превключете в режим на цял екран, ако автоматичното завъртане е заключено. Все още можете да получите достъп до миниплейъра, като излезете от цял екран"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Стартирайте основния плейър на цял екран"
+    },
+    {
+      "name": "stop",
+      "value": "Прекъсване"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Потоци, които все още не се поддържат от програмата за изтегляне, не се показват"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Известия за нови видеоклипове в абонаментите"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Нови потоци"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Честота на проверка"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Необходима мрежова връзка"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Абониране"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Абониран"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Брой на абонати не е наличен"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Неуспешна промяна на абонамента"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Неуспешно обновление на абонамента"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Неуспешно изнасяне на абонатите"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Неуспешно внасяне на абонатите"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Натиснете „Готово“, когато решите"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Мини във фонов режим"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Мини към основен режим"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Мини в нов прозорец"
+    },
+    {
+      "name": "systems_language",
+      "value": "Система по подразбиране"
+    },
+    {
+      "name": "tab_about",
+      "value": "За нас и ЧЗВ"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Отметнати плейлисти"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Плейлисти"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Избор на раздел"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Лицензи"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Абонаменти"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Режим таблет"
+    },
+    {
+      "name": "theme_title",
+      "value": "Тема на външния вид"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Кеш-паметта с изображения е изтрита"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Относно NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "История"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Възпроизвеждане на опашка"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA заявка"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Последно възпроизвеждани"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Лицензи на трети страни"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Най-възпроизвеждани"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Превключване на всички"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Превключване на цял екран"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Превключване на ориентацията на екрана"
+    },
+    {
+      "name": "top_50",
+      "value": "Топ 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Песни"
+    },
+    {
+      "name": "trending",
+      "value": "Набиращи популярност"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Популярни игри"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Популярни филми и сериали"
+    },
+    {
+      "name": "trending_music",
+      "value": "Популярна музика"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Популярни подкасти"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Премахни отметката"
+    },
+    {
+      "name": "undo",
+      "value": "Отмени"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Откачи (може да предизвика промени)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Неизвестен"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Неизвестен]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Неизвестен формат"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Неизвестно качество"
+    },
+    {
+      "name": "unmute",
+      "value": "Пусни звука"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Премахване на постоянното миниизображение"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Отписване"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "Това съдържание не е налично за текущо избраната държава на съдържанието.\n\nПроменете избора си от \"Настройки > Съдържание > Държава на съдържанието по подразбиране\"."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Непознат URL"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "URL адресът не можа да бъде разпознат. Да се отвори ли с друго приложение?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Покажи известие за актуализация на приложението, когато е налична нова версия"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Актуализации"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Публикувано на %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Активирайте тази опция, ако имате проблеми с инициализацията на декодера, което се връща към декодери с по-нисък приоритет, ако инициализацията на първичните декодери е неуспешна. Това може да доведе до лоша производителност при възпроизвеждане, отколкото при използване на първични декодери"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Използване на декодера на AVPlayer като резервен"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Използване на външен аудио плейър"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Премахва аудиото при някои резолюции"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Използване на външен видео плейър"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "По-бързо превъртане с по-ниска прецизност. Превъртане с по 5, 15 или 25 секунди няма да работи с тази опция"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Използвай бързо, но неточно превъртане"
+    },
+    {
+      "name": "users",
+      "value": "Потребители"
+    },
+    {
+      "name": "video",
+      "value": "Видео"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "От %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Видео плейър"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Не са намерени видео стриймове"
+    },
+    {
+      "name": "videos_string",
+      "value": "Видеа"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Преглед в GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "Сила на звука"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Историята с изгледани е изтрита"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Позициите за възпроизвеждане са изтрити"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Посетете уебсайта на NewPipe за повече информация и новини."
+    },
+    {
+      "name": "website_title",
+      "value": "Уебсайт"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Инфо:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Какво се случи:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Само при Wi-Fi"
+    },
+    {
+      "name": "yes",
+      "value": "Да"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Абонирахте се за този канал"
+    },
+    {
+      "name": "your_comment",
+      "value": "Вашият коментар (на английски):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Това видео е достъпно за абонати на YouTube Music Premium, затова не може да бъде гледано или изтеглено с NewPipe."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "HTTP грешка 403, получена от сървъра по време на възпроизвеждане, вероятно причинена от забрана на IP адреса или проблеми с деобфускацията на URL адреси за стрийминг"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube предлага „ограничен режим“, чрез който можете да филтрирате потенциално съдържание за възрастни"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Включване на \"Ограничен режим“ в YouTube"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

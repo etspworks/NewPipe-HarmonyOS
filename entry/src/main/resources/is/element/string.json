@@ -1,0 +1,3012 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Samþykkja"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Reikningi lokað"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Aðgangi lokað\n\n%1$s gefur þessa ástæðu: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "Áhorf"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Bæta við á spilunarlista"
+    },
+    {
+      "name": "albums",
+      "value": "Plötur"
+    },
+    {
+      "name": "all",
+      "value": "Allt"
+    },
+    {
+      "name": "always",
+      "value": "Alltaf"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Alltaf spyrja"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Alltaf nota framhjáhlaupsstillingar AVPlayer-spilarans fyrir frálagsflöt myndmerkis"
+    },
+    {
+      "name": "any_network",
+      "value": "Allar"
+    },
+    {
+      "name": "app_description",
+      "value": "Frjáls og léttur streymisspilari fyrir HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Tungumál forrits"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe er „copyleft“ frjáls hugbúnaður: Þú getur notað, rannsakað, deilt og bætt honum að vild. Þú getur endurdreift og breytt því samkvæmt skilmálum GNU GPL notendaleyfi eins og það er gefið út af Frjálsa Hugbúnaðarstofnuninni, annað hvort útgáfu 3 af leyfinu, eða (að eigin vali) hvaða síðari útgáfu sem er."
+    },
+    {
+      "name": "app_license_title",
+      "value": "Hugbúnaðarleyfi NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Forrit/viðmót hrundi"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Ýttu til að sækja %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Uppfærsla á NewPipe er tiltæk!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Tilkynningar fyrir nýjar útgáfur NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Tilkynning um uppfærslu"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Þú ert að keyra nýjustu útgáfuna af NewPipe"
+    },
+    {
+      "name": "artists",
+      "value": "Flytjendur"
+    },
+    {
+      "name": "audio",
+      "value": "Hljóð"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Engin hljóðstreymi fundust"
+    },
+    {
+      "name": "audio_track",
+      "value": "Hljóðspor"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "Hljóðspor ætti þegar að vera til staðar í þessu streymi"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "lýsandi"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "yfirtalað"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "upprunalegt"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "auka"
+    },
+    {
+      "name": "auto",
+      "value": "Sjálfvirkt"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Sjálfvirk (þema tækis)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Bæta svipuðum streymum við biðröðina þegar síðasta er spilað og endurspilun er ekki virkjuð"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Setja næsta streymi sjálfkrafa í biðröð"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Sjálfvirk biðröð"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe getur athugað sjálfkrafa hvort nýjar útgáfur séu í boði og láta þig vita þegar slíkt gerist.\nViltu virkja þetta?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Sjálfvirk spilun — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Sjálfvirk spilun"
+    },
+    {
+      "name": "background_player",
+      "value": "Bakgrunnsspilari"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Bakgrunnsspilun"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Besta upplausn"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Svört"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Auð síða"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Bókamerkja spilunarlista"
+    },
+    {
+      "name": "brightness",
+      "value": "Birtustig"
+    },
+    {
+      "name": "cancel",
+      "value": "Hætta við"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Sjálfvirkur"
+    },
+    {
+      "name": "caption_none",
+      "value": "Engin skýringartexti"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Breyta leturstærð og útlit skýringartexta spilara. Þarf að endurræsa eftir breytingu"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Skýringartexti"
+    },
+    {
+      "name": "card",
+      "value": "Spjald"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Skapað af %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Rásarsíða"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Um hugbúnaðinn"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Albúm"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Rásir"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Líkar við"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "Í beinni"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Spilunarlistar"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Símamyndir"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Spor"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Myndskeið"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Áskrift hætt"
+    },
+    {
+      "name": "channels",
+      "value": "Rásir"
+    },
+    {
+      "name": "chapters",
+      "value": "Kaflar"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Bókstafir og tölustafir"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Flestir sérstafir"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Leita að uppfærslum"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Byrja leit að nýjum streymum"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Leit að uppfærslum…"
+    },
+    {
+      "name": "checksum",
+      "value": "Gátsumma"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Veldu netþjón"
+    },
+    {
+      "name": "clear",
+      "value": "Hreinsa"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Hreinsa vefkökur sem NewPipe geymir þegar þú leysir reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Eyða vefkökum reCAPTCHA"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Hreinsa niðurhalsferil"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Eyðir öllum spilunarstöðum"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Eyða spilunarstöðum"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Biðröð spilarans verður skipt út"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Að skipta úr einum spilara í annan getur ruglað röðina þína"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Biðja um staðfestingu áður en röð er hreinsuð"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Eyðir ferli leitarorða"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Hreinsa leitarferil"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Eyðir ferli spilaðra streyma og stöðum í spilun"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Hreinsa áhorfsferil"
+    },
+    {
+      "name": "close",
+      "value": "Loka"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Ummæli eru óvirk"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Ummæli"
+    },
+    {
+      "name": "conferences",
+      "value": "Fjarfundar"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Viltu hreinsa niðurhalsferilinn eða eyða öllum sóttum skrám?"
+    },
+    {
+      "name": "content",
+      "value": "Innihald"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Sjálfgefið tungumál efnis"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Efni ekki tiltækt"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "NewPipe styður ekki þetta efni.\n\n\n\nÞað verður vonandi stutt í framtíðarútgáfu."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Allt er velkomið — hugmyndir, þýðingar, endurhönnun, kóðahreinsun eða miklar kóðabreytingar. Því fleiri, því betra!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Taka þátt"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Bæta við"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Í bakgrunni"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Sækja streymisskrá"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Sprettiglugga"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Afrita sniðna skýrslu"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s • %2$s • %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Ath: gat ekki flutt inn allar skrár."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Gat ekki hlaðið inn öllum smámyndum"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Gat ekki sett upp niðurhalsvalmynd"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Hrynja forrit"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Láta spilarann hrynja"
+    },
+    {
+      "name": "create",
+      "value": "Skapa"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Búа til villutilkynningu"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Nýr spilunarlisti"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Dökk"
+    },
+    {
+      "name": "decline",
+      "value": "Afneita"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Sjálfgefið hljóðsnið"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Sjálfgefið landsvæði efnis"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Sjálfgefin sölusíða"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Sjálfgefin upplausn sprettiglugga"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Sjálfgefin upplausn"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Sjálfgefið skráasnið myndskeiða"
+    },
+    {
+      "name": "delete",
+      "value": "Eyða"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Eyða sóttum skrám"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Eyða öllum sóttum skrám?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Eyða færslu"
+    },
+    {
+      "name": "delete_file",
+      "value": "Eyða skrá"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Viltu eyða þessu atriði úr leitarferlinum?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Eyða öllum spilunarstaðsetningum?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Eyða þessum spilunarlista?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Hreinsa allan leitarferil?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Eyða áhorfsferil?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Afvirkja valham fyrir lýsinguna"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Virkja valham fyrir lýsinguna"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Þú getur nú valið texta inni í lýsingunni. Athugaðu að síðan getur flöktað og mögulega er ekki hægt að smella á tengla í valhami."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Lýsing"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Líkar ekki við"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Dragðu til að endurraða"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Hjartað af höfunda"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Líkar við"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Fest ummæli"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Smámynd rásar"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Spila myndskeið, lengd:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Smámynd höfundar"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Áttirðu við „%1$s?“"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Margmiðlunargöng (media tunneling) voru gerð óvirk á tækinu þínu þar sem þessi gerð tækja er þekkt fyrir að styðja ekki þennan eiginleika."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Slökktu á margmiðlunargöngum (media tunneling) ef vart verður við svartan skjá eða hökt við spilun myndskeiða."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Slökkva á margmiðlagöngum"
+    },
+    {
+      "name": "disabled",
+      "value": "Óvirkt"
+    },
+    {
+      "name": "dismiss",
+      "value": "Hunsa"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe er þróað af sjálfboðaliðum sem eyða frítíma sínum í að færa þér bestu notendaupplifunina. Gefðu til baka til að hjálpa forriturum að gera NewPipe enn betri á meðan þeir njóta kaffibolla."
+    },
+    {
+      "name": "donation_title",
+      "value": "Gefa pening"
+    },
+    {
+      "name": "done",
+      "value": "Lokið"
+    },
+    {
+      "name": "dont_show",
+      "value": "Ekki sýna"
+    },
+    {
+      "name": "download",
+      "value": "Sækja"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Það er niðurhal í bið með þessu nafni"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Það er niðurhal í gangi með þessu nafni"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Sækja"
+    },
+    {
+      "name": "download_failed",
+      "value": "Niðurhal mistókst"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Niðurhal hafið"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Veldu möppu fyrir sóttar hljóðskrár"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Sóttar hljóðskrár fara hingað"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Mappa fyrir sóttar hljóðskrár"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Veldu möppu fyrir sótt myndskeið"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Sótt myndskeið fara hingað"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Mappa fyrir sótt myndskeið"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Niðurhal á SD kort er ekki mögulegt. Endurstilla niðurhalsmöppu?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Ytri geymsla ekki tiltæk"
+    },
+    {
+      "name": "downloads",
+      "value": "Sótt gögn"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Þú verður spurð(ur) hvert ætti að sækja skrár í hvert skipti.\n\nVirkjaðu kerfismöppuval (SAF) ef þú vilt nota ytra SD-kort"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Þú verður spurð(ur) hvert ætti að sækja skrár í hvert skipti"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Spyrja hvert ætti að sækja skrár"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "„Geymsluaðgangsrammi“ (SAF) gerir þér kleift að vista skrár á ytra SD-kort"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Frá Android 10 er aðeins „Geymsluaðgangsrammi“ stutt"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Virkja kerfismöppuval (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Sótt gögn"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Loka skúffu"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Víxla þjónustu. Nú valin:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Opna skúffu"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Spilunarlistarnir sem eru gráir innihalda þegar þetta atriði."
+    },
+    {
+      "name": "duration",
+      "value": "Tímalengd"
+    },
+    {
+      "name": "duration_live",
+      "value": "Í beinni"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Allt er tómt"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Tilkynna utan-lífsferils villur"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Vöktun minnisleka getur valdið því að forritið bregst ekki við"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Endurheimta síðustu spilunarstöðu"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Halda áfram"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Sýna spilunarstöður í listum"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Spilunarstöður í listum"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Takmarka niðurhalsröð"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Eitt niðurhal í einu"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Geyma leitarfyrirspurnir í tæki"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Leitarferill"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Senda tilkynningar um nýtt efni áskrifta"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Tilkynningar um nýtt efni streyma"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Geyma áhorfsferil"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Áhorfsferill"
+    },
+    {
+      "name": "enqueue",
+      "value": "Setja í röð"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Bæta við"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Setja í röð"
+    },
+    {
+      "name": "enqueued",
+      "value": "Í röð"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Í röð næst"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Færslu eytt"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Get ekki tengst netþjóninum"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Nánar:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Get ekki endurheimt þetta niðurhal"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Ekki er hægt að búa til skrána"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Netþjónninn sendir ekki gögn"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Fannst ekki"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Netþjónninn styður ekki fjölþráðuð niðurhöl, reyndu aftur með @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Ekkert pláss eftir á tæki"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Ekkert pláss eftir á tæki"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Villa kom upp: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Ekki er hægt að búa til áfangamöppuna"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Eftirvinnsla mistókst"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe var lokað á meðan unnið var að skrá"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Framvinda tapaðist vegna þess að skránni var eytt"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Tilkynna með tölvupósti"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Tilkynningar um villur"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Villuskýrslutilkynning"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe rakst á villu, ýttu til að tilkynna hana"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "Villa kom upp, sjáðu tilkynninguna"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Athugaðu hvort vandamál sem fjallar um hrun þitt sé þegar til staðar. Þegar þú býrð til tvítekna miða eyðir þú tíma okkar sem við gætum eytt í að laga villuna."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Tilkynna á GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Villuskýrsla"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Tilkynna"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Því miður fór eitthvað úrskeiðis."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Mistókst að skapa örugga tengingu"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Tímamörk tengingar"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Gat ekki hlaðið ummælum"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Þjónninn fannst ekki"
+    },
+    {
+      "name": "events",
+      "value": "Viðburðir"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Flutt út"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Flytja út feril, áskriftir, spilunarlista og stillingar"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Flytja út gagnagrunn"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Flytur út…"
+    },
+    {
+      "name": "export_to",
+      "value": "Flytja út til"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Utanaðkomandi spilarar styðja ekki þessar tegundir tengla"
+    },
+    {
+      "name": "faq",
+      "value": "Skoða á vefsíðu"
+    },
+    {
+      "name": "faq_description",
+      "value": "Ef þú átt í vandræðum með að nota forritið vertu viss um að skoða þessi svör við algengum spurningum!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Algengar spurningar"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Hraðstreymishamur"
+    },
+    {
+      "name": "featured",
+      "value": "Úrvals"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Búa til"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Sækja flipa rásar"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "Flipar sem á að sækja við uppfærslu þessa streymis. Þetta hefur engin áhrif ef rás er uppfærð með hraðstreymisham."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Viltu eyða þessum hóp?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Tómt hópsnafn"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Engar áskriftir valdar"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Veldu áskriftir"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Síða rásahóps"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Sýna aðeins óflokkaðar áskriftir"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Rásarhópar"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Birta eftirfarandi streymi"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Villa við að hlaða streymi"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Gat ekki hlaðið streymi fyrir ‚%s.‘"
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Hraðstreymishamurinn veitir ekki frekari upplýsingar um þetta."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Reikningur höfundar er lokaður.\nNewPipe getur ekki sótt þetta streymi lengur.\nViltu segja upp áskrift?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Ný atriði í streymi"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Hleður…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Streymi síðast uppfært %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Í vinnslu…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Birta/Fela streymi"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Skoðað að hluta"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Á næstunni"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Búið að horfa"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Ekki hlaðið: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Alltaf uppfæra"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Hversu oft á að uppfæra streymi áður en áskrift er talin útrunnin — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Takmörk á uppfærslu streymis"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Afvirkja hraðstreymisham"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Virkja hraðstreymisham"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Ef áskriftir eru uppfærðar of hægt máttu prófa hraðstreymissham (kveiktu á honum í stillingunum eða með hnappnum hér að neðan).\n\nNewPipe getur uppfært áskriftir á tvo vegu:\n• Sækja alla áskriftarrásina - hægvirkt en veitir allar upplýsingar.\n• Nota sérstök forritaskil - fljótvirkt en upplýsingar verða minni.\n\nHraðstreymishamur getur veitt ófullnægjandi upplýsingar, t.d. engin lengd, tegund, staða og getur skilað færri atriðum.\n\nYouTube er dæmi um þjónustu sem býður upp á þetta með RSS-streymi sínu.\n\nValið er því á milli hraða eða nákvæmra upplýsinga."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Fáanlegt fyrir sumar þjónustur. Það er venjulega miklu hraðari en getur skilað ófullnægjandi upplýsingum (t.d. engin lengd, tegund, staða beinna útsendinga)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Sækja úr tileinkuðu streymi þegar það er tiltækt"
+    },
+    {
+      "name": "file",
+      "value": "Skrá"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Skrá eytt"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Skráarnafn má ekki vera autt"
+    },
+    {
+      "name": "forward",
+      "value": "Áfram"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Hvað er nýtt"
+    },
+    {
+      "name": "general_error",
+      "value": "Villa"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Búa til einstakt nafn"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Þetta efni er ekki fáanlegt í þínu landi."
+    },
+    {
+      "name": "get_notified",
+      "value": "Fá tilkynningu"
+    },
+    {
+      "name": "give_back",
+      "value": "Gefa"
+    },
+    {
+      "name": "grid",
+      "value": "Hnitanet"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Tilkynning um framvindu gátsummu myndskeiðs"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Tilkynning um gátsummu myndskeiðs"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Hágæða (stærra)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Haltu niðri til að bæta við spilunarröð"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Nytsamlegt ef þú til dæmis þarft að nota heyrnartól með biluðum tökkum"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Hunsa atvik frá margmiðlunarhnöppum vélbúnaðar"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Hágæða"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Lággæða"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Meðalgæði"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Ekki hlaða inn myndum"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Veldu gæði mynda og hvort eigi að hlaða myndum inn yfirhöfuð, til að minnka notun gagna og minnis. Breytingar munu hreinsa bæði vinnsluminni og diskminni - %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Myndgæði"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Flutt inn"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Núverandi áskriftum, spilunarlistum, feril og (valfrjálst) stillingum verður skipt út"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Flytja inn gagnagrunn"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Flytja inn skrá"
+    },
+    {
+      "name": "import_from",
+      "value": "Flytja inn frá"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Þessi aðgerð getur valdið mikla netnotkun.\n\n\n\nHalda áfram?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Flytur inn…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Viltu einnig flytja inn stillingar?"
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Flyttu inn SoundCloud reikningi með því að slá inn slóð þess eða auðkenni:\n\n\n\n1) Virkjaðu skrifborðsstillingu í vafra. Síðan er ekki fáanleg fyrir farsíma.\n\n2) Farðu hingað: %1$s\n\n3) Skráðu þig inn þegar spurt er.\n\n4. Afritaðu slóðina sem þér var vísað á."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "auðkenniÞitt, soundcloud.com/auðkenniÞitt"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Flytja áskriftir inn eða út með 3-punkta valmyndinni"
+    },
+    {
+      "name": "import_title",
+      "value": "Flytja inn"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Flytja inn YouTube áskriftir frá Google takeout:\n\n\n\n1) Farðu á: %1$s\n\n2) Skráðu þig inn þegar spurt er.\n\n3) Smelltu á „Öll gögn innifalin,“ síðan á „Afvelja allt,“ veldu síðan aðeins „áskriftir“ og smelltu á „Í lagi.“\n\n4) Smelltu á „Næsta skref“ og síðan á „Búa til útflutning.“\n\n5) Smelltu á \"Sækja\" hnappinn eftir að hann birtist.\n\n6) Smelltu á FLYTJA INN SKRÁ fyrir neðan og veldu .zip skrána.\n\n7) [Ef .zip innflutningur mistekst] Taktu út .csv skrána (venjulega undir „YouTube og YouTube Music/subscriptions/subscriptions.csv“), smelltu á FLYTJA INN SKRÁ fyrir neðan og veldu þá skrá."
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ myndskeið"
+    },
+    {
+      "name": "info_labels",
+      "value": "Hvað:\nBeiðni:\nTungumál efnis:\nLandsvæði efnis:\nTungumál forrits:\nÞjónusta:\nTímastimpill:\nPakki:\nÚtgáfa:\nÚtgáfa stýrikerfis:"
+    },
+    {
+      "name": "install",
+      "value": "Setja upp"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Engin slík mappa"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Skráin er ekki til eða aðgangi var hafnað"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Ekkert slíkt efni fanst"
+    },
+    {
+      "name": "just_once",
+      "value": "Bara einu sinni"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Sölusíða"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Kore forritið fannst ekki, setja það upp?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary er ekki í boði"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Veldu bendingu fyrir vinstri helming spilaraskjás"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Vinstri bendingaraðgerð"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Ljós"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Engin takmörk"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Takmarka upplausn þegar farsímagögn eru notuð"
+    },
+    {
+      "name": "list",
+      "value": "Listi"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Listasýn"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Hleð inn lýsigögnum…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Hleður inn upplýsingum um streymi…"
+    },
+    {
+      "name": "local",
+      "value": "Staðbundið"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Staðbundnar leitartillögur"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Lágæða (minna)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Ýttu á stækkunarglerið til að byrja."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Aðalsíða"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Hvaða flipar eru sýndir á aðalsíðunni"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Strjúktu til að fjarlægja"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Færa veljara aðalflipa neðst"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Staðsetning aðalflipa"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Leita handvirkt fyrir uppfærslum"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Merkja sem séð"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Fjöldi tilrauna áður en hætt er við niðurhal"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Hámarks tilraunir"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Aldurstakmark"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Auðkennismyndir"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Borðar"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Skyndiminni lýsigagna tæmt"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Fjarlæga öll síðugögn úr skyndiminni"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Tæma skyndiminni lýsigagna"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Flokkur"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Netþjónn"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Tungumál"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Leyfi"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Sýnileiki"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Innri"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Einka"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Opinber"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Óskráður"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Auðkennismyndir undirrása"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Áskrifendur"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Stuðningur"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Merki"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Smámyndir"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Auðkennismyndir innsendenda"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud er hætt með Topp 50 vinsældalistann. Viðkomandi flipi hefur verið fjarlægður af aðalsíðunni þinni."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "Topp 50 síða SoundCloud fjarlægð"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube hætti með samsetta vinsældalistann sinn frá og með 21. júlí 2025. NewPipe skipti út sjálfgefna vinsældalistanum fyrir vinsæl streymi í beinni útsendingu.\n\nÞú getur líka valið annað vinsælt efni með því að fara í \"Stillingar > Efni > Efni aðalsíðu\"."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "Samsettur vinsældalisti YouTube fjarlægður"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Nota bakgrunnsspilara"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Ekki gera neitt"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Nota sprettigluggaspilara"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Aðgerð þegar skipt er yfir í annað forrit frá aðalmyndspilara — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Fela þegar skipt er um forrit"
+    },
+    {
+      "name": "missing_file",
+      "value": "Skrá færð eða eytt"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Lokið"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Í bið"
+    },
+    {
+      "name": "more_options",
+      "value": "Fleiri valkostir"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ myndskeið"
+    },
+    {
+      "name": "most_liked",
+      "value": "Vinsælt"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Að reikna gátsummu"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Afritað á klemmuspjald"
+    },
+    {
+      "name": "msg_error",
+      "value": "Villa"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Mistókst að afrita á klippispjald"
+    },
+    {
+      "name": "msg_name",
+      "value": "Skráarnafn"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Þessa heimildar þarfnast til að\n\nopna í sprettiglugga"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe er að sækja"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Ýttu til að fá nánari upplýsingar"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Þræðir"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Bíddu aðeins…"
+    },
+    {
+      "name": "mute",
+      "value": "Slökkva á hljóði"
+    },
+    {
+      "name": "name",
+      "value": "Nafn"
+    },
+    {
+      "name": "network_error",
+      "value": "Netvilla"
+    },
+    {
+      "name": "never",
+      "value": "Aldrei"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Nýtt og heitt"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Vegna takmarkana í AVPlayer-spilaranum var tímalengd hoppa sett á %d sekúndur"
+    },
+    {
+      "name": "next_stream",
+      "value": "Næsta streymi"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Þessi valkostur er aðeins tiltækur ef %s er valið sem þema"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Veldu uppáhalds næturþemu þína — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Næturþema"
+    },
+    {
+      "name": "no",
+      "value": "Nei"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Ekkert forrit í tækinu þínu getur opnað þetta"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Enginn viðeigandi skráastjóri fannst fyrir þessa aðgerð. \nEndilega settu upp skráastjóra eða reyndu að slökkva á '%s' í niðurhalsstillingunum"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Enginn viðeigandi skráastjóri fannst fyrir þessa aðgerð. \nSettu upp skráastjóra sem styður Storage Access Framework"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Engin hljóðstreymi eru í boði fyrir utanaðkomandi spilara"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Skilgreindu niðurhalsmöppu síðar í stillingunum"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Engar áskriftir ennþá"
+    },
+    {
+      "name": "no_comments",
+      "value": "Engin ummæli"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Engin niðurhalsmappa er stillt ennþá. Veldu sjálfgefna niðurhalsmöppu núna"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Enginn hópur streyma útbúinn ennþá"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Engin streymi í beinni"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Engin er að hlusta"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Еnginn еr að horfa"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Enginn streymisspilari fannst. Setja upp VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Enginn streymisspilari fannst (þú getur sett upp VLC til að spila það)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Engir spilunarlistar bókamerktir ennþá"
+    },
+    {
+      "name": "no_streams",
+      "value": "Engin streymi"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Engin streymi til að sækja"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Engir áskrifendur"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Engin gild ZIP safnskrá"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Engin myndstreymi eru í boði fyrir utanaðkomandi spilara"
+    },
+    {
+      "name": "no_videos",
+      "value": "Engin myndskeið"
+    },
+    {
+      "name": "no_views",
+      "value": "Engin áhorf"
+    },
+    {
+      "name": "none",
+      "value": "Ekkert"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Fyrsti aðgerðahnappur"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Annar aðgerðahnappur"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Þriðji aðgerðahnappur"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Fjórði aðgerðahnappur"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Fimmti aðgerðahnappur"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Í vinnslu"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Ekkert"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Endurtaka"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Stokka"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Þú getur valið mest þrjár aðgerðir til að birta í samþjöppuðum tilkynningum.!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Breyttu hverri tilkynningu hér fyrir neðan með því að ýta á hana. Veldu í gátreitunum hægra megin allt að þrjár þeirra til að birta í samþjöppuðum tilkynningum."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Breyttu hverri tilkynningu hér fyrir neðan með því að ýta á hana. Fyrstu þrjár aðgerðirnar (spila/bíða, fyrra og næsta) eru skilgreindar af kerfinu og er því ekki hægt að sérsníða."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Tilkynningar fyrir spilara NewPipe"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe tilkynning"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Láta Android sérsníða lit tilkynningarinnar í samræmi við aðallitinn í smámyndinni (athugaðu að þetta er ekki fáanlegt í öllum tækjum)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Litaðar tilkynningar"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Skera smámynd myndskeiðs sem sýnd er í tilkynningum úr 16:9 niður í 1:1 stærðarhlutföll"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "1:1 smámyndir"
+    },
+    {
+      "name": "notifications",
+      "value": "Tilkynningar"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Slökkt er á tilkynningum"
+    },
+    {
+      "name": "off",
+      "value": "Óvirkt"
+    },
+    {
+      "name": "ok",
+      "value": "Í lagi"
+    },
+    {
+      "name": "on",
+      "value": "Virkt"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 atriði eytt."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Opna í vafra"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Opna í sprettglugga"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Opna spilunarröð"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Opna vefsíðu"
+    },
+    {
+      "name": "open_with",
+      "value": "Opna með"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Núverandi gögnum verður skipt út."
+    },
+    {
+      "name": "overwrite",
+      "value": "Yfirskrifa"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "get ekki skrifað yfir skrána"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Sótt skrá með þessu heiti er þegar til staðar"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Skrá með þessu heiti er þegar til staðar"
+    },
+    {
+      "name": "paid_content",
+      "value": "Þetta efni er aðeins í boði fyrir notendur sem hafa greitt — það er ekki hægt að streyma því eða sækja með NewPipe."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Gat ekki túlkað vefsíðu"
+    },
+    {
+      "name": "pause",
+      "value": "Gera hlé"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Gera hlé á niðurhali"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Gera hlé þegar skipt er yfir í farsímanet"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Sumir netþjónar styðja ekki hlé á niðurölum"
+    },
+    {
+      "name": "paused",
+      "value": "Í hléi"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Tilvik er þegar til"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Gat ekki staðfest tilvik"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Sláðu inn slóð tilviks"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Aðeins HTTPS vefslóðir eru studdar"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Bæta við"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Þú mátt finna tilviki á %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Veldu uppáhalds PeerTube tilvik þín"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube þjónar"
+    },
+    {
+      "name": "percent",
+      "value": "Hlutfall"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Aðgerð hafnað af kerfi"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Gefðu leyfi til að birta yfir önnur forrit"
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "Leyfa birtingu ofan á öðrum forritum"
+    },
+    {
+      "name": "play",
+      "value": "Spila"
+    },
+    {
+      "name": "play_all",
+      "value": "Spila allt"
+    },
+    {
+      "name": "play_audio",
+      "value": "Hljóð"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Hljóðstillingar"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Hljóð: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Fjarlægja"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Nánar"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Spila með Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Tónhæð"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Endurstilla"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Spilunarhraði"
+    },
+    {
+      "name": "playback_step",
+      "value": "Skref"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Hraði"
+    },
+    {
+      "name": "player_http_403",
+      "value": "Tók við HTTP-villu 403 frá þjóni á meðan afspilun stóð, líklega vegna útrunninar URL-slóðar streymis eða banns á IP-vistfang"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "Tók við HTTP-villu %1$s frá þjóni á meðan afspilun stóð"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Að jafna sig eftir villu í spilara"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Ekki tókst að spila þetta streymi"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Banvæn villa í spilaranum"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Bætt á spilunarlista"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Tvítaki bætt við %d sinnum"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Spilunarlisti búinn til"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Búið til sjálfkrafa (höfundur fannst ekki)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Spilunarlistasíða"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Smámynd spilunarlista breytt."
+    },
+    {
+      "name": "playlists",
+      "value": "Spilunarlistar"
+    },
+    {
+      "name": "popup_player",
+      "value": "Sprettigluggaspilari"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Sprettigluggaspilun"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Muna síðustu stærð og stöðu sprettiglugga"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Muna eiginleika sprettiglugga"
+    },
+    {
+      "name": "post_processing",
+      "value": "eftirvinnsla"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Veldu hljóðspor með lýsingum fyrir sjónskerta, ef slíkt er tiltækt"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Velja frekar lýsandi hljóð"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Velja upprunalegt hljóðspor án tillits til tungumáls"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Velja frekar upprunalegt hljóð"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Þegar hlekkur er opnaður — %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Þegar hlekkur er opnaður"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Hleður umbeðið efni"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Sækir upplýsingar…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Fyrri útflutningur"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Fyrra streymi"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "NewPipe verkefnið tekur friðhelgi þína mjög alvarlega. Þess vegna safnar forritið ekkert án samþykkis þíns.\n\nPersónuverndarstefna NewPipe útskýrir í smáatriðum hvaða gögn eru send og geymd þegar þú sendir hrunskýrslu."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Persónuverndarstefna NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "Þetta efni er ekki opinbert — það er ekki hægt að streyma því eða sækja með NewPipe."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Í gangi… Bíddu aðeins"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "Sjálfgefinn AVPlayer"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Breyta stærð millibils forhleðslu (núna %s). Lægra gildi gæti flýtt fyrir hleðslu myndskeiðs í upphafi"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Stærð forhleðslu"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "í röð"
+    },
+    {
+      "name": "radio",
+      "value": "Útvarp"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Lesa leyfi"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Lesa persónuverndarstefnu"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "Vefkökum reCAPTCHA eytt"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "Beðið eftir þraut reCAPTCHA"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Leysa"
+    },
+    {
+      "name": "recent",
+      "value": "Nýleg"
+    },
+    {
+      "name": "recently_added",
+      "value": "Nýlega bætt við"
+    },
+    {
+      "name": "recovering",
+      "value": "að jafna sig"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Tengd efni"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Fjarleitar leitartillögur"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Fjarlægja tvítök"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Ertu viss um að þú viljir fjarlægja öll tvítekin streymi í þessum spilunarlista?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Fjarlægja tvítök?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Fjarlægja áhorf"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Já og skoðuð að hluta"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Fjarlægja streymi sem búið er að horfa á?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Myndskeiðum sem skoðuð voru áður eða eftir að þeim var bætt við spilunarlistann verður eytt. \nErtu viss?"
+    },
+    {
+      "name": "rename",
+      "value": "Endurnefna"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Endurnefna"
+    },
+    {
+      "name": "replay",
+      "value": "Endurspila"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Frumstilling allra stillinga mun henda öllum áður skilgreindum stillingum og endurræsa forritið.\n\nErtu viss um að þú viljir halda áfram?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Frumstilla allar stillingar á sjálfgefin gildi"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Frumstilla stillingar"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Fylla"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Passa"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Þysja"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Endurheimta sjálfgefnar stillingar"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Viltu endurheimta sjálfgefnar stillingar?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Þetta myndskeið er með aldurstakmörk.\n\n\n\nKveiktu á „%1$s“ í stillingunum ef þú vilt sjá það."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Þetta myndskeið er með aldurstakmörk.\n\nVegna nýrra reglna YouTube er ekki hægt að streyma því eða sækja með NewPipe."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Halda áfram að spila eftir hlé (t.d. símtöl)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Halda áfram"
+    },
+    {
+      "name": "retry",
+      "value": "Reyna aftur"
+    },
+    {
+      "name": "rewind",
+      "value": "Spóla til baka"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Veldu bendingu fyrir hægri helming spilaraskjás"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Hægri bendingaraðgerð"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Gat ekki lesið vistaða flipa þannig að mun nota sjálfgefna"
+    },
+    {
+      "name": "search",
+      "value": "Leita"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Leitarferli eytt"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Engar niðurstöður"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Niðurstöður fyrir: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Leita í %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Leita í %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Lengd hopps"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Forskoðun á smámynd hoppstiku"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Veldu rás"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Veldu hóp streyma"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Veldu sölusíðu"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Veldu spilunarlista"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Veldu hljóðspor fyrir utanaðkomandi spilara"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Þú getur valið uppáhalds næturþemu þína hér að neðan"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Veldu gæði fyrir utanaðkomandi spilara"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Valið streymi er ekki stutt af utanaðkomandi spilurum"
+    },
+    {
+      "name": "semitone",
+      "value": "Hálftónn"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Setja sem smámynd spilunarlista"
+    },
+    {
+      "name": "settings",
+      "value": "Stillingar"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Útlit"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Öryggisafrita og endurheimta"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Hreinsa gögn"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Aflúsa"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Niðurhal"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Sýslaðu með sumar stillingar AVPlayer. Breytingar á þessu krefjast endurræsingar spilarans til að taka gildi"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "Stillingar AVPlayer"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Streymi"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Ferill og skyndiminni"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Hegðun"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Stilla tilkynningu fyrir spilandi streymi"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Tilkynning spilara"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Spilari"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Uppfærslur"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Mynd og hljóð"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Leyfðir stafir í skráarnöfnum"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Ógildum stöfum er skipt út með þessum"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Stafur sem kemur í staðinn"
+    },
+    {
+      "name": "share",
+      "value": "Deila"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Deila með"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Deila spilunarlista"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Deila sem YouTube-bráðabirgðaspilunarlista"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Deila lista yfir slóðir"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Deila með titlum"
+    },
+    {
+      "name": "short_billion",
+      "value": "%sB"
+    },
+    {
+      "name": "short_million",
+      "value": "%sM"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sK"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Sýna efni sem hugsanlega hentar ekki börnum vegna þess að það hefur aldurstakmark (t.d. 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Sýna aldurstakmarkað efni"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Sýna upplýsingar um rás"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Rásaflipar"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Hvaða flipar eru sýndir á rásasíðunum"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Slökktu á til að fela ummæli"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Sýna ummæli"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Sýna valkost til að hrynja spilara"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Sýna „Láta spilara hrynja\""
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Slökktu á til að fela lýsingu og viðbótarupplýsingar myndskeiðs"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Sýna lýsingu"
+    },
+    {
+      "name": "show_error",
+      "value": "Sýna villu"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Sýna villustiku"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Aðeins sum tæki geta spilað 2K/4K myndskeið"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Sýna hærri upplausnir"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Sýna ábendingu þegar ýtt er á bakgrunninn eða sprettihnappinn á myndskeiðinu í „Nánar:\""
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Sýna ábendinguna „Haltu niðri til að bæta við spilunarröð“"
+    },
+    {
+      "name": "show_info",
+      "value": "Sýna upplýsingar"
+    },
+    {
+      "name": "show_less",
+      "value": "Sýna minna"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Sýna minnisleka"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Slökktu á til að fela lýsigagnareiti með viðbótarupplýsingum um höfund streymis, efni streymis eða leitarbeiðni"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Sýna lýsigögn"
+    },
+    {
+      "name": "show_more",
+      "value": "Sýna meira"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Sýna „Næstu“ og „Svipuð“ myndskeið"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Upprunalegir textar frá þjónustu verða sýnilegir í streymisatriðum"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Sýna upprunatíma á atriðum"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Birta hnapp til að spila myndskeið í gegnum Kodi margmiðlunarmiðstöð"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Sýna \"Spila með Kodi\" hnapp"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Veldu tillögur til að sýna þegar leitað er"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Leitartillögur"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Nota smámynd fyrir tilkynningar og bakgrunn lásskjás"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Sýna smámynd"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Spóla áfram í þögn"
+    },
+    {
+      "name": "songs",
+      "value": "Lög"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Æi, þetta ætti ekki að gerast."
+    },
+    {
+      "name": "sort",
+      "value": "Raða"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Þetta er SoundCloud Go+ lag að minnsta kosti í þínu landi — það er ekki hægt að streyma því eða sækja með NewPipe."
+    },
+    {
+      "name": "start",
+      "value": "Byrja"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Í samræmi við almenna persónuverndarreglugerðin ESB vekjum við athygli þína á persónuverndarstefnu NewPipe. Lestu hana vandlega. \nÞú verður að samþykkja hana til að senda okkur villuskýrsluna."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Byrja niðurhöl"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Spila í bakgrunni"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Spila í sprettiglugga"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Ekki byrja myndskeið í smáspilaranum heldur fara í skjáfylliham ef sjálfvirkur snúningur er læstur. Þú getur samt fengið aðgang að smáspilaranum með því að fara úr skjáfylliham"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Ræsa aðalspilara í fullskjásstillingu"
+    },
+    {
+      "name": "stop",
+      "value": "Hætta"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Streymi sem ekki eru enn studd af niðurhalaranum eru ekki sýnd"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Tilkynningar um ný streymi fyrir áskriftir"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Nýtt efni"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Hversu oft á að athuga"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Tegund tengingar"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Gerast áskrifandi"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Í áskrift"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Fjöldi áskrifenda ekki tiltækur"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Gat ekki breytt áskrift"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Gat ekki uppfært áskrift"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Ekki tókst að flytja út áskriftir"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Ekki tókst að flytja inn áskriftir"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Pikkaðu á \"Lokið\" þegar það er leyst"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Skipta yfir í bakgrunn"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Skipta yfir í aðalspilara"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Skipta yfir í sprettiglugga"
+    },
+    {
+      "name": "systems_language",
+      "value": "Sjálfgefið í kerfinu"
+    },
+    {
+      "name": "tab_about",
+      "value": "Um okkur og algengar spurningar"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Bókamerktir spilunarlistar"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Spilunarlistar"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Veldu flipa"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Hugbúnaðarleyfi"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Áskriftir"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Spjaldtölvuhamur"
+    },
+    {
+      "name": "theme_title",
+      "value": "Þema"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Skyndiminni mynda tæmt"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Um NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Áhorf"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Spilunarröð"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "Þraut reCAPTCHA"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Nýlega spilað"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Leyfi þriðja aðila"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Mest spilað"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Víxla öllu"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Víxla skjáfylli af/á"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Víxla stefnu skjás"
+    },
+    {
+      "name": "top_50",
+      "value": "Topp 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Spor"
+    },
+    {
+      "name": "trending",
+      "value": "Vinsælt"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Vinsælir leikir"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Vinsælar kvikmyndir og þættir"
+    },
+    {
+      "name": "trending_music",
+      "value": "Vinsæl tónlist"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Vinsæl hlaðvörp"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Fjarlægja bókamerki"
+    },
+    {
+      "name": "undo",
+      "value": "Afturkalla"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Aftengja (getur valdið truflun)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Óþekkt"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Óþekkt]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Óþekkt snið"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Óþekkt gæði"
+    },
+    {
+      "name": "unmute",
+      "value": "Kveikja á hljóði"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Losa varanlega smámynd"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Hætta áskrift"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "Þetta efni er ekki í boði fyrir valið landsvæði efnis.\n\nBreyttu valinu með því að fara í \"Stillingar > Efni > Sjálfgefið landsvæði efnis\"."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Óstudd vefslóð"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Óþekkt slóð. Opna með öðru forriti?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Sýna tilkynningu þegar ný útgáfa er fáanleg"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Uppfærslur"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Birt %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Nota varaeiginleika AVPlayer-afkóðarans"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Nota utanaðkomandi hljóðspilara"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Fjarlægir hljóð í sumum upplausnum"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Nota utanaðkomandi myndspilara"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Ónákvæm hopp gerir leikmanninum kleift að leita hraðar í stöður með minni nákvæmni. Að leita í 5, 15 eða 25 sekúndur virkar ekki með þessu"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Nota hröð en ónákvæm hopp"
+    },
+    {
+      "name": "users",
+      "value": "Notendur"
+    },
+    {
+      "name": "video",
+      "value": "Myndskeið"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "Frá %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Myndspilari"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Engin myndstreymi fundust"
+    },
+    {
+      "name": "videos_string",
+      "value": "Myndskeið"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Skoða á GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "Hljóðstyrkur"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Áhorfsferli eytt"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Spilunarstaðsetningum eytt"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Fyrir frekari upplýsingar og nýjustu fréttir um NewPipe geturðu skoðað heimasíðu okkar."
+    },
+    {
+      "name": "website_title",
+      "value": "Vefsíða"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Upplýsingar:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Það sem gerðist:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Aðeins Wi-Fi"
+    },
+    {
+      "name": "yes",
+      "value": "Já"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Þú ert nú áskrifandi"
+    },
+    {
+      "name": "your_comment",
+      "value": "Athugasemd þín (á ensku):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Þetta myndskeið er aðeins í boði fyrir YouTube Tónlist Premium meðlimi, það er ekki hægt að streyma því eða sækja með NewPipe."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "Tók við HTTP-villu 403 frá þjóni á meðan afspilun stóð, líklega vegna banns á IP-vistfang eða vandamála með afkóðun URL-slóðar streymis"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube býður upp á öryggisham sem felur efni sem gæti hugsanlega verið óviðeigandi fyrir börn"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Kveikja á öryggisham YouTube"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

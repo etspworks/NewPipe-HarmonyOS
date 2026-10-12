@@ -1,0 +1,225 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d روز"
+        },
+        {
+          "quantity": "other",
+          "value": "%d روز"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%1$s بارگیری حذف شد"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s بارگیری حذف شدند"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "بارگیری پایان یافت"
+        },
+        {
+          "quantity": "other",
+          "value": "%s بارگیری پایان یافتند"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "برون ریختن %d اشتراک…"
+        },
+        {
+          "quantity": "other",
+          "value": "برون ریختن %d اشتراک…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d مورد گزیده"
+        },
+        {
+          "quantity": "other",
+          "value": "%d مورد گزیده"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ساعت"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ساعت"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "درون ریختن %d اشتراک…"
+        },
+        {
+          "quantity": "other",
+          "value": "درون ریختن %d اشتراک…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s شنونده"
+        },
+        {
+          "quantity": "other",
+          "value": "%s شنونده"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "بار کردن %d اشتراک…"
+        },
+        {
+          "quantity": "other",
+          "value": "بار کردن %d اشتراک…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d دقیقه"
+        },
+        {
+          "quantity": "other",
+          "value": "%d دقیقه"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s جریان جدید"
+        },
+        {
+          "quantity": "other",
+          "value": "%s جریان جدید"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s پاسخ"
+        },
+        {
+          "quantity": "other",
+          "value": "%s پاسخ"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ثانیه"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ثانیه"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s مشترک"
+        },
+        {
+          "quantity": "other",
+          "value": "%s مشترک"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ویدیو"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ویدیو"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s بازدید"
+        },
+        {
+          "quantity": "other",
+          "value": "%s بازدید"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s بیننده"
+        },
+        {
+          "quantity": "other",
+          "value": "%s بیننده"
+        }
+      ]
+    }
+  ]
+}

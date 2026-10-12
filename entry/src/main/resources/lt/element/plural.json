@@ -1,0 +1,242 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d diena"
+        },
+        {
+          "quantity": "few",
+          "value": "%d dienos"
+        },
+        {
+          "quantity": "other",
+          "value": "%d dienų"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Ištrintas %1$s atsiuntimas"
+        },
+        {
+          "quantity": "few",
+          "value": "Ištrinti %1$s atsiuntimai"
+        },
+        {
+          "quantity": "other",
+          "value": "Ištrinta %1$s atsiuntimų"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Atsiuntimas baigtas"
+        },
+        {
+          "quantity": "few",
+          "value": "%s atsiuntimai baigti"
+        },
+        {
+          "quantity": "other",
+          "value": "%s atsiuntimų baigta"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d pasirinktas"
+        },
+        {
+          "quantity": "few",
+          "value": "%d pasirinkti"
+        },
+        {
+          "quantity": "other",
+          "value": "%d pasirinkta"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d valanda"
+        },
+        {
+          "quantity": "few",
+          "value": "%d valandos"
+        },
+        {
+          "quantity": "other",
+          "value": "%d valandų"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s klausytojas"
+        },
+        {
+          "quantity": "few",
+          "value": "%s klausytojai"
+        },
+        {
+          "quantity": "other",
+          "value": "%s klausytojų"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minutes"
+        },
+        {
+          "quantity": "few",
+          "value": "%d minutės"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minučių"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s nauja transliacija"
+        },
+        {
+          "quantity": "few",
+          "value": "%s naujos transliacijos"
+        },
+        {
+          "quantity": "other",
+          "value": "%s naujų transliacijų"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s atsakymas"
+        },
+        {
+          "quantity": "few",
+          "value": "%s atsakymai"
+        },
+        {
+          "quantity": "other",
+          "value": "%s atsakymų"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d sekundė"
+        },
+        {
+          "quantity": "few",
+          "value": "%d sekundės"
+        },
+        {
+          "quantity": "other",
+          "value": "%d sekundžių"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s prenumeratorius"
+        },
+        {
+          "quantity": "few",
+          "value": "%s prenumeratoriai"
+        },
+        {
+          "quantity": "other",
+          "value": "%s prenumeratorių"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s vaizdo įrašas"
+        },
+        {
+          "quantity": "few",
+          "value": "%s vaizdo įrašai"
+        },
+        {
+          "quantity": "other",
+          "value": "%s vaizdo įrašų"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s peržiūra"
+        },
+        {
+          "quantity": "few",
+          "value": "%s peržiūros"
+        },
+        {
+          "quantity": "other",
+          "value": "%s peržiūrų"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s žiūri"
+        },
+        {
+          "quantity": "few",
+          "value": "%s žiūri"
+        },
+        {
+          "quantity": "other",
+          "value": "%s žiūri"
+        }
+      ]
+    }
+  ]
+}

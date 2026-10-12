@@ -1,0 +1,3080 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Acceptați"
+    },
+    {
+      "name": "account_terminated",
+      "value": "Contul a fost închis"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "Cont închis.\n\n%1$s oferă acest motiv: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "Istoric"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Adăugați la playlist"
+    },
+    {
+      "name": "albums",
+      "value": "Albume"
+    },
+    {
+      "name": "all",
+      "value": "Toate"
+    },
+    {
+      "name": "always",
+      "value": "Întotdeauna"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Întrebați întotdeauna"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "Această soluție alternativă eliberează și reinstanțează codecurile video când se întamplă o schimbare a suprafeței, în loc de a seta suprafața pentru codec direct. Deja folosită de ExoPlayer pe unele dispozitive cu această problemă, această setare are efect doar pe Android 6 sau mai mare\n\n\n\nActivarea acestei opțiuni poate preveni erorile de redare când se schimbă playerul video curent sau se trece pe ecran complet"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "Utilizați întotdeauna configurarația suprafeței de ieșire video din AVPlayer ca soluție alternativă"
+    },
+    {
+      "name": "any_network",
+      "value": "Orice rețea"
+    },
+    {
+      "name": "api23_requirement_dialog_blogpost",
+      "value": "Postare blog"
+    },
+    {
+      "name": "api23_requirement_dialog_message",
+      "value": "Din păcate, NewPipe depinde de câteva biblioteci care nu mai sunt compatibile cu Android 5.0 și 5.1. Prin urmare, următoarea versiune a NewPipe va funcționa doar pe dispozitive cu Android 6 sau o versiune ulterioară. Aflați mai multe în articolul de pe blog."
+    },
+    {
+      "name": "api23_requirement_dialog_title",
+      "value": "NewPipe nu va mai fi compatibil cu Android 5"
+    },
+    {
+      "name": "app_description",
+      "value": "Un player de streaming „ușor” liber, pentru HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Limba aplicației"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe este un software liber cu copyleft: îl puteți folosi, studia, distribui și îmbunătăți în voie. Mai exact, îl puteți redistribui și/sau modifica în conformitate cu termenii Licenței Publice Generale GNU, așa cum a fost publicată de Free Software Foundation, fie versiunea 3 a Licenței, fie (la alegerea dumneavoastră) orice versiune ulterioară."
+    },
+    {
+      "name": "app_license_title",
+      "value": "Licența NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Aplicația/UI s-a oprit"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "Atingeți pentru a descărca %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "Actualizare NewPipe disponibilă!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "Notificări pentru noi versiuni NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Notificare de actualizare a aplicației"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "Folosiți cea mai recentă versiune NewPipe"
+    },
+    {
+      "name": "artists",
+      "value": "Artiști"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Niciun stream audio găsit"
+    },
+    {
+      "name": "audio_track",
+      "value": "Coloană sonoră"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "O coloană sonoră ar trebui să fie deja prezentă în această transmisie"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "descriptiv"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "dublat"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "original"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "secundar"
+    },
+    {
+      "name": "auto",
+      "value": "Automat"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "Automat (tema dispozitivului)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Continuă coadă de redare (care nu se repetă) prin adăugarea unui flux asemănător"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Adaugă următorul stream în coadă automat"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Coadă automată"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe poate verifica automat din când în când dacă există versiuni noi și vă poate anunța când acestea sunt disponibile.\nDoriți să activați această opțiune?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Începeți automat redarea - %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Redare automată"
+    },
+    {
+      "name": "background_player",
+      "value": "Player Fundal"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Redare în fundal"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Rezoluție maximă"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Negru"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Pagină goală"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Marcați lista de redare"
+    },
+    {
+      "name": "brightness",
+      "value": "Luminozitate"
+    },
+    {
+      "name": "cancel",
+      "value": "Anulare"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Generat automat"
+    },
+    {
+      "name": "caption_none",
+      "value": "Fără subtitrări"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Modificați scara textului de legendă a playerului și stilurile de fundal. Necesită repornirea aplicației pentru a intra în vigoare"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Subtitrări"
+    },
+    {
+      "name": "card",
+      "value": "Cartelă"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "Creat de %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Pagină canal"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "Despre"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "Albume"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "Canale"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "Aprecieri"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "În direct"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "Playlisturi"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Shorturi"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "Piste"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "Videouri"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Canal dezabonat"
+    },
+    {
+      "name": "channels",
+      "value": "Canale"
+    },
+    {
+      "name": "chapters",
+      "value": "Capitole"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Litere și cifre"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Caractere speciale"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "Verifică dacă există actualizări"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "Executați verificarea pentru fluxuri noi"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "Se verifică actualizări…"
+    },
+    {
+      "name": "checksum",
+      "value": "Suma de control"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Alegeți o instanță"
+    },
+    {
+      "name": "clear",
+      "value": "Ștergeți"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "Ștergeți cookie-urile pe care NewPipe le stochează atunci când rezolvați un reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "Ștergeți cookie-urile reCAPTCHA"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Șterge istoricul descărcărilor"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Ștergeți toate pozițiile de redare"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Șterge pozițiile de redare memorate"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Coada de redare activă va fi înlocuită"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Trecerea de la un player la altul vă poate înlocui coada de redare"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Solicitați confirmarea înainte de a șterge o listă de redare"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Șterge istoricul cuvintelor cheie de căutare"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Ștergeți istoricul căutărilor"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Șterge istoricul fluxurilor redate și pozițiile de redare"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Ștergeți istoricul vizionărilor"
+    },
+    {
+      "name": "close",
+      "value": "Închideți"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "Comentariile sunt dezactivate"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Comentarii"
+    },
+    {
+      "name": "conferences",
+      "value": "Conferințe"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Doriți să ștergeți istoricul descărcărilor sau să ștergeți toate fișierele descărcate?"
+    },
+    {
+      "name": "content",
+      "value": "Conținut"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Limba dorită a conținutului"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Conținut indisponibil"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Acest conținut nu este încă acceptat de NewPipe.\n\n\n\nSperăm că va fi acceptat într-o versiune viitoare."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Fie că aveți idei de: traducere, modificări de design, curățare a codului sau modificări de cod cu adevărat importante - ajutorul este întotdeauna binevenit. Cu cât se face mai mult, cu atât mai bine devine!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Contribuiți"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Salvare în"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Fundal"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Descărcați fișierul de flux"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Pop-up"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Copiați raportul formatat"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s de %2$s sub %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Avertisment: Nu s-au putut importa toate fișierele."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Nu s-au putut încărca toate miniaturile"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Nu s-a putut configura meniul de descărcare"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "Blocați aplicația"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Dați crash player-ului"
+    },
+    {
+      "name": "create",
+      "value": "Creați"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "Creați o notificare de eroare"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Playlist nou"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Întunecat"
+    },
+    {
+      "name": "decline",
+      "value": "Refuzați"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Format audio implicit"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Țara implicită pentru conținut"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Chioșc implicit"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Rezoluția implicită a ferestrei pop-up"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Rezoluție implicită"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Format video implicit"
+    },
+    {
+      "name": "delete",
+      "value": "Ștergeți"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Ștergeți fișierele descărcate"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "Ștergeți toate fișierele descărcate de pe disc?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "Ștergeți intrarea"
+    },
+    {
+      "name": "delete_file",
+      "value": "Ștergeți fișierul"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Doriți să ștergeți acest element din istoricul de căutare?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Ștergeți toate pozițiile din playback?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Ștergeți această listă de redare?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Ștergeți întregul istoric de căutare?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Ștergeți întregul istoric al vizionărilor?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "Dezactivați selectarea textului în descriere"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "Activați selectarea textului în descriere"
+    },
+    {
+      "name": "description_select_note",
+      "value": "Acum puteți selecta text în interiorul descrierii. Rețineți că este posibil ca pagina să pâlpâie, iar linkurile să nu poată fi accesate în modul de selecție."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "Descriere"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Nu au apreciat"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Trageți pentru a reordona"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "Inimă de la creator"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Au apreciat"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "Comentariu fixat"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Miniatura de avatar a canalului"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Redare video, durata:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Miniatura avatarului autorului"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "V-ați referit la: „%1$s” ?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "Tunelizarea media a fost dezactivată în mod implicit pe dispozitivul dumneavoastră deoarece se cunoaște despre acest model de dispozitiv că nu o suportă."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "Dezactivați tunelarea media dacă întâmpinați un ecran negru sau blocaje la redarea video."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "Dezactivați tunelarea media"
+    },
+    {
+      "name": "disabled",
+      "value": "Dezactivat"
+    },
+    {
+      "name": "dismiss",
+      "value": "Respingeți"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe este dezvoltat de voluntari care își petrec timpul liber pentru a vă oferi cea mai bună experiență de utilizare. Donează pentru a ajuta dezvoltatorii să facă NewPipe și mai bun în timp ce ei se bucură de o ceașcă de cafea."
+    },
+    {
+      "name": "donation_title",
+      "value": "Donați"
+    },
+    {
+      "name": "done",
+      "value": "Gata"
+    },
+    {
+      "name": "dont_show",
+      "value": "Nu afișa"
+    },
+    {
+      "name": "download",
+      "value": "Descărcare"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Există o descărcare în așteptare cu acest nume"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Există o descărcare în curs cu acest nume"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Descărcați"
+    },
+    {
+      "name": "download_failed",
+      "value": "Descărcare eșuată"
+    },
+    {
+      "name": "download_has_started",
+      "value": "Descărcarea a început"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Alegeți folderul de descărcare pentru fișierele audio"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Fișierele audio descărcate sunt stocate aici"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Dosar de descărcări audio"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Alegeți folderul de descărcare pentru fișierele video"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Videoclipurile descărcate sunt stocate aici"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Locația videoclipurilor descărcate"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Descărcarea pe cardul SD extern nu este posibilă. Resetați locația folderului de descărcare?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Stocare externă indisponibilă"
+    },
+    {
+      "name": "downloads",
+      "value": "Descărcări"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Veți fi întrebat unde să salvați fiecare descărcare.\n\nActivați selectorul de foldere de sistem (SAF) dacă doriți să descărcați pe un card SD extern"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "Veți fi întrebat unde să salvați fiecare descărcare"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Întrebați unde să descărcați"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "„Storage Access Framework” permite descărcări pe un card SD extern"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "Începând cu Android 10, este acceptat doar „Storage Access Framework”"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "Utilizați selectorul de dosare de sistem (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Descărcări"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Închideți sertarul"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Comutare serviciu, selectat în prezent:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Deschdeți sertarul"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "Listele de redare care colorate în gri conțin deja acest element."
+    },
+    {
+      "name": "duration",
+      "value": "Durată"
+    },
+    {
+      "name": "duration_live",
+      "value": "În direct"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Nimic aici în afară de sunetul greierilor"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Forțarea raportării excepțiilor de Rx nedistribuibile în afara ciclului de viață al fragmentului sau al activității după eliminare"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Raportați erori în afara ciclului de viață"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Monitorizarea scurgerilor de memorie poate face ca aplicația să nu mai răspundă atunci când se face heap dumping"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Restabilirea ultimei poziții de redare"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Reluare redare"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Afișează indicatorii de poziție de redare în liste"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Poziții în liste"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Limitarea cozii de descărcare"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "O descărcare va rula în același timp"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Stochează local căutările"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Istoric de căutări"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "Notificare despre fluxuri noi din abonamente"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "Notificări de fluxuri noi"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Reține videoclipurile vizionate"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Istoricul vizionărilor"
+    },
+    {
+      "name": "enqueue",
+      "value": "Puneți în coadă"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "Adăugați în coadă pe următorul"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Puneți în coadă"
+    },
+    {
+      "name": "enqueued",
+      "value": "Pus în coadă"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "Următorul pus în coadă"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "Intrare ștearsă"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Nu se poate conecta la server"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Detalii:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Nu se poate recupera această descărcare"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Fișierul nu poate fi creat"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Serverul nu trimite date"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Nu a fost găsit"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Serverul nu acceptă descărcări cu mai multe fire, încercați din nou cu @string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "Nu este suficient spațiu liber pe dispozitiv"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Nu a mai rămas spațiu pe dispozitiv"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "A survenit o eroare: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Folderul de destinație nu poate fi creat"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Post-procesarea a eșuat"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe a fost închis în timp ce lucra la fișier"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Progres pierdut, deoarece fișierul a fost șters"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Raport prin e-mail"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "Notificări pentru a raporta erori"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "Notificare cu raport de eroare"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe a întămpinat o eroare, apăsați ca să raportați"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "A apărut o eroare, consultați notificarea"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Vă rugăm să verificați dacă nu există deja o problemă în care se discută despre eroarea dumneavoastră. Atunci când creați tichete duplicate, ne consumați timp pe care l-am putea dedica rezolvării problemei actuale."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Raportați pe GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Raport de erori"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Raportați"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Ne pare rău, ceva a mers prost."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Nu s-a putut stabili o conexiune sigură"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Conexiunea a expirat"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Nu s-au putut încărca comentariile"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Nu s-a putut găsi serverul"
+    },
+    {
+      "name": "events",
+      "value": "Evenimente"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Exportat"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Exportați istoricul, abonamentele, listele de redare și setările"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Exportați baza de date"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Se exportă…"
+    },
+    {
+      "name": "export_subscriptions_summary",
+      "value": "Exportați abonamentele într-un fișier .json"
+    },
+    {
+      "name": "export_subscriptions_title",
+      "value": "Exportați abonamente"
+    },
+    {
+      "name": "export_to",
+      "value": "Exportați în"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Player-ele externi nu acceptă aceste tipuri de linkuri"
+    },
+    {
+      "name": "faq",
+      "value": "Vedeți pe website"
+    },
+    {
+      "name": "faq_description",
+      "value": "Dacă întâmpinați probleme cu utilizarea aplicației, nu uitați să consultați aceste răspunsuri la întrebări frecvente!"
+    },
+    {
+      "name": "faq_title",
+      "value": "Întrebări frecvente"
+    },
+    {
+      "name": "fast_mode",
+      "value": "Modul rapid"
+    },
+    {
+      "name": "featured",
+      "value": "Evidențiate"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Nou"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "Preluați filele canalului"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "File ce vor fi preluate când se actualizează fluxul. Această opțiune nu are niciun efect dacă un canal este actualizat folosind modul rapid."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Doriți să ștergeți acest grup?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Numele grupului este gol"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Niciun abonament selectat"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Selectați abonamente"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "Pagina grupului de canale"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Se afișează numai abonamentele negrupate"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Grupuri de canale"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "Afișează următoarele fluxuri"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "Eroare la încărcarea fluxului"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "Nu s-a putut încărca fluxul pentru „%s”."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "Modul rapid nu furnizează mai multe informații în acest sens."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "Contul autorului a fost închis.\n\nNewPipe nu va mai putea încărca acest flux în viitor.\n\nDoriți să vă dezabonați de la acest canal?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "Elemente noi în flux"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Se încarcă feedul …"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Ultima actualizare a fluxului: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Se procesează feedul …"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "Afișare/Ascundere fluxuri"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "Vizionat parțial"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "Urmează"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "Vizionat complet"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Neîncărcat: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Actualizați întotdeauna"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Timpul de la ultima actualizare înainte ca un abonament să fie considerat învechit - %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Prag de actualizare a fluxului"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Dezactivați modul rapid"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Activați modul rapid"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Credeți că încărcarea fluxului este prea lentă? Dacă da, încercați să activați încărcarea rapidă (puteți schimba acest lucru în setări sau apăsând butonul de mai jos).\n\nNewPipe oferă două strategii de încărcare a fluxului:\n• Preluarea întregului canal de abonament, care este lent, dar complet.\n• Utilizarea unui punct final de serviciu dedicat, care este rapid, dar de obicei nu este complet.\n\nDiferența dintre cele două este că în cazul celei rapide lipsesc de obicei unele informații, cum ar fi durata sau tipul articolului (nu poate face distincția între videoclipurile live și cele normale) și poate returna mai puține articole.\n\nYouTube este un exemplu de serviciu care oferă această metodă rapidă prin intermediul fluxului său RSS.\n\nAșadar, alegerea se reduce la ceea ce preferați: rapiditate sau informații precise."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Disponibilă în unele servicii, este, de obicei, mult mai rapidă, dar poate returna un număr limitat de articole și adesea informații incomplete (de exemplu, fără durată, fără tipul de articol, fără stare în direct)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Preluare din fluxul dedicat atunci când este disponibil"
+    },
+    {
+      "name": "file",
+      "value": "Fișier"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Fișier șters"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Numele fișierului nu poate fi gol"
+    },
+    {
+      "name": "forward",
+      "value": "Avansați"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Noutăți"
+    },
+    {
+      "name": "general_error",
+      "value": "Eroare"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Generați un nume unic"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "Acest conținut nu este disponibil în țara dumneavoastră."
+    },
+    {
+      "name": "get_notified",
+      "value": "Primiți notificări"
+    },
+    {
+      "name": "give_back",
+      "value": "Dăruiește înapoi"
+    },
+    {
+      "name": "grid",
+      "value": "Grilă"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "Notificări pentru progresul hashing-ului video"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "Notificare hash video"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "Calitate înaltă (mai mare)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Apăsați pentru a adăuga în coadă"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Util, de exemplu, dacă utilizați o cască cu butoane fizice defecte"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Ignorați evenimentele butonului media hardware"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "Calitate înaltă"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "Calitate scăzută"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "Calitate medie"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "Nu încărcați imagini"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "Alegeți calitatea imaginilor și dacă să se încarce sau nu imaginile, pentru a reduce utilizarea datelor și memoriei. Schimbările șterg cache-ul atât din memoria internă cât și din disc --%s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "Calitatea imaginii"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Importat"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Suprascrie istoricul, abonamentele, listele de redare și (opțional) setările curente"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Importați baza de date"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Import fișier"
+    },
+    {
+      "name": "import_from",
+      "value": "Importați din"
+    },
+    {
+      "name": "import_from_previous_export",
+      "value": "Importați dintr-un export anterior"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Rețineți că această operațiune poate fi costisitoare în rețea.\n\n\n\nContinuați?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Se importă…"
+    },
+    {
+      "name": "import_settings",
+      "value": "De asemenea, doriți să importați setări?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "Setările din exportul importat folosesc un format vulnerabil care a fost depreciat de la NewPipe 0.27.0. Asigurați-vă că exportul care este importat este dintr-o sursă de încredere și preferați să utilizați numai exporturi obținute din NewPipe 0.27.0 sau mai nou în viitor. Suportul pentru importul setărilor în acest format vulnerabil va fi în curând eliminat complet, iar versiunile vechi ale NewPipe nu vor mai putea importa setările exporturilor din versiunile noi."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "Importați un profil SoundCloud introducând fie URL-ul, fie ID-ul dvs: \n \n1. Activați „modul desktop” într-un browser web (site-ul nu este disponibil pentru dispozitive mobile) \n2. Mergeți la acest URL: %1$s \n3. Conectați-vă atunci când vi se cere \n4. Copiați URL-ul profilului la care ați fost redirecționat."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "ID-ul dvs., soundcloud.com/yourid"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "Importați sau exportați abonamente din meniul cu 3 puncte"
+    },
+    {
+      "name": "import_subscriptions_summary",
+      "value": "Importați abonamente dintr-un export .json anterior"
+    },
+    {
+      "name": "import_subscriptions_title",
+      "value": "Importați abonamente"
+    },
+    {
+      "name": "import_title",
+      "value": "Importare"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "Importați abonamentele YouTube din Google takeout: \n \n1. Mergeți la această adresă URL: %1$s \n2. Autentificați-vă atunci când vi se cere \n3. Faceți clic pe „Toate datele incluse”, apoi pe „Deselectați totul”, apoi selectați doar „Abonamente” și faceți clic pe „OK” \n4. Faceți clic pe „Pasul următor” și apoi pe „Creați exportul” \n5. Faceți clic pe butonul „Descărcare” după ce acesta apare \n6. Faceți clic pe IMPORT FIȘIER de mai jos și selectați fișierul .zip descărcat \n7. [În cazul în care importul .zip eșuează] Extrageți fișierul .csv (de obicei sub „YouTube and YouTube Music/subscriptions/subscriptions.csv”), faceți clic pe IMPORT FIȘIER de mai jos și selectați fișierul csv extras"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ videoclipuri"
+    },
+    {
+      "name": "info_labels",
+      "value": "Ce:\nSolicitare:\nLimba conținutului:\nȚara conținutului:\nLimba aplicației:\nServiciu:\nOra GMT:\nPachet:\nVersiune:\nVersiune SO:"
+    },
+    {
+      "name": "install",
+      "value": "Instalare"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Director Invalid"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Fișierul nu există sau lipsește permisiunea de a citi sau scrie în el"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Nu există un astfel de fișier/conținut sursă"
+    },
+    {
+      "name": "just_once",
+      "value": "Doar o dată"
+    },
+    {
+      "name": "kao_dialog_more_info",
+      "value": "Detalii"
+    },
+    {
+      "name": "kao_dialog_warning",
+      "value": "În august 2025, Google a anunțat că, începând din septembrie 2026, instalarea aplicațiilor va necesita verificarea dezvoltatorului pentru toate aplicațiile Android de pe dispozitivele certificate, inclusiv pentru cele instalate din afara Play Store. Deoarece dezvoltatorii NewPipe nu sunt de acord cu această cerință, NewPipe nu va mai funcționa pe dispozitivele Android certificate după acea dată."
+    },
+    {
+      "name": "kao_solution",
+      "value": "Soluție"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Pagina de chioșc"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Aplicația Kore nu a fost găsită. Doriți să o instalați?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary nu este disponibil"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Alegeți un gest pentru jumătatea stângă din ecranul playerului"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Acțiunea gestului din stânga"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Luminos"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Fără limită"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Limitați rezoluția atunci când utilizați date mobile"
+    },
+    {
+      "name": "list",
+      "value": "Listă"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Mod vizualizare listă"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "Se încarcă metadata…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "Se încarcă detaliile fluxului…"
+    },
+    {
+      "name": "local",
+      "value": "Local"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Sugestii de căutare locală"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "Calitate scăzută (mai mică)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Apăsați pe lupă pentru a începe."
+    },
+    {
+      "name": "main_page_content",
+      "value": "Conținutul pagini principale"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Ce file vor fi afișate pe pagina principală"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "Glisați elementele pentru a le elimina"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "Mutați fila principală în partea de jos"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "Poziția filelor principale"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "Verifică manual dacă există versiuni noi"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Marcare ca vizionat"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Numărul maxim de încercări înainte de a anula descărcarea"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Numărul maxim de încercări"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "Limita de vârstă"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "Avatare"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "Bannere"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Cache pentru metadata șters"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Șterge cache-ul pentru datele de pagini web"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Șterge cache-ul pentru metadata"
+    },
+    {
+      "name": "metadata_category",
+      "value": "Categorie"
+    },
+    {
+      "name": "metadata_host",
+      "value": "Gazdă"
+    },
+    {
+      "name": "metadata_language",
+      "value": "Limbă"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "Licență"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "Vizibilitate"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "Intern"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "Privat"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "Public"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "Nelistat"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "Avatarele subcanalelor"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "Abonați"
+    },
+    {
+      "name": "metadata_support",
+      "value": "Sprijin"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "Etichete"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "Miniaturi"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "Avatarele autorului"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud a eliminat Top 50. Fila corespunzătoare a fost eliminată din pagina principală."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "Pagina SoundCloud Top 50 a fost eliminată"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "YouTube a desființat pagina combinată de tendințe începând cu 21 iulie 2025. NewPipe a înlocuit pagina implicită de tendințe cu secțiunea de transmisiuni live în tendințe.\n\nDe asemenea, puteți selecta diferite pagini de tendințe din „Setări > Conținut > Conținutul paginii principale”."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "Youtube a desființat pagina combinată de tendințe"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Minimizați la playerul de fundal"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Niciuna"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Minimizare la playerul popup"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Acțiune la trecerea la altă aplicație de la playerul video principal - %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Minimalizați la comutarea aplicației"
+    },
+    {
+      "name": "missing_file",
+      "value": "Fișier mutat sau șters"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Finalizat"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "În așteptare"
+    },
+    {
+      "name": "more_options",
+      "value": "Mai multe opțiuni"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "Peste 100 de videoclipuri"
+    },
+    {
+      "name": "most_liked",
+      "value": "Cele mai apreciate"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "Se calculează hash-ul"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Copiat în clipboard"
+    },
+    {
+      "name": "msg_error",
+      "value": "Eroare"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "Nu s-a reușit copierea în clipboard"
+    },
+    {
+      "name": "msg_name",
+      "value": "Numele fișierului"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Această permisiune este necesară pentru a \n\ndeschide în mod pop-up"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe descarcă"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Atingeți pentru detalii"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Fire"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Vă rugăm așteptați…"
+    },
+    {
+      "name": "mute",
+      "value": "Dezactivați sunetul"
+    },
+    {
+      "name": "name",
+      "value": "Nume"
+    },
+    {
+      "name": "network_error",
+      "value": "Eroare de rețea"
+    },
+    {
+      "name": "never",
+      "value": "Niciodată"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Noi și populare"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "Datorită constrângerilor AVPlayer, durata de căutare a fost setată la %d secunde"
+    },
+    {
+      "name": "next_stream",
+      "value": "Transmisia viitoare"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "Această opțiune este disponibilă numai dacă %s este selectată ca temă"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "Selectați tema de noapte preferată — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Tema de noapte"
+    },
+    {
+      "name": "no",
+      "value": "Nu"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "Nicio aplicație de pe dispozitivul dvs. nu poate deschide acesta"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "Nu a fost găsit niciun manager de fișiere adecvat pentru această acțiune.\n\nVă rugăm să instalați un manager de fișiere sau să încercați să dezactivați '%s' în setările de descărcare"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "Nu a fost găsit niciun manager de fișiere adecvat pentru această acțiune.\n\nVă rugăm să instalați un manager de fișiere compatibil cu Storage Access Framework"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Nu sunt disponibile fluxuri audio pentru playerele externe"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Vă rugăm să definiți un folder de descărcare mai târziu în setări"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Nu v-ați abonat la niciun canal deocamdată"
+    },
+    {
+      "name": "no_comments",
+      "value": "Fără comentarii"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "Încă nu este setat niciun folder de descărcare, alegeți acum folderul de descărcare implicit"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "Încă nu a fost creat niciun grup de fluxuri"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "Fără transmisii în direct"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Nimeni nu ascultă"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Nimeni nu se uită"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Niciun player pentru streaming găsit. Instalați VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Niciun player pentru streaming găsit. (Totuși, puteți instala VLC)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Nu există încă marcaje în playlist"
+    },
+    {
+      "name": "no_streams",
+      "value": "Fără transmisii"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Nu există fluxuri disponibile pentru descărcare"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Fără abonați"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Nici un fișier ZIP valid"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Nu sunt disponibile fluxuri video pentru playerele externe"
+    },
+    {
+      "name": "no_videos",
+      "value": "Nu există videoclipuri"
+    },
+    {
+      "name": "no_views",
+      "value": "Nicio vizionare"
+    },
+    {
+      "name": "none",
+      "value": "Niciunul"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Primul buton de acțiune"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Al doilea buton de acțiune"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Al treilea buton de acțiune"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Al patrulea buton de acțiune"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Al cincilea buton de acțiune"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Se încarcă"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Nimic"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Repetare"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Redare aleatorie"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Puteți selecta cel mult trei acțiuni pentru afișare în notificarea compactă!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Modifică fiecare acțiune de notificare de mai jos, atingând-o. Selectează până la trei dintre ele pentru a fi afișate în notificarea compactă, utilizând casetele de selectare din dreapta."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "Editați fiecare acțiune de notificare de mai jos atingând-o. Primele trei acțiuni (redare/pauză, anterioară și următoare) sunt setate de sistem și nu pot fi personalizate."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "Notificări pentru playerul NewPipe"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "Notificare NewPipe"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "Faceți ca Android să personalizeze culoarea notificării în funcție de culoarea principală din miniatură (rețineți că aceasta nu este disponibilă pe toate dispozitivele)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Colorează notificarea"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Tăiați miniatura video afișată în notificare de la raportul de aspect 16:9 la 1:1 (poate introduce distorsiuni)"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Tăiere miniatură la raportul de aspect 1:1"
+    },
+    {
+      "name": "notifications",
+      "value": "Notificări"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Notificările sunt dezactivate"
+    },
+    {
+      "name": "off",
+      "value": "Oprit"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "on",
+      "value": "Pornit"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 element șters."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Deschidere în browser"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Deschidere în modul popup"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "Deschideți coada de redare"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Deschideți site-ul web"
+    },
+    {
+      "name": "open_with",
+      "value": "Deschidere cu"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Acest lucru va anula configurația curentă."
+    },
+    {
+      "name": "overwrite",
+      "value": "Suprascrieți"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "nu poate suprascrie fișierul"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Există deja un fișier descărcat cu acest nume"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Există deja un fișier cu acest nume"
+    },
+    {
+      "name": "paid_content",
+      "value": "Acest conținut este disponibil doar pentru utilizatorii care au plătit, ca atare nu poate fi difuzat sau descărcat de NewPipe."
+    },
+    {
+      "name": "parsing_error",
+      "value": "Nu s-a putut analiza site-ul web"
+    },
+    {
+      "name": "pause",
+      "value": "Pauză"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Întrerupeți descărcările"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Întrerupeți pe rețelele măsurate"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Util atunci când treceți la date mobile, deși unele descărcări nu pot fi suspendate"
+    },
+    {
+      "name": "paused",
+      "value": "Întrerupt"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Instanța există deja"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Nu s-a putut valida instanța"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Introduceți URL-ul instanței"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Sunt acceptate numai URL-urile HTTPS"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Adăugați o instanță"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "Găsiți instanțele care vă plac pe %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Selectați instanțele PeerTube preferate"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "Instanțe PeerTube"
+    },
+    {
+      "name": "percent",
+      "value": "Procent"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Acțiune refuzată de sistem"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Acordați permisiunea de a afișa peste alte aplicații"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "Pentru a utiliza playerul pop-up, vă rugăm să selectați %1$s la următorul meniu de setări Android și să activați %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "„Permite afișarea deasupra altor aplicații”"
+    },
+    {
+      "name": "play",
+      "value": "Redați"
+    },
+    {
+      "name": "play_all",
+      "value": "Redă toate"
+    },
+    {
+      "name": "play_audio",
+      "value": "Audio"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Setări Audio"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "Audio: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Eliminați"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Detalii"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Redați folosind Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Înălțime"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Resetare"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Controlul vitezei de redare"
+    },
+    {
+      "name": "playback_step",
+      "value": "Etapă"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Viteză"
+    },
+    {
+      "name": "player_http_403",
+      "value": "S-a primit eroarea HTTP 403 de la server în timpul redării, probabil din cauza expirării adresei URL de flux sau a blocării adresei IP"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "S-a primit eroarea HTTP %1$s de la server în timpul redării"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Se recuperează din eroarea player-ului"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Nu a putut reda acest flux"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "A apărut o eroare irecuperabilă a player-ului"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Adăugat la lista de redare"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "Duplicat adăugat de %d ori"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Listă de redare creată"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Generat automat (nu a fost găsit niciun uploader)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Pagina listei de redare"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Miniatura listei de redare a fost schimbată."
+    },
+    {
+      "name": "playlists",
+      "value": "Liste de redare"
+    },
+    {
+      "name": "popup_player",
+      "value": "Player Popup"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Redare în mod pop-up"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Reține ultima dimensiune și poziție a pop-up-ului"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Reține dimensiunea și poziția pop-up-ului"
+    },
+    {
+      "name": "post_processing",
+      "value": "post-procesare"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Selectați o coloană sonoră cu descrieri pentru persoane cu deficiențe vizuale, dacă este disponibilă"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Preferați audioul descriptiv"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Selectați coloana sonoră originală indiferent de limbă"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Preferați audioul original"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Acțiune implicită la deschiderea conținutului - %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "Opțiunea de deschidere preferată"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "Se încarcă conținutul solicitat"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Se obțin informații…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Export anterior"
+    },
+    {
+      "name": "previous_stream",
+      "value": "Transmisia anterioară"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "Proiectul NewPipe ia foarte în serios confidențialitatea dumneavoastră. Prin urmare, aplicația nu colectează niciun fel de date fără consimțământul dumneavoastră.\n\nPolitica de confidențialitate a NewPipe explică în detaliu ce date sunt trimise și stocate atunci când trimiteți un raport de eroare."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Politica de confidențialitate a NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "Acest conținut este privat, ca atare nu poate fi difuzat sau descărcat de NewPipe."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "Procesarea.. Poate dura un moment"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "Implicit AVPlayer"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "Modificați dimensiunea intervalului de încărcare pentru conținuturi progresive (în prezent %s). O valoare mai mică poate accelera încărcarea lor inițială"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "Dimensiunea intervalului de încărcare de redare"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "În așteptare"
+    },
+    {
+      "name": "radio",
+      "value": "Radio"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Citiți licența"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Citiți politica de confidențialitate"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "Cookie-urile reCAPTCHA au fost șterse"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "Provocare reCAPTCHA solicitată"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "Rezolvați"
+    },
+    {
+      "name": "recent",
+      "value": "Recente"
+    },
+    {
+      "name": "recently_added",
+      "value": "Adăugate recent"
+    },
+    {
+      "name": "recovering",
+      "value": "Se recuperează"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "Articole similare"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Sugestii de căutare la distanță"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "Eliminare dubluri"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "Doriți să eliminați toate fluxurile dublate din această listă de redare?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "Eliminați dublurile?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Eliminare cele urmărite"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Da, și videoclipuri vizionate parțial"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Eliminați fluxurile vizionate?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Fluxurile care au fost vizionate înainte și după ce au fost adăugate la lista de redare vor fi eliminate. \nSunteți sigur?"
+    },
+    {
+      "name": "rename",
+      "value": "Redenumiți"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Redenumiți"
+    },
+    {
+      "name": "replay",
+      "value": "Reluați"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "Resetarea tuturor setărilor va elimina toate setările preferate și va reporni aplicația. \n \nSigur doriți să continuați?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "Resetați toate setările la valorile implicite"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "Resetați setările"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Umplere"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Potrivire"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Mărire"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Restaurați valorile implicite"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Doriți să restaurați valorile implicite?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Acest videoclip este restricționat în funcție de vârstă. \n \nActivați „%1$s” în setări dacă doriți să îl vedeți."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "Acest videoclip este restricționat în funcție de vârstă.\n\nDin cauza noilor politici YouTube privind videoclipurile cu restricții de vârstă, NewPipe nu poate accesa niciunul dintre fluxurile sale video și, prin urmare, nu îl poate reda."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Continuă redarea după întreruperi (ex: după apeluri)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Reluați redarea"
+    },
+    {
+      "name": "retry",
+      "value": "Reîncercare"
+    },
+    {
+      "name": "rewind",
+      "value": "Derulați"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Alegeți un gest pentru jumătatea dreaptă din ecranul playerului"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Acțiunea gestului din dreapta"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Nu s-au putut citi filele salvate, deci se folosesc cele implicite"
+    },
+    {
+      "name": "search",
+      "value": "Căutare"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Istoric de căutare șters"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Fără rezultate"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Se arată rezultate pentru: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Căutare: %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Căutare %1$s (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Durată derulare rapidă înainte/înapoi"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "Miniatură de previzualizare în bara de derulare"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Alegeți un canal"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "Selectați un grup de fluxuri"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "Alegeți un chioșc"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Selectați un playlist"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "Selectați coloana sonoră pentru playeri externi"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "Puteți selecta tema de noapte preferată mai jos"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Selectați calitatea pentru playerele externe"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Fluxul selectat nu este acceptat de playerele externe"
+    },
+    {
+      "name": "semitone",
+      "value": "Semiton"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Setați ca miniatura listei de redare"
+    },
+    {
+      "name": "settings",
+      "value": "Setări"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Aspect"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "Backup și restabilire"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Ștergeți datele"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Depanare"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Descărcări"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "Gestionați unele setări pentru AVPlayer. Aceste schimbări necesită un restart la player ca să aibă efect"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "Setări pentru AVPlayer"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Flux"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Istoric și cache"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Comportament"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "Configurați notificarea fluxului de redare curent"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Notificarea player-ului"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Player"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Actualizări"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Video și Audio"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Caractere permise în numele fișierelor"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Caracterele nevalabile sunt înlocuite cu această valoare"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "Caracter de înlocuire"
+    },
+    {
+      "name": "share",
+      "value": "Distribuire"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Distribuiți cu"
+    },
+    {
+      "name": "share_playlist",
+      "value": "Distribuiți playlistul"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "Distribuiți ca listă de redare temporară YouTube"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "Distribuiți lista URL"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "Distribuiți cu titluri"
+    },
+    {
+      "name": "short_billion",
+      "value": "%s mld."
+    },
+    {
+      "name": "short_million",
+      "value": "%s mil."
+    },
+    {
+      "name": "short_thousand",
+      "value": "%sK"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Afișați conținut posibil nepotrivit pentru copii, deoarece are o limită de vârstă (cum ar fi 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Afișați conținutul restricționat de vârstă"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "Afișați detaliile canalului"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "Filele canalului"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "Ce file sunt afișate pe paginile canalelor"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Dezactivează pentru oprirea afișării comentariilor"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Arată comentariile"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "Afișează opțiunea de a întrerupe atunci când utilizați playerul"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "Afișează „Dați crash playerului”"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Dezactivați pentru a ascunde descrierea videoclipului și informațiile suplimentare"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Arată descrierea"
+    },
+    {
+      "name": "show_error",
+      "value": "Afișați eroarea"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "Afișați o eroare de tip snackbar"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Doar anumite dispozitive suportă redarea videoclipurilor 2K/4K"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Afișează rezoluții mai mari"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Afișați un sfat la apăsarea fundalului sau a butonului popup în videoclipul „Detalii:”"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Afișați sfatul „Țineți apăsat pentru a adăuga”"
+    },
+    {
+      "name": "show_info",
+      "value": "Afișare informații"
+    },
+    {
+      "name": "show_less",
+      "value": "Arată mai puține"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Afișați scurgeri de memorie"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Dezactivați pentru a ascunde casetele de informații meta cu informații suplimentare despre creatorul fluxului, conținutul fluxului sau o cerere de căutare"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Afișează informațiile meta"
+    },
+    {
+      "name": "show_more",
+      "value": "Arată mai multe"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Arată videoclipurile care 'Urmează' și cele 'Similare'"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Textele originale din servicii vor fi vizibile în elementele de flux"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Afișați timpul inițial pe articole"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Arată opțiunea de redare a videoclipurilor via player-ului media Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Arată opțiunea „Redați folosind Kodi”"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Alegeți sugestiile care vor fi afișate la căutare"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Sugestii de căutare"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "Utilizați miniatura atât pentru fundalul ecranului de blocare, cât și pentru notificări"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "Afișați miniatura"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s a refuzat să furnizeze datele, cerând autentificarea pentru a confirma că solicitantul nu este un bot.\n\nEste posibil ca adresa dvs. IP să fi fost blocată temporar de %1$s; puteți aștepta puțin sau puteți trece la o altă adresă IP (de exemplu, activând/dezactivând un VPN sau trecând de la Wi-Fi la date mobile).\n\nVă rugăm să consultați <a href=\"%2$s\">această intrare din secțiunea de întrebări frecvente</a> pentru mai multe informații."
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Înaintare rapidă în timpul tăcerii"
+    },
+    {
+      "name": "songs",
+      "value": "Melodii"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Ne pare rău, asta nu trebuia să se întâmple."
+    },
+    {
+      "name": "sort",
+      "value": "Sortare"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "Aceasta este o piesă SoundCloud Go+, cel puțin în țara dvs., deci nu poate fi difuzată sau descărcată de NewPipe."
+    },
+    {
+      "name": "start",
+      "value": "Start"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Pentru a respecta Regulamentul general european privind protecția datelor (GDPR), vă atragem atenția asupra politicii de confidențialitate a NewPipe. Vă rugăm să o citiți cu atenție.\n\nTrebuie să o acceptați pentru a ne trimite raportul de eroare."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Începeți descărcările"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Începeți redarea în fundal"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Începeți redarea în popup"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Nu porniți videoclipurile în mini player, ci treceți direct la modul ecran complet, dacă rotația automată este blocată. Puteți accesa în continuare mini playerul ieșind din modul fullscreen"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Porniți playerul principal în ecran complet"
+    },
+    {
+      "name": "stop",
+      "value": "Opriți"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Fluxurile care încă nu pot fi descărcate nu sunt afișate"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "Notificări despre noi fluxuri pentru abonamente"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "Fluxuri noi"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "Frecvența verificării"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "Conexiune de rețea necesară"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Abonare"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Abonat(ă)"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Numărul de abonați nu este disponibil"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Nu s-a putut modifica abonamentul"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Nu s-a putut actualiza abonamentul"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Nu s-au putut exporta abonamentele"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Nu s-au putut importa abonamentele"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Apăsați „Gata” după ce ați rezolvat problema"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Treceți la fundal"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Treceți la principal"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Treceți la Popup"
+    },
+    {
+      "name": "systems_language",
+      "value": "Prestabilită de sistem"
+    },
+    {
+      "name": "tab_about",
+      "value": "Despre & FAQ"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Playlisturi salvate"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "Liste de redare"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Alegeți fila"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Licențe"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Abonamente"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Mod tabletă"
+    },
+    {
+      "name": "theme_title",
+      "value": "Temă"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Datele cache de imagini au fost șterse"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "Despre NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Istoric"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Coadă de redare"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "Provocare reCAPTCHA"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Ultimele vizionări"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Licențe terță-parte"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Cele mai multe vizionări"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Comutați toate"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "Schimbați pe ecran complet"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "Schimbați orientarea ecranului"
+    },
+    {
+      "name": "top_50",
+      "value": "Top 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Titluri"
+    },
+    {
+      "name": "trending",
+      "value": "Tendințe"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "Jocuri în tendințe"
+    },
+    {
+      "name": "trending_movies",
+      "value": "Filme și seriale în tendințe"
+    },
+    {
+      "name": "trending_music",
+      "value": "Muzică în tendințe"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "Podcast-uri în tendințe"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Eliminați marcajul"
+    },
+    {
+      "name": "undo",
+      "value": "Anulare"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Decuplați (poate provoca distorsiuni)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "Necunoscut"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Necunoscut]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Format necunoscut"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Calitate necunoscută"
+    },
+    {
+      "name": "unmute",
+      "value": "Activați sunetul"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "Dezactivare miniatură permanentă"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Dezabonare"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "Acest conținut nu este disponibil pentru țara de conținut selectată în prezent.\n\nModificați selecția din „Setări > Conținut > Țara implicită pentru conținut”."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "URL nesuportat"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Adresa URL nu a putut fi recunoscută. Deschideți cu o altă aplicație?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Afișați o notificare pentru a solicita actualizarea aplicației atunci când este disponibilă o nouă versiune"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Actualizări"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Publicat pe %1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "Activați această opțiune dacă aveți probleme cu inițializarea decodorului care trece înapoi la decodoare cu prioritate mai scăzută dacă inițializarea decodoarelor principale eșuează. Asta poate duce la performanță de redare mai slabă decât atunci când se utilizează decodoarele principale"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "Utilizați funcționalitatea de rezervă a decodorului din AVPlayer"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Folosește un player audio extern"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Elimină sunetul audio la anumite rezoluții"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Folosiți un player video extern"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Derularea inexactă permite player-ului să deruleze mai rapid, cu o precizie redusă. Derularea timp de 5, 15 sau 25 de secunde nu funcționează cu aceasta"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Folosește parcurgerea rapidă inexactă"
+    },
+    {
+      "name": "users",
+      "value": "Utilizatori"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "De %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "Player Video"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Niciun stream video găsit"
+    },
+    {
+      "name": "videos_string",
+      "value": "Videoclipuri"
+    },
+    {
+      "name": "view_on_github",
+      "value": "Vedeți pe GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "Volum"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Istoricul de vizionări a fost șters"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Poziții de redare șterse"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Vizitați site-ul NewPipe pentru mai multe informații și noutăți."
+    },
+    {
+      "name": "website_title",
+      "value": "Site web"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Informații:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Ce s-a întâmplat:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Numai pe Wi-Fi"
+    },
+    {
+      "name": "yes",
+      "value": "Da"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "V-ați abonat la acest canal"
+    },
+    {
+      "name": "your_comment",
+      "value": "Comentariul dvs. (în engleză):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "Acest videoclip este disponibil doar pentru membrii YouTube Music Premium, ca atare nu poate fi difuzat sau descărcat de NewPipe."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "S-a primit eroarea HTTP 403 de la server în timpul redării, probabil din cauza unei restricții de IP sau a unor probleme legate de dezobfuscarea adresei URL de flux"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube oferă un „Mod restricționat” care ascunde conținutul potențial matur"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "Activați „Modul restricționat” de pe YouTube"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

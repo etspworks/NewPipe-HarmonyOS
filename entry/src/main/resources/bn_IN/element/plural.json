@@ -1,0 +1,17 @@
+{
+  "plural": [
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s শ্রোতা"
+        },
+        {
+          "quantity": "other",
+          "value": "%s শ্রোতা গন"
+        }
+      ]
+    }
+  ]
+}

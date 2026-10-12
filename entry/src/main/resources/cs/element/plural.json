@@ -1,0 +1,305 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d den"
+        },
+        {
+          "quantity": "few",
+          "value": "%d dny"
+        },
+        {
+          "quantity": "other",
+          "value": "%d dnů"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%1$s stažení smazáno"
+        },
+        {
+          "quantity": "few",
+          "value": "%1$s stažení smazána"
+        },
+        {
+          "quantity": "other",
+          "value": "%1$s staženích smazáno"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Stahování dokončeno"
+        },
+        {
+          "quantity": "few",
+          "value": "%s stahování dokončena"
+        },
+        {
+          "quantity": "other",
+          "value": "%s stahováních dokončeno"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Exportování %d odběru…"
+        },
+        {
+          "quantity": "few",
+          "value": "Exportování %d odběrů…"
+        },
+        {
+          "quantity": "many",
+          "value": "Exportování %d odběrů…"
+        },
+        {
+          "quantity": "other",
+          "value": "Exportování %d odběrů…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d vybrána"
+        },
+        {
+          "quantity": "few",
+          "value": "%d vybrány"
+        },
+        {
+          "quantity": "other",
+          "value": "%d vybráno"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d hodina"
+        },
+        {
+          "quantity": "few",
+          "value": "%d hodiny"
+        },
+        {
+          "quantity": "other",
+          "value": "%d hodin"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Importování %d odběru…"
+        },
+        {
+          "quantity": "few",
+          "value": "Importování %d odběrů…"
+        },
+        {
+          "quantity": "many",
+          "value": "Importování %d odběrů…"
+        },
+        {
+          "quantity": "other",
+          "value": "Importování %d odběrů…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s posluchač"
+        },
+        {
+          "quantity": "few",
+          "value": "%s posluchači"
+        },
+        {
+          "quantity": "other",
+          "value": "%s posluchačů"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Načítání %d odběru…"
+        },
+        {
+          "quantity": "few",
+          "value": "Načítání %d odběrů…"
+        },
+        {
+          "quantity": "many",
+          "value": "Načítání %d odběrů…"
+        },
+        {
+          "quantity": "other",
+          "value": "Načítání %d odběrů…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d minuta"
+        },
+        {
+          "quantity": "few",
+          "value": "%d minuty"
+        },
+        {
+          "quantity": "other",
+          "value": "%d minut"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s nový stream"
+        },
+        {
+          "quantity": "few",
+          "value": "%s nové streamy"
+        },
+        {
+          "quantity": "other",
+          "value": "%s nových streamů"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s odpověď"
+        },
+        {
+          "quantity": "few",
+          "value": "%s odpovědi"
+        },
+        {
+          "quantity": "other",
+          "value": "%s odpovědí"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d vteřina"
+        },
+        {
+          "quantity": "few",
+          "value": "%d vteřiny"
+        },
+        {
+          "quantity": "other",
+          "value": "%d vteřin"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s odběratel"
+        },
+        {
+          "quantity": "few",
+          "value": "%s odběratelé"
+        },
+        {
+          "quantity": "other",
+          "value": "%s odběratelů"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s video"
+        },
+        {
+          "quantity": "few",
+          "value": "%s videa"
+        },
+        {
+          "quantity": "other",
+          "value": "%s videí"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s zhlédnutí"
+        },
+        {
+          "quantity": "few",
+          "value": "%s zhlédnutí"
+        },
+        {
+          "quantity": "other",
+          "value": "%s zhlédnutí"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s sleduje"
+        },
+        {
+          "quantity": "few",
+          "value": "%s sledují"
+        },
+        {
+          "quantity": "other",
+          "value": "%s sleduje"
+        }
+      ]
+    }
+  ]
+}

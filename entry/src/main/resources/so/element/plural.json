@@ -1,0 +1,134 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d maalin"
+        },
+        {
+          "quantity": "other",
+          "value": "%d maalmood"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ayaa la calaamadiyay"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ayaa la calaamadiyay"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d saac"
+        },
+        {
+          "quantity": "other",
+          "value": "%d saac"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s dhagayste"
+        },
+        {
+          "quantity": "other",
+          "value": "%s dhagaystayaal"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d daqiiqo"
+        },
+        {
+          "quantity": "other",
+          "value": "%d daqiiqo"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ilbiriqsi"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ilbiriqsi"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ayaa rukuntay"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ayaa rukumatay"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s muuqaal"
+        },
+        {
+          "quantity": "other",
+          "value": "%s muuqaal"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ayaa lafuray"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ayaa lafuray"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ayaa daawanaya"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ayaa daawanaysa"
+        }
+      ]
+    }
+  ]
+}

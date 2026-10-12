@@ -1,0 +1,1960 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Qabul qilmoq"
+    },
+    {
+      "name": "action_history",
+      "value": "Tarix"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "Playlist qo'shish"
+    },
+    {
+      "name": "albums",
+      "value": "Albomlar"
+    },
+    {
+      "name": "all",
+      "value": "Hammasi"
+    },
+    {
+      "name": "always",
+      "value": "Har doim"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Har doim so'rash"
+    },
+    {
+      "name": "app_description",
+      "value": "HarmonyOS'da Libre yengil streaming."
+    },
+    {
+      "name": "app_language_title",
+      "value": "Ilova tili"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe - bu nusxa ko'chirish dasturiy ta'minotidir: Siz foydalanishingiz, baham ko'rishingiz va o'zingizning xohishingiz bilan yaxshilashingiz mumkin. Xususan, siz uni bepul dasturiy ta'minot fondi tomonidan e'lon qilingan GNU umumiy jamoat litsenziyasi shartlari asosida qayta tarqatishingiz va / yoki o'zgartirishingiz mumkin, Litsenziyaning 3-versiyasi yoki (sizning xohishingizga ko'ra) har qanday keyingi versiyada."
+    },
+    {
+      "name": "app_license_title",
+      "value": "NewPipe litsenziyasi"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "NewPipe yangilanishi mavjud!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "NewPipe yangi versiyasi haqida bildirishnomalar"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "Ilovani yangilash bildirishnomasi"
+    },
+    {
+      "name": "artists",
+      "value": "Artistlar"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "Hech qanday audio stream topilmadi"
+    },
+    {
+      "name": "auto",
+      "value": "Avto"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "Tegishli stream qo'shib, ijro etish navbatini tugatishni (takrorlanmaydigan) davom ettirish"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "avtomatik navbat next stream"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Avto-navbat"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "Avtomatik ijro etishni boshlash - %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Avtoplay"
+    },
+    {
+      "name": "background_player",
+      "value": "Fon pleyeri"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Ijro etish foni"
+    },
+    {
+      "name": "best_resolution",
+      "value": "Eng yaxshi qaror"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Qora"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "Bo'sh sahifa"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "Xatcho'p pleylisti"
+    },
+    {
+      "name": "cancel",
+      "value": "Bekor qilish"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Avtomatik-yaratilgan"
+    },
+    {
+      "name": "caption_none",
+      "value": "Taglavha yo‘q"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "Ijro sarlavhasi matn o'lchovi va fon uslublarini o'zgartirish. Amalga oshirish uchun dasturni qayta ishga tushirishni talab qiladi."
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Sarlavhalar"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "%s tomonidan yaratilgan"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "Kanal sahifasi"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Kanal obunasi bekor qilindi"
+    },
+    {
+      "name": "channels",
+      "value": "Kanallar"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "Yozuvlar va raqamlar"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "Ko'pchilik maxsus belgilar"
+    },
+    {
+      "name": "checksum",
+      "value": "Sumnazorat"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "Namunani tanlang"
+    },
+    {
+      "name": "clear",
+      "value": "Tozalash"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "ReCAPTCHA-ni hal qilganingizda NewPipe-da saqlanadigan cookie-fayllarni o'chirib tashlang"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "ReCAPTCHA cookie-fayllarini o'chirish"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "Yuklab olish tarixini tozalash"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "Barcha ijro holatlarini o'chiradi"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "Ijro pozitsiyalarini o'chirib tashlash"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Aktiv ijro etish navbati almashtiriladi"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Bir ijro etishdan boshqasiga o'tish sizning navbatingizni almashtirishi mumkin"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Navbatni tozalashdan oldin tasdiqlashni so'rash"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "Qidiruv kalit so'zlar tarixini o'chiradi"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "Qidiruv tarixini tozalash"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "Ijro etilgan streamlar tarixi va ijro holatlarini o'chiradi"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "Tomosha tarixini tozalash"
+    },
+    {
+      "name": "close",
+      "value": "Yopish"
+    },
+    {
+      "name": "conferences",
+      "value": "Konferentsiyalar"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "Yuklab olish tarixini tozalashni yoki barcha yuklab olingan fayllarni o'chirishni xohlaysizmi?"
+    },
+    {
+      "name": "content",
+      "value": "Tarkib"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Standart kontent tili"
+    },
+    {
+      "name": "content_not_available",
+      "value": "Tarkib mavjud emas"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "Ushbu tarkib hali NewPipe tomonidan qo'llab-quvvatlanmaydi.\n\n\n\nUmid qilamanki, kelgusi versiyada qo'llab-quvvatlanadi."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "Sizda g'oyalar bormi; tarjima, dizayndagi o'zgarishlar, kodni tozalash yoki haqiqiy og'ir kodni o'zgartirish - yordam har doim mamnuniyat bilan qabul qilinadi. Qancha ko'p ish qilinsa, shuncha yaxshi bo'ladi!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "Hissa qo'shish"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Qo'shish"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Fon ko'rinishi"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "stream faylni yuklab olish"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Qalqib ko'rinish"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Formatlangan hisobotni nusxalash"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s tomonidan %2$s gacha %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "Ogohlantirish: Barcha fayllarni import qilib bo'lmadi."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "Barcha eskizlarni yuklab bo'lmadi"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "Yuklab olish menyusi sozlanmadi"
+    },
+    {
+      "name": "create",
+      "value": "Yaratish"
+    },
+    {
+      "name": "create_playlist",
+      "value": "Yangi Playlist"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "qorong'i"
+    },
+    {
+      "name": "decline",
+      "value": "Rad etish"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Standart audio format"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Standart kontent mamlakati"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "Standart kiosk"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Standart pop-up o'lchamlari"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Standart o'lchamlari"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Standart video format"
+    },
+    {
+      "name": "delete",
+      "value": "O'chirish"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "Yuklangan fayllarni o'chirib tashlash"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "Ushbu narsani qidiruv tarixidan o'chirmoqchimisiz?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "Barcha ijro holatlari o'chirilsinmi?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "Ushbu pleylist o'chirilsinmi?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "Butun qidiruv tarixi o'chirilsinmi?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "Tomosha tarixi butunlay o'chirib tashlansinmi?"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "Dislayklar"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "Qayta tartiblash uchun tortish"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "Layklar"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "Kanal avatari eskizi"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "Videoni ijro etish muddati, davomiyligi:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "Yuklovchining avatar eskizi"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "\"%1$s\" demoqchimisiz?"
+    },
+    {
+      "name": "disabled",
+      "value": "Ijrochilar o'chirib qo'yilgan"
+    },
+    {
+      "name": "dismiss",
+      "value": "Tarqatish"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "NewPipe ko'ngillilar tomonidan bo'sh vaqtlarini sarflash orqali sizga eng yaxshi foydalanuvchi tajribasini taqdim etadi. Ishlab chiquvchilarga bir chashka qahvadan zavqlanib, NewPipe-ni yanada yaxshiroq qilishlariga yordam berish."
+    },
+    {
+      "name": "donation_title",
+      "value": "Hadya etish"
+    },
+    {
+      "name": "done",
+      "value": "Bajarildi"
+    },
+    {
+      "name": "download",
+      "value": "Yuklab olish"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "Ushbu nom bilan yuklab olish kutilmoqda"
+    },
+    {
+      "name": "download_already_running",
+      "value": "Ushbu nom bilan yuklab olish davom etmoqda"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Yuklab olish"
+    },
+    {
+      "name": "download_failed",
+      "value": "Yuklab bo‘lmadi"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Audio fayllar uchun yuklab olish papkasini tanlash"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Yuklab olingan audio fayllar shu yerda saqlanadi"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Ovozni yuklab olish papkasi"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Video fayllar uchun yuklab olish papkasini tanlash"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Yuklab olingan videofayllar shu yerda saqlanadi"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Videoni yuklab olish jildi"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "Tashqi SD-kartaga yuklab olishning iloji yo'q. Yuklash papkasining joylashuvi tiklansinmi?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "Tashqi xotira mavjud emas"
+    },
+    {
+      "name": "downloads",
+      "value": "Yuklanganlar"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "Sizdan har bir yuklab olishni qayerda saqlashingiz so'raladi"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "Qayerdan yuklab olishni so'rang"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "\"Saqlash uchun kirish doirasi\" tashqi SD-kartaga yuklab olishga imkon beradi.\n\nBa'zi qurilmalar mos kelmaydi"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "SAFdan foydalalnish"
+    },
+    {
+      "name": "downloads_title",
+      "value": "Yuklanganlar"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Yopiq Tortma"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "Hozirda tanlangan xizmatni yoqish:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Ochiq Tortma"
+    },
+    {
+      "name": "duration_live",
+      "value": "Jonli"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "Bu erda kriketlardan boshqa hech narsa yo'q"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "Yo'qotilgandan so'ng, etkazib berilmaydigan Rx istisnolari haqida fragment yoki faoliyatning hayot tsikli tashqarisida majburiy ravishda hisobot berish"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "Hayotiy-tsikldan tashqari xatolar haqida xabar berish"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "Xotiraning oqishini nazorat qilish, yuklama tashlaganda dastur javob bermasligi mumkin"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Oxirgi ijro holatini tiklash"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Ijro etishni davom ettirish"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Ro'yxatlarda ijro holati ko'rsatkichlarini ko'rsatish"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Ro'yxatlardagi pozitsiyalar"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "Yuklash navbatini cheklash"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "Bitta yuklab olish bir vaqtning o'zida ishlaydi"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Qidiruv so'rovlarini mahalliy sifatida saqlash"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Qidiruv tarixi"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Ko'rilgan videolarni kuzatib borish"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Tarixni ko'rish"
+    },
+    {
+      "name": "enqueue",
+      "value": "Navbat"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "Qo'shish"
+    },
+    {
+      "name": "enqueued",
+      "value": "Qo'shildi"
+    },
+    {
+      "name": "error_connect_host",
+      "value": "Serverga ulanib bo'lmadi"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Detallar:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "Ushbu yuklab olishni tiklab bo'lmaydi"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Fayl yaratib bo'lmaydi"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "Server ma'lumot yubormaydi"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Topilmadi"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "Server ko'p tarmoqli yuklamalarni qabul qilmaydi, @ string / msg_threads = 1 bilan qayta urinib ko'ring"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "Qurilmada bo'sh joy qolmadi"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "Xato yuz berdi: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "Belgilangan papkani yaratish mumkin emas"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "Keyingi ishlov berilmadi"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe fayl ustida ishlash paytida yopilgan"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "Siljish yo'qoldi, chunki fayl o'chirildi"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Ushbu xato haqida elektron pochta orqali xabar berish"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Iltimos, sizning harakatingizni muhokama qiladigan muammo allaqachon mavjudligini tekshiring. Ikki nusxadagi ticketlarni yaratishda siz bizdan vaqt ajratib, biz haqiqiy xatolarni tuzatishga sarflashimiz mumkin edi."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "GitHub haqida hisobot"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Xato haqida xabar berish"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Hisobot"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Kechirasiz, biron bir xato yuz berdi."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "Xavfsiz ulanish o'rnatilmadi"
+    },
+    {
+      "name": "error_timeout",
+      "value": "Ulanish vaqti tugadi"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "Fikrlarni yuklab bo‘lmadi"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "Server topilmadi"
+    },
+    {
+      "name": "events",
+      "value": "Natijalar"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "Eksport qilindi"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "Eksport tarixi, obunalari va pleylistlari"
+    },
+    {
+      "name": "export_data_title",
+      "value": "Ma'lumotlar bazasini eksport qilish"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "Eksport qilinmoqda…"
+    },
+    {
+      "name": "export_to",
+      "value": "Ga Export qilish"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "Tashqi playerlar ushbu turdagi havolalarni qo'llab-quvvatlamaydilar"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "Yangi"
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "Ushbu guruhni o'chirmoqchimisiz?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "Bo'sh guruh nomi"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "Obuna tanlanmadi"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "Obunalarni tanlang"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "Faqat guruhlanmagan obunalarni ko'rsatish"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "Kanal guruhlari"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "Tasma yuklanmoqda…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "Oxirgi yangilanish: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "Tasma qayta ishlanmoqda…"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "Yuklanmadi: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "Har doim yangilab turish"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "Obunadan oldingi, so'nggi yangilanishdan keyingi vaqt eskirgan hisoblanadi - %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "Tasmani yangilash chegarasi"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "Tez rejimni o'chirish"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "Tez rejimni yoqish"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "Sizningcha, ta'minotni yuklash juda sekinmi? Agar shunday bo'lsa, tez yuklashni yoqib ko'ring (uni sozlamalardan yoki quyidagi tugmani bosib o'zgartirishingiz mumkin).\n\nNewPipe ikkita lentani yuklash strategiyasini taklif qiladi:\n• Sekin, lekin to'liq bo'lgan obuna kanalini to'liq olish.\n• Tez, lekin odatda to'liq bo'lmagan maxsus xizmatning so'nggi nuqtasidan foydalanish.\n\nIkkalasining farqi shundaki, tezkor narsaning davomiyligi yoki turi kabi ba'zi ma'lumotlarga ega emas (jonli videolar va oddiy videolarni ajrata olmaydi) va u kamroq narsalarni qaytarishi mumkin.\n\nYouTube ushbu tezkor usulni RSS tasmasi bilan taqdim etadigan xizmatning namunasidir.\n\nShunday qilib, tanlov siz afzal ko'rgan narsaga bog'liq: tezlik yoki aniq ma'lumot."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "Ba'zi xizmatlarda mavjud bo'lib, u tezroq bo'ladi, lekin cheklangan miqdordagi narsalar va ko'pincha to'liq bo'lmagan ma'lumotlarni qaytarishi mumkin (masalan, davomiyligi, element turi, jonli holatda bo'lmagan)."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "Agar mavjud bo'lsa, maxsus lentadan oling"
+    },
+    {
+      "name": "file",
+      "value": "Fayl"
+    },
+    {
+      "name": "file_deleted",
+      "value": "Fayl o'chirildi"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "Fayl nomi bo'sh bo'lishi mumkin emas"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "Nima yangiliklar"
+    },
+    {
+      "name": "general_error",
+      "value": "Xato"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "Noyob nom yaratish"
+    },
+    {
+      "name": "give_back",
+      "value": "Qaytarib berish"
+    },
+    {
+      "name": "grid",
+      "value": "Tarmoq"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "Qo'shish uchun ushlab turish"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "Import qilindi"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "Joriy tarixingiz va obunalaringizni bekor qiladi"
+    },
+    {
+      "name": "import_data_title",
+      "value": "Ma'lumotlar bazasini import qilish"
+    },
+    {
+      "name": "import_file_title",
+      "value": "Import fayli"
+    },
+    {
+      "name": "import_from",
+      "value": "Dan Import qilish"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "Ushbu operatsiyani bajarish tarmoq uchun qimmat bo'lishi mumkinligini yodda tuting.\n\n\n\nDavom etishni xohlaysizmi?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "Import qilinmoqda…"
+    },
+    {
+      "name": "import_settings",
+      "value": "Sozlamalarni ham import qilmoqchimisiz?"
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "URL yoki ID-ni yozib SoundCloud profilini import qiling:\n\n\n\n1. Veb-brauzerda \"ish stoli rejimini\" yoqing (sayt mobil qurilmalar uchun mavjud emas)\n\n2. Ushbu URL manziliga o'ting: %1$s\n\n3. So'ralganda tizimga kiring\n\n4. Siz yo'naltirilgan profil URL manzilidan nusxa oling."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "sizningID, soundcloud.com/yourid"
+    },
+    {
+      "name": "import_title",
+      "value": "Import"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "YouTube-ga obunalarni Google takeout-dan import qilish:\n\n\n\n1. Ushbu URL manzilga o'ting: %1$s\n\n2. So'ralganda tizimga kiring\n\n3. \"Barcha ma'lumotlar kiritilgan\" tugmachasini bosing, so'ng \"Barchasini bekor qilish\" tugmachasini bosing, so'ngra faqat \"obunalarni\" tanlang va \"OK\" tugmasini bosing\n\n4. \"Keyingi qadam\" ni, so'ngra \"Eksport yaratish\" tugmasini bosing.\n\n5. U paydo bo'lgandan keyin va \"Yuklab olish\" tugmasini bosing\n\n6. Yuklangan zip-dan .json faylini chiqarib oling (odatda \"YouTube va YouTube Music / subscriptions / subscriptions.json\" ostida) va uni shu yerga import qiling."
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ videolar"
+    },
+    {
+      "name": "info_labels",
+      "value": "Nima: \n So'rov: \nTarkib tili: \nTarkib mamlakati: \nIlova tili: \\ nXizmat: \\ nGMT vaqti: \\ nPaket: \\ nVersion: \\ nOS versiyasi:"
+    },
+    {
+      "name": "install",
+      "value": "O'rnatish"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "Bunday papka yo'q"
+    },
+    {
+      "name": "invalid_file",
+      "value": "Fayl mavjud emas yoki uni o'qish yoki yozish uchun ruxsat yo'q"
+    },
+    {
+      "name": "invalid_source",
+      "value": "Bunday fayl / tarkib manbai yo'q"
+    },
+    {
+      "name": "just_once",
+      "value": "Faqat bittasi"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "Kiosk sahifasi"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "missing Kore dasturini o'rnatasizmi?"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Yorug'"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Limitsiz"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "Mobil ma'lumotlardan foydalanishda cheklovlarni cheklash"
+    },
+    {
+      "name": "list",
+      "value": "Ro'yxat"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "Ro'yxatni ko'rish rejimi"
+    },
+    {
+      "name": "local",
+      "value": "Mahalliy"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Boshlash uchun \"Izlash\" tugmasini bosing"
+    },
+    {
+      "name": "main_page_content",
+      "value": "Asosiy sahifaning tarkibi"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "Asosiy sahifada qanday yorliqlar ko'rsatilgan"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "Yuklashni bekor qilishdan oldin maksimal urinishlar soni"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Maksimal qayta urinishlar"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "Metadata keshi o'chirildi"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "Barcha keshlangan veb-sahifa ma'lumotlarini olib tashlash"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "Keshlangan metadatalarni o'chirish"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "Fon pleyerini kichraytirish"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Yo'q"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "Pop-up pleyerga kichraytirish"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "Asosiy video pleyerdan boshqa dasturga o'tishda harakat - %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "Ilovani almashtirishni minimallashtirish"
+    },
+    {
+      "name": "missing_file",
+      "value": "Fayl ko'chirildi yoki o'chirildi"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Tugatildi"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Kutilmoqda"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "100+ videolar"
+    },
+    {
+      "name": "most_liked",
+      "value": "Eng yoqqanlari"
+    },
+    {
+      "name": "msg_copied",
+      "value": "Buferga nusxa olindi"
+    },
+    {
+      "name": "msg_error",
+      "value": "Xato"
+    },
+    {
+      "name": "msg_name",
+      "value": "Faylnomi"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "Ushbu ruxsat zarur\n\npopup rejimida oching"
+    },
+    {
+      "name": "msg_running",
+      "value": "NePipe yuklab olinmoqda"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "Tafsilotlar uchun bosing"
+    },
+    {
+      "name": "msg_threads",
+      "value": "Iplar"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Iltimos kuting…"
+    },
+    {
+      "name": "mute",
+      "value": "Mute rejimi"
+    },
+    {
+      "name": "name",
+      "value": "Nomi"
+    },
+    {
+      "name": "network_error",
+      "value": "Tarmoqda xato"
+    },
+    {
+      "name": "never",
+      "value": "Xech qachon"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Yangi va qaynoqlari"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "AVPlayer cheklovlari tufayli qidiruv davomiyligi %d soniya qilib belgilandi"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "Yuklab olish papkasini keyinroq sozlamalarda belgilang"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "Hech qanday kanal obunasi yo'q"
+    },
+    {
+      "name": "no_comments",
+      "value": "Izohlar yo'q"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "Hech kim tinglamayapti"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "Hech kim ko'rmayapti"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Hech qanday translatsiya pleyeri topilmadi. VLC o'rnatilsinmi?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Stream pleer topilmadi (uni ijro etish uchun VLC o'rnatishingiz mumkin)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "Hali pleylist xatcho'plari yo'q"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "Yuklash uchun stream mavjud emas"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Obunachilar yo'q"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "Haqiqiy ZIP fayli yo‘q"
+    },
+    {
+      "name": "no_videos",
+      "value": "Videolar yo'q"
+    },
+    {
+      "name": "no_views",
+      "value": "Ko'rishlar yo'q"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Birinchi harakat tugmasi"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Ikkinchi harakat tugmasi"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Uchinchi harakat tugmasi"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "To'rtinchi harakat tugmasi"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Beshinchi harakat tugmasi"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "Buferlash"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Hech narsa"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Takrorlash"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Aralash"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Bildirishnomada ko'rsatish uchun eng ko'p uchta amalni tanlashingiz mumkin!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Quyidagi har bir bildirishnomani ustiga bosib uni tahrir qiling. O'ng tomondagi katakchalar yordamida ixcham bildirishnomada ko'rsatilishi uchun ulardan uchtasini tanlang."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "NewPipe fon va popup pleyerlari uchun bildirishnomalar"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe bildirishnomasi"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Bildirishnomada ko'rsatilgan video eskizini 16: 9dan 1: 1 gacha tomonlarning nisbatiga qarab o'lchamang (buzilishlarni keltirib chiqarishi mumkin)"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Eskizini 1: 1 tomonlar nisbatiga o‘lchash"
+    },
+    {
+      "name": "ok",
+      "value": "Ok"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "1 ta element o'chirildi."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Brauzerda ochish"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Pop-up rejimda ochish"
+    },
+    {
+      "name": "override_current_data",
+      "value": "Bu sizning joriy sozlamangizni bekor qiladi."
+    },
+    {
+      "name": "overwrite",
+      "value": "Qayta yozish"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "faylni qayta yozib bo'lmaydi"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "Ushbu nom bilan yuklab olingan fayl allaqachon mavjud"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "Bunday nomdagi fayl allaqachon mavjud"
+    },
+    {
+      "name": "parsing_error",
+      "value": "Veb-saytni tahlil qilib bo'lmadi"
+    },
+    {
+      "name": "pause",
+      "value": "Pauza"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "Yuklashlarni to'xtatib turish"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "Hisoblangan tarmoqlarda uzilish"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "Mobil ma'lumotlarga o'tishda foydalidir, garchi ba'zi yuklab olishlarni to'xtatib bo'lmaydi"
+    },
+    {
+      "name": "paused",
+      "value": "to'xtatildi"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "Namuna allaqachon mavjud"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "Namunani tasdiqlab bo'lmadi"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "Namuna URL manzilini kiriting"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Faqat HTTPS URL-lari qo'llab-quvvatlanadi"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "Namuna qo'shish"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "%s da sizga yoqadigan misollarni toping"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "Sevimli PeerTube nusxalarini tanlang"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "PeerTube misollari"
+    },
+    {
+      "name": "permission_denied",
+      "value": "Tizim tomonidan rad etilgan harakat"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "Boshqa ilovalar orqali ko'rsatishga ruxsat berish"
+    },
+    {
+      "name": "play_all",
+      "value": "Barchasini ijro etish"
+    },
+    {
+      "name": "play_audio",
+      "value": "Audio"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "Ovoz sozlamalari"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Olib tashlash"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "Detallar"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Kodi bilan ijro etish"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "Ovoz pitchi"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Qayta o'rnatish"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "Ijro tezligini boshqarish"
+    },
+    {
+      "name": "playback_step",
+      "value": "Qadam"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Temp"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "Player xatosidan qutulish"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Ushbu stream ijro etilmadi"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "Qayta tiklanmaydigan pleyerda xatolik yuz berdi"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "Pleylist"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "Pleylist yaratildi"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "Avtomatik yaratildi (yuklovchi topilmadi)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "Pleylist sahifasi"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "Pleylist eskizi o'zgartirildi."
+    },
+    {
+      "name": "playlists",
+      "value": "Playlistlar"
+    },
+    {
+      "name": "popup_player",
+      "value": "Pop-up pleyer"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "Pop-up rejimda ijro etish"
+    },
+    {
+      "name": "post_processing",
+      "value": "qayta-ishlash"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "Tarkibni ochishda standart harakat - %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "\"Ochiq\" harakat afzal"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "So'ralgan tarkib yuklanmoqda"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "Ma'lumot olinmoqda…"
+    },
+    {
+      "name": "previous_export",
+      "value": "Oldingi export"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "NewPipe loyihasi sizning shaxsiy hayotingizga jiddiy e'tibor beradi. Shuning uchun ilova sizning roziligingizsiz biron bir ma'lumot to'plamaydi.\n\nNewPipe-ning maxfiylik siyosati halokat to'g'risidagi hisobotni yuborganingizda qanday ma'lumotlar yuborilishi va saqlanishi haqida batafsil ma'lumot beradi."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "NewPipe-ning maxfiylik siyosati"
+    },
+    {
+      "name": "queued",
+      "value": "navbatda"
+    },
+    {
+      "name": "read_full_license",
+      "value": "Litsenziyani o'qish"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "Maxfiylik siyosatini o'qish"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "reCAPTCHA cookies fayllari o'chirildi"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "reCAPTCHA muammosi so'raldi"
+    },
+    {
+      "name": "recently_added",
+      "value": "Yaqinda qo'shilgan"
+    },
+    {
+      "name": "recovering",
+      "value": "tiklanish"
+    },
+    {
+      "name": "remove_watched",
+      "value": "Ko'rilganlarni olib tashlash"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "Ha, va qisman videolarni tomosha qildim"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "Ko'rilgan videolar olib tashlansinmi?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "Pleylistga qo'shilishdan oldin va keyin ko'rilgan videolar o'chiriladi. \nIshonchingiz komilmi? Buni qaytarib bo'lmaydi!"
+    },
+    {
+      "name": "rename",
+      "value": "Nomni o'zgartirish"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Nomni o'zgartirish"
+    },
+    {
+      "name": "resize_fill",
+      "value": "To'ldirish"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Yaroqli (tayyor)"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "Birlamchi parametrlarni tiklash"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "Birlamchi parametrlarni tiklashni xohlaysizmi?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "Ushbu video yoshga cheklangan.\n\n\n\nAgar xohlasangiz, sozlamalarda \"%1$s\" ni yoqing."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Uzilishlardan keyin ijro etishni davom ettirish (masalan. phonecalls)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Ijro etishni davom ettirish"
+    },
+    {
+      "name": "retry",
+      "value": "Qayta"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "Saqlangan yorliqlarni o'qib bo'lmadi, shuning uchun standartlardan foydalaning"
+    },
+    {
+      "name": "search",
+      "value": "Qidirish"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "Qidiruv tarixi o'chirildi."
+    },
+    {
+      "name": "search_no_results",
+      "value": "Natija yo'q"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "%s uchun natijalar ko'rsatilmoqda"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Oldinga tez / oldinga siljish davomiyligini qidirish"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "Kanal tanlash"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "kiosk tanlash"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "Pleylistni tanlang"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "Pleylist eskizi sifatida o'rnating"
+    },
+    {
+      "name": "settings",
+      "value": "Sozlashlar"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Tashqi ko'rinish"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Ma'lumotlarni tozalash"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "Nosozliklarni tuzatish"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "Yuklab olish"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "Ta'minlamoq"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "Tarix va kesh"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Xatti-harakat"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Ijro etish"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Yangilanishlar"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Video va audio"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "Fayl nomidagi ruxsat berilgan belgilar"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "Noto'g'ri belgilar ushbu qiymat bilan almashtiriladi"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "O'zgartirish belgisi"
+    },
+    {
+      "name": "share",
+      "value": "Baham ko'rish"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Bilan baham ko'rish"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "Tarkibni bolalar uchun yaroqsiz deb ko'rsating, chunki uning yosh chegarasi bor (18+ kabi)."
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "Yoshi cheklangan tarkibni ko'rsatish"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "sharhlarni yashirishni o'chirish"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Izohlarni ko'rsatish"
+    },
+    {
+      "name": "show_error",
+      "value": "Xatolikni ko'rsatish"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Faqat ba'zi qurilmalar 2K / 4K videolarni ijro etishi mumkin"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Yuqori o'lchamlarni ko'rsatish"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "\"Tafsilotlar:\" videodagi fon yoki po-pup tugmachasini bosganda ko'rsatma."
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "\"Qo'shish uchun ushlab turish\" maslahatini ko'rsatish"
+    },
+    {
+      "name": "show_info",
+      "value": "Ma'lumotni ko'rsatish"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "Xotiradagi bo'sh joylarni ko'rsating"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "'Keyingi' va 'O'xshash' videolarni namoyish etish"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "Xizmatlardan olingan asl matnlar oqim elementlarida ko'rinadi"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "Dastlabki real vaqtni narsalarda ko'rsatish"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Kodi media-markazi orqali videoni ijro etish variantini ko'rsatish"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "\"Kodi bilan ijro etish\" parametrini ko'rsatish"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Qidirayotganda takliflarni ko'rsatish"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Takliflarni qidirish"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Sukunat paytida oldinga siljish"
+    },
+    {
+      "name": "songs",
+      "value": "Qo'shiqlar"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Kechirasiz, bunday bo'lmasligi kerak edi."
+    },
+    {
+      "name": "start",
+      "value": "Boshlash"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "Ma'lumotlarni himoya qilish bo'yicha Evropa umumiy qoidalariga (GDPR) rioya qilish uchun biz sizning e'tiboringizni NewPipe-ning maxfiylik siyosatiga qaratamiz. Iltimos, uni diqqat bilan o'qing.\n\nXatolar haqidagi hisobotni bizga yuborish uchun uni qabul qilishingiz kerak."
+    },
+    {
+      "name": "start_downloads",
+      "value": "Yuklashni boshlash"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "Orqa fonda ijroni boshlash"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "Pop-up rejimida ijroni boshlash"
+    },
+    {
+      "name": "stop",
+      "value": "To'xtatish"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Obuna bo'lish"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Obuna bo'lindi"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "Obunachilar soni mavjud emas"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Obunani o'zgartirib bo'lmadi"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Obunani yangilab bo'lmadi"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "Obunalarni eksport qilib bo‘lmadi"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "Obunalarni import qilib bo‘lmadi"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "Hal etilganda \"Bajarildi\" tugmasini bosing"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "Orqa fonga o'tish"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "Asosiyga o'tish"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "Pop-upga o'tish"
+    },
+    {
+      "name": "systems_language",
+      "value": "Tizimning standart qiymati"
+    },
+    {
+      "name": "tab_about",
+      "value": "Haqida"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Yorliqlangan pleylistlar"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Yorliqni tanlash"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "Litsenziyalar"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Obunalar"
+    },
+    {
+      "name": "theme_title",
+      "value": "Tema"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "Rasm keshi o'chirildi"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "NewPipe haqida"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "Tarix"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "Play navbat"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "reCAPTCHA muammosi"
+    },
+    {
+      "name": "title_last_played",
+      "value": "Oxirgi ijro"
+    },
+    {
+      "name": "title_licenses",
+      "value": "Uchinchi tomon litsenziyalari"
+    },
+    {
+      "name": "title_most_played",
+      "value": "Eng ko'p ijrolar etilganlar"
+    },
+    {
+      "name": "top_50",
+      "value": "Top 50"
+    },
+    {
+      "name": "tracks",
+      "value": "Treklar"
+    },
+    {
+      "name": "trending",
+      "value": "Ommabop"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "Xatcho'pni olib tashlash"
+    },
+    {
+      "name": "undo",
+      "value": "Bekor qilish"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "Chiqarib olish (buzilishga olib kelishi mumkin)"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[Noma'lum]"
+    },
+    {
+      "name": "unmute",
+      "value": "Unmute rejimi"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Obunani bekor qilish"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Qo'llab-quvvatlanmaydigan URL manzili"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "URL manzili aniqlanmadi. Boshqa ilova bilan ochilsinmi?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "Yangi versiya mavjud bo'lganda dasturni yangilashni so'rash uchun bildirishnomani ko'rsating"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Yangilanishlar"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "%1$s tomonidan e‘lon qilingan"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Tashqi audio pleerdan foydalanish"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Ba'zi piksellarda ovozni o'chirish"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Tashqi video pleerdan foydalanish"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Noto'g'ri izlash ijro etuvchiga aniqlikni pasayishi bilan tezroq pozitsiyalarni qidirishga imkon beradi. 5, 15 yoki 25 soniyani qidirish bu bilan ishlamaydi."
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Tez aniq bo'lmagan izlashdan foydalanish"
+    },
+    {
+      "name": "users",
+      "value": "Foydalanuvchilar"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "%s tomonidan"
+    },
+    {
+      "name": "video_player",
+      "value": "Video pleyer"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "Hech qanday video stream topilmadi"
+    },
+    {
+      "name": "videos_string",
+      "value": "Videolar"
+    },
+    {
+      "name": "view_on_github",
+      "value": "GitHubda ko'rish"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "Tomosha tarixi o'chirildi."
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "Ijro pozitsiyalari o'chirildi."
+    },
+    {
+      "name": "website_encouragement",
+      "value": "Qo'shimcha ma'lumot va yangiliklar uchun NewPipe veb-saytiga tashrif buyuring."
+    },
+    {
+      "name": "website_title",
+      "value": "Websayt"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Info:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Nima sodir bo'ldi:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "Faqat Wi-Fi orqali"
+    },
+    {
+      "name": "your_comment",
+      "value": "Sizning sharhingiz (ingliz tilida):"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "YouTube \"cheklangan rejim\" ni taqdim etadi, u katta yoshlilar uchun tarkibni yashiradi."
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "YouTube-ning \"Cheklangan rejimi\" ni yoqish"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

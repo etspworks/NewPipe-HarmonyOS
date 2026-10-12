@@ -1,0 +1,656 @@
+{
+  "string": [
+    {
+      "name": "auto_queue_summary",
+      "value": "Hald fram ei ugjentakande avspelingsrad ved å leggja til ein liknande straum"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "Sjølvverkande rad neste straum"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "Rad sjølvverkande"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "Spel av sjølvverkande"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "Spelar av i bakgrunnen"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Svart"
+    },
+    {
+      "name": "brightness",
+      "value": "Ljosstyrke"
+    },
+    {
+      "name": "cancel",
+      "value": "Avbryt"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Stogga å fylgja kanalen"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "Den noverande avspelingsrada vil verta skift ut"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "Byte ifrå ein avspelar til ein annan kan skifta ut rada di"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "Stadfest radtømming"
+    },
+    {
+      "name": "content_language_title",
+      "value": "Forvalt tungemål for innhald"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Legg til i"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "Bakgrunn"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Hent straumfil"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "Sprett opp"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "Krasj avspelaren"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Mørk"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "Forvalt ljodformat"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "Forvalt innhaldsland"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "Forvald oppsprettsoppløysing"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "Forvald oppløysing"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "Forvalt videoformat"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Meinte du «%1$s»?"
+    },
+    {
+      "name": "download",
+      "value": "Hent"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "Hent"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "Vel hentemappe for ljodfiler"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "Henta ljodfiler vert gøymde her"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "Hentemappe for ljod"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "Vel hentemappe for videofiler"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "Gøymer henta videofiler her"
+    },
+    {
+      "name": "download_path_title",
+      "value": "Videohentingsmappe"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "Hald fram straumar der du sist slapp"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "Spel av der du slapp"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "Vis avspelingsstadteikn i lister"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "Vis listeframgang"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "Spar søk på eininga"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "Søkjehistorikk"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "Lag ei liste over avspelte straumar"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "Visingshistorikk"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "Nyttig om du til dømes nyttar høyretelefonar med skadde knappar"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "Sjå bort ifrå mediaknappetrykk"
+    },
+    {
+      "name": "install",
+      "value": "Legg inn"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "Legg inn saknande Kore-app?"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "Vel ei handvending for den venstre sida av avspelingsskjermen"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "Venstre handvendingsgjerd"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Ljos"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "Søkjeframlegg på eininga"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Trykk på aukeglaset for å byrja."
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "Merk som sett"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Nattham"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "Ingen ljodstraumar er tilgjengelege for ytre avspelarar"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Fann ingen straumavspelarar. Legg inn VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Fann ingen straumavspelarar (du kan leggja inn VLC for å spela av straumen)."
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "Ingen videostraumar er tilgjengelege for ytre avspelarar"
+    },
+    {
+      "name": "none",
+      "value": "Ingen"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "Fyrste gjerdknapp"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "Andre gjerdknapp"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "Tredje gjerdknapp"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "Fjerde gjerdknapp"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "Femte gjerdknapp"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Ingenting"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Gjenta"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Bland"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "Du kan berre velja opp til tre gjerder til å verta viste i det tette varselet."
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "Trykk på ei varselgjerd under for å byta ho ut. Vel opptil tre av dei til å verta viste i det samantrengde varselet ved å merkja dei av på høgre side"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "La Android velja léten til varsla ut ifrå hovudléten i småbiletet (merk at dette ikkje er tilgjengeleg på alle einingar)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "Lét varsla"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "Skjer videosmåbiletet som vert vist i varselet, ifrå storleikshøvet 16:9 til 1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "Skjer småbiletet til storleikshøvet 1:1"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Merknader er slått av"
+    },
+    {
+      "name": "off",
+      "value": "Av"
+    },
+    {
+      "name": "ok",
+      "value": "Greitt"
+    },
+    {
+      "name": "on",
+      "value": "På"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Opn i ein nettlesar"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Sprett opp i eit vindauga"
+    },
+    {
+      "name": "open_website_license",
+      "value": "Opn nettstaden"
+    },
+    {
+      "name": "open_with",
+      "value": "Opn med"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "Stør berre HTTPS-nettadresser"
+    },
+    {
+      "name": "play_audio",
+      "value": "Ljod"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "Spel av med Kodi"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "Hugs den siste storleiken og staden til oppsprettsvindauga"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "Hugs oppsprettseigenskapar"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "Om tilgjengeleg, vel eit ljodspor med utgreiingar for blinde"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "Helst utgreiande ljod"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "Vel det opphavlege ljodsporet utan omsyn til tungemålet"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "Helst opphavleg ljod"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "Søkjeframlegg på nettet"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "Hald fram med å spela av etter avbrot (t.d. telefonsamtaler)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "Hald fram avspeling"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "Vel ei handvending for den høgre sida av avspelingsskjermen"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "Høgre handvendingsgjerd"
+    },
+    {
+      "name": "search",
+      "value": "Søk"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Viser svar for: %s"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "Hopplengd (framover/bakover)"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "Vel kvalitet for ytre avspelarar"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "Vald straum er ikkje stødd av ytre avspelarar"
+    },
+    {
+      "name": "settings",
+      "value": "Innstillingar"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Utsjånaden"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "Tøm data"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Åtferd"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "Avspelingsvarsel"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "Avspelar"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "Oppdateringar"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "Video og ljod"
+    },
+    {
+      "name": "share",
+      "value": "Del"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Del med"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "Slå av for å skjula utsegner"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Vis utsegner"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "Slå av for å skjula videoutgreiingar og ytterlegare opplysingar"
+    },
+    {
+      "name": "show_description_title",
+      "value": "Vis utgreiingar"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "Berre somme einingar kan spela av 2K-/4K-videoar"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "Vis høgare oppløysingar"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "Vis eit råd ved trykk på «Bakgrunn» eller «Sprett opp»-knappane i videodetaljane"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "Vis «Hald for å rade»-råd"
+    },
+    {
+      "name": "show_info",
+      "value": "Vis opplysingar"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "Slå av for å skjula medadataområde med tilleggsopplysingar om straumskaparen, strauminnhaldet eller eit søk"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "Vis metadata"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "Vis «Neste» og «Liknande» videoar"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "Vis eit val om å spela av ein video med mediasamlestaden Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "Vis \"Spela av med Kodi\"-val"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "Vis søkjeframlegg ved søk"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "Søkjeframlegg"
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "Hopp over togner"
+    },
+    {
+      "name": "sort",
+      "value": "Skil ut"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "Om sjølvverkande snuing er slegen av, byrj videoar i fullskjerm i staden for i småavspelaren. Du kan framleis nytte småavspelaren ved å gå ut av fullskjermsvisinga"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "Byrj hovudavspelaren i fullskjerm"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "Straumar som ikkje enno er stødde av hentaren, er ikkje synlege"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Fylg"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Fylgjer"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Greidde ikkje å brigde fylginga"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "Gøymde spelelister"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Vel fane"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Fylgde"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "Nettbrettvising"
+    },
+    {
+      "name": "theme_title",
+      "value": "Ham"
+    },
+    {
+      "name": "toggle_all",
+      "value": "Slå av/på alle"
+    },
+    {
+      "name": "unknown_format",
+      "value": "Ukjend format"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "Ukjend kvalitet"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Stogg å fylgja"
+    },
+    {
+      "name": "unsupported_url",
+      "value": "Ustødd nettadresse"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "Kjente ikkje att nettadressa. Opn med ein annan app?"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Gjeve ut den %1$s"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Nytt ein ytre ljodavspelar"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Tek bort ljod ved somme oppløysingar"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Nytt ytre videospelar"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "Slurvne spoling lar avspelaren spole kvikkare, men slurvnare. 5, 15 og 25-sekundshopping verkar ikkje med dette"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "Nytt kvikk slurvne spoling"
+    },
+    {
+      "name": "volume",
+      "value": "Ljodstyrke"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "Du fylgjer no denne kanalen"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

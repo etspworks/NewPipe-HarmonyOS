@@ -1,0 +1,3036 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "קבלה"
+    },
+    {
+      "name": "account_terminated",
+      "value": "החשבון הושמד"
+    },
+    {
+      "name": "account_terminated_service_provides_reason",
+      "value": "חשבון הושמד\n\n%1$s מספק את הסיבה הבאה: %2$s"
+    },
+    {
+      "name": "action_history",
+      "value": "היסטוריה"
+    },
+    {
+      "name": "add_to_playlist",
+      "value": "הוספה לרשימת נגינה"
+    },
+    {
+      "name": "albums",
+      "value": "אלבומים"
+    },
+    {
+      "name": "all",
+      "value": "הכול"
+    },
+    {
+      "name": "always",
+      "value": "תמיד"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "לשאול תמיד"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_summary",
+      "value": "המעקף הזה משחרר ומקים מחדש את מפענחי הווידאו כשמשתנה שינוי במשטח, במקום להגדיר את המשטח למפענח ישירות. כבר נעשה בזה שימוש על ידי ExoPlayer בחלק מהמכשירים עם התקלה הזאת, הגדרה זו משפיעה על Android 6 ומעלה בלבד\n\n\n\nהפעלת האפשרות עשויה למנוע שגיאות נגינה בעת חזרה לנגן הווידאו הנוכחית או במעבר למסך מלא"
+    },
+    {
+      "name": "always_use_exoplayer_set_output_surface_workaround_title",
+      "value": "תמיד להשתמש במעקף הגדרות משטח פלט הווידאו של AVPlayer"
+    },
+    {
+      "name": "any_network",
+      "value": "רשת כלשהי"
+    },
+    {
+      "name": "app_description",
+      "value": "נגן קל וחופשי להזרמת מדיה עבור HarmonyOS."
+    },
+    {
+      "name": "app_language_title",
+      "value": "שפת היישומון"
+    },
+    {
+      "name": "app_license",
+      "value": "NewPipe הוא יישומון חופשי בהתאם לרישיון קופילפט: מותר לך להשתמש, לחקור, לשתף ולשפר בכל דרך שנראית לך. במיוחד מותר לך להפיץ מחדש ו/או לשנות תחת תנאי הרישיון הציבורי הכללי של GNU כפי שמופץ על ידי קרן התכנה החופשית, בין אם גרסה 3 של הרישיון או (לשיקולך) כל גרסה עדכנית יותר שלו."
+    },
+    {
+      "name": "app_license_title",
+      "value": "הרישיון של NewPipe"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "היישומון או מנשק המשתמש קרסו"
+    },
+    {
+      "name": "app_update_available_notification_text",
+      "value": "נגיעה כאן תוריד את %s"
+    },
+    {
+      "name": "app_update_available_notification_title",
+      "value": "יצא עדכון ל־NewPipe!"
+    },
+    {
+      "name": "app_update_notification_channel_description",
+      "value": "התראות על גרסאות חדשות של NewPipe"
+    },
+    {
+      "name": "app_update_notification_channel_name",
+      "value": "התראת עדכון יישומון"
+    },
+    {
+      "name": "app_update_unavailable_toast",
+      "value": "זאת הגרסה העדכנית ביותר של NewPipe"
+    },
+    {
+      "name": "artists",
+      "value": "אמנים"
+    },
+    {
+      "name": "audio",
+      "value": "שמע"
+    },
+    {
+      "name": "audio_streams_empty",
+      "value": "לא נמצאו תזרימי שמע"
+    },
+    {
+      "name": "audio_track",
+      "value": "רצועת שמע"
+    },
+    {
+      "name": "audio_track_name",
+      "value": "%1$s %2$s"
+    },
+    {
+      "name": "audio_track_present_in_video",
+      "value": "רצועת שמע כבר אמורה להיות כחלק מהתזרים"
+    },
+    {
+      "name": "audio_track_type_descriptive",
+      "value": "מפורט"
+    },
+    {
+      "name": "audio_track_type_dubbed",
+      "value": "מדובב"
+    },
+    {
+      "name": "audio_track_type_original",
+      "value": "מקורי"
+    },
+    {
+      "name": "audio_track_type_secondary",
+      "value": "משני"
+    },
+    {
+      "name": "auto",
+      "value": "אוטומטית"
+    },
+    {
+      "name": "auto_device_theme_title",
+      "value": "אוטומטי (לפי ערכת העיצוב של המכשיר)"
+    },
+    {
+      "name": "auto_queue_summary",
+      "value": "להמשיך תור נגינה סופית (בלתי מחזורית) על ידי הוספת תזרים קשור"
+    },
+    {
+      "name": "auto_queue_title",
+      "value": "הוספת התזרים הבא לרשימת הנגינה אוטומטית"
+    },
+    {
+      "name": "auto_queue_toggle",
+      "value": "סידור אוטומטי בתור"
+    },
+    {
+      "name": "auto_update_check_description",
+      "value": "NewPipe יכול לבדוק אוטומטית אם יש גרסאות חדשות מעת לעת ולהודיע כאשר הן זמינות.\n\nלהפעיל את היכולת הזאת?"
+    },
+    {
+      "name": "autoplay_summary",
+      "value": "להתחיל לנגן אוטומטית — %s"
+    },
+    {
+      "name": "autoplay_title",
+      "value": "ניגון אוטומטי"
+    },
+    {
+      "name": "background_player",
+      "value": "נגן רקע"
+    },
+    {
+      "name": "background_player_playing_toast",
+      "value": "מתנגן ברקע"
+    },
+    {
+      "name": "best_resolution",
+      "value": "רזולוציה מיטבית"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "שחור"
+    },
+    {
+      "name": "blank_page_summary",
+      "value": "עמוד ריק"
+    },
+    {
+      "name": "bookmark_playlist",
+      "value": "הוספת רשימת נגינה לסימניות"
+    },
+    {
+      "name": "brightness",
+      "value": "בהירות"
+    },
+    {
+      "name": "cancel",
+      "value": "ביטול"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "נוצרו אוטומטית"
+    },
+    {
+      "name": "caption_none",
+      "value": "אין כתוביות"
+    },
+    {
+      "name": "caption_setting_description",
+      "value": "שינוי גודל כותרת הנגן וסגנונות הרקע. נדרשת הפעלה מחדש כדי ששינויים אלה יכנסו לתוקף"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "כתוביות"
+    },
+    {
+      "name": "card",
+      "value": "כרטיס"
+    },
+    {
+      "name": "channel_created_by",
+      "value": "נוצר ע״י %s"
+    },
+    {
+      "name": "channel_page_summary",
+      "value": "עמוד הערוץ"
+    },
+    {
+      "name": "channel_tab_about",
+      "value": "על אודות"
+    },
+    {
+      "name": "channel_tab_albums",
+      "value": "אלבומים"
+    },
+    {
+      "name": "channel_tab_channels",
+      "value": "ערוצים"
+    },
+    {
+      "name": "channel_tab_likes",
+      "value": "לייקים"
+    },
+    {
+      "name": "channel_tab_livestreams",
+      "value": "שידור חי"
+    },
+    {
+      "name": "channel_tab_playlists",
+      "value": "רשימות נגינה"
+    },
+    {
+      "name": "channel_tab_shorts",
+      "value": "Shorts‎"
+    },
+    {
+      "name": "channel_tab_tracks",
+      "value": "רצועות"
+    },
+    {
+      "name": "channel_tab_videos",
+      "value": "סרטונים"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "ביטול מינוי לערוץ"
+    },
+    {
+      "name": "channels",
+      "value": "ערוצים"
+    },
+    {
+      "name": "chapters",
+      "value": "פרקים"
+    },
+    {
+      "name": "charset_letters_and_digits",
+      "value": "אותיות וספרות"
+    },
+    {
+      "name": "charset_most_special_characters",
+      "value": "רוב התווים המיוחדים"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "איתור עדכונים"
+    },
+    {
+      "name": "check_new_streams",
+      "value": "הרצת בדיקה על תזרימים חדשים"
+    },
+    {
+      "name": "checking_updates_toast",
+      "value": "מתבצע איתור עדכונים…"
+    },
+    {
+      "name": "checksum",
+      "value": "גיבוב לאימות"
+    },
+    {
+      "name": "choose_instance_prompt",
+      "value": "נא לבחור מופע"
+    },
+    {
+      "name": "clear",
+      "value": "ניקוי"
+    },
+    {
+      "name": "clear_cookie_summary",
+      "value": "לנקות עוגיות שנשמרות על ידי NewPipe בעת פתרון reCAPTCHA"
+    },
+    {
+      "name": "clear_cookie_title",
+      "value": "פינוי עוגיות reCAPTCHA"
+    },
+    {
+      "name": "clear_download_history",
+      "value": "מחיקת היסטוריית ההורדות"
+    },
+    {
+      "name": "clear_playback_states_summary",
+      "value": "מחיקת כל מיקומי הנגינה"
+    },
+    {
+      "name": "clear_playback_states_title",
+      "value": "מחיקת מיקומי נגינה"
+    },
+    {
+      "name": "clear_queue_confirmation_description",
+      "value": "התור מהנגן הפעיל יוחלף"
+    },
+    {
+      "name": "clear_queue_confirmation_summary",
+      "value": "מעבר מנגן אחד למשנהו עלול להחליף את התור שלך"
+    },
+    {
+      "name": "clear_queue_confirmation_title",
+      "value": "לבקש אישור לפני מחיקת התור"
+    },
+    {
+      "name": "clear_search_history_summary",
+      "value": "מחיקת היסטוריית מילות החיפוש"
+    },
+    {
+      "name": "clear_search_history_title",
+      "value": "מחיקת היסטוריית החיפוש"
+    },
+    {
+      "name": "clear_views_history_summary",
+      "value": "מחיקת היסטוריית התזרימים שהתנגנו ומיקומי הנגינה"
+    },
+    {
+      "name": "clear_views_history_title",
+      "value": "מחיקת היסטוריית הצפייה"
+    },
+    {
+      "name": "close",
+      "value": "סגירה"
+    },
+    {
+      "name": "comments_are_disabled",
+      "value": "תגובות מושבתות"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "הערות"
+    },
+    {
+      "name": "conferences",
+      "value": "כנסים"
+    },
+    {
+      "name": "confirm_prompt",
+      "value": "למחוק את היסטוריית ההורדות שלך או למחוק את כל הקבצים שהורדת?"
+    },
+    {
+      "name": "content",
+      "value": "תוכן"
+    },
+    {
+      "name": "content_language_title",
+      "value": "שפת התוכן המועדפת"
+    },
+    {
+      "name": "content_not_available",
+      "value": "תוכן אינו זמין"
+    },
+    {
+      "name": "content_not_supported",
+      "value": "תוכן זה לא נתמך עדיין על ידי NewPipe.\n\n\n\nאנו מקווים שתתווסף תמיכה בגרסאות עתידיות."
+    },
+    {
+      "name": "contribution_encouragement",
+      "value": "אם יש לך רעיון כלשהו בנוגע לתרגום, שינויי עיצוב, ניקוי הקוד או שינויים מהותיים בקוד - אנו תמיד שמחים לקבל עזרה. ככל שיותר דברים מתבצעים כך היישומון משתפר!"
+    },
+    {
+      "name": "contribution_title",
+      "value": "התנדבות"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "הוספה אל"
+    },
+    {
+      "name": "controls_background_title",
+      "value": "רקע"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "הורדת קובץ הזרמה"
+    },
+    {
+      "name": "controls_popup_title",
+      "value": "חלון צף"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "העתקת דוח מעוצב"
+    },
+    {
+      "name": "copyright",
+      "value": "© %1$s ע״י %2$s תחת %3$s"
+    },
+    {
+      "name": "could_not_import_all_files",
+      "value": "אזהרה: ייבוא חלק מהקבצים נכשל."
+    },
+    {
+      "name": "could_not_load_thumbnails",
+      "value": "אין אפשרות לטעון את כל התמונות הממוזערות"
+    },
+    {
+      "name": "could_not_setup_download_menu",
+      "value": "לא הייתה אפשרות להכין את תפריט ההורדה"
+    },
+    {
+      "name": "crash_the_app",
+      "value": "להקריס את היישומון"
+    },
+    {
+      "name": "crash_the_player",
+      "value": "להקריס את הנגן"
+    },
+    {
+      "name": "create",
+      "value": "יצירה"
+    },
+    {
+      "name": "create_error_notification",
+      "value": "יצירת התראת שגיאה"
+    },
+    {
+      "name": "create_playlist",
+      "value": "רשימת נגינה חדשה"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "כהה"
+    },
+    {
+      "name": "decline",
+      "value": "דחייה"
+    },
+    {
+      "name": "default_audio_format_title",
+      "value": "תבנית שמע כברירת מחדל"
+    },
+    {
+      "name": "default_content_country_title",
+      "value": "מדינת תוכן כברירת מחדל"
+    },
+    {
+      "name": "default_kiosk_page_summary",
+      "value": "קיוסק ברירת מחדל"
+    },
+    {
+      "name": "default_popup_resolution_title",
+      "value": "רזולוציית ברירת המחדל לחלון צף"
+    },
+    {
+      "name": "default_resolution_title",
+      "value": "רזולוציית ברירת המחדל"
+    },
+    {
+      "name": "default_video_format_title",
+      "value": "תבנית סרטון כברירת מחדל"
+    },
+    {
+      "name": "delete",
+      "value": "מחיקה"
+    },
+    {
+      "name": "delete_downloaded_files",
+      "value": "למחוק את הקבצים שהורדתי"
+    },
+    {
+      "name": "delete_downloaded_files_confirm",
+      "value": "למחוק את כל הקבצים שהורדו מהכונן?"
+    },
+    {
+      "name": "delete_entry",
+      "value": "מחיקת רשומה"
+    },
+    {
+      "name": "delete_file",
+      "value": "מחיקת קובץ"
+    },
+    {
+      "name": "delete_item_search_history",
+      "value": "למחוק את הפריט הזה מהיסטוריית החיפושים?"
+    },
+    {
+      "name": "delete_playback_states_alert",
+      "value": "למחוק את מיקומי הנגינה?"
+    },
+    {
+      "name": "delete_playlist_prompt",
+      "value": "למחוק רשימת נגינה זו?"
+    },
+    {
+      "name": "delete_search_history_alert",
+      "value": "למחוק את כל היסטוריית החיפוש?"
+    },
+    {
+      "name": "delete_view_history_alert",
+      "value": "למחוק את כל היסטוריית הצפייה?"
+    },
+    {
+      "name": "description_select_disable",
+      "value": "השבתת בחירת טקסט בתיאור"
+    },
+    {
+      "name": "description_select_enable",
+      "value": "הפעלת בחירת טקסט בתיאור"
+    },
+    {
+      "name": "description_select_note",
+      "value": "מעתה ניתן לבחור טקסט בתוך התיאור. נא לשים לב שהעמוד עשוי להבהב והקישורים לא יהיו לחיצים בזמן מצב הבחירה."
+    },
+    {
+      "name": "description_tab_description",
+      "value": "תיאור"
+    },
+    {
+      "name": "detail_dislikes_img_view_description",
+      "value": "לא אהבו"
+    },
+    {
+      "name": "detail_drag_description",
+      "value": "ניתן לסדר מחדש בגרירה"
+    },
+    {
+      "name": "detail_heart_img_view_description",
+      "value": "סומן בלב על ידי היוצר"
+    },
+    {
+      "name": "detail_likes_img_view_description",
+      "value": "לייקים"
+    },
+    {
+      "name": "detail_pinned_comment_view_description",
+      "value": "הערה ננעצה"
+    },
+    {
+      "name": "detail_sub_channel_thumbnail_view_description",
+      "value": "תמונה ממוזערת של הערוץ"
+    },
+    {
+      "name": "detail_thumbnail_view_description",
+      "value": "נגינת סרטון, משך:"
+    },
+    {
+      "name": "detail_uploader_thumbnail_view_description",
+      "value": "תמונה ייצוגית של המפרסם"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "כוונתך הייתה „%1$s”?"
+    },
+    {
+      "name": "disable_media_tunneling_automatic_info",
+      "value": "תיעול מדיה הושבת כברירת מחדל במכשיר שלך כיוון שדגם המכשיר ידוע בכך שאינו תומך בזה."
+    },
+    {
+      "name": "disable_media_tunneling_summary",
+      "value": "כדאי להשבית תיעול מדיה אם הופיעה תופעה של מסך שחור או גמגום בנגינת וידאו."
+    },
+    {
+      "name": "disable_media_tunneling_title",
+      "value": "השבתת תיעול מדיה"
+    },
+    {
+      "name": "disabled",
+      "value": "מושבת"
+    },
+    {
+      "name": "dismiss",
+      "value": "התעלמות"
+    },
+    {
+      "name": "donation_encouragement",
+      "value": "הפיתוח של NewPipe נערך ע״י מתנדבים שמשקיעים את זמנם הפנוי כדי להגיש לך את חווית השימוש הטובה ביותר. באפשרותך להעניק בחזרה כדי לסייע למפתחים לשפר את NewPipe בעודם נהנים מכוס קפה."
+    },
+    {
+      "name": "donation_title",
+      "value": "תרומה"
+    },
+    {
+      "name": "done",
+      "value": "סיום"
+    },
+    {
+      "name": "dont_show",
+      "value": "לא להציג"
+    },
+    {
+      "name": "download",
+      "value": "הורדה"
+    },
+    {
+      "name": "download_already_pending",
+      "value": "כבר יש הורדה ממתינה בשם הזה"
+    },
+    {
+      "name": "download_already_running",
+      "value": "אחת ההורדות הפעילות כבר נושאת את השם הזה"
+    },
+    {
+      "name": "download_dialog_title",
+      "value": "הורדה"
+    },
+    {
+      "name": "download_failed",
+      "value": "ההורדה נכשלה"
+    },
+    {
+      "name": "download_has_started",
+      "value": "ההורדה החלה"
+    },
+    {
+      "name": "download_path_audio_dialog_title",
+      "value": "נא לבחור תיקייה לשמירת קובצי שמע"
+    },
+    {
+      "name": "download_path_audio_summary",
+      "value": "קובצי שמע שהורדת מאוחסנים כאן"
+    },
+    {
+      "name": "download_path_audio_title",
+      "value": "תיקיית הורדות שמע"
+    },
+    {
+      "name": "download_path_dialog_title",
+      "value": "נא לבחור תיקייה לשמירת קובצי סרטונים"
+    },
+    {
+      "name": "download_path_summary",
+      "value": "קובצי וידאו שהורדת מאוחסנים כאן"
+    },
+    {
+      "name": "download_path_title",
+      "value": "תיקייה להורדת סרטונים"
+    },
+    {
+      "name": "download_to_sdcard_error_message",
+      "value": "אין אפשרות להוריד לכרטיס SD. לאפס את מיקום תיקיית ההורדה?"
+    },
+    {
+      "name": "download_to_sdcard_error_title",
+      "value": "האחסון החיצוני אינו זמין"
+    },
+    {
+      "name": "downloads",
+      "value": "הורדות"
+    },
+    {
+      "name": "downloads_storage_ask_summary",
+      "value": "תופיע שאלה לאן לשמור כל הורדה.\n\nיש להפעיל את בוחר התיקיות של המערכת (SAF) כדי להוריד לכרטיס SD חיצוני"
+    },
+    {
+      "name": "downloads_storage_ask_summary_no_saf_notice",
+      "value": "תופיע שאלה לאן לשמור כל הורדה"
+    },
+    {
+      "name": "downloads_storage_ask_title",
+      "value": "לשאול לאן להוריד"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary",
+      "value": "‚תשתית גישה לאחסון’ מאפשרת הורדות לכרטיס SD חיצוני"
+    },
+    {
+      "name": "downloads_storage_use_saf_summary_api_29",
+      "value": "התמיכה ב‚תשתית גישה לאחסון’ נתמכת מ־Android 10 בלבד"
+    },
+    {
+      "name": "downloads_storage_use_saf_title",
+      "value": "שימוש בבוחר התיקיות של המערכת (SAF)"
+    },
+    {
+      "name": "downloads_title",
+      "value": "הורדות"
+    },
+    {
+      "name": "drawer_close",
+      "value": "סגירת מגירה"
+    },
+    {
+      "name": "drawer_header_description",
+      "value": "הפעלה/כיבוי שירות, בחירה נוכחית:"
+    },
+    {
+      "name": "drawer_open",
+      "value": "פתיחת מגירה"
+    },
+    {
+      "name": "duplicate_in_playlist",
+      "value": "רשימות הנגינה שבוטלו וסומנו באפור כבר מכילות את הפריט הזה."
+    },
+    {
+      "name": "duration",
+      "value": "משך"
+    },
+    {
+      "name": "duration_live",
+      "value": "חי"
+    },
+    {
+      "name": "empty_list_subtitle",
+      "value": "אין כאן כלום מלבד צרצרים"
+    },
+    {
+      "name": "enable_disposed_exceptions_summary",
+      "value": "אילוץ דיווח על חריגות מחוץ למקטעים או למחזור חיי הפעילות לאחר ההשלכה בתשדורת יוצאת"
+    },
+    {
+      "name": "enable_disposed_exceptions_title",
+      "value": "דיווח על שגיאות שמחוץ למחזור החיים"
+    },
+    {
+      "name": "enable_leak_canary_summary",
+      "value": "מעקב אחר זליגת זיכרון עשויה לגרום ליישומון להיות בלתי זמין בזמן העתקת תוכן הזיכרון לקובץ"
+    },
+    {
+      "name": "enable_playback_resume_summary",
+      "value": "לשחזר את מיקום הנגינה האחרון"
+    },
+    {
+      "name": "enable_playback_resume_title",
+      "value": "להמשיך בנגינה"
+    },
+    {
+      "name": "enable_playback_state_lists_summary",
+      "value": "להציג מחווני מיקומי נגינה ברשימות"
+    },
+    {
+      "name": "enable_playback_state_lists_title",
+      "value": "מיקומים ברשימות"
+    },
+    {
+      "name": "enable_queue_limit",
+      "value": "הגבלת תור ההורדה"
+    },
+    {
+      "name": "enable_queue_limit_desc",
+      "value": "רק הורדה אחת תרוץ בו־זמנית"
+    },
+    {
+      "name": "enable_search_history_summary",
+      "value": "שמירת שאילתות החיפוש מקומית"
+    },
+    {
+      "name": "enable_search_history_title",
+      "value": "היסטוריית חיפוש"
+    },
+    {
+      "name": "enable_streams_notifications_summary",
+      "value": "הודעה על תזרימים חדשים מהמינויים"
+    },
+    {
+      "name": "enable_streams_notifications_title",
+      "value": "התראות תזרימים חדשים"
+    },
+    {
+      "name": "enable_watch_history_summary",
+      "value": "תיעוד הסרטונים שנצפו"
+    },
+    {
+      "name": "enable_watch_history_title",
+      "value": "היסטוריית צפייה"
+    },
+    {
+      "name": "enqueue",
+      "value": "הוספה לתור"
+    },
+    {
+      "name": "enqueue_next_stream",
+      "value": "הוספה כהבא בתור"
+    },
+    {
+      "name": "enqueue_stream",
+      "value": "הוספה לתור"
+    },
+    {
+      "name": "enqueued",
+      "value": "נוסף לתור"
+    },
+    {
+      "name": "enqueued_next",
+      "value": "נוסף כהבא בתור"
+    },
+    {
+      "name": "entry_deleted",
+      "value": "הרשומה נמחקה"
+    },
+    {
+      "name": "enumeration_comma",
+      "value": ","
+    },
+    {
+      "name": "error_connect_host",
+      "value": "לא ניתן להתחבר לשרת"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "פרטים:"
+    },
+    {
+      "name": "error_download_resource_gone",
+      "value": "לא ניתן לשחזר את ההורדה הזאת"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "לא ניתן ליצור את הקובץ"
+    },
+    {
+      "name": "error_http_no_content",
+      "value": "השרת לא שולח נתונים"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "לא נמצא"
+    },
+    {
+      "name": "error_http_unsupported_range",
+      "value": "השרת לא מקבל הורדות רב ערוציות, מוטב לנסות שוב עם ‎@string/msg_threads = 1"
+    },
+    {
+      "name": "error_insufficient_storage",
+      "value": "אין מספיק מקום פנוי במכשיר"
+    },
+    {
+      "name": "error_insufficient_storage_left",
+      "value": "לא נשאר מקום במכשיר"
+    },
+    {
+      "name": "error_occurred_detail",
+      "value": "אירעה שגיאה: %1$s"
+    },
+    {
+      "name": "error_path_creation",
+      "value": "לא ניתן ליצור את תיקיית היעד"
+    },
+    {
+      "name": "error_postprocessing_failed",
+      "value": "העיבוד המאוחר נכשל"
+    },
+    {
+      "name": "error_postprocessing_stopped",
+      "value": "NewPipe נסגר בזמן העבודה על הקובץ"
+    },
+    {
+      "name": "error_progress_lost",
+      "value": "התהליך אבד כיוון שהקובץ נמחק"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "דיווח דרך דוא״ל"
+    },
+    {
+      "name": "error_report_channel_description",
+      "value": "התראות לדיווח על שגיאות"
+    },
+    {
+      "name": "error_report_channel_name",
+      "value": "התראת דיווח שגיאה"
+    },
+    {
+      "name": "error_report_notification_title",
+      "value": "NewPipe נתקל בשגיאה, לחיצה תדווח על כך"
+    },
+    {
+      "name": "error_report_notification_toast",
+      "value": "אירעה שגיאה, נא לקרוא את ההתראה"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "נא לבדוק אם כבר קיים דיווח על הקריסה שלך. יצירת דיווחים כפולים גוזלת מאתנו זמן שיכולנו להשקיע בתיקון התקלה עצמה."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "דיווח ב־GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "דוח שגיאה"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "דיווח"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "משהו השתבש, עמך הסליחה."
+    },
+    {
+      "name": "error_ssl_exception",
+      "value": "לא ניתן להקים חיבור מאובטח"
+    },
+    {
+      "name": "error_timeout",
+      "value": "החיבור המתין זמן רב מדי"
+    },
+    {
+      "name": "error_unable_to_load_comments",
+      "value": "לא ניתן לטעון תגובות"
+    },
+    {
+      "name": "error_unknown_host",
+      "value": "לא ניתן למצוא את השרת"
+    },
+    {
+      "name": "events",
+      "value": "אירועים"
+    },
+    {
+      "name": "export_complete_toast",
+      "value": "הייצוא הסתיים"
+    },
+    {
+      "name": "export_data_summary",
+      "value": "ייצוא היסטוריה, מינויים, רשימות נגינה והגדרות"
+    },
+    {
+      "name": "export_data_title",
+      "value": "ייצוא מסד נתונים"
+    },
+    {
+      "name": "export_ongoing",
+      "value": "מתבצע ייצוא…"
+    },
+    {
+      "name": "export_to",
+      "value": "ייצוא אל"
+    },
+    {
+      "name": "external_player_unsupported_link_type",
+      "value": "נגנים חיצוניים לא תומכים בסוגי קישורים כאלה"
+    },
+    {
+      "name": "faq",
+      "value": "הצגה באתר"
+    },
+    {
+      "name": "faq_description",
+      "value": "אם נתקלת בתקלות כשניסית להשתמש ביישומון, כדאי לעיין בתשובות לשאלות הנפוצות!"
+    },
+    {
+      "name": "faq_title",
+      "value": "תשובות לשאלות נפוצות"
+    },
+    {
+      "name": "fast_mode",
+      "value": "מצב מהיר"
+    },
+    {
+      "name": "featured",
+      "value": "מובילים"
+    },
+    {
+      "name": "feed_create_new_group_button_title",
+      "value": "חדשה"
+    },
+    {
+      "name": "feed_fetch_channel_tabs",
+      "value": "משיכת לשוניות הערוץ"
+    },
+    {
+      "name": "feed_fetch_channel_tabs_summary",
+      "value": "לשוניות למשיכה בעת עדכון ערוץ העדכונים. לאפשרות זו אין השפעה אם הערוץ מתעדכן במצב מהיר."
+    },
+    {
+      "name": "feed_group_dialog_delete_message",
+      "value": "למחוק את הקבוצה הזאת?"
+    },
+    {
+      "name": "feed_group_dialog_empty_name",
+      "value": "שם הקבוצה ריק"
+    },
+    {
+      "name": "feed_group_dialog_empty_selection",
+      "value": "לא נבחר מינוי"
+    },
+    {
+      "name": "feed_group_dialog_select_subscriptions",
+      "value": "בחירת מינויים"
+    },
+    {
+      "name": "feed_group_page_summary",
+      "value": "עמוד קבוצת ערוצים"
+    },
+    {
+      "name": "feed_group_show_only_ungrouped_subscriptions",
+      "value": "להציג רק מינויים שאינם בקבוצות"
+    },
+    {
+      "name": "feed_groups_header_title",
+      "value": "קבוצות ערוצים"
+    },
+    {
+      "name": "feed_hide_streams_title",
+      "value": "להציג את השידורים הבאים"
+    },
+    {
+      "name": "feed_load_error",
+      "value": "שגיאה בהורדת ההזנה"
+    },
+    {
+      "name": "feed_load_error_account_info",
+      "value": "לא ניתן לטעון את ההזנה עבור ‚%s’."
+    },
+    {
+      "name": "feed_load_error_fast_unknown",
+      "value": "מצב ההזנה המהירה לא מספק מידע נוסף על כך."
+    },
+    {
+      "name": "feed_load_error_terminated",
+      "value": "חשבון היוצר הושמד.\n\nל־NewPipe לא תהיה אפשרות להוריד את ההזנה הזאת בעתיד.\n\nלהסיר את המינוי מהערוץ הזה?"
+    },
+    {
+      "name": "feed_new_items",
+      "value": "פריטים חדשים בהזנה"
+    },
+    {
+      "name": "feed_notification_loading",
+      "value": "ההזנה נטענת…"
+    },
+    {
+      "name": "feed_oldest_subscription_update",
+      "value": "עדכון ההזנה האחרון: %s"
+    },
+    {
+      "name": "feed_processing_message",
+      "value": "ההזנה בהליכי עיבוד…"
+    },
+    {
+      "name": "feed_show_hide_streams",
+      "value": "להציג/להסתיר שידורים"
+    },
+    {
+      "name": "feed_show_partially_watched",
+      "value": "נצפו חלקית"
+    },
+    {
+      "name": "feed_show_upcoming",
+      "value": "בקרוב"
+    },
+    {
+      "name": "feed_show_watched",
+      "value": "נצפו במלואם"
+    },
+    {
+      "name": "feed_subscription_not_loaded_count",
+      "value": "לא נטען: %d"
+    },
+    {
+      "name": "feed_update_threshold_option_always_update",
+      "value": "לעדכן תמיד"
+    },
+    {
+      "name": "feed_update_threshold_summary",
+      "value": "הזמן לאחר העדכון האחרון בטרם מינוי נחשב לבלתי עדכני — %s"
+    },
+    {
+      "name": "feed_update_threshold_title",
+      "value": "סף עדכון ההזנה"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_disable_button",
+      "value": "השבתת מצב מהיר"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_enable_button",
+      "value": "הפעלת מצב מהיר"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_help_text",
+      "value": "לדעתך הטעינה אטית מדי? אם זה המצב אצלך, כדאי לנסות להפעיל טעינה מהירה (ניתן לשנות בהגדרות או על ידי לחיצה על הכפתור שלהלן).\n\nהיישומון NewPipe מציע שתי אסטרטגיות לטעינת הזנה:\n• הורדת כל ערוץ המינוי, אטי אבל שלם.\n• באמצעות נקודת קצה ייעודית, מהיר אבל חלקי.\n\nההבדל בין השתיים הוא שבמהירה חסרים פרטים, כמו משך הפריט או סוגו (אין אפשרות להבדיל בין סרטונים חיים לרגילים) והיא עשויה להחזיר פחות פריטים.\n\nYouTube זאת דוגמה לשירות שמציע את השיטה המהירה הזאת עם הזנת ה־RSS שלו.\n\nלכן עומדת בפניך הבחירה: מהירות או דיוק בפרטים."
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_summary",
+      "value": "זמין בחלק מהשירותים, האפשרות הזאת בדרך כלל מהירה יותר אך עשויה להחזיר כמות מוגבלת של פריטים ולעתים פרטים חלקיים (למשל: חסר משך הפרק, סוג הפריט, אין מצב חי)"
+    },
+    {
+      "name": "feed_use_dedicated_fetch_method_title",
+      "value": "לקבל מהזנה ייעודית כשניתן"
+    },
+    {
+      "name": "file",
+      "value": "קובץ"
+    },
+    {
+      "name": "file_deleted",
+      "value": "קובץ נמחק"
+    },
+    {
+      "name": "file_name_empty_error",
+      "value": "שם הקובץ אינו יכול להיות ריק"
+    },
+    {
+      "name": "forward",
+      "value": "דילוג קדימה"
+    },
+    {
+      "name": "fragment_feed_title",
+      "value": "מה חדש"
+    },
+    {
+      "name": "general_error",
+      "value": "שגיאה"
+    },
+    {
+      "name": "generate_unique_name",
+      "value": "יצירת שם ייחודי"
+    },
+    {
+      "name": "georestricted_content",
+      "value": "תוכן זה אינו זמין במדינה שלך."
+    },
+    {
+      "name": "get_notified",
+      "value": "קבלת הודעה"
+    },
+    {
+      "name": "give_back",
+      "value": "לתרום בחזרה"
+    },
+    {
+      "name": "grid",
+      "value": "טבלה"
+    },
+    {
+      "name": "hash_channel_description",
+      "value": "התראות על תהליכי גיבוב"
+    },
+    {
+      "name": "hash_channel_name",
+      "value": "התראת גיבוב סרטון"
+    },
+    {
+      "name": "high_quality_larger",
+      "value": "איכות גבוהה (גדול יותר)"
+    },
+    {
+      "name": "hold_to_append",
+      "value": "להחזיק כדי להוסיף לרשימת נגינה"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_summary",
+      "value": "שימושי, למשל, אם יש לך אוזניות עם כפתורי חומרה מקולקלים"
+    },
+    {
+      "name": "ignore_hardware_media_buttons_title",
+      "value": "התעלמות מאירועי כפתורי מדיה חומרתיים"
+    },
+    {
+      "name": "image_quality_high",
+      "value": "איכות גבוהה"
+    },
+    {
+      "name": "image_quality_low",
+      "value": "איכות נמוכה"
+    },
+    {
+      "name": "image_quality_medium",
+      "value": "איכות בינונית"
+    },
+    {
+      "name": "image_quality_none",
+      "value": "לא לטעון תמונות"
+    },
+    {
+      "name": "image_quality_summary",
+      "value": "נא לבחור את איכות התמונות והאם בכלל להוריד אותן כדי לחסוך בצריכת נתונים ושימוש בזיכרון. השינויים מפנים הן את מטמון השמירה בזיכרון והן בכונן — %s"
+    },
+    {
+      "name": "image_quality_title",
+      "value": "איכות תמונה"
+    },
+    {
+      "name": "import_complete_toast",
+      "value": "הייבוא הסתיים"
+    },
+    {
+      "name": "import_data_summary",
+      "value": "משכתב את ההיסטוריה, המינויים ו(אולי גם) את ההגדרות הנוכחיים שלך"
+    },
+    {
+      "name": "import_data_title",
+      "value": "ייבוא מסד נתונים"
+    },
+    {
+      "name": "import_file_title",
+      "value": "ייבוא קובץ"
+    },
+    {
+      "name": "import_from",
+      "value": "ייבוא מ־"
+    },
+    {
+      "name": "import_network_expensive_warning",
+      "value": "נא לשים לב כי פעולה זו עשויה להעמיס על תקשורת הנתונים. \n\n \n\nלהמשיך?"
+    },
+    {
+      "name": "import_ongoing",
+      "value": "מתבצע ייבוא…"
+    },
+    {
+      "name": "import_settings",
+      "value": "לייבא גם הגדרות?"
+    },
+    {
+      "name": "import_settings_vulnerable_format",
+      "value": "ההגדרות בייצוא המיובא משתמשות בתסדיר פגיע שהוצא משימוש מאז NewPipe 0.27.0. יש לוודא שהייצוא המיובא הוא ממקור מהימן, ועדיף להשתמש רק בייצוא שהושג מ־NewPipe 0.27.0 ומעלה בעתיד. תמיכה בייבוא הגדרות בתסדיר פגיע זה תוסר בקרוב לחלוטין, ואז גרסאות ישנות של NewPipe לא יוכלו לייבא עוד הגדרות של ייצוא מגרסאות חדשות."
+    },
+    {
+      "name": "import_soundcloud_instructions",
+      "value": "ניתן לייבא פרופיל SoundCloud על ידי הקלדת הכתובת או המזהה שלך:\n\n\n\n1. עליך להפעיל „מצב שולחן עבודה” בדפדפן שלך (האתר לא זמין למכשירים ניידים)\n\n2. לעבור לכתובת הזו: %1$s\n\n3. להיכנס אם נתבקשת\n\n4. להעתיק את כתובת הפרופיל אליו הועברת."
+    },
+    {
+      "name": "import_soundcloud_instructions_hint",
+      "value": "המזהה שלך, soundcloud.com/המזהה שלך"
+    },
+    {
+      "name": "import_subscriptions_hint",
+      "value": "ניתן לייבא או לייצא מינויים מתפריט 3 הנקודות"
+    },
+    {
+      "name": "import_title",
+      "value": "ייבוא"
+    },
+    {
+      "name": "import_youtube_instructions",
+      "value": "כדי לייבא את רשימת המינויים שלך מ־YouTube עליך להוריד את קובץ הייצוא:\n\n\n\n1. לעבור לכתובת הזו: %1$s\n\n2. להיכנס אם נתבקשת\n\n3. ללחוץ על „All data included”, ואז על „Deselect all”, לאחר מכן לבחור רק את „subscriptions” וללחוץ על „OK”\n\n4. ללחוץ על „Next step” ואז על „Create export”\n\n5. ללחוץ על כפתור ה־„Download” כשהוא מופיע\n\n6. ללחוץ על „ייבוא קובץ” להלן ולבחור בקובץ ה־‎.zip שהורדת\n\n7. (אם ייבוא ה־‎.zip נכשל) יש לחלץ את קובץ ה־‎.csv (בדרך כלל תחת „YouTube and YouTube Music/subscriptions/subscriptions.csv”), ללחוץ על „ייבוא קובץ” להלן וללחוץ על קובץ ה־csv שחולץ"
+    },
+    {
+      "name": "infinite_videos",
+      "value": "∞ סרטונים"
+    },
+    {
+      "name": "info_labels",
+      "value": "מה:\nבקשה:\nשפת התוכן:\nמדינת התוכן:\nשפת היישומון:\nשירות:\nשעון גריניץ׳:\nחבילה:\nגרסה:\nגרסת מערכת ההפעלה:"
+    },
+    {
+      "name": "install",
+      "value": "התקנה"
+    },
+    {
+      "name": "invalid_directory",
+      "value": "אין תיקייה כזו"
+    },
+    {
+      "name": "invalid_file",
+      "value": "הקובץ אינו קיים או שחסרה הרשאה לקרוא אותו או לכתוב אליו"
+    },
+    {
+      "name": "invalid_source",
+      "value": "אין מקור תיקייה/תוכן"
+    },
+    {
+      "name": "just_once",
+      "value": "חד פעמי"
+    },
+    {
+      "name": "kiosk_page_summary",
+      "value": "עמוד גישה מזדמנת"
+    },
+    {
+      "name": "kore_not_found",
+      "value": "להתקין את יישומון Kode החסר?"
+    },
+    {
+      "name": "leak_canary_not_available",
+      "value": "LeakCanary אינה זמינה"
+    },
+    {
+      "name": "left_gesture_control_summary",
+      "value": "נא לבחור מחווה לחצי השמאלי של מסך הנגן"
+    },
+    {
+      "name": "left_gesture_control_title",
+      "value": "פעולת מחווה שמאלית"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "בהיר"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "ללא מגבלה"
+    },
+    {
+      "name": "limit_mobile_data_usage_title",
+      "value": "הגבלת הרזולוציה בעת שימוש בנתונים סלולריים"
+    },
+    {
+      "name": "list",
+      "value": "רשימה"
+    },
+    {
+      "name": "list_view_mode",
+      "value": "מצב תצוגת רשימה"
+    },
+    {
+      "name": "loading_metadata_title",
+      "value": "נתוני העל נטענים…"
+    },
+    {
+      "name": "loading_stream_details",
+      "value": "פרטי התזרים נטענים…"
+    },
+    {
+      "name": "local",
+      "value": "מקומי"
+    },
+    {
+      "name": "local_search_suggestions",
+      "value": "הצעות חיפוש מקומיות"
+    },
+    {
+      "name": "low_quality_smaller",
+      "value": "איכות נמוכה (קטן יותר)"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "יש לגעת בזכוכית המגדלת כדי להתחיל."
+    },
+    {
+      "name": "main_page_content",
+      "value": "תוכן הדף הראשי"
+    },
+    {
+      "name": "main_page_content_summary",
+      "value": "אילו לשוניות תופענה בעמוד הראשי"
+    },
+    {
+      "name": "main_page_content_swipe_remove",
+      "value": "ניתן להחליק פריטים להסרתם"
+    },
+    {
+      "name": "main_tabs_position_summary",
+      "value": "להעביר את בורר הלשוניות הראשי לתחתית"
+    },
+    {
+      "name": "main_tabs_position_title",
+      "value": "מקום לשוניות ראשיות"
+    },
+    {
+      "name": "manual_update_description",
+      "value": "לנסות לאתר גרסאות חדשות ידנית"
+    },
+    {
+      "name": "mark_as_watched",
+      "value": "סימון כנצפה"
+    },
+    {
+      "name": "max_retry_desc",
+      "value": "מספר הניסיונות החוזרים המרבי בטרם ביטול ההורדה"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "מספר הניסיונות החוזרים המרבי"
+    },
+    {
+      "name": "metadata_age_limit",
+      "value": "הגבלת גיל"
+    },
+    {
+      "name": "metadata_avatars",
+      "value": "תמונות ייצוגיות"
+    },
+    {
+      "name": "metadata_banners",
+      "value": "כרזות"
+    },
+    {
+      "name": "metadata_cache_wipe_complete_notice",
+      "value": "מטמון נתוני העל התרוקן"
+    },
+    {
+      "name": "metadata_cache_wipe_summary",
+      "value": "הסרת כל נתוני העמודים שבמטמון"
+    },
+    {
+      "name": "metadata_cache_wipe_title",
+      "value": "ניקוי מטמון נתוני העל"
+    },
+    {
+      "name": "metadata_category",
+      "value": "קטגוריה"
+    },
+    {
+      "name": "metadata_host",
+      "value": "אירוח"
+    },
+    {
+      "name": "metadata_language",
+      "value": "שפה"
+    },
+    {
+      "name": "metadata_licence",
+      "value": "רישיון"
+    },
+    {
+      "name": "metadata_privacy",
+      "value": "פרטיות"
+    },
+    {
+      "name": "metadata_privacy_internal",
+      "value": "פנימי"
+    },
+    {
+      "name": "metadata_privacy_private",
+      "value": "פרטי"
+    },
+    {
+      "name": "metadata_privacy_public",
+      "value": "ציבורי"
+    },
+    {
+      "name": "metadata_privacy_unlisted",
+      "value": "לא מופיע ברשימות"
+    },
+    {
+      "name": "metadata_subchannel_avatars",
+      "value": "תמונות ייצוגיות של תת־ערוצים"
+    },
+    {
+      "name": "metadata_subscribers",
+      "value": "מנויים"
+    },
+    {
+      "name": "metadata_support",
+      "value": "תמיכה"
+    },
+    {
+      "name": "metadata_tags",
+      "value": "תגיות"
+    },
+    {
+      "name": "metadata_thumbnails",
+      "value": "תמונות ממוזערות"
+    },
+    {
+      "name": "metadata_uploader_avatars",
+      "value": "תמונות ייצוגיות של מעלים"
+    },
+    {
+      "name": "migration_info_6_7_message",
+      "value": "SoundCloud הפסיקו את מצעדי 50 הלהיטים המקוריים. הלשונית התואמת הוסרה מהעמוד הראשי שלך."
+    },
+    {
+      "name": "migration_info_6_7_title",
+      "value": "עמוד 50 המובילים ב־SoundCloud הוסר"
+    },
+    {
+      "name": "migration_info_7_8_message",
+      "value": "ב־YouTube הושבת עמוד המובילים המשולב החל מ־21 ביולי 2025. NewPipe החליפה את עמוד המובילים המוגדר כברירת מחדל בשידורים חיים מובילים.\n\nניתן גם לבחור עמודי מובילים שונים תחת „הגדרות > תוכן > תוכן הדף הראשי”."
+    },
+    {
+      "name": "migration_info_7_8_title",
+      "value": "המובילים המשולבים של YouTube הוסרו"
+    },
+    {
+      "name": "minimize_on_exit_background_description",
+      "value": "מזעור לנגן הרקע"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "כלום"
+    },
+    {
+      "name": "minimize_on_exit_popup_description",
+      "value": "הקטנה לנגן צף"
+    },
+    {
+      "name": "minimize_on_exit_summary",
+      "value": "הפעולה לביצוע בעת מעבר ליישומון אחר מנגן הווידאו הראשי — %s"
+    },
+    {
+      "name": "minimize_on_exit_title",
+      "value": "מזעור בעת מעבר בין יישומונים"
+    },
+    {
+      "name": "missing_file",
+      "value": "הקובץ הועבר או נמחק"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "הסתיים"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "בהמתנה"
+    },
+    {
+      "name": "more_options",
+      "value": "אפשרויות נוספות"
+    },
+    {
+      "name": "more_than_100_videos",
+      "value": "למעלה מ־100 סרטונים"
+    },
+    {
+      "name": "most_liked",
+      "value": "האהובים ביותר"
+    },
+    {
+      "name": "msg_calculating_hash",
+      "value": "הגיבוב"
+    },
+    {
+      "name": "msg_copied",
+      "value": "הועתק ללוח"
+    },
+    {
+      "name": "msg_error",
+      "value": "שגיאה"
+    },
+    {
+      "name": "msg_failed_to_copy",
+      "value": "ההעתקה ללוח הגזירים נכשלה"
+    },
+    {
+      "name": "msg_name",
+      "value": "שם קובץ"
+    },
+    {
+      "name": "msg_popup_permission",
+      "value": "הרשאה זו נדרשת לטובת \n\nפתיחה בחלון צף"
+    },
+    {
+      "name": "msg_running",
+      "value": "NewPipe בהורדה"
+    },
+    {
+      "name": "msg_running_detail",
+      "value": "יש לגעת לפרטים נוספים"
+    },
+    {
+      "name": "msg_threads",
+      "value": "תהליכי משנה"
+    },
+    {
+      "name": "msg_wait",
+      "value": "נא להמתין…"
+    },
+    {
+      "name": "mute",
+      "value": "השתקה"
+    },
+    {
+      "name": "name",
+      "value": "שם"
+    },
+    {
+      "name": "network_error",
+      "value": "שגיאת רשת"
+    },
+    {
+      "name": "never",
+      "value": "אף פעם לא"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "חדש וחם"
+    },
+    {
+      "name": "new_seek_duration_toast",
+      "value": "עקב מגבלות של AVPlayer מגבלות טווחי החיפוש הוגדרו לכדי %d שניות"
+    },
+    {
+      "name": "next_stream",
+      "value": "התזרים הבא"
+    },
+    {
+      "name": "night_theme_available",
+      "value": "אפשרות זאת זמינה רק אם נבחרה ערכת נושא %s"
+    },
+    {
+      "name": "night_theme_summary",
+      "value": "נא לבחור את ערכת העיצוב הלילית המועדפת עליך — %s"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "ערכת עיצוב לילית"
+    },
+    {
+      "name": "no",
+      "value": "לא"
+    },
+    {
+      "name": "no_app_to_open_intent",
+      "value": "אין יישומון על המכשיר שלך שיכול לפתוח את זה"
+    },
+    {
+      "name": "no_appropriate_file_manager_message",
+      "value": "לא נמצא מנהל קבצים מתאים לפעולה זו.\n\nנא להתקין מנהל קבצים או לנסות להשבית את ‚%s’ בהגדרות ההורדה"
+    },
+    {
+      "name": "no_appropriate_file_manager_message_android_10",
+      "value": "לא נמצאו מנהלי קבצים שמתאימים לפעולה הזאת.\n\nנא להתקין מנהל קבצים שתומך בתשתית גישה לאחסון"
+    },
+    {
+      "name": "no_audio_streams_available_for_external_players",
+      "value": "אין תזרימי שמע שזמינים לנגנים חיצוניים"
+    },
+    {
+      "name": "no_available_dir",
+      "value": "נא לציין תיקיית הורדה בהגדרות בהמשך"
+    },
+    {
+      "name": "no_channel_subscribed_yet",
+      "value": "אין עדיין מינויים לערוצים"
+    },
+    {
+      "name": "no_comments",
+      "value": "אין תגובות"
+    },
+    {
+      "name": "no_dir_yet",
+      "value": "טרם הוגדרה תיקיית הורדה, נא לבחור את תיקיית ההורדה כעת"
+    },
+    {
+      "name": "no_feed_group_created_yet",
+      "value": "לא נוצרו עדיין קבוצות ערוצי עדכונים"
+    },
+    {
+      "name": "no_live_streams",
+      "value": "אין תזרימים חיים"
+    },
+    {
+      "name": "no_one_listening",
+      "value": "אין מאזינים"
+    },
+    {
+      "name": "no_one_watching",
+      "value": "אין צופים"
+    },
+    {
+      "name": "no_player_found",
+      "value": "לא נמצאו נגני הזרמה, להתקין VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "לא נמצא נגן הזרמה (ניתן להתקין את VLC כדי לנגן זאת)."
+    },
+    {
+      "name": "no_playlist_bookmarked_yet",
+      "value": "אין עדיין סימניות ברשימת הנגינה"
+    },
+    {
+      "name": "no_streams",
+      "value": "אין תזרימים"
+    },
+    {
+      "name": "no_streams_available_download",
+      "value": "אין תזרימים זמינים להורדה"
+    },
+    {
+      "name": "no_subscribers",
+      "value": "אין מנויים"
+    },
+    {
+      "name": "no_valid_zip_file",
+      "value": "אין קובץ ZIP תקין"
+    },
+    {
+      "name": "no_video_streams_available_for_external_players",
+      "value": "אין תזרימי וידאו שזמינים לנגנים חיצוניים"
+    },
+    {
+      "name": "no_videos",
+      "value": "אין סרטונים"
+    },
+    {
+      "name": "no_views",
+      "value": "אין צפיות"
+    },
+    {
+      "name": "none",
+      "value": "בלי"
+    },
+    {
+      "name": "notification_action_0_title",
+      "value": "כפתור פעולה ראשון"
+    },
+    {
+      "name": "notification_action_1_title",
+      "value": "כפתור פעולה שני"
+    },
+    {
+      "name": "notification_action_2_title",
+      "value": "כפתור פעולה שלישי"
+    },
+    {
+      "name": "notification_action_3_title",
+      "value": "כפתור פעולה רביעי"
+    },
+    {
+      "name": "notification_action_4_title",
+      "value": "כפתור פעולה חמישי"
+    },
+    {
+      "name": "notification_action_buffering",
+      "value": "איסוף"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "כלום"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "חזרה"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "ערבוב"
+    },
+    {
+      "name": "notification_actions_at_most_three",
+      "value": "ניתן לבחור עד שלוש פעולות בלבד שתופענה בהתראות המצומצמות!"
+    },
+    {
+      "name": "notification_actions_summary",
+      "value": "ניתן לערוך כל התראה להלן בלחיצה עליה. מותר לבחור עד שלוש מהן שתופענה בהתראה המצומצמת באמצעות תיבות הסימן שמשמאל."
+    },
+    {
+      "name": "notification_actions_summary_android13",
+      "value": "אפשר לערוך כל פעולה בהתראה להלן על ידי נגיעה בה. שלוש הפעולות הראשונות (נגינה/השהיה, הקודם והבא) מוגדרות על ידי המערכת ונעולות לעריכה."
+    },
+    {
+      "name": "notification_channel_description",
+      "value": "התראות עבור הנגן של NewPipe"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "התראה מ־NewPipe"
+    },
+    {
+      "name": "notification_colorize_summary",
+      "value": "לאפשר ל־Android להתאים את צבע ההתראה בהתאם לצבע העיקרי של התמונה הממוזערת (לא זמין בכל המכשירים)"
+    },
+    {
+      "name": "notification_colorize_title",
+      "value": "צביעת ההתראה"
+    },
+    {
+      "name": "notification_scale_to_square_image_summary",
+      "value": "חיתוך התצוגה הממוזערת שמופיעה בהתראות מיחס תצוגה של 16:9 ל־1:1"
+    },
+    {
+      "name": "notification_scale_to_square_image_title",
+      "value": "חיתוך התצוגה הממוזערת ליחס תצוגה 1:1"
+    },
+    {
+      "name": "notifications",
+      "value": "התראות"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "התראות מושבתות"
+    },
+    {
+      "name": "off",
+      "value": "כבוי"
+    },
+    {
+      "name": "ok",
+      "value": "אישור"
+    },
+    {
+      "name": "on",
+      "value": "פעיל"
+    },
+    {
+      "name": "one_item_deleted",
+      "value": "פריט אחד נמחק."
+    },
+    {
+      "name": "open_in_browser",
+      "value": "פתיחה בדפדפן"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "פתיחה בחלון צף"
+    },
+    {
+      "name": "open_play_queue",
+      "value": "פתיחת תור נגינה"
+    },
+    {
+      "name": "open_website_license",
+      "value": "פתיחת האתר"
+    },
+    {
+      "name": "open_with",
+      "value": "פתיחה באמצעות"
+    },
+    {
+      "name": "override_current_data",
+      "value": "פעולה זו תדרוס את ההגדרות הקיימות."
+    },
+    {
+      "name": "overwrite",
+      "value": "שכתוב"
+    },
+    {
+      "name": "overwrite_failed",
+      "value": "לא ניתן לשכתב את הקובץ"
+    },
+    {
+      "name": "overwrite_finished_warning",
+      "value": "כבר קיים קובץ בשם הזה"
+    },
+    {
+      "name": "overwrite_unrelated_warning",
+      "value": "כבר קיים קובץ בשם הזה"
+    },
+    {
+      "name": "paid_content",
+      "value": "התוכן הזה זמין רק למשתמשים ששילמו, לכן לא ניתן להזרים או להוריד אותו עם NewPipe."
+    },
+    {
+      "name": "parsing_error",
+      "value": "ניתוח האתר לא התאפשר"
+    },
+    {
+      "name": "pause",
+      "value": "השהיה"
+    },
+    {
+      "name": "pause_downloads",
+      "value": "השהיית הורדות"
+    },
+    {
+      "name": "pause_downloads_on_mobile",
+      "value": "לייצר הפרעה ברשתות מדודות"
+    },
+    {
+      "name": "pause_downloads_on_mobile_desc",
+      "value": "שימושי בעת מעבר לחיבור רשת סלולרית, למרות שישנן הורדות שלא ניתן להשהות"
+    },
+    {
+      "name": "paused",
+      "value": "מושהה"
+    },
+    {
+      "name": "peertube_instance_add_exists",
+      "value": "המופע כבר קיים"
+    },
+    {
+      "name": "peertube_instance_add_fail",
+      "value": "לא ניתן לאמת את המופע"
+    },
+    {
+      "name": "peertube_instance_add_help",
+      "value": "נא להכניס כתובת מופע"
+    },
+    {
+      "name": "peertube_instance_add_https_only",
+      "value": "יש תמיכה בכתובות HTTPS בלבד"
+    },
+    {
+      "name": "peertube_instance_add_title",
+      "value": "הוספת מופע"
+    },
+    {
+      "name": "peertube_instance_url_help",
+      "value": "איתור המופעים האהובים עליך תחת %s"
+    },
+    {
+      "name": "peertube_instance_url_summary",
+      "value": "נא לבחור את מופעי ה־PeerTube המועדפים עליך"
+    },
+    {
+      "name": "peertube_instance_url_title",
+      "value": "מופעים של PeerTube"
+    },
+    {
+      "name": "percent",
+      "value": "אחוז"
+    },
+    {
+      "name": "permission_denied",
+      "value": "הפעולה נדחתה על ידי המערכת"
+    },
+    {
+      "name": "permission_display_over_apps",
+      "value": "יש להעניק הרשאה להציג על גבי יישומונים אחרים"
+    },
+    {
+      "name": "permission_display_over_apps_message",
+      "value": "כדי להשתמש בנגן צף, נא לבחור ב־%1$s בתפריט ההגדרות הבא של Android ולהפעיל את %2$s."
+    },
+    {
+      "name": "permission_display_over_apps_permission_name",
+      "value": "„תמיד להציג מעל יישומונים אחרים”"
+    },
+    {
+      "name": "play",
+      "value": "נגינה"
+    },
+    {
+      "name": "play_all",
+      "value": "לנגן הכול"
+    },
+    {
+      "name": "play_audio",
+      "value": "שמע"
+    },
+    {
+      "name": "play_queue_audio_settings",
+      "value": "אפשרויות שמע"
+    },
+    {
+      "name": "play_queue_audio_track",
+      "value": "שמע: %s"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "הסרה"
+    },
+    {
+      "name": "play_queue_stream_detail",
+      "value": "פרטים"
+    },
+    {
+      "name": "play_with_kodi_title",
+      "value": "נגינה ב־Kodi"
+    },
+    {
+      "name": "playback_pitch",
+      "value": "גובה צליל"
+    },
+    {
+      "name": "playback_reset",
+      "value": "איפוס"
+    },
+    {
+      "name": "playback_speed_control",
+      "value": "בקרי מהירות נגינה"
+    },
+    {
+      "name": "playback_step",
+      "value": "צעד"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "קצב"
+    },
+    {
+      "name": "player_http_403",
+      "value": "שגיאת HTTP 403 שהתקבלה מהשרת בזמן השמעה, ככל הנראה נגרמת עקב פקיעת כתובת URL של סטרימינג או חסימת IP"
+    },
+    {
+      "name": "player_http_invalid_status",
+      "value": "שגיאת HTTP %1$s התקבלה מהשרת בזמן הניגון"
+    },
+    {
+      "name": "player_recoverable_failure",
+      "value": "מתבצעת החלמה משגיאת נגן"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "נגינת התזרים לא הצליחה"
+    },
+    {
+      "name": "player_unrecoverable_failure",
+      "value": "אירעה תקלה בנגן ממנה לא ניתן להשתקם"
+    },
+    {
+      "name": "playlist_add_stream_success",
+      "value": "נוסף לרשימת הנגינה"
+    },
+    {
+      "name": "playlist_add_stream_success_duplicate",
+      "value": "הכפיל נוסף %d פעמים"
+    },
+    {
+      "name": "playlist_creation_success",
+      "value": "רשימת הנגינה נוצרה"
+    },
+    {
+      "name": "playlist_no_uploader",
+      "value": "נוצרה אוטומטית (לא נמצא מעלה)"
+    },
+    {
+      "name": "playlist_page_summary",
+      "value": "עמוד רשימות נגינה"
+    },
+    {
+      "name": "playlist_thumbnail_change_success",
+      "value": "תמונת רשימת הנגינה הוחלפה."
+    },
+    {
+      "name": "playlists",
+      "value": "רשימות נגינה"
+    },
+    {
+      "name": "popup_player",
+      "value": "נגן צף"
+    },
+    {
+      "name": "popup_playing_toast",
+      "value": "מתנגן בחלון צף"
+    },
+    {
+      "name": "popup_remember_size_pos_summary",
+      "value": "שמירת המיקום והגודל האחרונים של החלון הצף"
+    },
+    {
+      "name": "popup_remember_size_pos_title",
+      "value": "שמירת מאפייני החלון הצף"
+    },
+    {
+      "name": "post_processing",
+      "value": "עיבוד מאוחר"
+    },
+    {
+      "name": "prefer_descriptive_audio_summary",
+      "value": "לבחור רצועת שמע עם תיאורים לכבדי ראייה אם ניתן"
+    },
+    {
+      "name": "prefer_descriptive_audio_title",
+      "value": "להעדיף שמע מפורט"
+    },
+    {
+      "name": "prefer_original_audio_summary",
+      "value": "לבחור את רצועת השמע המקורית ללא תלות בשפה"
+    },
+    {
+      "name": "prefer_original_audio_title",
+      "value": "להעדיף שמע מקורי"
+    },
+    {
+      "name": "preferred_open_action_settings_summary",
+      "value": "פעולת ברירת מחדל בעת פתיחת תוכן - %s"
+    },
+    {
+      "name": "preferred_open_action_settings_title",
+      "value": "פעולת ‚פתיחה’ מועדפת"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_message",
+      "value": "התוכן המבוקש בטעינה"
+    },
+    {
+      "name": "preferred_player_fetcher_notification_title",
+      "value": "המידע מתקבל…"
+    },
+    {
+      "name": "previous_export",
+      "value": "ייצוא קודם"
+    },
+    {
+      "name": "previous_stream",
+      "value": "התזרים הקודם"
+    },
+    {
+      "name": "privacy_policy_encouragement",
+      "value": "מיזם NewPipe שומר על הפרטיות שלך בצורה מאוד קפדנית. לפיכך, היישומון אינו אוסף נתונים ללא הסכמתך.\n\nמדיניות הפרטיות של NewPipe מסבירה בפרטי פרטים אילו נתונים נשלחים ומאוחסנים בעת שליחת דיווח על תקלה."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "מדיניות הפרטיות של NewPipe"
+    },
+    {
+      "name": "private_content",
+      "value": "זה תוכן פרטי, לכן לא ניתן להזרים או להוריד אותו עם NewPipe."
+    },
+    {
+      "name": "processing_may_take_a_moment",
+      "value": "מתבצע עיבוד… נא להמתין רגע קט"
+    },
+    {
+      "name": "progressive_load_interval_exoplayer_default",
+      "value": "ברירת מחדל של AVPlayer"
+    },
+    {
+      "name": "progressive_load_interval_summary",
+      "value": "שינוי גודל מרווח הטעינה (כרגע %s). ערך נמוך יותר עשוי להאיץ את טעינת הווידאו הראשונית"
+    },
+    {
+      "name": "progressive_load_interval_title",
+      "value": "גודל משך טעינת נגינה"
+    },
+    {
+      "name": "question_mark",
+      "value": "?"
+    },
+    {
+      "name": "queued",
+      "value": "בתור"
+    },
+    {
+      "name": "radio",
+      "value": "ברירה"
+    },
+    {
+      "name": "read_full_license",
+      "value": "הצגת הרישיון"
+    },
+    {
+      "name": "read_privacy_policy",
+      "value": "הצגת מדיניות הפרטיות"
+    },
+    {
+      "name": "recaptcha_cookies_cleared",
+      "value": "העוגיות של ה־reCAPTCHA נמחקו"
+    },
+    {
+      "name": "recaptcha_request_toast",
+      "value": "התקבלה בקשה לאתגר reCAPTCHA"
+    },
+    {
+      "name": "recaptcha_solve",
+      "value": "לפתור"
+    },
+    {
+      "name": "recent",
+      "value": "לאחרונה"
+    },
+    {
+      "name": "recently_added",
+      "value": "נוספו לאחרונה"
+    },
+    {
+      "name": "recovering",
+      "value": "בשחזור"
+    },
+    {
+      "name": "related_items_tab_description",
+      "value": "תזרימים קשורים"
+    },
+    {
+      "name": "remote_search_suggestions",
+      "value": "הצעות חיפוש מרוחקות"
+    },
+    {
+      "name": "remove_duplicates",
+      "value": "הסרת כפילויות"
+    },
+    {
+      "name": "remove_duplicates_message",
+      "value": "להסיר את כל השידורים הכפולים ברשימת הנגינה?"
+    },
+    {
+      "name": "remove_duplicates_title",
+      "value": "להסיר כפילויות?"
+    },
+    {
+      "name": "remove_watched",
+      "value": "הסרת נצפו"
+    },
+    {
+      "name": "remove_watched_popup_partially_watched_streams",
+      "value": "כן, לרבות סרטונים שהפסקתי באמצע"
+    },
+    {
+      "name": "remove_watched_popup_title",
+      "value": "להסיר תזרימים שנצפו?"
+    },
+    {
+      "name": "remove_watched_popup_warning",
+      "value": "תזרימים שלאחר שצפית בהם לפני ואחרי שנוספו לרשימת הנגינה יוסרו. \nלהמשיך?"
+    },
+    {
+      "name": "rename",
+      "value": "שינוי שם"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "שינוי שם"
+    },
+    {
+      "name": "replay",
+      "value": "נגינה חוזרת"
+    },
+    {
+      "name": "reset_all_settings",
+      "value": "איפוס כל ההגדרות ימחק את כל ההגדרות המועדפות שלך ויפעיל את היישומון מחדש.\n\n\n\nלהמשיך?"
+    },
+    {
+      "name": "reset_settings_summary",
+      "value": "איפוס כל ההגדרות לערכי ברירת המחדל שלהן"
+    },
+    {
+      "name": "reset_settings_title",
+      "value": "איפוס הגדרות"
+    },
+    {
+      "name": "resize_fill",
+      "value": "מילוי"
+    },
+    {
+      "name": "resize_fit",
+      "value": "התאמה"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "תקריב"
+    },
+    {
+      "name": "restore_defaults",
+      "value": "שחזור ברירת מחדל"
+    },
+    {
+      "name": "restore_defaults_confirmation",
+      "value": "לשחזר ברירת מחדל?"
+    },
+    {
+      "name": "restricted_video",
+      "value": "סרטון זה מוגבל לצפייה מגיל מסוים.\n\n\n\nיש להפעיל את „%1$s” בהגדרות כדי לצפות בו."
+    },
+    {
+      "name": "restricted_video_no_stream",
+      "value": "הצפייה בסרטון הזה מוגבלת בגיל.\n\nעקב מדיניות חדשה ב־YouTube בנוגע לסרטונים מוגבלי גיל, ל־NewPipe אין אפשרות לגשת לתזרימי הווידאו של השירות ולכן אין אפשרות לנגן אותם."
+    },
+    {
+      "name": "resume_on_audio_focus_gain_summary",
+      "value": "להמשיך לנגן לאחר הפרעות (למשל: שיחות טלפון)"
+    },
+    {
+      "name": "resume_on_audio_focus_gain_title",
+      "value": "להמשיך את הניגון"
+    },
+    {
+      "name": "retry",
+      "value": "ניסיון חוזר"
+    },
+    {
+      "name": "rewind",
+      "value": "החזרה אחורה"
+    },
+    {
+      "name": "right_gesture_control_summary",
+      "value": "נא לבחור מחווה לחצי הימני של מסך הנגן"
+    },
+    {
+      "name": "right_gesture_control_title",
+      "value": "פעולת מחווה ימנית"
+    },
+    {
+      "name": "saved_tabs_invalid_json",
+      "value": "לא ניתן לקרוא לשוניות שמורות, לכן נעשה שימוש באלו של ברירת המחדל"
+    },
+    {
+      "name": "search",
+      "value": "חיפוש"
+    },
+    {
+      "name": "search_history_deleted",
+      "value": "היסטוריית החיפוש נמחקה"
+    },
+    {
+      "name": "search_no_results",
+      "value": "אין תוצאות"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "מוצגות תוצאות עבור: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "חיפוש ב־%1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "חיפוש ב־%1$s‏ (%2$s)"
+    },
+    {
+      "name": "seek_duration_title",
+      "value": "משך קפיצה מהירה קדימה/אחורה"
+    },
+    {
+      "name": "seekbar_preview_thumbnail_title",
+      "value": "תמונה מוקטנת בסרגל הנגינה"
+    },
+    {
+      "name": "select_a_channel",
+      "value": "נא לבחור ערוץ"
+    },
+    {
+      "name": "select_a_feed_group",
+      "value": "הגדרת קבוצת ערוצי עדכונים"
+    },
+    {
+      "name": "select_a_kiosk",
+      "value": "נא לבחור סוג גישה מזדמנת"
+    },
+    {
+      "name": "select_a_playlist",
+      "value": "בחירת רשימת נגינה"
+    },
+    {
+      "name": "select_audio_track_external_players",
+      "value": "בחירת רצועת שמע לנגנים חיצוניים"
+    },
+    {
+      "name": "select_night_theme_toast",
+      "value": "באפשרותך לבחור את ערכת העיצוב הלילית המועדפת עליך להלן"
+    },
+    {
+      "name": "select_quality_external_players",
+      "value": "בחירת איכות לנגנים חיצוניים"
+    },
+    {
+      "name": "selected_stream_external_player_not_supported",
+      "value": "התזרים הנבחר לא נתמך על ידי נגנים חיצוניים"
+    },
+    {
+      "name": "semitone",
+      "value": "חצי טון"
+    },
+    {
+      "name": "set_as_playlist_thumbnail",
+      "value": "הגדרה כתמונת רשימת הנגינה"
+    },
+    {
+      "name": "settings",
+      "value": "הגדרות"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "תצוגה"
+    },
+    {
+      "name": "settings_category_backup_restore_title",
+      "value": "גיבוי ושחזור"
+    },
+    {
+      "name": "settings_category_clear_data_title",
+      "value": "לנקות את הנתונים"
+    },
+    {
+      "name": "settings_category_debug_title",
+      "value": "ניפוי שגיאות"
+    },
+    {
+      "name": "settings_category_downloads_title",
+      "value": "הורדה"
+    },
+    {
+      "name": "settings_category_exoplayer_summary",
+      "value": "ניהול חלק מהגדרות של ה־AVPlayer שלך. השינויים האלו דורשים את הפעלת הנגן מחדש כדי להיכנס לתוקף"
+    },
+    {
+      "name": "settings_category_exoplayer_title",
+      "value": "הגדרות AVPlayer"
+    },
+    {
+      "name": "settings_category_feed_title",
+      "value": "הזנה"
+    },
+    {
+      "name": "settings_category_history_title",
+      "value": "היסטוריה ומטמון"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "התנהגות"
+    },
+    {
+      "name": "settings_category_player_notification_summary",
+      "value": "הגדרת התראת התזרים שמתנגן כרגע"
+    },
+    {
+      "name": "settings_category_player_notification_title",
+      "value": "התראות נגן"
+    },
+    {
+      "name": "settings_category_player_title",
+      "value": "נגן"
+    },
+    {
+      "name": "settings_category_updates_title",
+      "value": "עדכונים"
+    },
+    {
+      "name": "settings_category_video_audio_title",
+      "value": "סרטונים ושמע"
+    },
+    {
+      "name": "settings_file_charset_title",
+      "value": "רשימת תווים אפשרית בשמות קבצים"
+    },
+    {
+      "name": "settings_file_replacement_character_summary",
+      "value": "תווים לא נתמכים מוחלפים בערך הזה"
+    },
+    {
+      "name": "settings_file_replacement_character_title",
+      "value": "תו חלופי"
+    },
+    {
+      "name": "share",
+      "value": "שיתוף"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "שיתוף עם"
+    },
+    {
+      "name": "share_playlist",
+      "value": "שיתוף רשימת נגינה"
+    },
+    {
+      "name": "share_playlist_as_youtube_temporary_playlist",
+      "value": "שיתוף כרשימת נגינה זמנית של YouTube"
+    },
+    {
+      "name": "share_playlist_content_details",
+      "value": "%1$s\n\n%2$s"
+    },
+    {
+      "name": "share_playlist_with_list",
+      "value": "שיתוף רשימת כתובות"
+    },
+    {
+      "name": "share_playlist_with_titles",
+      "value": "שיתוף עם כותרות"
+    },
+    {
+      "name": "short_billion",
+      "value": "%s מיליארד"
+    },
+    {
+      "name": "short_million",
+      "value": "%s מיליון"
+    },
+    {
+      "name": "short_thousand",
+      "value": "%s אלף"
+    },
+    {
+      "name": "show_age_restricted_content_summary",
+      "value": "הצגת תוכן שעלול להיות בלתי הולם לילדים עקב מגבלת גיל (כגון 18+)"
+    },
+    {
+      "name": "show_age_restricted_content_title",
+      "value": "הצגת תוכן עם הגבלת גיל"
+    },
+    {
+      "name": "show_channel_details",
+      "value": "להציג את פרטי הערוץ"
+    },
+    {
+      "name": "show_channel_tabs",
+      "value": "לשוניות ערוץ"
+    },
+    {
+      "name": "show_channel_tabs_summary",
+      "value": "אין לשוניות מופיעות בעמודי הערוץ"
+    },
+    {
+      "name": "show_comments_summary",
+      "value": "יש להשבית כדי להסתיר תגובות"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "הצגת תגובות"
+    },
+    {
+      "name": "show_crash_the_player_summary",
+      "value": "הצגת אפשרות קריסה בעת שימוש בנגן"
+    },
+    {
+      "name": "show_crash_the_player_title",
+      "value": "הצגת „להקריס את הנגן”"
+    },
+    {
+      "name": "show_description_summary",
+      "value": "יש לכבות כדי להסתיר תיאורי סרטונים ומידע נוסף"
+    },
+    {
+      "name": "show_description_title",
+      "value": "הצגת תיאור"
+    },
+    {
+      "name": "show_error",
+      "value": "הצגת שגיאה"
+    },
+    {
+      "name": "show_error_snackbar",
+      "value": "הצגת חלונית בזק עם שגיאה"
+    },
+    {
+      "name": "show_higher_resolutions_summary",
+      "value": "רק חלק מהמכשירים יכולים לנגן סרטונים ב־2K/4K"
+    },
+    {
+      "name": "show_higher_resolutions_title",
+      "value": "הצגת רזולוציות גבוהות יותר"
+    },
+    {
+      "name": "show_hold_to_append_summary",
+      "value": "להציג עצה בעת לחיצה על הרקע או על הכפתור של הנגן הצף ב„פרטים:” על הסרטון"
+    },
+    {
+      "name": "show_hold_to_append_title",
+      "value": "להציג את העצה „להחזיק כדי להוסיף לרשימת נגינה”"
+    },
+    {
+      "name": "show_info",
+      "value": "הצגת מידע"
+    },
+    {
+      "name": "show_less",
+      "value": "להציג פחות"
+    },
+    {
+      "name": "show_memory_leaks",
+      "value": "הצגת דליפות זיכרון"
+    },
+    {
+      "name": "show_meta_info_summary",
+      "value": "לכבות את התיבות שמציגות את המידע על יוצרי התזרים, תוכן התזרים או בקשת חיפוש"
+    },
+    {
+      "name": "show_meta_info_title",
+      "value": "הצגת מידע על"
+    },
+    {
+      "name": "show_more",
+      "value": "להציג עוד"
+    },
+    {
+      "name": "show_next_and_similar_title",
+      "value": "להציג סרטונים דומים והבאים בתור"
+    },
+    {
+      "name": "show_original_time_ago_summary",
+      "value": "הטקסט המקורי משירותים יופיע בפריטי התזרים"
+    },
+    {
+      "name": "show_original_time_ago_title",
+      "value": "הצגת לפני כמה זמן מקורי על פריטים"
+    },
+    {
+      "name": "show_play_with_kodi_summary",
+      "value": "הצגת אפשרות לנגן סרטון דרך מרכז המדיה Kodi"
+    },
+    {
+      "name": "show_play_with_kodi_title",
+      "value": "הצגת האפשרות לניגון עם Kodi"
+    },
+    {
+      "name": "show_search_suggestions_summary",
+      "value": "נא לבחור את ההצעות להצגה בזמן החיפוש"
+    },
+    {
+      "name": "show_search_suggestions_title",
+      "value": "הצעות חיפוש"
+    },
+    {
+      "name": "show_thumbnail_summary",
+      "value": "להשתמש בתמונה ממוזערת גם כרקע מסך הנעילה וגם בהתראות"
+    },
+    {
+      "name": "show_thumbnail_title",
+      "value": "הצגת תמונה ממוזערת"
+    },
+    {
+      "name": "sign_in_confirm_not_bot_error",
+      "value": "%1$s סירב לספק נתונים, וביקש התחברות כדי לאשר שהמבקש אינו בוט.\n\nכנראה שה־IP שלך נחסם זמנית על ידי %1$s, ניתן להמתין זמן מה או לעבור ל־IP אחר (לדוגמה על ידי הפעלה/כיבוי של VPN, או על ידי מעבר מרשת אלחוטית לתקשורת נתונים סלולרית)."
+    },
+    {
+      "name": "skip_silence_checkbox",
+      "value": "להאיץ קדימה כאשר שקט"
+    },
+    {
+      "name": "songs",
+      "value": "שירים"
+    },
+    {
+      "name": "sorry_string",
+      "value": "זה לא אמור היה לקרות, עמך הסליחה."
+    },
+    {
+      "name": "sort",
+      "value": "מיון"
+    },
+    {
+      "name": "soundcloud_go_plus_content",
+      "value": "רצועה זו של SoundCloud Go+‎ מוגבלת, לפחות במדינה שלך, לכן לא ניתן להזרים או להוריד אותה עם NewPipe."
+    },
+    {
+      "name": "start",
+      "value": "התחלה"
+    },
+    {
+      "name": "start_accept_privacy_policy",
+      "value": "כדי לעמוד בדרישות האסדרה הכללית להגנה על מידע (GDPR), אנו מפנים את תשומת לבך למדיניות הפרטיות של NewPipe. נא לקרוא אותה בעיון רב.\n\nעליך לאשר את הסכמתך למדיניות כדי לשלוח לנו דיווחים על תקלות."
+    },
+    {
+      "name": "start_downloads",
+      "value": "התחלת הורדות"
+    },
+    {
+      "name": "start_here_on_background",
+      "value": "להתחיל לנגן ברקע"
+    },
+    {
+      "name": "start_here_on_popup",
+      "value": "להתחיל לנגן בנגן צף"
+    },
+    {
+      "name": "start_main_player_fullscreen_summary",
+      "value": "לא להפעיל סרטונים בנגן המוקטן, לעבור למצב מסך מלא ישירות במקום זאת, אם הטיה אוטומטית מושבתת. עדיין ניתן לגשת לנגן המוקטן על ידי יציאה ממסך מלא"
+    },
+    {
+      "name": "start_main_player_fullscreen_title",
+      "value": "הפעלת הנגן הראשי במסך מלא"
+    },
+    {
+      "name": "stop",
+      "value": "עצירה"
+    },
+    {
+      "name": "streams_not_yet_supported_removed",
+      "value": "תזרימים שעדיין לא נתמכים על ידי המוריד לא מופיעים"
+    },
+    {
+      "name": "streams_notification_channel_description",
+      "value": "התראות על תזרימים חדשים להרשמה"
+    },
+    {
+      "name": "streams_notification_channel_name",
+      "value": "תזרימים חדשים"
+    },
+    {
+      "name": "streams_notifications_interval_title",
+      "value": "תדירות בדיקה"
+    },
+    {
+      "name": "streams_notifications_network_title",
+      "value": "נדרש חיבור לרשת"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "רישום למינוי"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "נרשמת"
+    },
+    {
+      "name": "subscribers_count_not_available",
+      "value": "מספר המנויים אינו זמין"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "לא הצלחתי לשנות מינוי"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "לא ניתן לעדכן את המינוי"
+    },
+    {
+      "name": "subscriptions_export_unsuccessful",
+      "value": "לא ניתן לייצא את המינויים"
+    },
+    {
+      "name": "subscriptions_import_unsuccessful",
+      "value": "לא ניתן לייבא את המינויים"
+    },
+    {
+      "name": "subtitle_activity_recaptcha",
+      "value": "יש ללחוץ על „סיום” לאחר הפתירה"
+    },
+    {
+      "name": "switch_to_background",
+      "value": "העברה לרקע"
+    },
+    {
+      "name": "switch_to_main",
+      "value": "העברה לראשי"
+    },
+    {
+      "name": "switch_to_popup",
+      "value": "העברה לחלון צף"
+    },
+    {
+      "name": "systems_language",
+      "value": "ברירת המחדל של המערכת"
+    },
+    {
+      "name": "tab_about",
+      "value": "על אודות ושו״ת"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "רשימות השמעה מסומנות"
+    },
+    {
+      "name": "tab_bookmarks_short",
+      "value": "רשימות נגינה"
+    },
+    {
+      "name": "tab_choose",
+      "value": "בחירת לשונית"
+    },
+    {
+      "name": "tab_licenses",
+      "value": "רישיונות"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "מינויים"
+    },
+    {
+      "name": "tablet_mode_title",
+      "value": "מצב מחשב לוח"
+    },
+    {
+      "name": "theme_title",
+      "value": "ערכת נושא"
+    },
+    {
+      "name": "thumbnail_cache_wipe_complete_notice",
+      "value": "תמונות מטמון נמחקו"
+    },
+    {
+      "name": "title_activity_about",
+      "value": "על אודות NewPipe"
+    },
+    {
+      "name": "title_activity_history",
+      "value": "היסטוריה"
+    },
+    {
+      "name": "title_activity_play_queue",
+      "value": "תור נגינה"
+    },
+    {
+      "name": "title_activity_recaptcha",
+      "value": "אתגר reCAPTCHA"
+    },
+    {
+      "name": "title_last_played",
+      "value": "התנגנו אחרונים"
+    },
+    {
+      "name": "title_licenses",
+      "value": "רישיונות צד שלישי"
+    },
+    {
+      "name": "title_most_played",
+      "value": "הכי נצפים"
+    },
+    {
+      "name": "toggle_all",
+      "value": "להחליף את המצב של הכול"
+    },
+    {
+      "name": "toggle_fullscreen",
+      "value": "מילוי המסך/רגיל"
+    },
+    {
+      "name": "toggle_screen_orientation",
+      "value": "החלפת כיוון מסך"
+    },
+    {
+      "name": "top_50",
+      "value": "50 המובילים"
+    },
+    {
+      "name": "tracks",
+      "value": "רצועות"
+    },
+    {
+      "name": "trending",
+      "value": "החמים"
+    },
+    {
+      "name": "trending_gaming",
+      "value": "מגמות במשחקים"
+    },
+    {
+      "name": "trending_movies",
+      "value": "סרטים וסדרות מובילים"
+    },
+    {
+      "name": "trending_music",
+      "value": "מוזיקה מובילה"
+    },
+    {
+      "name": "trending_podcasts",
+      "value": "פודקאסטים מובילים"
+    },
+    {
+      "name": "unbookmark_playlist",
+      "value": "הסרת סימנייה"
+    },
+    {
+      "name": "undo",
+      "value": "ביטול"
+    },
+    {
+      "name": "unhook_checkbox",
+      "value": "ניתוק קשר (עלול ליצור עיוות)"
+    },
+    {
+      "name": "unknown_audio_track",
+      "value": "לא ידועה"
+    },
+    {
+      "name": "unknown_content",
+      "value": "[לא ידוע]"
+    },
+    {
+      "name": "unknown_format",
+      "value": "תצורה לא מוכרת"
+    },
+    {
+      "name": "unknown_quality",
+      "value": "איכות לא מוכרת"
+    },
+    {
+      "name": "unmute",
+      "value": "ביטול השתקה"
+    },
+    {
+      "name": "unset_playlist_thumbnail",
+      "value": "ביטול הגדרת תמונה ייצוגית קבועה"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "ביטול מינוי"
+    },
+    {
+      "name": "unsupported_content_in_country",
+      "value": "תוכן זה אינו זמין עבור מדינת התוכן שנבחרה כעת.\n\nניתן לשנות את בחירתך דרך „הגדרות > תוכן > מדינת תוכן ברירת מחדל”."
+    },
+    {
+      "name": "unsupported_url",
+      "value": "כתובת לא נתמכת"
+    },
+    {
+      "name": "unsupported_url_dialog_message",
+      "value": "לא ניתן לזהות את הכתובת. לפתוח אותה ביישומון אחר?"
+    },
+    {
+      "name": "updates_setting_description",
+      "value": "הצגת התראה כדי להודיע על עדכון ליישומון כשיוצאת גרסה חדשה לאור"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "עדכונים"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "פורסם ב־%1$s"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_summary",
+      "value": "יש להפעיל את האפשרות הזאת אם נתקלת בבעיות עם אתחול מפענח, מה שגורם להנחתה למפענחים עם עדיפות נמוכה יותר אם אתחול המפענחים העיקריים נכשל. עלול לגרום לביצועי נגינה נחותים לעומת מפענחים ראשיים"
+    },
+    {
+      "name": "use_exoplayer_decoder_fallback_title",
+      "value": "להשתמש ביכולת הגיבוי של המפענח של AVPlayer"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "שימוש בנגן שמע חיצוני"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "בחלק מהרזולוציות השמע יוסר"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "שימוש בנגן סרטונים חיצוני"
+    },
+    {
+      "name": "use_inexact_seek_summary",
+      "value": "חיפוש גס מאפשר לנגן לחפש נקודת זמן מהר יותר, ברמת דיוק נמוכה יותר. חיפוש של 5, 15 או 25 שניות לא עובד עם ההגדרה הזאת"
+    },
+    {
+      "name": "use_inexact_seek_title",
+      "value": "שימוש בחיפוש מהיר ולא מדויק"
+    },
+    {
+      "name": "users",
+      "value": "משתמשים"
+    },
+    {
+      "name": "video",
+      "value": "סרטון"
+    },
+    {
+      "name": "video_detail_by",
+      "value": "מאת %s"
+    },
+    {
+      "name": "video_details_list_item",
+      "value": "- %1$s: %2$s"
+    },
+    {
+      "name": "video_player",
+      "value": "נגן סרטונים"
+    },
+    {
+      "name": "video_streams_empty",
+      "value": "לא נמצאו תזרימי וידאו"
+    },
+    {
+      "name": "videos_string",
+      "value": "סרטונים"
+    },
+    {
+      "name": "view_on_github",
+      "value": "הצגה ב־GitHub"
+    },
+    {
+      "name": "volume",
+      "value": "עוצמת שמע"
+    },
+    {
+      "name": "watch_history_deleted",
+      "value": "היסטוריית הצפייה נמחקה"
+    },
+    {
+      "name": "watch_history_states_deleted",
+      "value": "מיקומי הנגינה נמחקו"
+    },
+    {
+      "name": "website_encouragement",
+      "value": "מומלץ לבקר באתר של NewPipe לפרטים נוספים ולחדשות."
+    },
+    {
+      "name": "website_title",
+      "value": "אתר הבית"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "מידע:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "מה קרה:"
+    },
+    {
+      "name": "wifi_only",
+      "value": "רק עם רשת אלחוטית"
+    },
+    {
+      "name": "yes",
+      "value": "כן"
+    },
+    {
+      "name": "you_successfully_subscribed",
+      "value": "נרשמת לערוץ הזה"
+    },
+    {
+      "name": "your_comment",
+      "value": "ההערה שלך (באנגלית):"
+    },
+    {
+      "name": "youtube_music_premium_content",
+      "value": "סרטון זה זמין רק למנויי YouTube Music Premium, לכן לא ניתן להזרים או להוריד אותו עם NewPipe."
+    },
+    {
+      "name": "youtube_player_http_403",
+      "value": "שגיאת HTTP‏ 403 שהתקבלה מהשרת בזמן הניגון, ככל הנראה נגרמה עקב חסימת IP או בעיות בהסרת ערפול כתובת תזרים"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_summary",
+      "value": "פלטפורמת YouTube מספקת „מצב מוגבל” שמסתיר תוכן שעשוי להתאים למבוגרים בלבד"
+    },
+    {
+      "name": "youtube_restricted_mode_enabled_title",
+      "value": "הפעלת „מצב מוגבל” של YouTube"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}

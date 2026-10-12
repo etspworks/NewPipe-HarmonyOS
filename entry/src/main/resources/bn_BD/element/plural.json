@@ -1,0 +1,147 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d দিন"
+        },
+        {
+          "quantity": "other",
+          "value": "%d দিন"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "ডাউনলোড সম্পন্ন"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ডাউনলোড হয়েছে"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d নির্বাচিত"
+        },
+        {
+          "quantity": "other",
+          "value": "%d সমূহ নির্বাচিত"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ঘন্টা"
+        },
+        {
+          "quantity": "other",
+          "value": "%d ঘন্টা"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s জন শ্রোতা"
+        },
+        {
+          "quantity": "other",
+          "value": "%s জন শ্রোতা"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d মিনিট"
+        },
+        {
+          "quantity": "other",
+          "value": "%d মিনিট"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s টি নতুন স্ট্রিম"
+        },
+        {
+          "quantity": "other",
+          "value": "%s টি নতুন স্ট্রিম"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s জন গ্রাহক"
+        },
+        {
+          "quantity": "other",
+          "value": "%s জন গ্রাহক"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s ভিডিও"
+        },
+        {
+          "quantity": "other",
+          "value": "%s ভিডিও"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s বার দেখেছে"
+        },
+        {
+          "quantity": "other",
+          "value": "%s বার দেখেছে"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s জন দেখছে"
+        },
+        {
+          "quantity": "other",
+          "value": "%s জন দেখছে"
+        }
+      ]
+    }
+  ]
+}

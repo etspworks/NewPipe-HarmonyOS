@@ -1,0 +1,225 @@
+{
+  "plural": [
+    {
+      "name": "days",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d ден"
+        },
+        {
+          "quantity": "other",
+          "value": "%d дни"
+        }
+      ]
+    },
+    {
+      "name": "deleted_downloads_toast",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Изтрито %1$s изтегляне"
+        },
+        {
+          "quantity": "other",
+          "value": "Изтрити бяха %1$s изтегляния"
+        }
+      ]
+    },
+    {
+      "name": "download_finished_notification",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Изтеглянето завърши"
+        },
+        {
+          "quantity": "other",
+          "value": "%s изтегляния са готови"
+        }
+      ]
+    },
+    {
+      "name": "export_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Изнасяне на %d абонамент…"
+        },
+        {
+          "quantity": "other",
+          "value": "Изнасяне на %d абонаменти…"
+        }
+      ]
+    },
+    {
+      "name": "feed_group_dialog_selection_count",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d избран"
+        },
+        {
+          "quantity": "other",
+          "value": "%d избрани"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d час"
+        },
+        {
+          "quantity": "other",
+          "value": "%d часа"
+        }
+      ]
+    },
+    {
+      "name": "import_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Внасяне на %d абонамент…"
+        },
+        {
+          "quantity": "other",
+          "value": "Внасяне на %d абонаменти…"
+        }
+      ]
+    },
+    {
+      "name": "listening",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s слушател"
+        },
+        {
+          "quantity": "other",
+          "value": "%s слушатели"
+        }
+      ]
+    },
+    {
+      "name": "load_subscriptions",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Зареждане на %d абонамент…"
+        },
+        {
+          "quantity": "other",
+          "value": "Зареждане на %d абонаменти…"
+        }
+      ]
+    },
+    {
+      "name": "minutes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d минута"
+        },
+        {
+          "quantity": "other",
+          "value": "%d минути"
+        }
+      ]
+    },
+    {
+      "name": "new_streams",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s нов поток"
+        },
+        {
+          "quantity": "other",
+          "value": "%s нови потоци"
+        }
+      ]
+    },
+    {
+      "name": "replies",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s отговор"
+        },
+        {
+          "quantity": "other",
+          "value": "%s отговора"
+        }
+      ]
+    },
+    {
+      "name": "seconds",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d секунда"
+        },
+        {
+          "quantity": "other",
+          "value": "%d секунди"
+        }
+      ]
+    },
+    {
+      "name": "subscribers",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s абонат"
+        },
+        {
+          "quantity": "other",
+          "value": "%s абонати"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s видеоклип"
+        },
+        {
+          "quantity": "other",
+          "value": "%s видеоклипове"
+        }
+      ]
+    },
+    {
+      "name": "views",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s гледане"
+        },
+        {
+          "quantity": "other",
+          "value": "%s гледания"
+        }
+      ]
+    },
+    {
+      "name": "watching",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%s зрител"
+        },
+        {
+          "quantity": "other",
+          "value": "%s зрители"
+        }
+      ]
+    }
+  ]
+}

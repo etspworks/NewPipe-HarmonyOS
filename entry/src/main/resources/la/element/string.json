@@ -1,0 +1,452 @@
+{
+  "string": [
+    {
+      "name": "accept",
+      "value": "Accipe"
+    },
+    {
+      "name": "albums",
+      "value": "Collectio"
+    },
+    {
+      "name": "all",
+      "value": "Omnis"
+    },
+    {
+      "name": "always",
+      "value": "Semper"
+    },
+    {
+      "name": "always_ask_open_action",
+      "value": "Quaere semper"
+    },
+    {
+      "name": "black_theme_title",
+      "value": "Niger"
+    },
+    {
+      "name": "cancel",
+      "value": "Inrita"
+    },
+    {
+      "name": "caption_auto_generated",
+      "value": "Auto-generare"
+    },
+    {
+      "name": "caption_none",
+      "value": "Nullae captiones"
+    },
+    {
+      "name": "caption_setting_title",
+      "value": "Captiones"
+    },
+    {
+      "name": "channel_unsubscribed",
+      "value": "Canalem inscripsit"
+    },
+    {
+      "name": "channels",
+      "value": "Canales"
+    },
+    {
+      "name": "chapters",
+      "value": "Capitulum"
+    },
+    {
+      "name": "comments_tab_description",
+      "value": "Commentaria"
+    },
+    {
+      "name": "controls_add_to_playlist_title",
+      "value": "Adde ad"
+    },
+    {
+      "name": "controls_download_desc",
+      "value": "Scarica amnem file"
+    },
+    {
+      "name": "create",
+      "value": "Crea"
+    },
+    {
+      "name": "dark_theme_title",
+      "value": "Obscurum"
+    },
+    {
+      "name": "decline",
+      "value": "Declina"
+    },
+    {
+      "name": "delete",
+      "value": "Dele"
+    },
+    {
+      "name": "did_you_mean",
+      "value": "Intendi \"%1$s\"?"
+    },
+    {
+      "name": "dismiss",
+      "value": "Dimitte"
+    },
+    {
+      "name": "donation_title",
+      "value": "Dona"
+    },
+    {
+      "name": "done",
+      "value": "Factum"
+    },
+    {
+      "name": "download",
+      "value": "Scarica"
+    },
+    {
+      "name": "error_file_creation",
+      "value": "Creavit file non potui"
+    },
+    {
+      "name": "error_http_not_found",
+      "value": "Non invenit"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Reporta"
+    },
+    {
+      "name": "install",
+      "value": "instituere"
+    },
+    {
+      "name": "just_once",
+      "value": "Semel"
+    },
+    {
+      "name": "light_theme_title",
+      "value": "Lux"
+    },
+    {
+      "name": "limit_data_usage_none_description",
+      "value": "Nullus limus"
+    },
+    {
+      "name": "list",
+      "value": "Index"
+    },
+    {
+      "name": "local",
+      "value": "Localis"
+    },
+    {
+      "name": "main_bg_subtitle",
+      "value": "Tange \"Quaere\" ad initium"
+    },
+    {
+      "name": "max_retry_msg",
+      "value": "Retentati maximi"
+    },
+    {
+      "name": "minimize_on_exit_none_description",
+      "value": "Nullus"
+    },
+    {
+      "name": "missions_header_finished",
+      "value": "Finii"
+    },
+    {
+      "name": "missions_header_pending",
+      "value": "Pendens"
+    },
+    {
+      "name": "msg_error",
+      "value": "Error"
+    },
+    {
+      "name": "msg_wait",
+      "value": "Mane…"
+    },
+    {
+      "name": "mute",
+      "value": "Muta"
+    },
+    {
+      "name": "name",
+      "value": "Nomin"
+    },
+    {
+      "name": "never",
+      "value": "Namquam"
+    },
+    {
+      "name": "new_and_hot",
+      "value": "Novi popularesque"
+    },
+    {
+      "name": "night_theme_title",
+      "value": "Thema noctis"
+    },
+    {
+      "name": "no",
+      "value": "Non"
+    },
+    {
+      "name": "no_comments",
+      "value": "Nullae commentaria"
+    },
+    {
+      "name": "no_player_found",
+      "value": "Nullus amnem amnibus invenit. Instalar VLC?"
+    },
+    {
+      "name": "no_player_found_toast",
+      "value": "Nullus amnem amnibus invenit (potes instituere VLC quia id ludere)."
+    },
+    {
+      "name": "no_subscribers",
+      "value": "Nulli signatores"
+    },
+    {
+      "name": "notification_action_nothing",
+      "value": "Nihil"
+    },
+    {
+      "name": "notification_action_repeat",
+      "value": "Repete"
+    },
+    {
+      "name": "notification_action_shuffle",
+      "value": "Misce"
+    },
+    {
+      "name": "notification_channel_name",
+      "value": "NewPipe notitia"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Aperi in navigatro"
+    },
+    {
+      "name": "open_in_popup_mode",
+      "value": "Aperi in popup mode"
+    },
+    {
+      "name": "open_with",
+      "value": "Aperi apud"
+    },
+    {
+      "name": "pause",
+      "value": "Pausa"
+    },
+    {
+      "name": "paused",
+      "value": "Pausa"
+    },
+    {
+      "name": "play_all",
+      "value": "Lude omnes"
+    },
+    {
+      "name": "play_queue_remove",
+      "value": "Remove"
+    },
+    {
+      "name": "playback_reset",
+      "value": "Repone"
+    },
+    {
+      "name": "playback_step",
+      "value": "Passus"
+    },
+    {
+      "name": "playback_tempo",
+      "value": "Tempus"
+    },
+    {
+      "name": "player_stream_failure",
+      "value": "Non possum ludere hic amnis"
+    },
+    {
+      "name": "recent",
+      "value": "Recensi"
+    },
+    {
+      "name": "rename_playlist",
+      "value": "Renomina"
+    },
+    {
+      "name": "resize_fill",
+      "value": "Satiatus"
+    },
+    {
+      "name": "resize_fit",
+      "value": "Aptus"
+    },
+    {
+      "name": "resize_zoom",
+      "value": "Retrahe"
+    },
+    {
+      "name": "retry",
+      "value": "Retentare"
+    },
+    {
+      "name": "search",
+      "value": "Quaerere"
+    },
+    {
+      "name": "search_no_results",
+      "value": "Nullae resultationes"
+    },
+    {
+      "name": "search_showing_result_for",
+      "value": "Praecessi propter: %s"
+    },
+    {
+      "name": "search_with_service_name",
+      "value": "Quaere %1$s"
+    },
+    {
+      "name": "search_with_service_name_and_filter",
+      "value": "Quaere %1$s (%2$s)"
+    },
+    {
+      "name": "settings",
+      "value": "Optiones"
+    },
+    {
+      "name": "settings_category_appearance_title",
+      "value": "Apparentia"
+    },
+    {
+      "name": "settings_category_player_behavior_title",
+      "value": "Mos"
+    },
+    {
+      "name": "share",
+      "value": "Condividi"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Condividi apud"
+    },
+    {
+      "name": "show_comments_title",
+      "value": "Ostende commentarium"
+    },
+    {
+      "name": "show_info",
+      "value": "Informationes ostende"
+    },
+    {
+      "name": "songs",
+      "value": "Cantica"
+    },
+    {
+      "name": "start",
+      "value": "Initio"
+    },
+    {
+      "name": "subscribe_button_title",
+      "value": "Scribe"
+    },
+    {
+      "name": "subscribed_button_title",
+      "value": "Scriptum"
+    },
+    {
+      "name": "subscription_change_failed",
+      "value": "Non potui inscription mutare"
+    },
+    {
+      "name": "subscription_update_failed",
+      "value": "Non potui inscription renovare"
+    },
+    {
+      "name": "tab_choose",
+      "value": "Elige tab"
+    },
+    {
+      "name": "tab_subscriptions",
+      "value": "Iscriptiones"
+    },
+    {
+      "name": "unmute",
+      "value": "Immuta"
+    },
+    {
+      "name": "unsubscribe",
+      "value": "Inscribe"
+    },
+    {
+      "name": "updates_setting_title",
+      "value": "Renovationes"
+    },
+    {
+      "name": "upload_date_text",
+      "value": "Edita %1$s"
+    },
+    {
+      "name": "use_external_audio_player_title",
+      "value": "Utere ludionem externum"
+    },
+    {
+      "name": "use_external_video_player_summary",
+      "value": "Removes sentum aliquas resolutionibus"
+    },
+    {
+      "name": "use_external_video_player_title",
+      "value": "Utere lectorem externum"
+    },
+    {
+      "name": "yes",
+      "value": "Ita"
+    },
+    {
+      "name": "your_comment",
+      "value": "Commentarium tuum (In Anglico):"
+    },
+    {
+      "name": "playback_pitch_unsupported",
+      "value": "Pitch adjustment is not available on this device"
+    },
+    {
+      "name": "playback_skip_silence_unsupported",
+      "value": "Skip silence is not available on this device"
+    },
+    {
+      "name": "notification_actions_summary_platform",
+      "value": "The media controls on this device are drawn by the system, which decides the buttons it shows. They cannot be customised here."
+    },
+    {
+      "name": "perm_download_dir_reason",
+      "value": "So you can choose where downloads are saved"
+    },
+    {
+      "name": "caption_appearance_title",
+      "value": "Caption appearance"
+    },
+    {
+      "name": "caption_scale_title",
+      "value": "Text scale"
+    },
+    {
+      "name": "caption_background_title",
+      "value": "Background"
+    },
+    {
+      "name": "caption_background_black",
+      "value": "Solid"
+    },
+    {
+      "name": "caption_background_transparent",
+      "value": "Semi-transparent"
+    },
+    {
+      "name": "caption_background_none",
+      "value": "None"
+    },
+    {
+      "name": "caption_preview_sample",
+      "value": "The quick brown fox"
+    }
+  ]
+}
